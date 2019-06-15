@@ -1,12 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-from xml.etree import ElementTree
-import csv
 
 # Get linkes from html
 #---------------------------------------------
 # html_doc = open('./top100.html', 'r').read()
-# soup = beautifulsoup(html_doc, 'html.parser')
+# soup = BeautifulSoup(html_doc, 'html.parser')
 
 # content = soup.find("div", {"class": "content"})
 
@@ -36,7 +34,6 @@ with open('./data/top100links.txt') as link_file:
 for i, t in enumerate(target_links):
     req = requests.get(t)
     content = req.text
-
     soup = BeautifulSoup(content, 'html.parser')
     txt = soup.find('pre').text
 
