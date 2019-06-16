@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199409</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Component-wise testing of laser-written integrated coupled-mode beam splitters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3174-3177</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003174</ELocationID>
+            <Abstract>
+                <AbstractText>Photonic integrated circuits (PICs) are important enabling technologies for the developments of areas such as quantum information processing (QIP). Coupled-mode integrated beam splitters (IBS) are widely used in many PICs, so direct and accurate testing of individual IBSs inside a PIC is increasingly desirable, as the development of PICs for QIP is scaled up. Here we demonstrate a solution for component-wise testing of coupled-mode IBSs without limitations on component location and PIC architectures. The method is based on the imaging of an individual IBS with a custom-built multifunctional adaptive optical microscope, combined with the calculation of its beam-splitting ratio through numerical modelling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guan</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Menssen</LastName>
+                    <ForeName>Adrian J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jingyu</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Booth</LastName>
+                    <ForeName>Martin J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199409</ArticleId>
+            <ArticleId IdType="pii">413735</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003174</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

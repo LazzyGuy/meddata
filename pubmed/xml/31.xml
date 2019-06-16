@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200391</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8782</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ultraschall in der Medizin (Stuttgart, Germany : 1980)</Title>
+                <ISOAbbreviation>Ultraschall Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cerebroplacental and Uterine Doppler Indices in Pregnancies Complicated by Congenital Heart Disease of the Fetus.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0900-4021</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE"> Children with congenital heart disease (CHD) are known to have impaired neurodevelopment possibly influenced by altered cerebroplacental hemodynamics antenatally. We compared fetomaternal Doppler patterns in different CHD groups with published normative values during gestation.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS"> Retrospective cohort study consisting of 248 CHD fetuses. Subgroups were generated according to the expected ascending aorta oxygen saturation: low portion of high oxygenated umbilical venous (UV) blood (group 1: n = 108), intermediate portion of UV blood due to intracardiac mixing with oxygen poor systemic blood (group 2: n = 103), high (group 3: n = 13) and low portion of UV blood without mixing of blood (group 4: n = 24). Doppler examination included umbilical artery and middle cerebral artery pulsatility index (UA-PI, MCA-PI), cerebroplacental ratio (CPR) and mean uterine artery (mUtA) PI. For mean comparisons at different gestational ages (GA), estimated marginal means from regression models are reported for GA 22 weeks (wks), GA 30 wks and GA 38 wks.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS"> Z-score transformed values of MCA-PI (zMCA-PI) were significantly lower in group 1 compared to all other subgroups at GA 30 wks (p &lt; 0.05). At 38 wks, group 1 had significantly lower values of zMCA-PI and zCPR compared to groups 2 and 4. Group 1 fetuses showed a significant association between zMCA-PI and zCPR (negative) and GA as well as zmUtA-PI (positive) and GA compared to reference values.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS"> Our data confirm that CHD fetuses have a higher rate of cerebral redistribution in the third trimester. Changes in Doppler patterns were mainly observed in CHD with a low portion of UV blood in the ascending aorta.</AbstractText>
+                <CopyrightInformation>© Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Graupner</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Koch</LastName>
+                    <ForeName>Jessica</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Enzensberger</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Götte</LastName>
+                    <ForeName>Malena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Wolter</LastName>
+                    <ForeName>Aline</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Müller</LastName>
+                    <ForeName>Vera</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Kawecki</LastName>
+                    <ForeName>Andreea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Herrmann</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Statistical Consulting Service Giessen, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Axt-Fliedner</LastName>
+                    <ForeName>Roland</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Prenatal Medicine, University Hospital UKGM, Justus-Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Cerebroplazentare und uterine Dopplerwerte in Schwangerschaften mit fetalem kongenitalem Herzfehler.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Ultraschall Med</MedlineTA>
+            <NlmUniqueID>8303585</NlmUniqueID>
+            <ISSNLinking>0172-4614</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="ger">
+            <AbstractText>ZIEL:  Kinder mit angeborenem Herzfehler (CHD) weisen häufig neurokognitive Entwicklungsstörungen auf, die möglicherweise durch pränatale Veränderungen der cerebroplazentare Hämodynamik beeinflusst werden. Ziel der Studie war es, feto-maternale Dopplerwerte in verschiedenen CHD-Gruppen mit Normwerten zu vergleichen.</AbstractText>
+            <AbstractText Label="MATERIAL UND METHODE" NlmCategory="UNASSIGNED"> Retrospektive Kohorten-Studie mit 248 CHD-Feten. Die CHD-Subgruppen wurden entsprechend der erwarteten Sauerstoffsättigung in der Aorta ascendens gebildet: Niedriger Blutgehalt aus der sauerstoffreichen Umbilikalvene (Gruppe 1: n = 108), intermediärer Blutgehalt durch die intrakardiale Vermischung mit sauerstoffarmem systemischem Blut (Gruppe 2: n = 103) sowie hoher (Gruppe 3: n = 13) und niedriger umbilikal-venöser Blutgehalt ohne intrakardiale Vermischung (Gruppe 4: n = 24). Es wurden der Pulsatilitäts-Index der Nabelschnurarterie (UA-PI) und mittleren Hirnarterie (MCA-PI), die cerebroplazentare Ratio (CPR) sowie der mittlere PI beider uterinen Arterien (mUtA-PI) bestimmt. Für mittlere Vergleiche in den verschiedenen Altersstufen werden die geschätzten Randmittel aus den Regressionsmodellen für Schwangerschaftswoche (SSW) 22, 30 und 38 angegeben.</AbstractText>
+            <AbstractText Label="ERGEBNISSE" NlmCategory="UNASSIGNED"> Z-Score-transformierte Werte für den MCA-PI (zMCA-PI) waren in Gruppe 1 im Vergleich zu allen anderen Subgruppen in SSW 30 signifikant niedriger (p &lt; 0,05). In der 38. SSW hatte Gruppe 1 im Vergleich zu Gruppe 2 und 4 deutlich niedrigere Werte für den zMCA-PI und die zCPR. Bei CHD-Feten der Gruppe 1 zeigte sich ein signifikanter Zusammenhang zwischen zMCA-PI bzw. zCPR (negativ) und dem Gestationsalter (GA) sowie zmUtA-PI (positiv) und dem GA im Vergleich zu den Referenzwerten.</AbstractText>
+            <AbstractText Label="SCHLUSSFOLGERUNG" NlmCategory="UNASSIGNED"> CHD-Feten zeigen im dritten Trimenon eine höhere Rate an zerebraler Blutfluss-Umverteilung. Veränderungen der Dopplerwerte wurden hauptsächlich bei CHD-Feten mit niedrigem umbilikal-venösem Blutgehalt in der Aorta ascendens beobachtet.</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Disclosure The authors report no conflicts of interest in this work.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200391</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0900-4021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

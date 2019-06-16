@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200279</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>201</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The rise of e-cigarettes, pod mod devices, and JUUL among youth: Factors influencing use, health implications, and downstream effects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>85-93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(19)30155-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2019.04.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Electronic cigarettes (e-cigarettes) were first introduced in the U.S. market in 2006, with the more recent evolution of &quot;pod-mod&quot; e-cigarettes such as JUUL introduced in 2015. Although marketed as a smoking cessation tool, e-cigarettes are rarely used for this purpose in youth. This review aims to synthesize the literature regarding e-cigarette use among youth, and provides a resource for clinicians, educators, and families that helps answer commonly asked questions about e-cigarettes.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">PubMed, Scopus, and PsycINFO search was performed using search terms &quot;Electronic Nicotine Delivery Systems,&quot; &quot;e cigarettes,&quot; &quot;e-cigarettes,&quot; &quot;electronic cigarettes,&quot; &quot;vaping,&quot; &quot;JUUL,&quot; &quot;e-cigs,&quot; and &quot;vape pens.&quot; Search results were filtered to only include those related to adolescents and young adults.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">E-cigarette use among youth is common, with rates of use increasing from 1.5% in 2011 to 20.8% in 2018. Pod mod devices such as JUUL have gained favor among youth for their sleek design, user-friendly function, desirable flavors, and ability to be used discreetly in places where smoking is forbidden. Adolescents are often uninformed about the constituents of e-cigarettes, and little is known about the long-term effects of e-cigarettes. Studies have suggested a &quot;gateway&quot; effect for combustible cigarettes and cannabis use.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">E-cigarette use is becoming increasingly common among youth, leading to a myriad of questions and concerns from providers, educators, and family members. More research is needed to determine the ultimate public health impact of e-cigarette use. The authors provide a summary table of frequently asked questions in order to help clarify these common concerns.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fadus</LastName>
+                    <ForeName>Matthew C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, 67 President Street, Charleston, SC, 29425, USA. Electronic address: fadus@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Tracy T</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, 67 President Street, Charleston, SC, 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Squeglia</LastName>
+                    <ForeName>Lindsay M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, 67 President Street, Charleston, SC, 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescent</Keyword>
+            <Keyword MajorTopicYN="N">E-cigarette</Keyword>
+            <Keyword MajorTopicYN="N">JUUL</Keyword>
+            <Keyword MajorTopicYN="N">Nicotine</Keyword>
+            <Keyword MajorTopicYN="N">Pod mod</Keyword>
+            <Keyword MajorTopicYN="N">Youth</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200279</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(19)30155-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2019.04.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

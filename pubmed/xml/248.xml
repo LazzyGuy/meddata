@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200158</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Using phenome-wide association studies to examine the effect of environmental exposures on human health.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104877</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)30561-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.071</ELocationID>
+            <Abstract>
+                <AbstractText>The field of environmental epidemiology has been using &quot;-omics&quot; technologies, including the exposome, metabolome, and methylome, to understand the potential effects and biological pathways of a number of environmental pollutants. However, the majority of studies have focused on a single disease or phenotype, and have not systematically considered patterns of multimorbidity and whether environmental pollutants have pleiotropic effects. These questions could be addressed by examining the relation between environmental exposures and the phenome - the patterns and profiles of human health that individuals experience from birth to death. By conducting Phenome Wide Association Studies (PheWAS), we can generate new hypotheses about new or poorly understood exposures, identify novel associations for established toxicants, and better understand biological pathways affected by environmental pollutants. In this article, we provide a conceptual framework for conducting PheWAS in environmental epidemiology and summarize some of the advantages and challenges to using the PheWAS to study environmental pollutant exposures. Ultimately, by adding the PheWAS to our &quot;-omics&quot; toolbox, we could substantially improve our understanding of the potential health effects of environmental pollutants.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Braun</LastName>
+                    <ForeName>Joseph M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Brown University, Providence, RI, United States of America. Electronic address: joseph_braun_1@brown.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalloo</LastName>
+                    <ForeName>Geetika</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Brown University, Providence, RI, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kingsley</LastName>
+                    <ForeName>Samantha L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Brown University, Providence, RI, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Nan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Brown University, Providence, RI, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200158</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)30561-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

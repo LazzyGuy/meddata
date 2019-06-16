@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199297</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Assistive Robot Behavior on Impressions of Patient Psychological Attributes: Vignette-Based Human-Robot Interaction Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13729</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13729</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">As robots are increasingly designed for health management applications, it is critical to not only consider the effects robots will have on patients but also consider a patient's wider social network, including the patient's caregivers and health care providers, among others.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In this paper we investigated how people evaluate robots that provide care and how they form impressions of the patient the robot cares for, based on how the robot represents the patient.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We have used a vignette-based study, showing participants hypothetical scenarios describing behaviors of assistive robots (patient-centered or task-centered) and measured their influence on people's evaluations of the robot itself (emotional intelligence [EI], trustworthiness, and acceptability) as well as people's perceptions of the patient for whom the robot provides care.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that for scenarios describing a robot that acts in a patient-centered manner, the robot will not only be perceived as having higher EI (P=.003) but will also cause people to form more positive impressions of the patient that the robot cares for (P&lt;.001). We replicated and expanded these results to other domains such as dieting, learning, and job training.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These results imply that robots could be used to enhance human-human relationships in the health care context and beyond.</AbstractText>
+                <CopyrightInformation>©Meia Chita-Tegmark, Janet M Ackerman, Matthias Scheutz. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 19.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chita-Tegmark</LastName>
+                    <ForeName>Meia</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3514-8737</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Tufts University, Medford, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ackerman</LastName>
+                    <ForeName>Janet M</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4525-818X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Tufts University, Medford, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheutz</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0064-2789</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Tufts University, Medford, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">emotional intelligence</Keyword>
+            <Keyword MajorTopicYN="N">patient-centered care</Keyword>
+            <Keyword MajorTopicYN="N">robotics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199297</ArticleId>
+            <ArticleId IdType="pii">v21i6e13729</ArticleId>
+            <ArticleId IdType="doi">10.2196/13729</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

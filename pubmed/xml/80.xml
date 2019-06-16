@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200334</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4235</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>141</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biosensors &amp; bioelectronics</Title>
+                <ISOAbbreviation>Biosens Bioelectron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A catalytic molecule machine-driven biosensing method for amplified electrochemical detection of exosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>111397</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0956-5663(19)30476-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bios.2019.111397</ELocationID>
+            <Abstract>
+                <AbstractText>Nowadays, exosomes that carry abundant information have attracted increasing attention as potent biomarkers of liquid biopsy and ideal candidates for early diagnosis and treatment of cancers. In this work, we propose a &quot;principle-of-proof&quot; biosensing method for amplified electrochemical detection of exosomes by using HepG2-derived exosomes as models. Specifically, target exosomes are enriched on anti-CD63-functionalized immunobeads and then recognized by a DNA chain containing CD63 aptamer region, which subsequently initiates a catalytic molecule machine that relies on cascade toehold-mediated strand displacement reaction. Benefiting from high efficiency of the molecule machine, the method shows a linear range from 1 × 10<sup>5</sup> to 5 × 10<sup>7</sup> particles/mL and a detection limit of 1.72 × 10<sup>4</sup> particles/mL toward target exosomes, better than most existing detection methods. Moreover, the method demonstrates a high specificity even in serum samples and suggests a potential use in clinic, which may provide sufficient information for disease diagnosis, especially early detection and prognosis monitoring of tumors.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Ya</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Lingling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China; Shanghai Key Laboratory of Bio-Energy Crops, Shanghai University, 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Bing</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Yuhao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Recognition and Biosensing, School of Life Sciences, Shanghai University, 200444, PR China. Electronic address: jingzhao@shu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biosens Bioelectron</MedlineTA>
+            <NlmUniqueID>9001289</NlmUniqueID>
+            <ISSNLinking>0956-5663</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">Cascaded toehold-mediated strand displacement reaction</Keyword>
+            <Keyword MajorTopicYN="N">Catalytic molecule machine</Keyword>
+            <Keyword MajorTopicYN="N">Click chemistry</Keyword>
+            <Keyword MajorTopicYN="N">Exosome detection</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200334</ArticleId>
+            <ArticleId IdType="pii">S0956-5663(19)30476-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bios.2019.111397</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

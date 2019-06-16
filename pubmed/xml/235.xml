@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200172</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0380</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>54</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in genetics &amp; development</Title>
+                <ISOAbbreviation>Curr. Opin. Genet. Dev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Large-scale datasets uncovering cell signalling networks in cancer: context matters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>118-124</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0959-437X(18)30127-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gde.2019.05.001</ELocationID>
+            <Abstract>
+                <AbstractText>Cell signaling pathways control the responses of cells to external perturbations. Depending on the cell's internal state, genetic background and environmental context, signaling pathways rewire to elicit the appropriate response. Such rewiring also can lead to cancer development and progression or cause resistance to therapies. While there exist static maps of annotated pathways, they do not capture these rewired networks. As large-scale datasets across multiple contexts and patients are becoming available the doors to infer and study context-specific signaling network have also opened. In this review, we will highlight the most recent approaches to study context-specific signaling networks using large-scale omics and genetic perturbation datasets, with a focus on studies of cancer and cancer-related pathways.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Sumana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EMBL-EBI, Wellcome Genome Campus, CB10 1SD, Hinxton, Cambridgeshire, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petsalaki</LastName>
+                    <ForeName>Evangelia</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EMBL-EBI, Wellcome Genome Campus, CB10 1SD, Hinxton, Cambridgeshire, UK. Electronic address: petsalaki@ebi.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Genet Dev</MedlineTA>
+            <NlmUniqueID>9111375</NlmUniqueID>
+            <ISSNLinking>0959-437X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200172</ArticleId>
+            <ArticleId IdType="pii">S0959-437X(18)30127-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gde.2019.05.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

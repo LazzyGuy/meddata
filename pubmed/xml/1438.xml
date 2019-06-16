@@ -1,0 +1,178 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198829</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-3409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Data in brief</Title>
+                <ISOAbbreviation>Data Brief</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Data on metabolic profile of insulin-degrading enzyme knockout mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104023</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dib.2019.104023</ELocationID>
+            <Abstract>
+                <AbstractText>Insulin-degrading enzyme (IDE) degrades and inactivates bioactive peptides such as insulin. As insulin is a master regulator of glucose homeostasis, lack of IDE is expected to have a profound impact on both insulin and glucose levels. This article shares data on glucose and insulin homeostasis of control, heterozygous and knockout mice for <i>Ide</i> after 18 weeks of a normal chow diet. This data article is related to a research article entitled &quot;Knockout of insulin-degrading enzyme leads to mice testicular morphological changes and impaired sperm quality&quot; (Meneses et al., 2019).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Borges</LastName>
+                    <ForeName>Diego O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEDOC - Centro de Estudos de Doenças Crónicas, NOVA Medical School/Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Bioscience PhD Programme, Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, ITQB-NOVA, Oeiras, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meneses</LastName>
+                    <ForeName>Maria João</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEDOC - Centro de Estudos de Doenças Crónicas, NOVA Medical School/Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microscopy, Laboratory of Cell Biology and Unit for Multidisciplinary Research in Biomedicine (UMIB), Abel Salazar Institute of Biomedical Sciences (ICBAS), University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>ProRegeM PhD Programme, NOVA Medical School/Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dias</LastName>
+                    <ForeName>Tânia R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microscopy, Laboratory of Cell Biology and Unit for Multidisciplinary Research in Biomedicine (UMIB), Abel Salazar Institute of Biomedical Sciences (ICBAS), University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martins</LastName>
+                    <ForeName>Fátima O</ForeName>
+                    <Initials>FO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEDOC - Centro de Estudos de Doenças Crónicas, NOVA Medical School/Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oliveira</LastName>
+                    <ForeName>Pedro F</ForeName>
+                    <Initials>PF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microscopy, Laboratory of Cell Biology and Unit for Multidisciplinary Research in Biomedicine (UMIB), Abel Salazar Institute of Biomedical Sciences (ICBAS), University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>I3S - Instituto de Investigação e Inovação em Saúde, University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Faculty of Medicine, University of Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alves</LastName>
+                    <ForeName>Marco G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microscopy, Laboratory of Cell Biology and Unit for Multidisciplinary Research in Biomedicine (UMIB), Abel Salazar Institute of Biomedical Sciences (ICBAS), University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macedo</LastName>
+                    <ForeName>M Paula</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEDOC - Centro de Estudos de Doenças Crónicas, NOVA Medical School/Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Portuguese Diabetes Association - Education and Research Center (APDP-ERC), Lisbon, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Sciences, University of Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Data Brief</MedlineTA>
+            <NlmUniqueID>101654995</NlmUniqueID>
+            <ISSNLinking>2352-3409</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198829</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dib.2019.104023</ArticleId>
+            <ArticleId IdType="pii">S2352-3409(19)30376-2</ArticleId>
+            <ArticleId IdType="pii">104023</ArticleId>
+            <ArticleId IdType="pmc">PMC6557727</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

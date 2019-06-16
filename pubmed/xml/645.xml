@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199724</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oral Hairy Leukoplakia in Patients With No Evidence of Immunosuppression: A Case Series and Review of the Literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>i4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Oral hairy leukoplakia (OHL) is caused by Epstein-Barr virus (EBV) and is often associated with HIV and other immunosuppressive conditions. It is rare in HIV-negative patients, but has been reported in patients who use immune-modulating medications (e.g., cyclosporine). The objectives of this study were to determine the occurrence of OHL in HIV-negative patients and report Langerhans cell counts in these lesions.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">A series of 7 new cases of OHL among HIV-negative patients is described. Langerhans cells were counted using an immunoperoxidase stain for CD1a and light microscopy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The 7 patients were male, ranging in age from 26 to 69 years. Clinically, all lesions were diagnosed as leukoplakia on the lateral border of the tongue. Microscopic examination revealed hyperparakeratosis and candidiasis in some cases, acanthosis and a band-like zone with clearing of cells in the upper spinous layer, which were EBV-positive by in-situ hybridization. There was a significant decrease in Langerhans cell counts in OHL patients.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">OHL can occur in HIV-negative patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Darling</LastName>
+                    <ForeName>Mark Roger</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alkhasawneh</LastName>
+                    <ForeName>Morad</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mascarenhas</LastName>
+                    <ForeName>Wendall</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chirila</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Copete</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199724</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

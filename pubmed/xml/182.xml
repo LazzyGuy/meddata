@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200229</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-7103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>553</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of colloid and interface science</Title>
+                <ISOAbbreviation>J Colloid Interface Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The temperature-dependence of the dynamic contact angle.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>108-116</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0021-9797(19)30679-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcis.2019.06.006</ELocationID>
+            <Abstract>
+                <AbstractText Label="HYPOTHESIS" NlmCategory="OBJECTIVE">The wetting of a solid by a liquid is a thermally-activated molecular rate process, which may be investigated by studying the temperature-dependence of the dynamic contact angle at standard experimental scales.</AbstractText>
+                <AbstractText Label="EXPERIMENTS" NlmCategory="METHODS">We use the plunging-tape method and a low-powered microscope to measure the dynamic contact angle of di-n-butyl phthalate (DBP) on poly(ethylene terephthalate) (PET) tape over a very wide speed range of 0.003-100 cm/s at 5 temperatures from 15 °C to 55 °C. The molecular-kinetic theory of dynamic wetting (the MKT) is then used to interpret the data, which span angles from 8° to near 180°.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">The MKT successfully accounts for the temperature-dependence of the dynamic contact angle, yielding rational values for key parameters including the activation free energy of wetting. Arrhenius-like behavior is also demonstrated. These results would appear to confirm that, at the molecular-scale, dynamic wetting is a thermally-activated rate process and that the influence of temperature is not restricted simply to its effect on surface tension and viscosity. The data show a discontinuity at dynamic contact angles between 60° and 90° that implies a velocity-dependent change in the wetting mechanism. We attribute this to the chemical heterogeneity of the PET surface, which contains both polar and non-polar groups. The parameters obtained by applying the MKT suggest that the interactions of DBP with these groups determine, respectively, the dynamics observed below and above the transition. The sum of the activation free energies of wetting on either side of the transition is close to the total thermodynamic work of adhesion of DBP to PET.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blake</LastName>
+                    <ForeName>T D</ForeName>
+                    <Initials>TD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Surface and Interfacial Physics, University of Mons, 7000 Mons, Belgium. Electronic address: terrydblake@btinternet.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Batts</LastName>
+                    <ForeName>G N</ForeName>
+                    <Initials>GN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kodak Alaris Limited, Boundary Way, Hemel Hempstead HP2 7YU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Colloid Interface Sci</MedlineTA>
+            <NlmUniqueID>0043125</NlmUniqueID>
+            <ISSNLinking>0021-9797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Activation free energy of wetting</Keyword>
+            <Keyword MajorTopicYN="N">Arrhenius equation</Keyword>
+            <Keyword MajorTopicYN="N">Di-n-butyl phthalate</Keyword>
+            <Keyword MajorTopicYN="N">Molecular-kinetic theory</Keyword>
+            <Keyword MajorTopicYN="N">Poly(ethylene terephthalate)</Keyword>
+            <Keyword MajorTopicYN="N">Surface heterogeneity</Keyword>
+            <Keyword MajorTopicYN="N">Thermally-activated process</Keyword>
+            <Keyword MajorTopicYN="N">Work of adhesion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200229</ArticleId>
+            <ArticleId IdType="pii">S0021-9797(19)30679-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jcis.2019.06.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

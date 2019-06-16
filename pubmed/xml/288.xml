@@ -1,0 +1,160 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200118</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-7568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta biomaterialia</Title>
+                <ISOAbbreviation>Acta Biomater</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In-air Production of 3D Co-culture Tumor Spheroid Hydrogels for Expedited Drug Screening.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1742-7061(19)30422-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.actbio.2019.06.012</ELocationID>
+            <Abstract>
+                <AbstractText>Three-dimensional (3D) in vitro tumor spheroids are becoming popular as pre-clinical platforms for testing the performance of existing drugs or for discovery of innovative anti-cancer therapeutics. This focus is correlated with in vitro 3D tumor models ability to mimic the multicellular compact structure and spatial architecture of human solid tumors. However, these microphysiological systems generally lack the pre-existence of tumor-ECM, a critical aspect that can affect the overall therapeutic performance and the decision of advancing candidate drugs to later stages of the pipeline. Aiming to face this drawback and mimic tumors-ECM, herein we rapidly fabricated in-air hyaluronan-methacrylate (HA-MA) and gelatin-methacrylate (GelMA) photocrosslinkable 3D spheroid microgels by using superhydrophobic surfaces. These platforms were used for establishing heterotypic 3D co-culture models of prostate cancer cells (PC-3) and human osteoblasts (hOB) to mimic prostate cancer-to-bone metastasis cellular heterogeneity and the tumor-ECM microenvironment. 3D microgel microtumors morphology, size and cell number were easily controlled via digital droplet generation on polystyrene superhydrophobic surfaces and under solvent-free conditions when compared to microfluidics or electrospray. Co-culture 3D microgels formed by 2.5%HA-MA-5%GelMA and 5%HA-MA-5%GelMA ratios showed the highest calcium deposition after 14 days of culture, evidencing osteoblasts viability and the establishment of functional mineralization in the 3D hydrogel matrix. Cisplatin cytotoxicity evaluation showed that 3D microgels are more resistant to platin chemotherapeutics than single or co-culture 3D multicellular spheroid counterparts. Overall, our findings indicate that solvent-free, in-air produced 3D microgel microenvironments are cost-effective and robust tumor mimicking platforms for in vitro high-throughput screening of therapeutics targeted to prostate-to-bone metastasis microenvironments. STATEMENT OF SIGNIFICANCE:: The generation of robust microphysiological systems that recapitulate the complexity of the metastatic prostate-to-bone tumor microenvironment is crucial for pre-clinical evaluation of new therapeutics that can eradicate these secondary tumors. In this study, we employed superhydrophobic (SH) surfaces to rapidly fabricate photocrosslinkable hyaluronan-methacrylate/gelatin-methacrylate 3D spheroid microgels for prostate cancer cells and human osteoblasts co-culture models that simultaneously mimic the cellular and ECM tumor components. The use of SH platforms overcomes the issues of standard in-liquid microgel production technologies by providing a robust control over 3D microgels size/morphology and cell-cell co-encapsulation numbers, while avoiding the use of oil-based microgel droplets generation. Overall, SH surfaces allowed a solvent-free, cost-effective, reproducible and adaptable fabrication of heterotypic 3D spherical microgels for high throughput drug screening.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Antunes</LastName>
+                    <ForeName>Jéssica</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, CICECO, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaspar</LastName>
+                    <ForeName>Vítor M</ForeName>
+                    <Initials>VM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, CICECO, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal. Electronic address: vm.gaspar@ua.pt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferreira</LastName>
+                    <ForeName>Luís</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, CICECO, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monteiro</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, CICECO, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henrique</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Biology and Epigenetics Group, IPO Porto Research Center (CI-IPOP), Portuguese Oncology Institute of Porto (IPO Porto), Department of Pathology, Portuguese Oncology Institute of Porto (IPO Porto) &amp; Department of Pathology and Molecular Immunology, Institute of Biomedical Sciences Abel Salazar (ICBAS), University of Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jerónimo</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Biology and Epigenetics Group, IPO Porto Research Center (CI-IPOP), Portuguese Oncology Institute of Porto (IPO Porto), Department of Pathology, Portuguese Oncology Institute of Porto (IPO Porto) &amp; Department of Pathology and Molecular Immunology, Institute of Biomedical Sciences Abel Salazar (ICBAS), University of Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mano</LastName>
+                    <ForeName>João F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, CICECO, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal. Electronic address: jmano@ua.pt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Acta Biomater</MedlineTA>
+            <NlmUniqueID>101233144</NlmUniqueID>
+            <ISSNLinking>1742-7061</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3D in vitro tumor models</Keyword>
+            <Keyword MajorTopicYN="N">Drug Screening</Keyword>
+            <Keyword MajorTopicYN="N">Spherical Microgels</Keyword>
+            <Keyword MajorTopicYN="N">Superhydrophobic surface</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200118</ArticleId>
+            <ArticleId IdType="pii">S1742-7061(19)30422-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.actbio.2019.06.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

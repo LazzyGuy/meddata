@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199125</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Harnessing Heat Beyond 200 °C from Unconcentrated Sunlight with Nonevacuated Transparent Aerogels.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsnano.9b02976</ELocationID>
+            <Abstract>
+                <AbstractText>Heat at intermediate temperatures (120-220 °C) is in significant demand in both industrial and domestic sectors for applications such as water and space heating, steam generation, sterilization, and other industrial processes. Harnessing heat from solar energy at these temperatures, however, requires costly optical and mechanical components to concentrate the dilute solar flux and suppress heat losses. Thus, achieving high temperatures under unconcentrated sunlight remains a technological challenge as well as an opportunity for utilizing solar thermal energy. In this work, we demonstrate a solar receiver capable of reaching over 265 °C under ambient conditions without optical concentration. The high temperatures are achieved by leveraging an artificial greenhouse effect within an optimized monolithic silica aerogel to reduce heat losses while maintaining high solar transparency. This study demonstrates a viable path to promote cost-effective solar thermal energy at intermediate temperatures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8865-859X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhatia</LastName>
+                    <ForeName>Bikram</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Sungwoo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strobach</LastName>
+                    <ForeName>Elise</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weinstein</LastName>
+                    <ForeName>Lee A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>Thomas A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Evelyn N</ForeName>
+                    <Initials>EN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7045-1200</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering , Massachusetts Institute of Technology , 77 Massachusetts Avenue , Cambridge , Massachusetts 02139 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">artificial greenhouse effect</Keyword>
+            <Keyword MajorTopicYN="N">light scattering</Keyword>
+            <Keyword MajorTopicYN="N">radiative transfer</Keyword>
+            <Keyword MajorTopicYN="N">solar thermal conversion</Keyword>
+            <Keyword MajorTopicYN="N">transparent aerogel</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199125</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsnano.9b02976</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

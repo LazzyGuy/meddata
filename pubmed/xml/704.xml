@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199656</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Langmuir : the ACS journal of surfaces and colloids</Title>
+                <ISOAbbreviation>Langmuir</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hand Painting of Noniridescent Structural Multicolor through the Self-Assembly of YOHCO<sub>3</sub> Colloids and Its Application for Anti-Counterfeiting.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.langmuir.9b01571</ELocationID>
+            <Abstract>
+                <AbstractText>YOHCO<sub>3</sub> colloidal particles with tunable size, composition, and optical properties were prepared, and they were used for the fabrication of amorphous photonic crystals' (APCs) patterns through direct hand painting. YOHCO<sub>3</sub> colloids were synthesized by a seeding growth method, in which the colloid size could be controlled by altering the seed amounts and the composition and optical properties can be altered via the doping of Eu<sup>3+</sup>. APCs' films with bright, permanent, and tunable structural colors were prepared by the self-assembly of YOHCO<sub>3</sub> colloids of different sizes. Multicolor patterns can be obtained quickly and efficiently by hand painting with the dispersion of YOHCO<sub>3</sub> colloids as ink. An APCs' pattern assembled from YOHCO<sub>3</sub>:Eu colloids is also fabricated, and the pattern shows blue structural color under natural light and bright red colors under illumination of UV light. The facile synthesis procedure, simple assembly process, and unique optical properties of the APCs make it valuable for practical applications such as structural color-based printing and anticounterfeiting.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Dongpeng</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6950-5985</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Materials and Energy , Guangdong University of Technology , Guangzhou 510006 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Guolong</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zhejiang Key Laboratory of Carbon Materials , Wenzhou University , Wenzhou 325027 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Shaoming</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0242-1143</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Materials and Energy , Guangdong University of Technology , Guangzhou 510006 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Langmuir</MedlineTA>
+            <NlmUniqueID>9882736</NlmUniqueID>
+            <ISSNLinking>0743-7463</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199656</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.langmuir.9b01571</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

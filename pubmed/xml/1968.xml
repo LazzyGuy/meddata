@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198149</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Diagnostic accuracy of recognition of stroke in the emergency room scale: a Meta-analysis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>607-613</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.017</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To systematically evaluate the diagnostic accuracy and clinical applicability of recognition of stroke in the emergency room (ROSIER) scale by systematic review and Meta-analysis.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The Chinese and English literatures concerning the diagnostic accuracy of ROSIER published from January 1st 2005 to December 31st 2018 by PubMed, Embase, Wanfang, VIP and CNKI databases were searched comprehensively and systematically. The sensitivity, specificity, and diagnostic odds ratio (DOR) of ROSIER in total population and subgroup analysis were pooled by using bivariate mixed effects model. Sensitivity analysis was used to evaluate the stability of the results. Deek funnel plot was utilized to evaluate publication bias. The clinical applicability of ROSIER was evaluated by Fagan Nomogram.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 28 studies incorporating 7 579 subjects were enrolled in this Meta-analysis. Meta-analysis in total population showed that the pooled sensitivity, specificity and DOR of ROSIER was 0.89 [95% confidence interval (95%CI) = 0.86-0.91, P = 0.00], 0.74 (95%CI = 0.67-0.80, P = 0.00) and 22.09 (95%CI = 14.86-32.82, P = 0.00), respectively. Subgroup analysis of pooled sensitivity of ROSIER showed that Asian patients was significantly higher than European patients [0.89 (95%CI = 0.86-0.92) vs. 0.74 (95%CI = 0.66-0.82), P &lt; 0.01], prospective study was significantly higher than retrospective study [0.89 (95%CI = 0.87-0.92) vs. 0.74 (95%CI = 0.61-0.88), P &lt; 0.05], pre-hospital emergency was significantly higher than emergency department [0.87 (95%CI = 0.80-0.94) vs. 0.85 (95%CI = 0.81-0.90), P &lt; 0.01], study with sample size ≤ 200 was significantly higher than study with sample size &gt; 200 [0.88 (95%CI = 0.83-0.93) vs. 0.82 (95%CI = 0.76-0.88), P &lt; 0.05], but there was no significant difference between different evaluators or different male to female ratio subgroups. Subgroup analysis of pooled specificity of ROSIER showed that European patients was significantly higher than Asian patients [0.81 (95%CI = 0.73-0.89) vs. 0.79 (95%CI = 0.73-0.85), P &lt; 0.05], retrospective study was significantly higher than prospective study [0.88 (95%CI = 0.78-0.97) vs. 0.79 (95%CI = 0.73-0.84), P &lt; 0.05], pre-hospital emergency was significantly higher than emergency department [0.82 (95%CI = 0.73-0.91) vs. 0.79 (95%CI = 0.73-0.85), P &lt; 0.01], emergency physicians was significantly higher than other medical workers [0.80 (95%CI = 0.74-0.86) vs. 0.79 (95%CI = 0.69-0.90), P &lt; 0.05], study with sample size ≤ 200 was significantly higher than study with sample size &gt; 200 [0.82 (95%CI = 0.76-0.89) vs. 0.78 (95%CI = 0.71-0.85), P &lt; 0.05], but there was no significant difference between different male or female ratio subgroups. Sensitivity analysis showed that there was no significant change in pooled DOR before and after excluding each study, indicating that the results were stable. Funnel plot showed that there was a significant publication bias in the total population (P = 0.04), but there was no publication bias in the European population (P = 0.57) or the Asian population (P = 0.08). According to the results of the Fagan Nomogram, with the pretest probability of 50%, when ROSIER was positive, the probability of being diagnosed with stroke increased to 77%, and when ROSIER was negative, the probability of being diagnosed with non-stroke decreased to 13%. It was suggested that ROSIER had good applicability and high clinical diagnostic value.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">ROSIER has high diagnostic sensitivity and specificity, and has high clinical diagnostic value. It is a valid stroke identification tool which can be widely used in Asian population, pre-hospital emergency and be utilized by trained medical worker.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Tianzhong</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, Clinical Medical College of Henan University of Science and Technology, the First Affiliated Hospital of Henan University of Science and Technology, Luoyang 471003, Henan, China. Corresponding author: Zhang Guoxiu, Email: luoyangguoxiu@sina.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Dahuan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Meng</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Ganqin</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Guoxiu</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198149</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

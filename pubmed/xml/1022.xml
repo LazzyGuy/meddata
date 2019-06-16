@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199307</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-9694</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR medical informatics</Title>
+                <ISOAbbreviation>JMIR Med Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Facility and Regional Factors Associated With the New Adoption of Electronic Medical Records in Japan: Nationwide Longitudinal Observational Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e14026</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/14026</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The rate of adoption of electronic medical record (EMR) systems has increased internationally, and new EMR adoption is currently a major topic in Japan. However, no study has performed a detailed analysis of longitudinal data to evaluate the changes in the EMR adoption status over time.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to evaluate the changes in the EMR adoption status over time in hospitals and clinics in Japan and to examine the facility and regional factors associated with these changes.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Secondary longitudinal data were created by matching data in fiscal year (FY) 2011 and FY 2014 using reference numbers. EMR adoption status was defined as &quot;EMR adoption,&quot; &quot;specified adoption schedule,&quot; or &quot;no adoption schedule.&quot; Data were obtained for hospitals (n=4410) and clinics (n=67,329) that had no adoption schedule in FY 2011 and for hospitals (n=1068) and clinics (n=3132) with a specified adoption schedule in FY 2011. The EMR adoption statuses of medical institutions in FY 2014 were also examined. A multinomial logistic model was used to investigate the associations between EMR adoption status in FY 2014 and facility and regional factors in FY 2011. Considering the regional variations of these models, multilevel analyses with second levels were conducted. These models were constructed separately for hospitals and clinics, resulting in four multinomial logistic models. The odds ratio (OR) and 95% Bayesian credible interval (CI) were estimated for each variable.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 6.9% of hospitals and 14.82% of clinics with no EMR adoption schedules in FY 2011 had adopted EMR by FY 2014, while 10.49% of hospitals and 33.65% of clinics with specified adoption schedules in FY 2011 had cancelled the scheduled adoption by FY 2014. For hospitals with no adoption schedules in FY 2011, EMR adoption/scheduled adoption was associated with practice size characteristics, such as number of outpatients (from quantile 4 to quantile 1: OR 1.67, 95% CI 1.005-2.84 and OR 2.40, 95% CI 1.80-3.21, respectively), and number of doctors (from quantile 4 to quantile 1: OR 4.20, 95% CI 2.39-7.31 and OR 2.02, 95% CI 1.52-2.64, respectively). For clinics with specified EMR adoption schedules in FY 2011, the factors negatively associated with EMR adoption/cancellation of scheduled EMR adoption were the presence of beds (quantile 4 to quantile 1: OR 0.57, 95% CI 0.45-0.72 and OR 0.74, 95% CI 0.58-0.96, respectively) and having a private establisher (quantile 4 to quantile 1: OR 0.27, 95% CI 0.13-0.55 and OR 0.43, 95% CI 0.19-0.91, respectively). No regional factors were significantly associated with the EMR adoption status of hospitals with no EMR adoption schedules; population density was positively associated with EMR adoption in clinics with no EMR adoption schedule (quantile 4 to quantile 1: OR 1.49, 95% CI 1.32-1.69).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Different approaches are needed to promote new adoption of EMR systems in hospitals as compared to clinics. It is important to induce decision making in small- and medium-sized hospitals, and regional postdecision technical support is important to avoid cancellation of scheduled EMR adoption in clinics.</AbstractText>
+                <CopyrightInformation>©Hideaki Kawaguchi, Soichi Koike, Kazuhiko Ohe. Originally published in JMIR Medical Informatics (http://medinform.jmir.org), 14.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kawaguchi</LastName>
+                    <ForeName>Hideaki</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5772-8295</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Informatics, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koike</LastName>
+                    <ForeName>Soichi</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6516-7333</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Health Policy and Management, Center for Community Medicine, Jichi Medical University, Tochigi, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ohe</LastName>
+                    <ForeName>Kazuhiko</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4296-9536</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Informatics, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Med Inform</MedlineTA>
+            <NlmUniqueID>101645109</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bayes theorem</Keyword>
+            <Keyword MajorTopicYN="N">electronic health records</Keyword>
+            <Keyword MajorTopicYN="N">health policy</Keyword>
+            <Keyword MajorTopicYN="N">health services research</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199307</ArticleId>
+            <ArticleId IdType="pii">v7i2e14026</ArticleId>
+            <ArticleId IdType="doi">10.2196/14026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

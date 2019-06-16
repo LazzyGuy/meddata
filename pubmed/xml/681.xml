@@ -1,0 +1,185 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199681</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clustering of IRE1α depends on sensing ER stress but not on its RNase activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>fj201801240RR</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.201801240RR</ELocationID>
+            <Abstract>
+                <AbstractText>The sensors of the unfolded protein response react to endoplasmic reticulum (ER) stress by transient activation of their enzymatic activities, which initiate various signaling cascades. In addition, the sensor IRE1α exhibits stress-induced clustering in a transient time frame similar to activation of its endoRNase activity. Previous work had suggested that the clustering response and RNase activity of IRE1α are functionally linked, but here we show that they are independent of each other and have different behaviors and modes of activation. Although both clustering and the RNase activity are responsive to luminal stress conditions and to depletion of the ER chaperone binding protein, RNase-inactive IRE1α still clusters and, conversely, full RNase activity can be accomplished without clustering. The clusters formed by RNase-inactive IRE1α are much larger and persist longer than those induced by ER stress. Clustering requires autophosphorylation, and an IRE1α mutant whose RNase domain is responsive to ligands that bind the kinase domain forms yet a third type of stress-independent cluster, with distinct physical properties and half-lives. These data suggest that IRE1α clustering can follow distinct pathways upon activation of the sensor.-Ricci, D., Marrocco, I., Blumenthal, D., Dibos, M., Eletto, D., Vargas, J., Boyle, S., Iwamoto, Y., Chomistek, S., Paton, J. C., Paton, A. W., Argon, Y. Clustering of IRE1α depends on sensing ER stress but not on its RNase activity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Ricci</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Marrocco</LastName>
+                    <ForeName>Ilaria</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blumenthal</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dibos</LastName>
+                    <ForeName>Miriam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eletto</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vargas</LastName>
+                    <ForeName>Jade</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyle</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwamoto</LastName>
+                    <ForeName>Yuichiro</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chomistek</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paton</LastName>
+                    <ForeName>James C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, University of Adelaide, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paton</LastName>
+                    <ForeName>Adrienne W</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, University of Adelaide, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Argon</LastName>
+                    <ForeName>Yair</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cell Pathology, Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BiP</Keyword>
+            <Keyword MajorTopicYN="N">autophosphorylation</Keyword>
+            <Keyword MajorTopicYN="N">differential ER Stress</Keyword>
+            <Keyword MajorTopicYN="N">luteolin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199681</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.201801240RR</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

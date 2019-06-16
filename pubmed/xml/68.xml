@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200347</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2976</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>288</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioresource technology</Title>
+                <ISOAbbreviation>Bioresour. Technol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Controlling nitritation in a continuous split-feed/aeration biofilm nitrifying bioreactor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>121599</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0960-8524(19)30829-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biortech.2019.121599</ELocationID>
+            <Abstract>
+                <AbstractText>This study explored the stability of partial ammonium oxidation at low feed concentration (50 g N/m<sup>3</sup>), suitable for anammox process, in continuous fixed bed up-flow biofilm reactors with external recirculation-aeration. The reactors, filled with crushed basalt, were fed with synthetic medium at 20-25 °C at constant flow-rate with limiting dissolved oxygen concentration controlled by the recirculation ratio (R). Successful nitritation was achieved at R ≅ 4-6 with approx. 50% of NH<sub>4</sub><sup>+</sup> oxidized to NO<sub>2</sub><sup>-</sup> with &lt;5% NO<sub>3</sub><sup>-</sup>accumulation. q-PCR analysis along the reactor showed ammonia oxidizing bacteria being the prevalent nitrifiers over the three-fourths of the bed in the flow direction, negligible denitrifiers and absent ammonium oxidizing archaea. A numerical model for predicting the concentration of the nitrogen species and DO was formulated. The model successfully predicted the experimental results and displayed good sensitivity to intrinsic oxygen uptake parameters. The proposed numerical model can serve both as an operational and design tool.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dawas</LastName>
+                    <ForeName>Anwar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Civil and Environmental Engineering, Technion-Israel Institute of Technology, 3200003 Haifa, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abu-Salih</LastName>
+                    <ForeName>Samy</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, Braude College, 21982 Karmiel, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabbah</LastName>
+                    <ForeName>Isam</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prof. Ephraim Katzir Department of Biotechnology Engineering, Braude College, Karmiel, Israel; The Galilee Society Institute of Applied Research, 20200 Shefa-Amr, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nejidat</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Hydrology and Microbiology, Zuckerberg Institute for Water Research, The Jacob Blaustein Institutes for Desert Research, Ben-Gurion University of the Negev, Sede Boqer Campus, 84990 Midreshet Ben-Gurion, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dosoretz</LastName>
+                    <ForeName>Carlos G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Civil and Environmental Engineering, Technion-Israel Institute of Technology, 3200003 Haifa, Israel. Electronic address: carlosd@technion.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioresour Technol</MedlineTA>
+            <NlmUniqueID>9889523</NlmUniqueID>
+            <ISSNLinking>0960-8524</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dissolved oxygen</Keyword>
+            <Keyword MajorTopicYN="N">Nitritation control</Keyword>
+            <Keyword MajorTopicYN="N">Numerical simulation</Keyword>
+            <Keyword MajorTopicYN="N">Recirculation ratio</Keyword>
+            <Keyword MajorTopicYN="N">Up-flow fixed bed reactor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200347</ArticleId>
+            <ArticleId IdType="pii">S0960-8524(19)30829-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biortech.2019.121599</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

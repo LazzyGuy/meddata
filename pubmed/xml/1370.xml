@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198915</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem. Commun. (Camb.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Switchable living nickel(ii) α-diimine catalyst for ethylene polymerisation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9cc03154e</ELocationID>
+            <Abstract>
+                <AbstractText>Design and synthesis of a Ni(ii) &quot;sandwich&quot; α-diimine complex (1) resulted in a switchable catalyst for the living polymerisation of ethylene over a range of temperatures and pressures. Varying these conditions produced a well-defined tetrablock copolymer comprising branched and highly linear polyethylenes. This copolymer improved the toughness of a phase separated LDPE/HDPE blend by nonreactive interfacial compatibilisation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Padilla-Vélez</LastName>
+                    <ForeName>Omar</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9344-2718</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, NY 14853-1301, USA. coates@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Connor</LastName>
+                    <ForeName>Kyle S</ForeName>
+                    <Initials>KS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7974-7080</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, NY 14853-1301, USA. coates@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LaPointe</LastName>
+                    <ForeName>Anne M</ForeName>
+                    <Initials>AM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7830-0922</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, NY 14853-1301, USA. coates@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacMillan</LastName>
+                    <ForeName>Samantha N</ForeName>
+                    <Initials>SN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6516-1823</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, NY 14853-1301, USA. coates@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coates</LastName>
+                    <ForeName>Geoffrey W</ForeName>
+                    <Initials>GW</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3400-2552</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University, Ithaca, NY 14853-1301, USA. coates@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198915</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9cc03154e</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

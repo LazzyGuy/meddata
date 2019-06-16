@@ -1,0 +1,128 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198589</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2075-0528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sultan Qaboos University medical journal</Title>
+                <ISOAbbreviation>Sultan Qaboos Univ Med J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Female Patients and Informed Consent: Oman's cultural background.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e11-e14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18295/squmj.2019.19.01.003</ELocationID>
+            <Abstract>
+                <AbstractText>Female patients in Oman face a certain amount of pressure from their families when making high-stakes decisions regarding personal healthcare. In fact, some women waive their right to make decisions, typically giving that responsibility to their husbands or fathers. This article highlights the need to empower females in decision-making when it comes to their own well-being. Moreover, informed consent should not be signed by anyone but the patient herself if the patient is deemed competent by a medical professional.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Al Balushi</LastName>
+                    <ForeName>Amal A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Muscat Directorate of General Health Services, Ministry of Health, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Oman</Country>
+            <MedlineTA>Sultan Qaboos Univ Med J</MedlineTA>
+            <NlmUniqueID>101519915</NlmUniqueID>
+            <ISSNLinking>2075-051X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clinical Competence</Keyword>
+            <Keyword MajorTopicYN="N">Decision Making</Keyword>
+            <Keyword MajorTopicYN="N">Female</Keyword>
+            <Keyword MajorTopicYN="N">Informed Consent</Keyword>
+            <Keyword MajorTopicYN="N">Medical Ethics</Keyword>
+            <Keyword MajorTopicYN="N">Oman</Keyword>
+            <Keyword MajorTopicYN="N">Patient Rights</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198589</ArticleId>
+            <ArticleId IdType="doi">10.18295/squmj.2019.19.01.003</ArticleId>
+            <ArticleId IdType="pii">squmj1902-e11-14</ArticleId>
+            <ArticleId IdType="pmc">PMC6544061</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

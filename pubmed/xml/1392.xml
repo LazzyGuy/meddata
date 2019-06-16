@@ -1,0 +1,178 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198881</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2451-8654</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Contemporary clinical trials communications</Title>
+                <ISOAbbreviation>Contemp Clin Trials Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Behavioral economics implementation: Regret lottery improves mHealth patient study adherence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100387</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.conctc.2019.100387</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Nonadherence to study protocols reduces the generalizability, validity, and statistical power of longitudinal studies.</AbstractText>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">To determine whether an automated electronically-delivered regret lottery would improve adherence to an intensive mHealth self-monitoring protocol as part of a longitudinal observational study.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We enrolled 77 adults into a 52-week study requiring five daily ecologic momentary assessments (EMA) of stress and daily accelerometer use. We performed a pre/post single-arm study to evaluate the efficacy of a lottery intervention in improving adherence to this protocol. Midway through the study, participants were invited to enter a weekly regret lottery ($50 prize, expected value &lt;$1) in which prize collection was contingent upon meeting adherence thresholds for the prior week. Study protocol adherence before and after lottery initiation were compared using mixed models repeated measures analysis of variance.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">62 participants consented to lottery participation. In the 12 weeks prior to lottery initiation, weekly adherence was declining (slope -1.4%/week). The weekly per-participant probability of adherence was higher after lottery initiation when comparing the 4-week (32% pre-lottery vs 50% post-lottery, p &lt; 0.001), 8-week (37% vs 49%, p &lt; 0.001), and 12-week periods (39% vs 45%, p = 0.001) before and after lottery initiation. However, the rate of decline in adherence over time was unchanged.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The implementation of an automated, electronically-delivered weekly regret lottery improved adherence with an intensive self-monitoring study protocol. Regret lotteries may represent a cost-effective tool to improve adherence and reduce bias caused by dropout or nonadherence.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Husain</LastName>
+                    <ForeName>S Ali</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaz</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwartz</LastName>
+                    <ForeName>Joseph E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Science, Stony Brook University, Stony Brook, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parsons</LastName>
+                    <ForeName>Faith E</ForeName>
+                    <Initials>FE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burg</LastName>
+                    <ForeName>Matthew M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Yale University School of Medicine, New Haven, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Karina W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NewYork-Presbyterian Hospital, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kronish</LastName>
+                    <ForeName>Ian M</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Contemp Clin Trials Commun</MedlineTA>
+            <NlmUniqueID>101671157</NlmUniqueID>
+            <ISSNLinking>2451-8654</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adherence</Keyword>
+            <Keyword MajorTopicYN="N">Behavior</Keyword>
+            <Keyword MajorTopicYN="N">Behavioral economics</Keyword>
+            <Keyword MajorTopicYN="N">Financial incentives</Keyword>
+            <Keyword MajorTopicYN="N">Lottery</Keyword>
+            <Keyword MajorTopicYN="N">Validity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198881</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.conctc.2019.100387</ArticleId>
+            <ArticleId IdType="pii">S2451-8654(19)30009-2</ArticleId>
+            <ArticleId IdType="pii">100387</ArticleId>
+            <ArticleId IdType="pmc">PMC6555893</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

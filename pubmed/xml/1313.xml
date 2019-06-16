@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198979</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1791-244X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular medicine</Title>
+                <ISOAbbreviation>Int. J. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>O-GlcNAcylation in immunity and inflammation: An intricate system (Review).</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3892/ijmm.2019.4238</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic, low‑grade inflammation associated with obesity and diabetes result from the infiltration of adipose and vascular tissue by immune cells and contributes to cardiovascular complications. Despite an incomplete understanding of the mechanistic underpinnings of immune cell differentiation and inflammation, O‑GlcNAcylation, the addition of O‑linked N‑acetylglucosamine (O‑GlcNAc) to cytoplasmic, nuclear and mitochondrial proteins by the two cycling enzymes, the O‑linked N‑acetylglucosamine transferase (OGT) and the O‑GlcNAcase (OGA), may contribute to fine‑tune immunity and inflammation in both physiological and pathological conditions. Early studies have indicated that O‑GlcNAcylation of proteins play a pro‑inflammatory role in diabetes and insulin resistance, whereas subsequent studies have demonstrated that this post‑translational modification could also be protective against acute injuries. These studies suggest that diverse types of insults result in dynamic changes to O‑GlcNAcylation patterns, which fluctuate with cellular metabolism to promote or inhibit inflammation. In this review, the current understanding of O‑GlcNAcylation and its adaptive modulation in immune and inflammatory responses is summarized.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116011, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Mingzheng</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116011, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Men</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116011, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Jianling</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning 116011, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Int J Mol Med</MedlineTA>
+            <NlmUniqueID>9810955</NlmUniqueID>
+            <ISSNLinking>1107-3756</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198979</ArticleId>
+            <ArticleId IdType="doi">10.3892/ijmm.2019.4238</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

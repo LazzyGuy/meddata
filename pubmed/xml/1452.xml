@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198808</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2322-2522</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bulletin of emergency and trauma</Title>
+                <ISOAbbreviation>Bull Emerg Trauma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pattern of Maxillofacial Injuries and Determinants of Outcome in a Large Series of Patients admitted to a Level-I Trauma Center.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>176-182</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29252/beat-070214</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To investigate the severity of injuries and the pattern of jaw and facial injuries in trauma patients and also to determine the predictors of the outcome in these patients.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This cross-sectional study was conducted on 2697 patients with facial trauma who referred to trauma center in Shahid Rajaee (Emtiaz) Hospital, Shiraz, Iran during 2010-2015. Injury severity score was determined through the conversion of injury codes of the International Classification of Diseases, tenth revision (ICD-10). Binary logistic regression by backward method was used to determine the partial effects of independent risk factors on death odds ratio.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean age of patients with maxillofacial injuries was 31.96 ± 15.80 years. The mean injury severity score (ISS) was 4.3 ± 4.4 and about 80% of the patients had an ISS between 1 and 8. Mandible fracture and ear injuries, respectively, were the most and the least prevalent types of maxillofacial injury. The odds ratio of death by motorcycle accident was 1.7 times higher than falling down in maxillofacial patients.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Age, gender (male), ISS, and mechanism of injury were the significant predictors of mortality in the facial trauma patients. Mandible fracture and ear injury, respectively, were the most and the least prevalent types of maxillofacial injury. Our findings demonstrate the need for referral to the maxillofacial surgeon and maxillofacial surgery should be in connected with neurosurgical centers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yadollahi</LastName>
+                    <ForeName>Mahnaz</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Trauma Research Center, Rajaee (Emtiaz) Trauma Hospital, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Behzadi Seyf Abad</LastName>
+                    <ForeName>Mojgan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Trauma Research Center, Rajaee (Emtiaz) Trauma Hospital, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pazhuheian</LastName>
+                    <ForeName>Forough</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Trauma Research Center, Rajaee (Emtiaz) Trauma Hospital, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Bull Emerg Trauma</MedlineTA>
+            <NlmUniqueID>101614018</NlmUniqueID>
+            <ISSNLinking>2322-2522</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Injury Severity Score</Keyword>
+            <Keyword MajorTopicYN="N">Maxillofacial trauma</Keyword>
+            <Keyword MajorTopicYN="N">Mechanism of injuries</Keyword>
+            <Keyword MajorTopicYN="N">Mortality</Keyword>
+        </KeywordList>
+        <CoiStatement>None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198808</ArticleId>
+            <ArticleId IdType="doi">10.29252/beat-070214</ArticleId>
+            <ArticleId IdType="pmc">PMC6555202</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

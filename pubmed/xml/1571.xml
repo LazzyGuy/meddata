@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198640</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Boat anchoring contributes substantially to coral reef degradation in the British Virgin Islands.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7010</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7010</ELocationID>
+            <Abstract>
+                <AbstractText>Community decline is often linked to anthropogenic activities. Coral reef declines, for example, have been linked to overfishing and climate change, but impacts of coastal development, pollution, and tourism have received increasing attention. Here, we isolated the impact of one little-studied aspect of recreational activity on coral reefs-damage from boat anchoring-by performing a survey of 24 sites in the British Virgin Islands (BVI) subject to varying levels of anchoring activity. The percent cover of hard corals and sea fans was reduced by a factor of ∼1.7 and ∼2.6 respectively at highly anchored sites. Hard coral colonies were  40% smaller in surface area and ∼60% less dense at sites experiencing high anchoring frequency. In addition, highly anchored sites supported only ∼60% of the species richness of little anchored sites. Frequently anchored sites were ∼60% as structurally complex and supported less than half as many fish as those rarely anchored, with 5 of 7 fish functional groups affected. Roughly 24% of BVI coral reef by area appears suitable for anchoring, suggesting that impacts associated with boat anchoring may be both locally severe and more pervasive than previously appreciated.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Flynn</LastName>
+                    <ForeName>Rebecca L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Natural Resources Science, University of Rhode Island, Kingston, RI, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Forrester</LastName>
+                    <ForeName>Graham E</ForeName>
+                    <Initials>GE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Natural Resources Science, University of Rhode Island, Kingston, RI, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anchoring</Keyword>
+            <Keyword MajorTopicYN="N">Anthropogenic impact</Keyword>
+            <Keyword MajorTopicYN="N">Boating</Keyword>
+            <Keyword MajorTopicYN="N">Caribbean</Keyword>
+            <Keyword MajorTopicYN="N">Chronic stressor</Keyword>
+            <Keyword MajorTopicYN="N">Coral reef</Keyword>
+            <Keyword MajorTopicYN="N">Habitat degradation</Keyword>
+            <Keyword MajorTopicYN="N">Indirect effects</Keyword>
+            <Keyword MajorTopicYN="N">Recreation</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198640</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7010</ArticleId>
+            <ArticleId IdType="pii">7010</ArticleId>
+            <ArticleId IdType="pmc">PMC6535217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198487</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-8745</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scanning</Title>
+                <ISOAbbreviation>Scanning</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Conformational Distortions of the Red Blood Cell Spectrin Matrix Nanostructure in Response to Temperature Changes <i>In Vitro</i>.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8218912</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/8218912</ELocationID>
+            <Abstract>
+                <AbstractText>The spectrin matrix is a structural element of red blood cells (RBCs). As such, it affects RBC morphology, membrane deformability, nanostructure, stiffness, and, ultimately, the rheological properties of blood. However, little is known about how temperature affects the spectrin matrix. In this study, the nanostructure of the spectrin network was recorded by atomic force microscopy. We describe how the nanostructure of the RBC spectrin matrix changes from a regular network to a chaotic pattern following an increase in temperature from 20 to 50°C. At 20-37°С, the spectrin network formed a regular structure with dimensions of typically 150 ± 60 nm. At 42-43°С, 83% of the spectrin network assumed an irregular structure. Finally, at 49-50°С the chaotic pattern was observed, and no quantitative estimates of the spectrin structure's parameters could be made. These results can be useful for biophysical studies on the destruction of the spectrin network under pathological conditions, as well as for investigating cell morphology and blood rheology in different diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kozlova</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">0000-0002-1780-895X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>V.A. Negovsky Research Institute of General Reanimatology, Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, 107031, 25 Petrovka St., Build. 2, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sechenov First Moscow State Medical University (Sechenov University), 119991, 2-4 Bolshaya Pirogovskaya St, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chernysh</LastName>
+                    <ForeName>Aleksandr</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.A. Negovsky Research Institute of General Reanimatology, Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, 107031, 25 Petrovka St., Build. 2, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sechenov First Moscow State Medical University (Sechenov University), 119991, 2-4 Bolshaya Pirogovskaya St, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sergunova</LastName>
+                    <ForeName>Viktoria</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.A. Negovsky Research Institute of General Reanimatology, Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, 107031, 25 Petrovka St., Build. 2, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manchenko</LastName>
+                    <ForeName>Ekaterina</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.A. Negovsky Research Institute of General Reanimatology, Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, 107031, 25 Petrovka St., Build. 2, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sechenov First Moscow State Medical University (Sechenov University), 119991, 2-4 Bolshaya Pirogovskaya St, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moroz</LastName>
+                    <ForeName>Viktor</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.A. Negovsky Research Institute of General Reanimatology, Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, 107031, 25 Petrovka St., Build. 2, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kozlov</LastName>
+                    <ForeName>Aleksandr</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sechenov First Moscow State Medical University (Sechenov University), 119991, 2-4 Bolshaya Pirogovskaya St, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Scanning</MedlineTA>
+            <NlmUniqueID>7903371</NlmUniqueID>
+            <ISSNLinking>0161-0457</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198487</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/8218912</ArticleId>
+            <ArticleId IdType="pmc">PMC6526551</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

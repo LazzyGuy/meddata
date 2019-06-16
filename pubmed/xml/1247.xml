@@ -1,0 +1,265 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199051</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0261</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular oncology</Title>
+                <ISOAbbreviation>Mol Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diabetes-mediated promotion of colon mucosa carcinogenesis is associated with mitochondrial dysfunction.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/1878-0261.12531</ELocationID>
+            <Abstract>
+                <AbstractText>Type 2 diabetes mellitus (T2DM) has been associated with an increased risk of cancer, including colon cancer (CC). However, we recently reported no influence of T2DM on CC prognosis, suggesting that any effect might be at the early stages of tumor development. We hypothesized that T2DM may create an environment in the healthy tissue which acts as a carcinogenesis driver in agreement with the Field of Cancerization concept. Here we focused on early carcinogenesis by analyzing paired tumor and normal colonic mucosa samples from the same patients. The proteome of CC and paired-mucosa was quantitatively analyzed in 28 individuals (12 diabetics and 16 non-diabetics) by mass spectrometry with isobaric labeling. Out of 3076 identified proteins, 425 were differentially expressed at the tumor in diabetics compared to non-diabetics. In the adjacent mucosa, 143 proteins were differentially expressed in diabetics and non-diabetics. An enrichment analysis of this signature pointed to mitochondria, ribosome and translation. Only six proteins were up-regulated by diabetes both in tumor and mucosa, of which five were mitochondrial proteins. Differential expression in diabetic versus non-diabetic mucosa was confirmed for MRPL53, MRPL18, and TIMM8B. Higher levels of MRPL18, TIMM8B and EIF1A were also found in normal colon epithelial cells exposed to high glucose conditions. We conclude that T2DM is associated with specific molecular changes in the normal mucosa of CC patients, consistent with Field of Cancerization in a diabetic environment. The mitochondrial protein signature identifies a potential therapeutic target that could underlie the higher risk of CC in diabetics.</AbstractText>
+                <CopyrightInformation>Molecular Oncology (2019) © 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Del Puerto-Nevado</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santiago-Hernandez</LastName>
+                    <ForeName>Aranzazu</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solanes-Casado</LastName>
+                    <ForeName>Sonia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez</LastName>
+                    <ForeName>Nieves</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ricote</LastName>
+                    <ForeName>Marta</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corton</LastName>
+                    <ForeName>Marta</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prieto</LastName>
+                    <ForeName>Isabel</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mas</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanz</LastName>
+                    <ForeName>Ana Belen</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology and Hypertension Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguilera</LastName>
+                    <ForeName>Oscar</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gomez-Guerrero</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayuso</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology and Hypertension Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojo</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Egido</LastName>
+                    <ForeName>Jesus</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia-Foncillas</LastName>
+                    <ForeName>Jesus</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minguez</LastName>
+                    <ForeName>Pablo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alvarez-Llamas</LastName>
+                    <ForeName>Gloria</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>DiabetesCancerConnect Consortium</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Oncol</MedlineTA>
+            <NlmUniqueID>101308230</NlmUniqueID>
+            <ISSNLinking>1574-7891</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Field of Cancerization</Keyword>
+            <Keyword MajorTopicYN="N">colon cancer</Keyword>
+            <Keyword MajorTopicYN="N">diabetes</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">proteomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199051</ArticleId>
+            <ArticleId IdType="doi">10.1002/1878-0261.12531</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

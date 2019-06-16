@@ -1,0 +1,90 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199118</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-4995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Helical Behavior of the Interdomain Linker of the Escherichia coli AraC Protein.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.biochem.9b00234</ELocationID>
+            <Abstract>
+                <AbstractText>In Escherichia coli, the dimeric AraC protein actively represses transcription from the L-arabinose araBAD operon in the absence of arabinose, but induces transcription in its presence. Here we provide evidence that, in shifting from the repressing to the inducing state, the behavior of interdomain linker shifts from that of an alpha-helix to that of a flexible nonhelical form. In vivo and in vitro experiments show that AraC with a linker sequence that favors helix formation is shifted towards the repressing state both in the absence and presence of arabinose. Conversely, AraC containing a linker sequence that is unfavorable for helix formation is shifted towards the inducing state. Experiments in which the presumed helical linker is shortened or lengthened - protein helical-twist experiments - are also consistent with a helix transition mechanism. Previous experiments have shown that, upon the binding of arabinose, the apparent rigidity with which the DNA binding domains of AraC are held in space decreases. Thus, arabinose likely controls the stability or rigidity of the interdomain linker. Circular dichroism experiments with peptides show that helicity of the linker sequence can be controlled by the helicity of residues preceding the linker, providing a plausible mechanism for arabinose to control the repressing-inducing state of AraC protein.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schleif</LastName>
+                    <ForeName>Robert F</ForeName>
+                    <Initials>RF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199118</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.biochem.9b00234</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

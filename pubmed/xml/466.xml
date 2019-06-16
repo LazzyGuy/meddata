@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199930</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7786</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemico-biological interactions</Title>
+                <ISOAbbreviation>Chem. Biol. Interact.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Formic acid up-regulates vascular tension through nitric oxide-cGMP signaling pathway.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0009-2797(19)30545-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cbi.2019.06.023</ELocationID>
+            <Abstract>
+                <AbstractText>Formic acid is a common organic acid used in many industrial processes. There is a paucity of research on the direct toxicity of formic acid and how it might affect the cardiovascular system. This study aimed to understand the effect of formic acid on vascular tension in an animal model and the underlying mechanism. Results found that the vasodilation induced by formic acid was related to the endothelium. When the dosage of formic acid was 1 mM or 5 mM, the vasodilation of endothelium-intact rings was partially suppressed by l-NAME, NS-2028 and nifedipine, and vasoconstriction caused by CaCl<sub>2</sub> was inhibited, and the mRNA levels of eNOS, the activity of NOS (tNOS, iNOS and cNOS) and the level of NO and cGMP were significantly increased. Results also found that eNOS protein expression was significantly enhanced by 5 mM of formic acid. These results suggest formic acid can relax the aortic vessels of rats in a dose-dependent pattern. Further, the mechanism of the formic acid-induced vasodilatation likely involved the NO/cGMP pathway. Finally, the current study has revealed that vasodilation induced by high concentrations of formaldehyde may be the effect of the metabolite formic acid. This study will help further inform the etiologies of formic acid-related angiocardiopathies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Quanxi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Environmental Medicine and Toxicology, Institute of Environmental Science, Shanxi University, Taiyuan, 030006, China. Electronic address: qxzhang@sxu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niu</LastName>
+                    <ForeName>Yuxin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Environmental Medicine and Toxicology, Institute of Environmental Science, Shanxi University, Taiyuan, 030006, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyu</LastName>
+                    <ForeName>Wenru</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Environmental Medicine and Toxicology, Institute of Environmental Science, Shanxi University, Taiyuan, 030006, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Mengbin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of NBC Defence, Beijing, 102205, China. Electronic address: yumengbin2016@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Chem Biol Interact</MedlineTA>
+            <NlmUniqueID>0227276</NlmUniqueID>
+            <ISSNLinking>0009-2797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Formic acid</Keyword>
+            <Keyword MajorTopicYN="N">Ion channels</Keyword>
+            <Keyword MajorTopicYN="N">Rat aortic ring</Keyword>
+            <Keyword MajorTopicYN="N">Signal pathway</Keyword>
+            <Keyword MajorTopicYN="N">Vasodilatation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199930</ArticleId>
+            <ArticleId IdType="pii">S0009-2797(19)30545-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cbi.2019.06.023</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

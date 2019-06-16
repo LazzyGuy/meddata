@@ -1,0 +1,99 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199731</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors Associated with Emergency Department Use for Non-traumatic Dental Problems: Scoping Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>j3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The use of hospital emergency departments (EDs) for non-traumatic dental problems places a significant strain on the health care system and resources. The objective of this scoping review was to identify factors associated with patients' use of EDs for such problems.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Embase, Medline-Ovid, Scopus and Web of Science databases were searched, and primary studies, systematic reviews and meta-analyses from Canada and the United States, published in English between 2007 and 2017 were selected for inclusion.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 469 articles, 22 met our inclusion criteria: 6 were conducted in Canada and 16 in the United States. Identified factors associated with ED use for non-traumatic dental problems included patient demographics (age, gender, race/ethnicity, comorbidities, oral health status), accessibility (time of day, day of week, geographic location, access to dental practitioner), economic influences (insurance, inability to afford dental care, income) and social demographics (community language, homelessness, repeat use).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The factors identified in this review can inform future research studies and program planning to address ED use for non-traumatic dental problems.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>VanMalsen</LastName>
+                    <ForeName>Jacqueline R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueiredo</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rabie</LastName>
+                    <ForeName>Heidi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Compton</LastName>
+                    <ForeName>Sharon M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199731</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

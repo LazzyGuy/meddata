@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198425</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1687-966X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Stem cells international</Title>
+                <ISOAbbreviation>Stem Cells Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Understanding the Journey of Human Hematopoietic Stem Cell Development.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2141475</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/2141475</ELocationID>
+            <Abstract>
+                <AbstractText>Hematopoietic stem cells (HSCs) surface during embryogenesis leading to the genesis of the hematopoietic system, which is vital for immune function, homeostasis balance, and inflammatory responses in the human body. Hematopoiesis is the process of blood cell formation, which initiates from hematopoietic stem/progenitor cells (HSPCs) and is responsible for the generation of all adult blood cells. With their self-renewing and pluripotent properties, human pluripotent stem cells (hPSCs) provide an unprecedented opportunity to create <i>in vitro</i> models of differentiation that will revolutionize our understanding of human development, especially of the human blood system. The utilization of hPSCs provides newfound approaches for studying the origins of human blood cell diseases and generating progenitor populations for cell-based treatments. Current shortages in our knowledge of adult HSCs and the molecular mechanisms that control hematopoietic development in physiological and pathological conditions can be resolved with better understanding of the regulatory networks involved in hematopoiesis, their impact on gene expression, and further enhance our ability to develop novel strategies of clinical importance. In this review, we delve into the recent advances in the understanding of the various cellular and molecular pathways that lead to blood development from hPSCs and examine the current knowledge of human hematopoietic development. We also review how <i>in vitro</i> differentiation of hPSCs can undergo hematopoietic transition and specification, including major subtypes, and consider techniques and protocols that facilitate the generation of hematopoietic stem cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Akhilesh</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0003-2757-5181</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wisconsin National Primate Research Center, University of Wisconsin, Madison, WI 53715, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Souza</LastName>
+                    <ForeName>Saritha S</ForeName>
+                    <Initials>SS</Initials>
+                    <Identifier Source="ORCID">0000-0002-9827-9622</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wisconsin National Primate Research Center, University of Wisconsin, Madison, WI 53715, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thakur</LastName>
+                    <ForeName>Abir S</ForeName>
+                    <Initials>AS</Initials>
+                    <Identifier Source="ORCID">0000-0002-4959-9734</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wisconsin National Primate Research Center, University of Wisconsin, Madison, WI 53715, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Stem Cells Int</MedlineTA>
+            <NlmUniqueID>101535822</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198425</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/2141475</ArticleId>
+            <ArticleId IdType="pmc">PMC6526542</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199396</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Two-stage filamentation of 10  μm pulses as a broadband infrared backlighter in the atmosphere.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3122-3125</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003122</ELocationID>
+            <Abstract>
+                <AbstractText>We identify a two-stage filamentation regime for high-power 10 μm multipicosecond pulses propagating in the atmosphere. The first low-intensity stage is mainly regularized by ionization through excitation induced dephasing, which can lead to strong pulse shortening downstream. This shortening in turn causes a significant reduction of the many-body induced plasma, which changes the dynamics drastically. As a result, a distinct second stage is predicted where peak intensities are clamped at 1 order of magnitude higher than in the first stage. The complex dynamics found in the second stage can result in the spatial and temporal breakup of the wavepacket, reduction of ionization losses, and extreme spectral broadening.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panagiotopoulos</LastName>
+                    <ForeName>Paris</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolesik</LastName>
+                    <ForeName>Miroslav</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tochitsky</LastName>
+                    <ForeName>Sergei</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koch</LastName>
+                    <ForeName>Stephan W</ForeName>
+                    <Initials>SW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moloney</LastName>
+                    <ForeName>Jerome V</ForeName>
+                    <Initials>JV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199396</ArticleId>
+            <ArticleId IdType="pii">413620</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003122</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

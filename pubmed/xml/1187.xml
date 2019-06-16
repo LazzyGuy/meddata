@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199121</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dynamic Origin of Chirality Transfer between Chiral Surface and Achiral Ligand in Au<sub>38</sub> Clusters.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsnano.9b02552</ELocationID>
+            <Abstract>
+                <AbstractText>The transfer of chirality between nanomolecules is at the core of several applications in chiral technology such as sensing and catalysis. However, the origin of this phenomenon and how exactly nanoscale objects transfer chirality to molecules in their vicinity remain largely obscure. Here, we show that the transfer of chirality for the intrinsically chiral gold cluster Au<sub>38</sub>(SR)<sub>24</sub> is site dependent; that is, it differs depending on the ligand-binding sites. This is closely related to the dynamic nature of the ligands on the cluster surface. Using a combination of NMR techniques and molecular dynamics simulations, we could assign the four symmetry-unique ligands on the cluster. The study reveals largely different conformational dynamics of the bound ligands, explaining the diverse diastereotopicities observed for the CH<sub>2</sub> protons of the ligands. Although chirality is a structural property, our study reveals the importance of dynamics for the transfer of chirality.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Riccardi</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Modeling &amp; Drug Discovery , Istituto Italiano di Tecnologia , Via Morego 30 , 16163 Genova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Biasi</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6548-8383</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Scienze Chimiche , Università di Padova , Via Marzolo 1 , 35131 Padova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Vivo</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4022-5661</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Modeling &amp; Drug Discovery , Istituto Italiano di Tecnologia , Via Morego 30 , 16163 Genova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bürgi</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0906-082X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Chemistry , University of Geneva , 30 Quai Ernest-Ansermet , 1211 Geneva 4, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rastrelli</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2369-2228</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Scienze Chimiche , Università di Padova , Via Marzolo 1 , 35131 Padova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salassa</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2396-3884</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Chemistry , University of Geneva , 30 Quai Ernest-Ansermet , 1211 Geneva 4, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Au(SR)</Keyword>
+            <Keyword MajorTopicYN="N">NMR</Keyword>
+            <Keyword MajorTopicYN="N">TOCSY</Keyword>
+            <Keyword MajorTopicYN="N">chiral nanoclusters</Keyword>
+            <Keyword MajorTopicYN="N">chirality transfer</Keyword>
+            <Keyword MajorTopicYN="N">molecular dynamics simulations</Keyword>
+            <Keyword MajorTopicYN="N">monolayer-protected clusters</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199121</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsnano.9b02552</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200289</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-8423</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical image analysis</Title>
+                <ISOAbbreviation>Med Image Anal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GRUU-Net: Integrated convolutional and gated recurrent neural network for cell segmentation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>68-79</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1361-8415(18)30675-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.media.2019.04.011</ELocationID>
+            <Abstract>
+                <AbstractText>Cell segmentation in microscopy images is a common and challenging task. In recent years, deep neural networks achieved remarkable improvements in the field of computer vision. The dominant paradigm in segmentation is using convolutional neural networks, less common are recurrent neural networks. In this work, we propose a new deep learning method for cell segmentation, which integrates convolutional neural networks and gated recurrent neural networks over multiple image scales to exploit the strength of both types of networks. To increase the robustness of the training and improve segmentation, we introduce a novel focal loss function. We also present a distributed scheme for optimized training of the integrated neural network. We applied our proposed method to challenging data of glioblastoma cell nuclei and performed a quantitative comparison with state-of-the-art methods. Insights on how our extensions affect training and inference are also provided. Moreover, we benchmarked our method using a wide spectrum of all 22 real microscopy datasets of the Cell Tracking Challenge.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wollmann</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Computer Vision Group, BioQuant, IPMB, Heidelberg University and DKFZ, Im Neuenheimer Feld 267, Heidelberg, Germany. Electronic address: thomas.wollmann@bioquant.uni-heidelberg.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gunkel</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>High-Content Analysis of the Cell (HiCell) and Advanced Biological Screening Facility, BioQuant, Heidelberg University, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Chromatin Networks, DKFZ and BioQuant, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erfle</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>High-Content Analysis of the Cell (HiCell) and Advanced Biological Screening Facility, BioQuant, Heidelberg University, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rippe</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Chromatin Networks, DKFZ and BioQuant, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rohr</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Computer Vision Group, BioQuant, IPMB, Heidelberg University and DKFZ, Im Neuenheimer Feld 267, Heidelberg, Germany. Electronic address: k.rohr@dkfz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Med Image Anal</MedlineTA>
+            <NlmUniqueID>9713490</NlmUniqueID>
+            <ISSNLinking>1361-8415</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Convolutional neural network</Keyword>
+            <Keyword MajorTopicYN="N">Deep learning</Keyword>
+            <Keyword MajorTopicYN="N">Gated Recurrent Unit</Keyword>
+            <Keyword MajorTopicYN="N">Microscopy</Keyword>
+            <Keyword MajorTopicYN="N">Segmentation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200289</ArticleId>
+            <ArticleId IdType="pii">S1361-8415(18)30675-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.media.2019.04.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

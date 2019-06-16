@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198140</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Prognostic value of procalcitonin and C-reactive protein combined with sequential organ failure assessment score in elderly patients with sepsis induced by pulmonary infection].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>562-565</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.008</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the prognostic value of procalcitonin (PCT) and C-reactive protein (CRP) combined with sequential organ failure assessment (SOFA) score in elderly patients with sepsis induced by pulmonary infection.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective study was conducted. The elderly patients aged over 60 years old with sepsis induced by pulmonary infection admitted to Guangdong Provincial Hospital of Chinese Medicine from October 2015 to December 2018 were enrolled. The PCT, CRP and SOFA scores of patients within 24 hours after admission and 28-day prognosis were recorded. The patients were divided into groups according to the severity of the disease and 28-day prognosis. The differences in above parameters among all the groups were compared. Receiver operator characteristic (ROC) curve was drawn to analyze the prognostic value of the above indicators in elderly patients with sepsis induced by pulmonary infection alone or in combination.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 265 patients were enrolled in the study. According to the severity of the disease, the patients were divided into sepsis group (n = 194) and septic shock group (n = 71). According to the 28-day prognosis, the patients were divided into survival group (n = 186) and non-survival group (n = 79). Compared with the sepsis group, the PCT, CRP and SOFA scores of patients in the septic shock group were significantly increased [PCT (μg/L): 6.16 (1.94, 19.60) vs. 1.56 (0.34, 7.32), CRP (mg/L): 128.90 (54.93, 198.70) vs. 91.45 (30.15, 175.30), SOFA score: 9.0 (7.0, 12.0) vs. 4.0 (3.0, 5.0)] with significant differences (all P &lt; 0.05). Compared with the survival group, the PCT, CRP and SOFA scores of sepsis patients in the non-survival group were significantly increased [PCT (μg/L): 4.80 (1.06, 19.60) vs. 1.82 (0.34, 7.24), CRP (mg/L): 135.20 (58.10, 225.50) vs. 91.45 (31.50, 172.53), SOFA score: 7.0 (4.0, 11.0) vs. 4.0 (3.0, 6.0)] with significant differences (all P &lt; 0.01). ROC curve analysis showed that the area under the ROC curve (AUC) of PCT, CRP, SOFA score and CRP+PCT+SOFA score was 0.641, 0.607, 0.697, and 0.712, indicating that above parameters had certain predictive value for 28-day prognosis of elderly patients with sepsis induced by pulmonary infection, and the combined predictive value of them was the greatest with the sensitivity of 55.1% and the specificity of 80.1%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PCT, CRP and SOFA score are commonly used to evaluate the prognosis of the elderly patients with sepsis induced by pulmonary infection, and the combination of them has higher evaluation value.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Xiaolan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Quanlai</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yuntao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Research on Emergency in Traditional Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Decai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Research on Emergency in Traditional Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Danwen</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Provincial Hospital of Chinese Medicine, Guangzhou 510120, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tong</LastName>
+                    <ForeName>Junsheng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guangzhou University of Chinese Medicine, Guangzhou 510405, Guangdong, China. Corresponding author: Guo Quanlai, Email: 1250068989@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198140</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

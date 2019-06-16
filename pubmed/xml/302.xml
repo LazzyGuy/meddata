@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200104</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7544</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience</Title>
+                <ISOAbbreviation>Neuroscience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An attempt to conceptually replicate the dissociation between syntax and semantics during sentence comprehension.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0306-4522(19)30402-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroscience.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Is sentence structure processed by the same neural and cognitive resources that are recruited for processing word meanings, or do structure and meaning rely on distinct resources? Linguistic theorizing and much behavioral evidence suggest tight integration between lexico-semantic and syntactic representations and processing. However, most current proposals of the neural architecture of language continue to postulate a distinction between the two. One of the earlier and most cited pieces of neuroimaging evidence in favor of this dissociation comes from a paper by Dapretto &amp; Bookheimer (1999). Using a sentence-meaning judgment task, Dapretto &amp; Bookheimer observed two distinct peaks within the left inferior frontal gyrus (LIFG): one more active during a lexico-semantic manipulation, and the other - during a syntactic manipulation. Although the paper is highly cited, no attempt has been made, to our knowledge, to replicate the original finding. We report an fMRI study that attempts to do so. Using a combination of whole-brain, group-level ROI, and participant-specific functional ROI approaches, we fail to replicate the original dissociation. In particular, whereas parts of LIFG respond reliably more strongly during lexico-semantic than syntactic processing, no part of LIFG (including in the region defined around the peak reported by Dapretto &amp; Bookheimer) shows the opposite pattern. We speculate that the original result was a false positive, possibly driven by a small subset of participants or items that biased a fixed-effects analysis with low power.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Siegelman</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIT, Department of Brain and Cognitive Sciences; Columbia University, Department of Psychology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blank</LastName>
+                    <ForeName>Idan A</ForeName>
+                    <Initials>IA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIT, Department of Brain and Cognitive Sciences; UCLA, Department of Psychology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mineroff</LastName>
+                    <ForeName>Zachary</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIT, Department of Brain and Cognitive Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fedorenko</LastName>
+                    <ForeName>Evelina</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIT, Department of Brain and Cognitive Sciences; MIT, McGovern Institute for Brain Research; MGH, Department of Psychiatry. Electronic address: evelina9@mit.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroscience</MedlineTA>
+            <NlmUniqueID>7605074</NlmUniqueID>
+            <ISSNLinking>0306-4522</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200104</ArticleId>
+            <ArticleId IdType="pii">S0306-4522(19)30402-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroscience.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

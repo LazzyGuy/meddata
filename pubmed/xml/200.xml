@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200210</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-5623</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cognitive psychology</Title>
+                <ISOAbbreviation>Cogn Psychol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selective sampling and inductive inference: Drawing inferences based on observed and missing evidence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101221</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0010-0285(18)30162-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cogpsych.2019.05.003</ELocationID>
+            <Abstract>
+                <AbstractText>We propose and test a Bayesian model of property induction with evidence that has been selectively sampled leading to &quot;censoring&quot; or exclusion of potentially relevant data. A core model prediction is that identical evidence samples can lead to different patterns of inductive inference depending on the censoring mechanisms that cause some instances to be excluded. This prediction was confirmed in four experiments examining property induction following exposure to identical samples that were subject to different sampling frames. Each experiment found narrower generalization of a novel property when the sample instances were selected because they shared a common property (property sampling) than when they were selected because they belonged to the same category (category sampling). In line with model predictions, sampling frame effects were moderated by the addition of explicit negative evidence (Experiment 1), sample size (Experiment 2) and category base rates (Experiments 3-4). These data show that reasoners are sensitive to constraints on the sampling process when making property inferences; they consider both the observed evidence and the reasons why certain types of evidence has not been observed.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hayes</LastName>
+                    <ForeName>Brett K</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of New South Wales, Australia. Electronic address: B.hayes@unsw.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banner</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forrester</LastName>
+                    <ForeName>Suzy</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Navarro</LastName>
+                    <ForeName>Danielle J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cogn Psychol</MedlineTA>
+            <NlmUniqueID>0241111</NlmUniqueID>
+            <ISSNLinking>0010-0285</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bayesian models</Keyword>
+            <Keyword MajorTopicYN="N">Categorization</Keyword>
+            <Keyword MajorTopicYN="N">Inductive reasoning</Keyword>
+            <Keyword MajorTopicYN="N">Property inference</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200210</ArticleId>
+            <ArticleId IdType="pii">S0010-0285(18)30162-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cogpsych.2019.05.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

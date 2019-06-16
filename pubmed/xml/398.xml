@@ -1,0 +1,192 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200003</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Life sciences</Title>
+                <ISOAbbreviation>Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Renin-angiotensin system activation and imbalance of matrix metalloproteinase-9/tissue inhibitor of matrix metalloproteinase-1 in cold-induced stroke.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>116563</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0024-3205(19)30489-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.lfs.2019.116563</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">In the present study, we investigated the roles of renin-angiotensin system (RAS) activation and imbalance of matrix metalloproteinase-9 (MMP-9)/tissue inhibitor of matrix metalloproteinase-1 (TIMP-1) in cold-induced stroke during chronic hypertension, as well as the protective effects of captopril and recombinant human TIMP-1 (rhTIMP-1).</AbstractText>
+                <AbstractText Label="MAIN METHODS" NlmCategory="METHODS">Rats were randomly assigned to sham; 2-kidney, 2-clip (2K-2C); 2K-2C + captopril, and 2K-2C + rhTIMP-1 groups. After blood pressure values had stabilized, each group was randomly divided into an acute cold exposure (ACE) group (12-h light at 22 °C/12-h dark at 4 °C) and a non-acute cold exposure (NACE) group (12-h light/12-h dark at 22 °C), each of which underwent three cycles of exposure. Captopril treatment was administered via gavage (50 mg/kg/d), while rhTIMP-1 treatment was administered via the tail vein (60 μg/kg/36 h).</AbstractText>
+                <AbstractText Label="KEY FINDINGS" NlmCategory="RESULTS">In the 2K-2C group, angiotensin II (AngII) and MMP-9 levels increased in both the plasma and cortex, while no such changes in TIMP-1 expression were observed. Cold exposure further upregulated AngII and MMP-9 levels and increased stroke incidence. Captopril and rhTIMP-1 treatment inhibited MMP-9 expression and activation and decreased stroke incidence in response to cold exposure.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">The present study is the first to demonstrate that cold exposure exacerbates imbalance between MMP-9 and TIMP-1 by activating the RAS, which may be critical in the initiation of stroke during chronic hypertension. In addition, our results suggest that captopril and rhTIMP-1 exert protective effects against cold-induced stroke by ameliorating MMP-9/TIMP-1 imbalance.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Yu-Ying</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Huan-Min</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Third Affiliated Hospital of Southern Medical University, No. 183, West Zhongshan Avenue, Tianhe District, Guangzhou, Guangdong 510630, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Zhen-Xing</ForeName>
+                    <Initials>ZX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ming-Chun</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Ji-Peng</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Wen-Xia</ForeName>
+                    <Initials>WX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Si-Qin</ForeName>
+                    <Initials>SQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Yi-Ting</ForeName>
+                    <Initials>YT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Hui-Fang</ForeName>
+                    <Initials>HF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China. Electronic address: xhffhx@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chun-Guang</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Zhujiang Hospital, Southern Medical University, No. 253, Middle Industrial Avenue, Haizhu District, Guangzhou, Guangdong 510282, PR China. Electronic address: lichunguang2005@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Life Sci</MedlineTA>
+            <NlmUniqueID>0375521</NlmUniqueID>
+            <ISSNLinking>0024-3205</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2-Clip</Keyword>
+            <Keyword MajorTopicYN="N">2-Kidney</Keyword>
+            <Keyword MajorTopicYN="N">Angiotensin II</Keyword>
+            <Keyword MajorTopicYN="N">Captopril</Keyword>
+            <Keyword MajorTopicYN="N">Cold exposure</Keyword>
+            <Keyword MajorTopicYN="N">rhTIMP-1</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200003</ArticleId>
+            <ArticleId IdType="pii">S0024-3205(19)30489-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.lfs.2019.116563</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

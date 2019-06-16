@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199170</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-5094</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ophthalmic genetics</Title>
+                <ISOAbbreviation>Ophthalmic Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Does <i>CETP</i> rs5882, rs708272, <i>SIRT1</i> rs12778366, <i>FGFR2 rs2981582, STAT3</i> rs744166, <i>VEGFA</i> rs833068, <i>IL6</i> rs1800795 polymorphisms play a role in optic neuritis development?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/13816810.2019.1622022</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objectives</b>: Optic neuritis (ON) is defined as inflammation of the optic nerve, which is mostly idiopathic. However, it can be associated with various causes (demyelinating lesions, autoimmune disorders, infectious and inflammatory conditions). Inflammatory demyelinating disorder of the optic nerve can be associated with multiple sclerosis. It is thought that <i>CETP, SIRT1, FGFR2, STAT3, VEGFA</i> and <i>IL6</i> genes play a key role in this autoimmune inflammatory disease. The aim of our study was to determine if the frequency of the <i>CETP, SIRT1, FGFR2, STAT3, VEGFA</i> and <i>IL6</i> gene polymorphisms have an influence on the development of acute ON. <b>Methods</b>: The study enrolled patients with ON and a random sample of healthy population. The genotyping test of the <i>CETPrs5882,rs708272, SIRT1</i>rs12778366, <i>FGFR2rs2981582, STAT3</i>rs744166, <i>VEGFA</i>rs833068, <i>IL6</i>rs1800795 polymorphisms was carried out using the RT-PCR method. <b>Results</b>: Our study determined that the G/A genotype of <i>CETP</i>rs708272 was associated with two-fold-decreased odds of ON development under the codominant (OR = 0.495;95%CI:0.256-0.959) and overdominant (OR = 0.501;95%CI:0.280-0.895) models. Also, each allele C at <i>VEGFA</i>rs833068 was associated with 1.7-fold increased odds of ON development under the additive model (OR = 1.733;95%CI:1.148-2.615). Furthermore, <i>IL6</i> rs1800795 G/G genotype was associated with increased odds of ON development under the codominant (OR = 2.869;95%CI:1.280-6.434) and recessive (OR = 2.315;95%CI:1.251-4.285) models. <b>Conclusions</b>: We revealed that the genotypes of <i>CETP</i>rs708272 G/A, <i>IL6</i>rs1800795 G/G, and each allele C at <i>VEGFA</i>rs833068 were associated with ON. <i>CETP</i>rs708272 G/G genotype was associated with decreased by 62% odds of ON with MS development under the recessive (OR = 0.379;95%CI:0.155-0.929; <i>p</i> = .034) model.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gedvilaite</LastName>
+                    <ForeName>Greta</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Lithuanian University of Health Sciences , Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Neuroscience Institute , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vilkeviciute</LastName>
+                    <ForeName>Alvita</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Neuroscience Institute , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kriauciuniene</LastName>
+                    <ForeName>Loresa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Neuroscience Institute , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Ophthalmology , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asmoniene</LastName>
+                    <ForeName>Virginija</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Department of genetics and molecular medicine , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liutkeviciene</LastName>
+                    <ForeName>Rasa</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Neuroscience Institute , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Ophthalmology , Lithuanian University of Health Sciences, Medical Academy , Kaunas , Lithuania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Ophthalmic Genet</MedlineTA>
+            <NlmUniqueID>9436057</NlmUniqueID>
+            <ISSNLinking>1381-6810</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CETP</Keyword>
+            <Keyword MajorTopicYN="N">FGFR2</Keyword>
+            <Keyword MajorTopicYN="N">IL6</Keyword>
+            <Keyword MajorTopicYN="N">Optic neuritis</Keyword>
+            <Keyword MajorTopicYN="N">SIRT1</Keyword>
+            <Keyword MajorTopicYN="N">STAT3</Keyword>
+            <Keyword MajorTopicYN="N">VEGFA</Keyword>
+            <Keyword MajorTopicYN="N">gene polymorphisms</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199170</ArticleId>
+            <ArticleId IdType="doi">10.1080/13816810.2019.1622022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

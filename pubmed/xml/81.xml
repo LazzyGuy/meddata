@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200333</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-5891</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>380</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hearing research</Title>
+                <ISOAbbreviation>Hear. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Topological reorganization after partial auditory deprivation-a structural connectivity study in single-sided deafness.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-5955(19)30017-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.heares.2019.05.010</ELocationID>
+            <Abstract>
+                <AbstractText>Growing evidence shows that partial auditory deprivation leads to extensive neural functional plasticity, which occurs not only in the auditory cortex but also in other sensory regions and cognitive areas. However, studies in structural topological properties are still limited, especially those investigating the relationship between structural connectome alterations and auditory abilities. To clarify this, we investigated white matter structural connectivity changes and the relationship between connection strength and hearing abilities in individuals with long-term single-sided deafness (SSD), a common form of partial hearing deprivation, using diffusion tensor imaging and network-based analysis. The results showed globally improved connection efficiency, locally weakened visual networks, and strengthened fronto-parietal sub-networks in SSD compared to normal hearing controls. Furthermore, a strong positive correlation between hearing abilities (including speech recognition in noise and sound localization) and connection strength, mainly in the fronto-parietal areas, was found in SSD. Our study reveals alteration of the structural network connections in SSD, especially in cognitive related networks, which showed close correlation with hearing abilities. Our findings provide new insights into topological white matter reorganization of the brain after partial sensory deprivation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xuesong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Computer Science and Technology, Beijing Institute of Technology, Beijing, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiao</LastName>
+                    <ForeName>Yufei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otorhinolaryngology, Peking Union Medical College Hospital, Beijing, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Hang</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Peking Union Medical College Hospital, Beijing, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niu</LastName>
+                    <ForeName>Zhendong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Computer Science and Technology, Beijing Institute of Technology, Beijing, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shang</LastName>
+                    <ForeName>Yingying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otorhinolaryngology, Peking Union Medical College Hospital, Beijing, People's Republic of China. Electronic address: yyingshang@aliyun.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Imaging Research, Department of Biomedical Engineering, School of Medicine, Tsinghua University, Beijing, People's Republic of China. Electronic address: huaguo@tsinghua.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Hear Res</MedlineTA>
+            <NlmUniqueID>7900445</NlmUniqueID>
+            <ISSNLinking>0378-5955</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Auditory deprivation</Keyword>
+            <Keyword MajorTopicYN="N">DTI</Keyword>
+            <Keyword MajorTopicYN="N">Reorganization</Keyword>
+            <Keyword MajorTopicYN="N">Single-sided deafness</Keyword>
+            <Keyword MajorTopicYN="N">Structural connectivity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200333</ArticleId>
+            <ArticleId IdType="pii">S0378-5955(19)30017-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.heares.2019.05.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199296</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predictors of Patients' Intention to Interact With Doctors in Web-Based Health Communities in China: Cross-Sectional Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13693</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13693</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Web-based health communities provide opportunities for doctors and patients to interact with each other and change the traditional communication mode between doctors and patients. However, little is known about the predictors of patients' intention to interact with doctors in Web-based health communities in China.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study was to investigate what are the predictors of patients' intention to interact with doctors in Web-based health communities in China.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">On the basis of two-factor theory and service convenience theory, we propose that the attributes of Web-based health communities including ease of use and perceived synchronicity influence patients' intention to interact through convenience of Web-based health communities, whereas the attributes of physical health facilities such as inaccessibility and discontinuity affect patients' intention to interact through inconvenience of physical health facilities. We employed the survey method to validate our hypothesized relationships. Through developing the measurement instruments, we collected 334 valid answers from Web health community users and utilized partial least square to analyze the data.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ease of use (t<sub>311</sub>=2.924, P=.004) and perceived synchronicity (t<sub>311</sub>=2.353, P=.019) were found to influence convenience of Web-based health communities significantly, whereas inaccessibility (t<sub>311</sub>=3.189, P=.002) and discontinuity (t<sub>311</sub>=3.149, P=.002) were found to impact inconvenience of physical health facilities significantly. Meanwhile, both convenience of Web-based health communities (t<sub>311</sub>=2.353, P=.019) and inconvenience of physical health facilities (t<sub>311</sub>=2.787, P=.006) were found to affect patients' intention to interact with doctors in Web-based health communities significantly. Therefore, all the proposed hypotheses were supported.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Through including factors from both Web-based health communities and physical health facilities, we can understand patients' intention to interact comprehensively. This study not only contributes to literature of doctor-patient interaction and Web-based health platforms but also provides implications to promote doctor-patient interaction online and offline.</AbstractText>
+                <CopyrightInformation>©Tailai Wu, Zhaohua Deng, Zhuo Chen, Donglan Zhang, Ruoxi Wang, Xiang Wu. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Tailai</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2025-3123</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Health Management, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Zhaohua</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7744-7818</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Health Management, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhuo</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5351-3489</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Policy and Management, College of Public Health, University of Georgia, Athens, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Economics, Faculty of Humanities and Social Sciences, University of Nottingham Ningbo China, Ningbo, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Donglan</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5225-4721</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Policy and Management, College of Public Health, University of Georgia, Athens, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ruoxi</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9695-0582</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Health Management, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8757-4442</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Health Management, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">community network</Keyword>
+            <Keyword MajorTopicYN="N">medical informatics</Keyword>
+            <Keyword MajorTopicYN="N">patients</Keyword>
+            <Keyword MajorTopicYN="N">physicians</Keyword>
+            <Keyword MajorTopicYN="N">psychological theory</Keyword>
+            <Keyword MajorTopicYN="N">social theory</Keyword>
+            <Keyword MajorTopicYN="N">telemedicine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199296</ArticleId>
+            <ArticleId IdType="pii">v21i6e13693</ArticleId>
+            <ArticleId IdType="doi">10.2196/13693</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,171 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199128</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Negative Gauge Factor Piezoresistive Composites Based on Polymers Filled with MoS<sub>2</sub> Nanosheets.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsnano.9b01613</ELocationID>
+            <Abstract>
+                <AbstractText>Nanocomposite strain sensors, particularly those consisting of polymer-graphene composites, are increasingly common and are of great interest in the area of wearable sensors. In such sensors, application of strain yields an increase in resistance due to the effect of deformation on interparticle junctions. Typically, widening of interparticle separation is thought to increase the junction resistance by reducing the probability of tunnelling between conducting particles. However, an alternative approach would be to use piezoresistive fillers, where an applied strain modifies the intrinsic filler resistance and so the overall composite resistance. Such an approach would broaden sensing capabilities, as using negative piezoresistive fillers could yield strain-induced resistance reductions rather than the usual resistance increases. Here, we introduce nanocomposites based on polyethylene oxide (PEO) filled with MoS<sub>2</sub> nanosheets. Doping of the MoS<sub>2</sub> by the PEO yields nanocomposites which are conductive enough to act as sensors, while efficient stress transfer leads to nanosheet deformation in response to an external strain. The intrinsic negative piezoresistance of the MoS<sub>2</sub> leads to a reduction of the composite resistance on the application of small tensile strains. However, at higher strain the resistance grows due to increases in junction resistance. MoS<sub>2</sub>-PEO composite gauge factors are approximately -25 but fall to -12 for WS<sub>2</sub>-PEO composites and roughly -2 for PEO filled with MoSe<sub>2</sub> or WSe<sub>2</sub>. We develop a simple model, which describes all these observations. Finally, we show that these composites can be used as dynamic strain sensors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Biccai</LastName>
+                    <ForeName>Sonia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boland</LastName>
+                    <ForeName>Conor S</ForeName>
+                    <Initials>CS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4376-6770</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Driscoll</LastName>
+                    <ForeName>Daniel P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harvey</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabbett</LastName>
+                    <ForeName>Cian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Suilleabhain</LastName>
+                    <ForeName>Domhnall R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffin</LastName>
+                    <ForeName>Aideen J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Zheling</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8412-0234</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>National Graphene Institute and School of Materials , The University of Manchester , Manchester M13 9PL , United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Robert J</ForeName>
+                    <Initials>RJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6073-9489</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>National Graphene Institute and School of Materials , The University of Manchester , Manchester M13 9PL , United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coleman</LastName>
+                    <ForeName>Jonathan N</ForeName>
+                    <Initials>JN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9659-9721</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, CRANN &amp; AMBER Research Centers , Trinity College Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2-dimensional</Keyword>
+            <Keyword MajorTopicYN="N">graphene</Keyword>
+            <Keyword MajorTopicYN="N">liquid-phase exfoliation</Keyword>
+            <Keyword MajorTopicYN="N">strain gauge</Keyword>
+            <Keyword MajorTopicYN="N">transition-metal dichalcogenide</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199128</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsnano.9b01613</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

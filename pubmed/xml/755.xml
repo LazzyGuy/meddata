@@ -1,0 +1,213 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199602</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-7634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer medicine</Title>
+                <ISOAbbreviation>Cancer Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comprehensive genomic profiling of small cell lung cancer in Chinese patients and the implications for therapeutic potential.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.2199</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Small cell lung cancer (SCLC) is one of the deadliest malignancies and accounts for nearly 15% of lung cancers. Previous study had revealed the genomic characterization of SCLC in Western patients. However, little is known about that in Chinese SCLC patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Formalin-fixed paraffin-embedded tumor tissues and matched blood samples from 122 Chinese SCLC patients were collected for next generation sequencing to detect 450 cancer-related genes. All pathological diagnoses were confirmed by independent pathologists.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The most frequently altered genes were TP53 (93.4%), RB1 (78.7%), LRP1B (18.9%), KMT2D (15.6%), FAT1 (11.5%), KMT2C (11.5%), SPTA1 (11.5%), STK24 (11.5%), FAM135B (10.7%), and NOTCH1 (10.7%). The gene fusion/rearrangement detection rate was 16.4%, and mostly occurred in chromosomes 7 and 17. The rate of co-occurring mutations of TP53 and RB1 in these Chinese SCLC patients was 74.6%, and lower than the reported Western patients (90.9%, P = 0.007). The most common gene mutations (83.6%) were found in cell cycle signaling pathway in Chinese SCLC patients. Mutation of Wnt and Notch signaling pathways in the Chinese cohort were lower than Western cohort (P = 0.0013 and 0.0068). A significant association was found between high tumor mutation burden and mutations involved in FAT1, TP53, SPTA1, KEAP1, KMT2D, MAGI2, NOTCH2, NOTCH3, FLT1, KDM6A, and FAT4.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this study, we characterized the genomic alterations profile of Chinese SCLC patients. Compared with westerners, the genetic alterations of Chinese SCLC patients presented different patterns. Our data might provide useful information in targeted therapy and drug development for Chinese SCLC patients.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, First People's Hospital of Yunnan Province, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tumor Research and Therapy Center, Shandong Provincial Hospital Affiliated to Shandong University, Ji'nan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Yanfei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Kuai</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9293-987X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3377-6289</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>OrigiMed, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Precision Medicine Center, Shulan (Hangzhou) Hospital, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gu</LastName>
+                    <ForeName>Weiguang</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, Southern Medical University Nanfang Hospital, Foshan, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, People's Hospital of Nan Hai District, Foshan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shou</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9594-5546</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, First People's Hospital of Yunnan Province, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2018FE001</GrantID>
+                    <Agency>Yunnan Province Applied Basic Research Project</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>2017NS261</GrantID>
+                    <Agency>Health Family Planning Commission of Yunnan Province</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Med</MedlineTA>
+            <NlmUniqueID>101595310</NlmUniqueID>
+            <ISSNLinking>2045-7634</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">comprehensive genomic profiling</Keyword>
+            <Keyword MajorTopicYN="N">next generation sequencing</Keyword>
+            <Keyword MajorTopicYN="N">small cell lung cancer</Keyword>
+            <Keyword MajorTopicYN="N">targeted therapy</Keyword>
+            <Keyword MajorTopicYN="N">tumor mutation burden</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199602</ArticleId>
+            <ArticleId IdType="doi">10.1002/cam4.2199</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

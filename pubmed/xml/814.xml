@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199541</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1554-7531</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Water environment research : a research publication of the Water Environment Federation</Title>
+                <ISOAbbreviation>Water Environ. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of the Use of Mainstream Iron Addition for Phosphorous Control on H<sub>2</sub> S Content of Biogas from Anaerobic Digestion of Sludges.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/wer.1161</ELocationID>
+            <Abstract>
+                <AbstractText>A materials flux analysis on sulfur (S), phosphorus (P), aluminum (Al) and iron (Fe) was conducted for two WWTPs (Galt and Kitchener) to evaluate the potential of coagulants that are employed for phosphorus control to reduce hydrogen sulfide (H<sub>2</sub> S) emissions in the biogas from anaerobic digestion. It was found that while the Galt WWTP receives higher concentrations of S in the raw wastewater than the Kitchener WWTP, this had only a modest impact on the speciation of S entering anaerobic digestion. At both plants only 2-4% of influent S entered the digesters. The presence of Fe in the sludge stream was found to cause S, that is released by volatile solids destruction and sulfate (SO<sub>4</sub><sup>2-</sup> )reduction, to become particulate bound. A dosage of 1.1 mg/L of Fe into the raw wastewater (11% of the Fe dosed for P control) was sufficient for sulfide (S<sup>2-</sup> ) control. Transitioning the Galt WWTP from Al to Fe dosing for P control had no significant impact on effluent P concentrations and resulted in a substantial reduction of the biogas H<sub>2</sub> S concentration. An additional secondary benefit was an increase in the solids content of the dewatered cake. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Parker</LastName>
+                    <ForeName>Wayne</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Civil and Environmental Engineering, University of Waterloo, 200 University Ave West, Waterloo, ON, N2L 3G1.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Celmer-Repin</LastName>
+                    <ForeName>Dominika</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water Services Division, Wastewater Operations,, Regional Municipality of Waterloo, 150 Frederick St., Kitchener, Ontario, N2G 4J3.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bicudo</LastName>
+                    <ForeName>José</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water Services Division, Wastewater Operations,, Regional Municipality of Waterloo, 150 Frederick St., Kitchener, Ontario, N2G 4J3.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Law</LastName>
+                    <ForeName>Pam</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water Services Division, Wastewater Operations,, Regional Municipality of Waterloo, 150 Frederick St., Kitchener, Ontario, N2G 4J3.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Water Environ Res</MedlineTA>
+            <NlmUniqueID>9886167</NlmUniqueID>
+            <ISSNLinking>1061-4303</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anaerobic</Keyword>
+            <Keyword MajorTopicYN="N">Biogas</Keyword>
+            <Keyword MajorTopicYN="N">Hydrogen sulfide</Keyword>
+            <Keyword MajorTopicYN="N">aluminum</Keyword>
+            <Keyword MajorTopicYN="N">iron</Keyword>
+            <Keyword MajorTopicYN="N">phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199541</ArticleId>
+            <ArticleId IdType="doi">10.1002/wer.1161</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

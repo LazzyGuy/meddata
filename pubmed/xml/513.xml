@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199877</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1899-5276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in clinical and experimental medicine : official organ Wroclaw Medical University</Title>
+                <ISOAbbreviation>Adv Clin Exp Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Significance of apoptosis and autophagy of leukemic blasts for the outcomes of acute myeloid leukemia patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17219/acem/93849</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cytostatic treatment induces apoptosis or other types of cell death like autophagy, necrosis, mitotic catastrophe, etc. Autophagy can play a role in the drug resistance of neoplastic cells, allowing the survival of blast cells under stressful conditions, such as the use of cytostatics. Studies on apoptosis and autophagy 12-24 h after the start of treatment have not been conducted until now.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The study aimed to investigate the predictive and prognostic significance of autophagy and apoptosis in patients with acute myeloid leukemia (AML).</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">The study included 38 patients. Blood was collected before and 12-24 h after the start of treatment, since at that time point, the appropriate blast cell count was still available. Autophagy was measured with the expression of the ATG5, MAP1L3, LC3-I, and LC3-II proteins. The percentage of mononuclear cells in early and late apoptosis was evaluated with flow cytometry, using the annexin V and propidium iodide (PI) binding assay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The percentage of apoptotic blast cells before treatment was not associated with the response. However, in the remission group, the overall percentage of apoptotic cells measured 12-24 h after the start of treatment was higher than in non-remission patients, which was statistically significant. In neither group we found any difference in the level of autophagy before and 12-24 h after the start of treatment. Nevertheless, we observed an increasing tendency of the MAP1LC3 protein expression (not statistically significant) in the remission group 12-24 h after the start of treatment. Patients with a higher percentage of blast cells in apoptosis and with a higher expression of MAP1LC3 protein measured 12-24 h after the start of the therapy had longer overall survival (OS).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A higher percentage of apoptotic as well as autophagic blast cells measured 12-24 h after the start of the chemotherapy is an independent factor associated with better outcomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dereń-Wagemann</LastName>
+                    <ForeName>Izabela Elżbieta</ForeName>
+                    <Initials>IE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, Blood Cancers and Bone Marrow Transplantation, University Hospital No. 1, Wrocław, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuliczkowski</LastName>
+                    <ForeName>Kazimierz</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, Blood Cancers and Bone Marrow Transplantation, University Hospital No. 1, Wrocław, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Adv Clin Exp Med</MedlineTA>
+            <NlmUniqueID>101138582</NlmUniqueID>
+            <ISSNLinking>1899-5276</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">acute myeloid leukemia</Keyword>
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199877</ArticleId>
+            <ArticleId IdType="doi">10.17219/acem/93849</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

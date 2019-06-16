@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199077</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-4658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The FEBS journal</Title>
+                <ISOAbbreviation>FEBS J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The AP2 adaptor enhances clathrin coat stiffness.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/febs.14961</ELocationID>
+            <Abstract>
+                <AbstractText>Deformation of the plasma membrane into clathrin-coated vesicles is a critical step in clathrin-mediated endocytosis and requires the orchestrated assembly of clathrin and endocytic adaptors into a membrane-associated protein coat. The individual role of these membrane-bending and curvature-stabilising factors is subject to current debate. As such, it is unclear whether the clathrin coat itself is stiff enough to impose curvature and if so, whether this could be effectively transferred to the membrane by the linking adaptor proteins. We have recently demonstrated that clathrin alone is sufficient to form membrane buds in vitro. Here we use atomic force microscopy to assess the contributions of clathrin and its membrane adaptor AP2 to clathrin coat stiffness, which determines the mechanics of vesicle formation. We found that clathrin coats are less than ten-fold stiffer than the membrane they enclose, suggesting a delicate balance between the forces harnessed from clathrin coat formation and those required for membrane bending. We observed that clathrin adaptor protein AP2 increased the stiffness of coats formed from native clathrin, but did not affect less-flexible coats formed from clathrin lacking the light chain subunits. We thus propose that CLCs are important for clathrin coat flexibility and that AP2 facilitates efficient cargo sequestration during coated vesicle formation by modulating clathrin coat stiffness. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lherbette</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biological Chemistry, Biophysics and Bioengineering School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Redlingshöfer</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Structural and Molecular Biology, Division of Biosciences, University College London, and Institute of Structural and Molecular Biology, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brodsky</LastName>
+                    <ForeName>Frances M</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Structural and Molecular Biology, Division of Biosciences, University College London, and Institute of Structural and Molecular Biology, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaap</LastName>
+                    <ForeName>Iwan A T</ForeName>
+                    <Initials>IAT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biological Chemistry, Biophysics and Bioengineering School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dannhauser</LastName>
+                    <ForeName>Philip N</ForeName>
+                    <Initials>PN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Structural and Molecular Biology, Division of Biosciences, University College London, and Institute of Structural and Molecular Biology, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS J</MedlineTA>
+            <NlmUniqueID>101229646</NlmUniqueID>
+            <ISSNLinking>1742-464X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+AFM
+</Keyword>
+            <Keyword MajorTopicYN="N">clathrin</Keyword>
+            <Keyword MajorTopicYN="N">membrane biophysics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199077</ArticleId>
+            <ArticleId IdType="doi">10.1111/febs.14961</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

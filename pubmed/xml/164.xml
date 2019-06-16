@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200247</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-376X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1124</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+                <ISOAbbreviation>J. Chromatogr. B Analyt. Technol. Biomed. Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A validated HPTLC method for the simultaneous quantifications of three phenolic acids and three withanolides from Withania somnifera plants and its herbal products.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>154-160</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1570-0232(19)30662-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jchromb.2019.06.009</ELocationID>
+            <Abstract>
+                <AbstractText>A simple, rapid and selective high-performance thin-layer chromatographic (HPTLC) method has been developed and validated for simultaneous determination of three withanolides (withaferin A, withanone and withanolide A) and three phenolic acids (caffeic acid, ferulic acid and benzoic acid) from different parts (root, stem and leaf) of Withania somnifera and its two commercially available polyherbal formulations. The extraction efficiency of withanolides and phenolic acids were tested using two solvents, chloroform and methanol, respectively. HPTLC separation was performed on silica coated aluminium plates Si 60F<sub>254</sub>; using toluene, ethyl acetate and acetic acid (60:40:4). The samples were quantitated at 231 nm. The purity and identity of peaks of all the six analytes were confirmed by matching Rf values and UV-spectrum with authentic standards. The identity of three withanolides was further confirmed by positive ion electrospray ionization mass spectrometry (ESI-MS/MS) analyses. The developed method was validated for sensitivity, linearity, reproducibility, accuracy, the limit of detection (LOD) and limit of quantification (LOQ) following the guidelines of the International Conference on Harmonization (ICH). The method was found to be linear (r &gt; 0.99) in the range of 50-2000 ng/band for benzoic acid and 50-1000 ng/band for the other five studied metabolites. This simple and accurate HPTLC method provided enhanced resolution of studied analytes as compared to other phytoconstituents present in W. somnifera extracts. It has also been successfully applied in the analysis and quantification of two polyherbal formulations containing W. somnifera plant parts.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tomar</LastName>
+                    <ForeName>Varsha</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Molecular Biology Group, Biotechnology Department, Indian Institute of Technology Roorkee, Roorkee 247667, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beuerle</LastName>
+                    <ForeName>Till</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Pharmaceutical Biology, Technische Universität Braunschweig, Mendelssohnstrasse 1, D-38106 Braunschweig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sircar</LastName>
+                    <ForeName>Debabrata</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Molecular Biology Group, Biotechnology Department, Indian Institute of Technology Roorkee, Roorkee 247667, India. Electronic address: debsrfbt@iitr.ac.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+            <NlmUniqueID>101139554</NlmUniqueID>
+            <ISSNLinking>1570-0232</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ashwagandha</Keyword>
+            <Keyword MajorTopicYN="N">ESI-MS/MS</Keyword>
+            <Keyword MajorTopicYN="N">Phenolic acid</Keyword>
+            <Keyword MajorTopicYN="N">Withaferin A</Keyword>
+            <Keyword MajorTopicYN="N">Withania somnifera</Keyword>
+            <Keyword MajorTopicYN="N">Withanone</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200247</ArticleId>
+            <ArticleId IdType="pii">S1570-0232(19)30662-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jchromb.2019.06.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

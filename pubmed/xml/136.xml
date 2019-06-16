@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200275</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0429</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in biotechnology</Title>
+                <ISOAbbreviation>Curr. Opin. Biotechnol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Caged luciferins for bioluminescent activity-based sensing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>198-204</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0958-1669(18)30175-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.copbio.2019.05.002</ELocationID>
+            <Abstract>
+                <AbstractText>Bioluminescence imaging is a powerful modality for in vivo imaging owing to its low background and high signal-to-noise ratio. Because bioluminescent emission occurs only upon the catalytic reaction between the luciferase enzyme and its luciferin substrate, caging luciferins with analyte-reactive triggers offers a general approach for activity-based sensing of specific biochemical processes in living systems across cell, tissue, and animal models. In this review, we summarize recent efforts in the development of synthetic caged luciferins for tracking enzyme, small molecule, and metal ion activity and their contributions to physiological and pathological processes.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Timothy A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of California, Berkeley, CA 94720, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruemmer</LastName>
+                    <ForeName>Kevin J</ForeName>
+                    <Initials>KJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of California, Berkeley, CA 94720, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of California, Berkeley, CA 94720, United States; Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, United States; Helen Wills Neuroscience Institute, University of California, Berkeley, CA 94720, United States; Howard Hughes Medical Institute, University of California, Berkeley, California 94720, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Biotechnol</MedlineTA>
+            <NlmUniqueID>9100492</NlmUniqueID>
+            <ISSNLinking>0958-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200275</ArticleId>
+            <ArticleId IdType="pii">S0958-1669(18)30175-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.copbio.2019.05.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199723</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of the contact angle of water on set elastomeric impression materials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>i6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The hydrophilicity of some elastomeric impression materials has not been fully established. The purpose of this study was to measure and compare the advancing contact angle of water on the surface of several set elastomeric impression materials.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We tested various consistencies of vinyl polysiloxane (VPS; Imprint 4) and vinyl polyether silicone (VPES; EXA'lence) with a polyether (PE; Impregum Soft) control. Impression discs (25.07 mm) were made using a metal die and ring. Deionized ultra-filtered water was placed on each disc and contact-angle measurements were made at 0, 15, 30, 45 and 60 s using a video contact angle drop shape analysis machine. The data were analyzed using repeated ANOVA and a post-hoc test with Bonferroni correction.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">VPS contact angles reached a mean of 10.1° ± 0.2° at 60 s vs. 40.7° ± 0.1° for VPES. Overall, VPS contact angles were smaller than those for VPES at all measured times. However, heavy and super quick heavy VPS had much higher contact angles at 0 s compared with other VPS consistencies. There was a significant difference in contact angles between VPS and VPES (mean difference 33.9°, p &lt; 0.05) and between VPS and PE (mean difference 32.8°, p &lt; 0.05) but not between VPES and PE (P = 0.196). VPS heavy and super quick heavy were significantly different from other VPS materials (p &lt; 0.05), but not from each other (p = 1.00).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Set VPS is more hydrophilic than VPES. Contact-angle values of VPS indicated super hydrophilicity. VPES was hydrophilic, with measurements similar to the PE control. Thus, VPS impression materials may be excellent in terms of spreading and copying wet surfaces.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nassar</LastName>
+                    <ForeName>Usama</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavoossi</LastName>
+                    <ForeName>Faraz</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Yan Wen</ForeName>
+                    <Initials>YW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milavong-Viravongsa</LastName>
+                    <ForeName>Nathan</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heo</LastName>
+                    <ForeName>Giseon</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nychka</LastName>
+                    <ForeName>John A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199723</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

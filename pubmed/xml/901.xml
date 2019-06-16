@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199432</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-7023</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Integrative and comparative biology</Title>
+                <ISOAbbreviation>Integr. Comp. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Do Coral Reefs Promote Morphological Diversification? Exploration of Habitat Effects on Labrid Pharyngeal Jaw Evolution in the Era of Big Data.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">icz103</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/icb/icz103</ELocationID>
+            <Abstract>
+                <AbstractText>Coral reefs are complex marine habitats that have been hypothesized to facilitate functional specialization and increased rates of functional and morphological evolution. Wrasses (Labridae: Percomorpha) in particular, have diversified extensively in these coral reef environments and have evolved adaptations to further exploit reef-specific resources. Prior studies have found that reef-dwelling wrasses exhibit higher rates of functional evolution, leading to higher functional variation than in non-reef dwelling wrasses. Here, we examine this hypothesis in the lower pharyngeal tooth plate of 134 species of reef and non-reef-associated labrid fishes using high-resolution morphological data in the form of micro-CT scans and employing three-dimensional geometric morphometrics to quantify shape differences. We find that reef-dwelling wrasses do not differ from non-reef-associated wrasses in morphological disparity or rates of shape evolution. However, we find that some reef-associated species (e.g. parrotfishes &amp; tubelips) exhibit elevated rates of pharyngeal jaw shape evolution and have colonized unique regions of morphospace. These results suggest that while coral reef association may provide the opportunity for specialization and morphological diversification, species must still be able to capitalize on the ecological opportunities to invade novel niche space, and that these novel invasions may prompt rapid rates of morphological evolution in the associated traits that allow them to capitalize on new resources.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society for Integrative and Comparative Biology. All rights reserved. For permissions please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Kory M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Minnesota, College of Food, Agricultural and Natural Resource Sciences, St. Paul, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Keiffer L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Minnesota, College of Food, Agricultural and Natural Resource Sciences, St. Paul, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westneat</LastName>
+                    <ForeName>Mark W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Chicago, Department of Organismal Biology and Anatomy, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Integr Comp Biol</MedlineTA>
+            <NlmUniqueID>101152341</NlmUniqueID>
+            <ISSNLinking>1540-7063</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199432</ArticleId>
+            <ArticleId IdType="pii">5519118</ArticleId>
+            <ArticleId IdType="doi">10.1093/icb/icz103</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

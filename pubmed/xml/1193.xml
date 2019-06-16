@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199115</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-4898</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Accounts of chemical research</Title>
+                <ISOAbbreviation>Acc. Chem. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein Materials Engineering with DNA.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.accounts.9b00165</ELocationID>
+            <Abstract>
+                <AbstractText>Proteins are a class of nanoscale building block with remarkable chemical complexity and sophistication: their diverse functions, shapes, and symmetry as well as atomically monodisperse structures far surpass the range of conventional nanoparticles that can be accessed synthetically. The chemical topologies of proteins that drive their assembly into materials are central to their functions in nature. However, despite the importance of protein materials in biology, efforts to harness these building blocks synthetically to engineer new materials have been impeded by the chemical complexity of protein surfaces, making it difficult to reliably design protein building blocks that can be robustly transformed into targeted materials. Here we describe our work aimed at exploiting a simple but important concept: if one could exchange complex protein-protein interactions with well-defined and programmable DNA-DNA interactions, one could control the assembly of proteins into structurally well-defined oligomeric and polymeric materials and three-dimensional crystals. As a class of nanoscale building block, proteins with surface DNA modifications have a vast design space that exceeds what is practically and conceptually possible with their inorganic counterparts: the sequences of the DNA and protein and the chemical nature and position of DNA attachment all play roles in dictating the assembly behavior of protein-DNA conjugates. We summarize how each of these design parameters can influence structural outcome, beginning with proteins with a single surface DNA modification, where energy barriers between protein monomers can be tuned through the sequence and secondary structure of the oligonucleotide. We then explore challenges and progress in designing directional interactions and valency on protein surfaces. The directional binding properties of protein-DNA conjugates are ultimately imposed by the amino acid sequence of the protein, which defines the spatial distribution of DNA modification sites on the protein. Through careful design and mutagenesis, bivalent building blocks that bind directionally to form one-dimensional assemblies can be realized. Finally, we discuss the assembly of proteins densely modified with DNA into crystalline superlattices. At first glance, these protein building blocks display crystallization behavior remarkably similar to that of their DNA-functionalized inorganic nanoparticle counterparts, which allows design principles elucidated for DNA-guided nanoparticle crystallization to be used as predictive tools in determining structural outcomes in protein systems. Proteins additionally offer design handles that nanoparticles do not: unlike nanoparticles, the number and spatial distribution of DNA can be controlled through the protein sequence and DNA modification chemistry. Changing the spatial distributions of DNA can drive otherwise identical proteins down distinct crystallization pathways and yield building blocks with exotic distributions of DNA that crystallize into structures that are not yet attainable using isotropically functionalized particles. We highlight challenges in accessing other classes of architectures and establishing general design rules for DNA-mediated protein assembly. Harnessing surface DNA modifications to build protein materials creates many opportunities to realize new architectures and answer fundamental questions about DNA-modified nanostructures in both materials and biological contexts. Proteins with surface DNA modifications are a powerful class of nanomaterial building blocks for which the DNA and protein sequences and the nature of their conjugation dictate the material structure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McMillan</LastName>
+                    <ForeName>Janet R</ForeName>
+                    <Initials>JR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3945-0194</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayes</LastName>
+                    <ForeName>Oliver G</ForeName>
+                    <Initials>OG</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9647-6411</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winegar</LastName>
+                    <ForeName>Peter H</ForeName>
+                    <Initials>PH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0984-4990</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirkin</LastName>
+                    <ForeName>Chad A</ForeName>
+                    <Initials>CA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6634-7627</Identifier>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Acc Chem Res</MedlineTA>
+            <NlmUniqueID>0157313</NlmUniqueID>
+            <ISSNLinking>0001-4842</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199115</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.accounts.9b00165</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

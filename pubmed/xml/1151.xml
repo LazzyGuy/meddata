@@ -1,0 +1,113 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199157</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-7052</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Organic letters</Title>
+                <ISOAbbreviation>Org. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Grob-Fragmentation-Enabled Approach to Clavulactone Analogues.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.orglett.9b01678</ELocationID>
+            <Abstract>
+                <AbstractText>The novel synthetic strategy for dolabellane skeleton was realized, which allowed the synthesis of clavulactone analogues 26 and 27 in a concise and efficient manner. Salient transformations include a diastereoselective Mukaiyama aldol reaction, an intramolecular nucleophilic addition reaction, a Grob fragmentation reaction, and an efficient Mukaiyama-Michael addition reaction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gu</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory of Synthetic Chemistry of Natural Substances, Center for Excellence in Molecular Synthesis , Shanghai Institute of Organic Chemistry , University of Chinese Academy of Sciences, Chinese Academy of Sciences, 345 Lingling Road , Shanghai 200032 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xuan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory of Synthetic Chemistry of Natural Substances, Center for Excellence in Molecular Synthesis , Shanghai Institute of Organic Chemistry , University of Chinese Academy of Sciences, Chinese Academy of Sciences, 345 Lingling Road , Shanghai 200032 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Bingfeng</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5804-0951</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Taizhou Synhigher Pharmaceutical Technology Co. Ltd. , 1 Yaocheng Avenue , Taizhou , Jiangsu 225300 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Guoqiang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory of Synthetic Chemistry of Natural Substances, Center for Excellence in Molecular Synthesis , Shanghai Institute of Organic Chemistry , University of Chinese Academy of Sciences, Chinese Academy of Sciences, 345 Lingling Road , Shanghai 200032 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Org Lett</MedlineTA>
+            <NlmUniqueID>100890393</NlmUniqueID>
+            <ISSNLinking>1523-7052</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199157</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.orglett.9b01678</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

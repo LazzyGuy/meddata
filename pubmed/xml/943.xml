@@ -1,0 +1,96 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199386</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stable diffractive beam rider.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3082-3085</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003082</ELocationID>
+            <Abstract>
+                <AbstractText>A passively stable laser-driven lightsail is described, which makes use of a spatially variant &quot;bi-grating&quot; sail with a mass (payload) attached to a boom (patent pending). A two-dimensional analytical model of the system, a linear stability analysis, and numerical solutions of the equations of motion are reported. The acceleration of the light sail along the beam path is found to depend on the grating parameters. We identify stability conditions that depend on the grating design, beam parameters, and boom length. The inclusion of damping is found to enhance the dynamic range of stability.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Srivastava</LastName>
+                    <ForeName>Prateek R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chu</LastName>
+                    <ForeName>Ying-Ju Lucy</ForeName>
+                    <Initials>YL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swartzlander</LastName>
+                    <ForeName>Grover A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199386</ArticleId>
+            <ArticleId IdType="pii">413572</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003082</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

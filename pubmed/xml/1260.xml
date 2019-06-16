@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199036</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-6569</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neuroimaging : official journal of the American Society of Neuroimaging</Title>
+                <ISOAbbreviation>J Neuroimaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Cingulate Island Sign on FDG-PET vs. IMP-SPECT to Assess Mild Cognitive Impairment in Alzheimer's Disease vs. Dementia with Lewy Bodies.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jon.12643</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">The cingulate island sign (CIS) on <sup>18</sup> F-fluorodeoxyglucose positron emission tomography (FDG-PET); ie, the relative preservation of mid-posterior cingulate cortex metabolism, is a supportive biomarker in the diagnostic criteria for dementia with Lewy bodies (DLB). However, limited information is currently available on the diagnostic value of the CIS on FDG-PET or <sup>123</sup> I-iodoamphetamine single-photon emission computed tomography (IMP-SPECT) for differentiating between mild cognitive impairment (MCI) due to Alzheimer's disease (AD) (MCI-AD) and MCI due to DLB (MCI-DLB).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We examined the CIS ratio in 9 AD patients, 9 DLB patients, 8 patients with MCI-AD, and 9 patients with MCI-DLB using FDG-PET and IMP-SPECT. The CIS ratio was calculated using NEUROSTAT software.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the dementia groups, a receiver operating characteristic analysis of the CIS ratio showed significant accuracy for differentiating between AD and DLB on FDG-PET and IMP-SPECT. In the MCI groups, only the FDG-PET derived CIS ratio displayed significant accuracy for differentiating between AD and DLB.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The FDG-PET and IMP-SPECT derived CIS ratios are both useful for differentiating between AD and DLB. The FDG-PET derived CIS ratio is more valuable than the IMP-SPECT derived CIS ratio for differential diagnosis in patients with MCI. A larger study is needed to confirm these results.</AbstractText>
+                <CopyrightInformation>© 2019 by the American Society of Neuroimaging.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chiba</LastName>
+                    <ForeName>Yuhei</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8258-5158</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>PET/CT Dementia Research Center, Juntendo Tokyo Koto Geriatric Medical Center, Juntendo University School of Medicine, 3-3-20 Shinsuna, Koto-Ku, Tokyo, 136-0075, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Yokohama Maioka Hospital, 3482 Maiokacho, Totsuka-Ku, Yokohama City, Kanagawa, 244-0813, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Yokohama City University School of Medicine, 3-9 Fukuura, Kanazawa-Ku, Yokohama-shi, Kanagawa, 236-0004, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujishiro</LastName>
+                    <ForeName>Hiroshige</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PET/CT Dementia Research Center, Juntendo Tokyo Koto Geriatric Medical Center, Juntendo University School of Medicine, 3-3-20 Shinsuna, Koto-Ku, Tokyo, 136-0075, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Kawasaki Memorial Hospital, 20-1 Shiomidai, Miyamae-Ku, Kawasaki City, Yokohama, Kanagawa, 216-0013, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iseki</LastName>
+                    <ForeName>Eizo</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PET/CT Dementia Research Center, Juntendo Tokyo Koto Geriatric Medical Center, Juntendo University School of Medicine, 3-3-20 Shinsuna, Koto-Ku, Tokyo, 136-0075, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Mental Clinic Nihonbashi Ningyocho, 2-2-3 Nihonbashi Ningyocho, Chuo, Tokyo, 103-0013, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kasanuki</LastName>
+                    <ForeName>Koji</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PET/CT Dementia Research Center, Juntendo Tokyo Koto Geriatric Medical Center, Juntendo University School of Medicine, 3-3-20 Shinsuna, Koto-Ku, Tokyo, 136-0075, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Juntendo University School of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo, 113-8421, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sato</LastName>
+                    <ForeName>Kiyoshi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PET/CT Dementia Research Center, Juntendo Tokyo Koto Geriatric Medical Center, Juntendo University School of Medicine, 3-3-20 Shinsuna, Koto-Ku, Tokyo, 136-0075, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>the Anti-Aging Research Center of Juntendo University School of Medicine</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>Nihon Medi-Physics</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neuroimaging</MedlineTA>
+            <NlmUniqueID>9102705</NlmUniqueID>
+            <ISSNLinking>1051-2284</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FDG-PET</Keyword>
+            <Keyword MajorTopicYN="N">IMP-SPECT</Keyword>
+            <Keyword MajorTopicYN="N">cingulate island sign</Keyword>
+            <Keyword MajorTopicYN="N">dementia with Lewy bodies</Keyword>
+            <Keyword MajorTopicYN="N">mild cognitive impairment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199036</ArticleId>
+            <ArticleId IdType="doi">10.1111/jon.12643</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

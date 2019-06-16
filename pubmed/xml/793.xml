@@ -1,0 +1,118 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199563</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1447-0594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Geriatrics &amp; gerontology international</Title>
+                <ISOAbbreviation>Geriatr Gerontol Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reference range of clinical blood tests in physically independent patients of advanced age with groin hernia in a Japanese hospital.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ggi.13712</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The present study was carried out to determine the reference ranges of 43 frequently used blood tests in daily practice for physically independent patients of advanced age.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We identified all patients aged ≥20 years who underwent groin hernia repair at Itoigawa General Hospital in Niigata, Japan. The patients' characteristics, preoperative data and prescribed medications were obtained by reviewing the electronic medical records.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 284 patients, 266 with independence in activities of daily life were included in the present study: 72 were assigned to the younger adult group (age 20-64 years), 86 were assigned to the older adult group (age 65-74 years) and 108 were assigned to the advanced age group (age ≥75 years). Patients in the advanced age group had a lower body mass index, less alcohol consumption, more hypertension, lower respiratory function and higher frequency of multidrug therapy. The multiple regression analysis showed significant differences in albumin, gamma-glutamyl transpeptidase, cholinesterase, estimated glomerular filtration rate, uric acid, triglyceride, calcium, phosphate, magnesium and peripheral blood cell counts between the advanced age group and the other two age groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We identified age-dependent changes in several blood tests among physically independent adults. These results will help to guide accurate interpretation of laboratory results and properly manage patients in geriatric medicine. Geriatr Gerontol Int 2019; ••: ••-••.</AbstractText>
+                <CopyrightInformation>© 2019 Japan Geriatrics Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Matsuo</LastName>
+                    <ForeName>Mitsuhiro</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-9041-9590</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Itoigawa General Hospital, Niigata, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tazawa</LastName>
+                    <ForeName>Kenichi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Itoigawa General Hospital, Niigata, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Geriatr Gerontol Int</MedlineTA>
+            <NlmUniqueID>101135738</NlmUniqueID>
+            <ISSNLinking>1447-0594</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">aged</Keyword>
+            <Keyword MajorTopicYN="N">frailty</Keyword>
+            <Keyword MajorTopicYN="N">healthy aging</Keyword>
+            <Keyword MajorTopicYN="N">independent living</Keyword>
+            <Keyword MajorTopicYN="N">sarcopenia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199563</ArticleId>
+            <ArticleId IdType="doi">10.1111/ggi.13712</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

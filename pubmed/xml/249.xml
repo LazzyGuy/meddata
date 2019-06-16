@@ -1,0 +1,170 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200157</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Physico-chemical properties and gestational diabetes predict transplacental transfer and partitioning of perfluoroalkyl substances.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104874</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)30516-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.068</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Per- and polyfluoroalkyl substances (PFASs) are a growing public health concern. Some longer chain PFASs bioaccumulate and many compounds persist in the environment for long time periods. Recent studies have established their ability to pass through placenta, yet data on the transplacental transfer efficiency and partitioning of short and long chain PFASs in blood matrices are limited.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To assess predictors of the partitioning of 17 PFAS compounds detected in the maternal serum, umbilical cord serum and whole cord blood samples from matched mother-newborn pairs from two Faroe Islands cohorts.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We examined 151 mother-newborn pairs from two successive Faroese birth cohorts. Cord:maternal serum (transplacental transfer) and serum:whole cord blood (blood partitioning) ratios were estimated for 17 PFAS compounds. We also examined the relationships of these ratios with maternal, newborns', and physico-chemical properties using multivariable regression analyses.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Moderate to high correlations were observed between maternal and cord serum PFAS concentrations (ρ: 0.41 to 0.95), indicating significant transfer of these compounds from the mother to the fetus. Median transplacental transfer ratios were generally below 1, except for perfluorooctane sulfonamide (FOSA), and ranged between 0.36 for perfluorodecanoate (PFDA) and perfluoroundecanoate (PFUnDA) and 1.21 for FOSA. Most PFASs exhibited a preference to the serum component of the blood, except FOSA and perfluoroheptanoate (PFHpA), with blood partitioning ratios ranging from 0.36 for FOSA to 2.75 for PFUnDA. Both the functional groups and carbon chain length of different PFASs were important predictors of transplacental transfer and blood partitioning. We observed a U-shaped relationship between transplacental transfer ratios and carbon chain length for perfluorocarboxylates and perfluorosulfonates. Importantly, gestational diabetes was also a strong predictor of transplacental transfer ratios, with significantly higher transfer in mothers with gestational diabetes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our findings provide a better understanding of the transplacental transfer and blood partitioning of a large number of PFAS compounds. Results elucidate the importance of chemical structure for future risk assessments and choice of appropriate blood matrices for measurement of PFAS compounds.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eryasa</LastName>
+                    <ForeName>Berrak</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health, Harvard T. H. Chan School of Public Health, Boston, MA, United States of America; EHESP-School of Public Health, Sorbonne Paris Cité, Rennes, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grandjean</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health, Harvard T. H. Chan School of Public Health, Boston, MA, United States of America; University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Flemming</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valvi</LastName>
+                    <ForeName>Damaskini</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health, Harvard T. H. Chan School of Public Health, Boston, MA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zmirou-Navier</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EHESP-School of Public Health, Sorbonne Paris Cité, Rennes, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sunderland</LastName>
+                    <ForeName>Elsie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health, Harvard T. H. Chan School of Public Health, Boston, MA, United States of America; Harvard John A. Paulson School of Engineering and Applied Sciences, Cambridge, MA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weihe</LastName>
+                    <ForeName>Pal</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Faroese Hospital System, Tórshavn, Faroe Islands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oulhote</LastName>
+                    <ForeName>Youssef</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health, Harvard T. H. Chan School of Public Health, Boston, MA, United States of America; Department of Biostatistics and Epidemiology, School of Public Health and Health Sciences, University of Massachusetts at Amherst, Amherst, MA, United States of America. Electronic address: youlhote@umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200157</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)30516-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.068</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

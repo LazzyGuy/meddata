@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199572</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1467-7652</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant biotechnology journal</Title>
+                <ISOAbbreviation>Plant Biotechnol. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiplex Restriction Amplicon Sequencing (MRASeq), a novel next generation sequencing based marker platform for high-throughput genotyping.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/pbi.13192</ELocationID>
+            <Abstract>
+                <AbstractText>To enablerapid selection oftraits in marker-assisted breeding, markers must be technically simple, low cost, high-throughput, and randomly distributed in a genome. We developed such atechnology, designated as Multiplex Restriction Amplicon Sequencing (MRASeq), which reduces genome complexity by polymerase chain reaction (PCR) amplification of amplicons flanked by restriction sites. The first PCR primers contain restriction site sequences at 3'-ends,preceded by 6-10 bases ofspecific or degenerate nucleotide sequences, and then by a unique M13-tail sequence which serves as a binding site for a second PCR that adds sequencing primers and barcodes to allow sample multiplexing for sequencing. The sequences of restriction sites and adjacent nucleotides can be altered to suit differentspecies. Physical mapping of MRASeq SNPs from a biparental population of allohexaploid wheat (Triticum aestivum L.) showed a random distribution of SNPs across the genome. MRASeq generated thousands of SNPs from a wheat biparental population and natural populations of wheat and barley (Hordeum vulgare L.). This novel, next-generation-sequencing-based genotyping platform can be used for linkage mapping to screen quantitative trait loci (QTL), background selection in breeding, and many other genetics and breeding applications of various species. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bernardo</LastName>
+                    <ForeName>Amy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology, Kansas State University, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>USDA-ARS, Hard Winter Wheat Genetics Research Unit, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amand</LastName>
+                    <ForeName>Paul St</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA-ARS, Hard Winter Wheat Genetics Research Unit, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Ha Quang</ForeName>
+                    <Initials>HQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology, Kansas State University, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Zhenqi</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Agronomy, Kansas State University, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bai</LastName>
+                    <ForeName>Guihua</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA-ARS, Hard Winter Wheat Genetics Research Unit, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Agronomy, Kansas State University, Manhattan, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Plant Biotechnol J</MedlineTA>
+            <NlmUniqueID>101201889</NlmUniqueID>
+            <ISSNLinking>1467-7644</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Triticum aestivumL</Keyword>
+            <Keyword MajorTopicYN="N">Wheat</Keyword>
+            <Keyword MajorTopicYN="N">high-throughput genotyping</Keyword>
+            <Keyword MajorTopicYN="N">next generation sequencing</Keyword>
+            <Keyword MajorTopicYN="N">single nucleotide polymorphism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199572</ArticleId>
+            <ArticleId IdType="doi">10.1111/pbi.13192</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

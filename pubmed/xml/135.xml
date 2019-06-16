@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200276</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0429</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in biotechnology</Title>
+                <ISOAbbreviation>Curr. Opin. Biotechnol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Droplet barcoding: tracking mobile micro-reactors for high-throughput biology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>205-212</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0958-1669(18)30212-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.copbio.2019.05.004</ELocationID>
+            <Abstract>
+                <AbstractText>Droplet microfluidics has become a powerful analytical platform in biological research for conducting high-throughput screening in millions of discrete micro-reactors per hour. While the method facilitates faster and cheaper testing than conventional microtiter plates, the mobile nature of droplets makes micro-reaction tracking a notable challenge. To address this, researchers are developing a variety of tracking methods, ranging from organizing droplets into an index or labeling droplets with a barcode. The optimal tracking approach depends on the criteria for each specific application. Considerations include the requisite assay readout, throughput, droplet library size, reagent tracking and more. In this review, we summarize different strategies for droplet micro-reaction tracking and comment on promising future approaches in droplet barcoding. Topics range from indexing droplets by sequence or in an array, labeling droplets with barcodes, and reagent barcoding to track the input conditions in parametric screens.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Duncombe</LastName>
+                    <ForeName>Todd A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosystems Science and Engineering, ETH Zurich, 4058 Basel, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dittrich</LastName>
+                    <ForeName>Petra S</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosystems Science and Engineering, ETH Zurich, 4058 Basel, Switzerland. Electronic address: Petra.Dittrich@bsse.ethz.ch.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Biotechnol</MedlineTA>
+            <NlmUniqueID>9100492</NlmUniqueID>
+            <ISSNLinking>0958-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200276</ArticleId>
+            <ArticleId IdType="pii">S0958-1669(18)30212-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.copbio.2019.05.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

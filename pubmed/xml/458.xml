@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199938</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-507X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physiology &amp; behavior</Title>
+                <ISOAbbreviation>Physiol. Behav.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sensory nutrition: The role of taste in the reviews of commercial food products.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112579</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0031-9384(19)30124-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.physbeh.2019.112579</ELocationID>
+            <Abstract>
+                <AbstractText>Many factors play a role in choosing what to eat or drink. We explored the role of sensation to explain these differences, drawing on consumer reviews for commercially available food products sold through an online retailer. We analyzed 393,568 unique food product reviews from Amazon customers with a total of 256,043 reviewers rating 67,553 products. Taste-associated words were mentioned more than words associated with price, food texture, customer service, nutrition, smell, or those referring to the trigeminal senses, e.g., &quot;spicy&quot;. We computed the overall number of reviews that mentioned taste qualities: the word taste was mentioned in over 30% of the reviews (N = 142,768), followed by sweet (10.7%, N = 42,315), bitter (2.9%, N = 11,424), sour (2.1%, N = 8252) and salty (1.4%, N = 5688). We identified 38 phrases used to describe the evaluation of sweetness, finding that 'too sweet' was used in nearly 0.8% of the reviews and oversweetness was mentioned over 25 times more often than under-sweetness. We then focused on 'polarizing' products, those that elicited a wide difference of opinion (as measured by the ranges of the product ratings). Using the products that had more than 50 reviews, we identified the top 10 most polarizing foods, those with the largest standard deviation in ratings, and provide representative comments about the polarized taste experience of consumers. Overall, these results support the primacy of taste in real-world food ratings and individualized taste experience, such as whether a product is 'too sweet'. Analysis of consumer review data sets can provide information about purchasing decisions and customer sensory responses to particular commercially available products and represents a promising methodology for the emerging field of sensory nutrition.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Danielle R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Monell Chemical Senses Center, Philadelphia, PA 19104, United States of America. Electronic address: reed@monell.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mainland</LastName>
+                    <ForeName>Joel D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Monell Chemical Senses Center, Philadelphia, PA 19104, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arayata</LastName>
+                    <ForeName>Charles J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Monell Chemical Senses Center, Philadelphia, PA 19104, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Physiol Behav</MedlineTA>
+            <NlmUniqueID>0151504</NlmUniqueID>
+            <ISSNLinking>0031-9384</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bitterness</Keyword>
+            <Keyword MajorTopicYN="N">Consumers</Keyword>
+            <Keyword MajorTopicYN="N">Segmentation</Keyword>
+            <Keyword MajorTopicYN="N">Sweetness</Keyword>
+            <Keyword MajorTopicYN="N">Taste</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199938</ArticleId>
+            <ArticleId IdType="pii">S0031-9384(19)30124-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.physbeh.2019.112579</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

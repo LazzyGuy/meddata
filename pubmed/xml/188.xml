@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200222</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3336</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>378</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of hazardous materials</Title>
+                <ISOAbbreviation>J. Hazard. Mater.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction with low molecular weight organic acids affects the electron shuttling of biochar for Cr(VI) reduction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>120705</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3894(19)30648-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhazmat.2019.05.098</ELocationID>
+            <Abstract>
+                <AbstractText>Biochar can act as &quot;electron shuttle&quot; in soil redox reactions. It is possible that biochar accepts the electrons from low molecular weight organic acids (LMWOAs) in soil and then transfer them to the acceptors, e.g., Cr(VI). This study evaluated the interaction between seven soil LMWOAs and peanut shell biochar (BC) as well as its effect on the electron shuttling of biochar for Cr(VI) reduction. Both redox reactions and sorption process occurred during the interaction of biochar and LMWOAs, which altered the contents of Cr(VI) reduction-relevant groups (i.e., CO and CO) on the surface of biochar. The redox reactions were more important to the electron transfer between biochar produced at 400℃ (BC400) and LMWOAs due to the repeated cycle of reduction-oxidation of surface functional groups. The reduction rate of Cr(VI) by LMWOAs mediated by BC400 was 1.10-7.09 × 10<sup>-3</sup> h<sup>-1</sup>, among which tartaric acid had the best reduction efficiency due to its highest reducing capability. For biochar produced at 700℃ (BC700), the sorption process of LMWOAs was the key factor to the direct electron shuttling process through the conjugated structure of biochar. The reduction rate of Cr(VI) by LMWOAs mediated by BC700 was significantly higher and ranged 7.40-864 × 10<sup>-3</sup> h<sup>-1</sup>, with the oxalic acid having the best reduction efficiency due to its highest sorption capacity by BC700. The results obtained from this study can help to establish the linkage between biochar and LMWOAs in soil electron network, which better explains the multifunctional roles of biochar during the redox processes such as Cr(VI) reduction in soil.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Zibo</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiaoyun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tao</LastName>
+                    <ForeName>Xinyi</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Chengbo</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Columbia University, 3000 Broadway, New York, NY, 10027, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsang</LastName>
+                    <ForeName>Daniel C W</ForeName>
+                    <Initials>DCW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Xinde</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China; Shanghai Institute of Pollution Control and Ecological Security, Shanghai, 200092, China. Electronic address: xdcao@sjtu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Hazard Mater</MedlineTA>
+            <NlmUniqueID>9422688</NlmUniqueID>
+            <ISSNLinking>0304-3894</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cr(VI) reduction</Keyword>
+            <Keyword MajorTopicYN="N">Electron shuttle</Keyword>
+            <Keyword MajorTopicYN="N">Organic acid</Keyword>
+            <Keyword MajorTopicYN="N">Redox reactions</Keyword>
+            <Keyword MajorTopicYN="N">Soil remediation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200222</ArticleId>
+            <ArticleId IdType="pii">S0304-3894(19)30648-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jhazmat.2019.05.098</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

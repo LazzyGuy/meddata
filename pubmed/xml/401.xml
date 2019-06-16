@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200000</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Life sciences</Title>
+                <ISOAbbreviation>Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>STIM2 knockdown protects against ischemia/reperfusion injury through reducing mitochondrial calcium overload and preserving mitochondrial function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>116560</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0024-3205(19)30486-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.lfs.2019.116560</ELocationID>
+            <Abstract>
+                <AbstractText>Mitochondrial dysfunction caused by calcium overload is a vital factor for mediating cardiomyocyte death following ischemia/reperfusion (I/R) injury. The stromal interactive molecule 2 (STIM2) is a calcium sensor protein that regulates the store-operated calcium entry (SOCE). Whereas, whether STIM2 is associated with I/R injury remains largely unclear. We report here that STIM2, but not its homologue STIM1, is upregulated in cultured H9c2 cells, a cell model for cardiomyocytes, following I/R injury. In addition, the knockdown of STIM2, but not STIM1, reduces H9c2 cell apoptosis following I/R injury, and similar results were obtained in primary neonatal cardiomyocytes. This anti-apoptotic effect could be attributed to the inhibited activation of mitochondrial apoptosis pathway. Moreover, STIM2 knockdown reduces ER calcium release and simultaneously alleviates mitochondrial calcium overload in H9c2 cells following I/R injury. Furthermore, STIM2 knockdown decreases mitochondrial injury and preserves mitochondrial function following I/R injury. Collectively, these results suggest that the protective role of STIM2 knockdown against I/R injury in cardiomyocytes is associated with the reduced mitochondrial calcium overload and preserved mitochondrial function. Hence, our study may provide a novel insight into the regulation of mitochondrial-mediated cardiomyocyte apoptosis following I/R injury.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tu</LastName>
+                    <ForeName>Chen-Chen</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Bao-Yan</ForeName>
+                    <Initials>BY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China. Electronic address: zengyong1999@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Life Sci</MedlineTA>
+            <NlmUniqueID>0375521</NlmUniqueID>
+            <ISSNLinking>0024-3205</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Calcium overload</Keyword>
+            <Keyword MajorTopicYN="N">H9c2 cell</Keyword>
+            <Keyword MajorTopicYN="N">Ischemia/reperfusion injury</Keyword>
+            <Keyword MajorTopicYN="N">Mitochondrial function</Keyword>
+            <Keyword MajorTopicYN="N">STIM2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200000</ArticleId>
+            <ArticleId IdType="pii">S0024-3205(19)30486-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.lfs.2019.116560</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

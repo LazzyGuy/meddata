@@ -1,0 +1,101 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199395</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Angle-insensitive dual-functional resonators combining cavity mode resonance and magnetic resonance.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3118-3121</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003118</ELocationID>
+            <Abstract>
+                <AbstractText>An angle-insensitive dual-functional resonator composed of a compound metallic grating is proposed and characterized numerically. The resonator exhibits different response characteristics for TE and TM polarization, thus enabling two functions, corresponding to a high-sensitivity sensor and a low Q-factor absorber. For TE polarization, the Q-factor, refractive index sensitivity, and figure of merit of the resonator can reach 283.4, 2577.6 nm/RIU, and 181.5  RIU<sup>-1</sup>, respectively, due to the excitation of cavity mode resonance. For TM polarization, the resonator can be regarded as an absorber with high absorptivity (&gt;97%) based on magnetic resonance. Accordingly, these two mechanisms can be explained well by the waveguide theory and inductor-capacitor circuit model. The electromagnetic fields in the system can be selectively concentrated in the cavity or slit by simply adjusting the polarization angle, exhibiting unique energy localization characteristics. The resonator can also exhibit polarization-sensitive behavior due to the different bandwidths for the same wavelength. This simple structure provides a good paradigm for designing high-performance multi-functional devices.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Qing</LastName>
+                    <ForeName>Ye Ming</ForeName>
+                    <Initials>YM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Hui Feng</ForeName>
+                    <Initials>HF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Shang</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Tie Jun</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199395</ArticleId>
+            <ArticleId IdType="pii">413619</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003118</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

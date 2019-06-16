@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200175</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electrochemical extraction of tin and copper from acid leachate of printed circuit boards using copper electrodes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>410-417</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30794-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.06.009</ELocationID>
+            <Abstract>
+                <AbstractText>This paper presents new results for the recycling of electronic waste, specifically those from printed circuit boards (PCBs) of obsolete computers of the Federal University of Rio Grande do Norte. The main objective of this study is the comprehension of the extraction process of tin and cop per from PCBs by a hydrometallurgical route followed by electrodeposition using copper electrodes. PCBs powder were leached using 1N HNO<sub>3</sub> and 3N HCl (aqua regia) aqueous solutions. The process permitted the extraction of all tin present on the PCBs. The electrodeposition processes were performed with currents from 0.5 to 1.5 A, at a constant time of 60 min, with and without mechanical stirring, and with different concentrations of leachate. The results showed that diluting the leachate favors the extraction of tin from the solution. At certain conditions we were able to extract approximately 100% of the tin, copper and lead present in the leachate.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Maria S B da</ForeName>
+                    <Initials>MSBD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal Do Rio Grande Do Norte - UFRN, Pós-Graduação Em Engenharia Química, Avenida Senador Salgado Filho S/N, Campus Central, CEP, 59078-970, Brazil. Electronic address: socorromarya@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melo</LastName>
+                    <ForeName>Raffael A C de</ForeName>
+                    <Initials>RAC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal Do Rio Grande Do Norte - UFRN, Pós-Graduação Em Engenharia Química, Avenida Senador Salgado Filho S/N, Campus Central, CEP, 59078-970, Brazil. Electronic address: raffael_melo_2@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes-Moriyama</LastName>
+                    <ForeName>André L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal Do Rio Grande Do Norte - UFRN, Pós-Graduação Em Engenharia Química, Avenida Senador Salgado Filho S/N, Campus Central, CEP, 59078-970, Brazil. Electronic address: allmoriyama@eq.ufrn.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Souza</LastName>
+                    <ForeName>Carlson P</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal Do Rio Grande Do Norte - UFRN, Pós-Graduação Em Engenharia Química, Avenida Senador Salgado Filho S/N, Campus Central, CEP, 59078-970, Brazil. Electronic address: carlson@ufrnet.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Electrodeposition</Keyword>
+            <Keyword MajorTopicYN="N">Metal removal</Keyword>
+            <Keyword MajorTopicYN="N">Printed circuit boards</Keyword>
+            <Keyword MajorTopicYN="N">Tin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200175</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30794-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.06.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199612</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fabrication and Characterization of Composite Meshes Loaded with Antimicrobial Peptides.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b07246</ELocationID>
+            <Abstract>
+                <AbstractText>Biomaterials centered infection or implant associated infection play critical roles in all areas of medicine with implantable devices. The widespread over use of antibiotics has caused severe bacteria resistance and even super bugs. Therefore, the development of anti-infection implantable devices with non-antibiotic based new antimicrobial agents is indeed a priority for all of us. In this study, antimicrobial composite meshes were fabricated with broad-spectrum antimicrobial peptides (AMPs). Macroporous polypropylene mesh with poly-caprolactone electrospun nanosheet was utilized as substrate to load antimicrobial peptides and gellan gum presented as a media to gel with AMPs. Different amount of AMPs was loaded onto gellan gum to determine the appropriate dose. The surface morphologies, fourier transform infrared spectroscopy spectra, in vitro release profiles, mechanical performances, in vitro antimicrobial properties and cytocompatibility of composite scaffolds were evaluated. Results showed that AMPs were loaded into the meshes successfully and the in vitro release of AMPs in PBS was prolonged and less than 60 % peptides were released in 10 days. The mechanical properties of composite meshes were also within the scope of several commercial surgical meshes. Composite meshes with AMPs loading amount of over 3 mg/cm2 showed inhibition against both Gram-negative and Gram-positive bacteria effectively while presented no toxicity to mammalian cells even at a loading amount of 10 mg/cm2. These results demonstrate a new simple and practicable method to offer antimicrobial properties to medical devices for hernia repair.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Pengbi</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Kun</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Xiaomei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Nanliang</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wen</LastName>
+                    <ForeName>Xuejun</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199612</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b07246</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

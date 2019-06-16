@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199907</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-6240</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain research</Title>
+                <ISOAbbreviation>Brain Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Not Inertia but Reconfiguration: Asymmetrical Switch Cost in a Hierarchical Task.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0006-8993(19)30338-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brainres.2019.06.010</ELocationID>
+            <Abstract>
+                <AbstractText>Numerous studies have investigated asymmetric switch cost between different types of tasks. However, the underlying neural mechanism of asymmetric switch cost in a hierarchical task remains unknown. In the present study, we used a representation-nested paradigm and defined three hierarchical levels of number comparison. Participants were required to switch between different levels according to the color of the stimuli. Behavioral result showed a longer response time in the upward switch (from the lower level to the middle level) than in the downward switch (from the higher level to the middle level). The event related potential results showed that (1) a larger N2 was elicited by the upward switch, which reflects the response inhibition process; and (2) the sustained potential component was most negative for the upward switch and least negative for the repeat condition, thereby reflecting the different degrees of reconfiguration of task set. The reverse asymmetric switch cost in the hierarchical task was explained using task-set reconfiguration theory and related to the activation of the left frontal region.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Junchen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, JiangXi Normal University, Nanchang, 330022, China. Electronic address: lifuhong@jxnu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Bihua</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, JiangXi Normal University, Nanchang, 330022, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Jiahui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, JiangXi Normal University, Nanchang, 330022, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Liufang</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, JiangXi Normal University, Nanchang, 330022, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Fuhong</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, JiangXi Normal University, Nanchang, 330022, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Brain Res</MedlineTA>
+            <NlmUniqueID>0045503</NlmUniqueID>
+            <ISSNLinking>0006-8993</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">asymmetric switch cost</Keyword>
+            <Keyword MajorTopicYN="N">hierarchical representation</Keyword>
+            <Keyword MajorTopicYN="N">hierarchical switch</Keyword>
+            <Keyword MajorTopicYN="N">task-set reconfiguration</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199907</ArticleId>
+            <ArticleId IdType="pii">S0006-8993(19)30338-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brainres.2019.06.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

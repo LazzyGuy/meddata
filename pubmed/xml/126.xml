@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200286</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2120</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>89</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic chemistry</Title>
+                <ISOAbbreviation>Bioorg. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Design, synthesis and anticervical cancer activity of new benzofuran-pyrazol-hydrazono- thiazolidin-4-one hybrids as potential EGFR inhibitors and apoptosis inducing agents.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103035</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-2068(19)30440-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bioorg.2019.103035</ELocationID>
+            <Abstract>
+                <AbstractText>This study represents the synthetic approaches of a new set of 2-(((3-(benzofuran-2-yl)-1-phenyl-1H-pyrazol-4-yl)methylene)hydrazono)-5-(aryl)thiazolidin-4-one derivatives 4-22 aiming to obtain new antiproliferative candidates against human cervix carcinoma cells (Hela) of EGFR PK inhibiting potency. The cancer cells represented promising sensitivity towards the compounds 6, 7, 11, 13, 14, 16, 17 more than or equal to that against the reference drug doxorubicin. In addition, the latter compounds were tested as EGFR protein kinase inhibitors. The results revealed that compound 14 showed more significant EGFR PK inhibitory activity than the reference drug erlotinib (IC50; 0.07, 0.08 µM, respectively). Moreover, cell cycle analysis and apoptosis assay were performed for compound 14 proving its ability to cause G1/S phase arrest and apoptosis in Hela cancer cells, in addition to its activation of the caspases-7 and -3. In addition, derivative 14 increased the expression level of p53 and the ratio of Bax/Bcl-2 which confirmed its mode of action. Molecular docking study of 14 was performed to investigate its binding mode of interaction with EGFR PK in the active site with the aim of rationalizing its promising inhibitory activity. Accordingly, compound 14 might be considered as a promising scaffold anticervical cancer chemotherapeutic and deserves further optimization and in-depth biological studies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abbas</LastName>
+                    <ForeName>Hebat-Allah S</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemistry Department, College of Science, King Khalid University, Abha, Saudi Arabia; Photochemistry Department, National Research Centre, Dokki, Cairo 12622, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abd El-Karim</LastName>
+                    <ForeName>Somaia S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Therapeutic Chemistry, National Research Centre, Dokki, Cairo 12622, Egypt. Electronic address: somaia_elkarim@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Bioorg Chem</MedlineTA>
+            <NlmUniqueID>1303703</NlmUniqueID>
+            <ISSNLinking>0045-2068</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apoptosis and EGFR PK suppressing agents</Keyword>
+            <Keyword MajorTopicYN="N">Benzofuran</Keyword>
+            <Keyword MajorTopicYN="N">Cervical cancer</Keyword>
+            <Keyword MajorTopicYN="N">Pyrazole</Keyword>
+            <Keyword MajorTopicYN="N">Thiazolidin-4-one</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200286</ArticleId>
+            <ArticleId IdType="pii">S0045-2068(19)30440-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bioorg.2019.103035</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

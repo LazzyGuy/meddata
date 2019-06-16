@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199412</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-5528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Analyst</Title>
+                <ISOAbbreviation>Analyst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>True one cell chemical analysis: a review.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9an00558g</ELocationID>
+            <Abstract>
+                <AbstractText>The constantly growing field of True One Cell (TOC) analysis has provided important information on the direct chemical composition of various cells and cellular components. Since the heterogeneity of individual cells has been established, more researchers are interested in the chemical differences between individual cells; TOC is the only form of analysis that can provide this information. This has resulted in the constant development of new technologies and methods. This review highlights the common techniques for micro- and nanomanipulation, Raman spectroscopy, microscopy, and mass spectrometric imaging as they pertain to TOC chemical analysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>De Silva</LastName>
+                    <ForeName>Imesha W</ForeName>
+                    <Initials>IW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of North Texas, Denton, TX 76201, USA. gverbeck@unt.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kretsch</LastName>
+                    <ForeName>Amanda R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of North Texas, Denton, TX 76201, USA. gverbeck@unt.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Holly-May</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Surrey, Guildford, Surrey GU2 7XH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bailey</LastName>
+                    <ForeName>Melanie</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9050-7910</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>University of Surrey, Guildford, Surrey GU2 7XH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verbeck</LastName>
+                    <ForeName>Guido F</ForeName>
+                    <Initials>GF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3317-9911</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of North Texas, Denton, TX 76201, USA. gverbeck@unt.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Analyst</MedlineTA>
+            <NlmUniqueID>0372652</NlmUniqueID>
+            <ISSNLinking>0003-2654</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199412</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9an00558g</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

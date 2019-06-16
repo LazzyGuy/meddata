@@ -1,0 +1,197 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198525</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-2392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular autism</Title>
+                <ISOAbbreviation>Mol Autism</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CYFIP1 overexpression increases fear response in mice but does not affect social or repetitive behavioral phenotypes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13229-019-0278-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">CYFIP1, a protein that interacts with FMRP and regulates protein synthesis and actin dynamics, is overexpressed in Dup15q syndrome as well as autism spectrum disorder (ASD). While <i>CYFIP1</i> heterozygosity has been rigorously studied due to its loss in 15q11.2 deletion, Prader-Willi and Angelman syndrome, the effects of <i>CYFIP1</i> overexpression, as is observed in patients with <i>CYFIP1</i> duplication, are less well understood.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We developed and validated a mouse model of human <i>CYFIP1</i> overexpression (<i>CYFIP1</i> OE) using qPCR and western blot analysis. We performed a large battery of behavior testing on these mice, including ultrasonic vocalizations, three-chamber social assay, home-cage behavior, Y-maze, elevated plus maze, open field test, Morris water maze, fear conditioning, prepulse inhibition, and the hot plate assay. We also performed RNA sequencing and analysis on the basolateral amygdala.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Extensive behavioral testing in <i>CYFIP1</i> OE mice reveals no changes in the core behaviors related to ASD: social interactions and repetitive behaviors. However, we did observe mild learning deficits and an exaggerated fear response. Using RNA sequencing of the basolateral amygdala, a region associated with fear response, we observed changes in pathways related to cytoskeletal regulation, oligodendrocytes, and myelination. We also identified GABA-A subunit composition changes in basolateral amygdala neurons, which are essential components of the neural fear conditioning circuit.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Overall, this research identifies the behavioral and molecular consequences of <i>CYFIP1</i> overexpression and how they contribute to the variable phenotype seen in Dup15q syndrome and in ASD patients with excess CYFIP1.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fricano-Kugler</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Semel Institute, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordon</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Grace</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Semel Institute, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Kun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Jade</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Semel Institute, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Jamee</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Semel Institute, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Starks</LastName>
+                    <ForeName>Mary</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geschwind</LastName>
+                    <ForeName>Daniel H</ForeName>
+                    <Initials>DH</Initials>
+                    <Identifier Source="ORCID">0000-0003-2896-3450</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>3Program in Neurobehavioral Genetics, Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Center for Autism Research and Treatment, Semel Institute, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 9632 6718</Identifier>
+                        <Identifier Source="GRID">grid.19006.3e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Autism</MedlineTA>
+            <NlmUniqueID>101534222</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Autism spectrum disorder (ASD)</Keyword>
+            <Keyword MajorTopicYN="N">CYFIP1</Keyword>
+            <Keyword MajorTopicYN="N">Dup15q</Keyword>
+            <Keyword MajorTopicYN="N">Fear conditioning</Keyword>
+            <Keyword MajorTopicYN="N">Mouse behavior</Keyword>
+            <Keyword MajorTopicYN="N">Neurodevelopmental disorders</Keyword>
+            <Keyword MajorTopicYN="N">RNA sequencing</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198525</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13229-019-0278-0</ArticleId>
+            <ArticleId IdType="pii">278</ArticleId>
+            <ArticleId IdType="pmc">PMC6555997</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

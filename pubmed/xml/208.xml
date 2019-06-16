@@ -1,0 +1,183 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200202</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6424</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>252</Volume>
+                    <Issue>Pt A</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental pollution (Barking, Essex : 1987)</Title>
+                <ISOAbbreviation>Environ. Pollut.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Monitoring of explosive residues in lake-bottom water using Polar Organic Chemical Integrative Sampler (POCIS) and chemcatcher: determination of transfer kinetics through Polyethersulfone (PES) membrane is crucial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>767-776</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0269-7491(18)34263-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envpol.2019.04.087</ELocationID>
+            <Abstract>
+                <AbstractText>Between 1920 and 1967, approximatively 8200 tons of ammunition waste were dumped into some Swiss lakes. This study is part of the extensive historical and technical investigations performed since 1995 by Swiss authorities to provide a risk assessment. It aims to assess whether explosive monitoring by passive sampling is feasible in lake-bottom waters. Polar organic chemical integrative sampler (POCIS) and Chemcatcher were first calibrated in a channel system supplied with continuously refreshed lake water spiked with two nitroamines (HMX and RDX), one nitrate ester (PETN), and six nitroaromatics (including TNT). Exposure parameters were kept as close as possible to the ones expected at the bottom of two affected lakes. Sixteen POCIS and Chemcatcher were simultaneously deployed in the channel system and removed in duplicates at 8 different intervals over 21 days. Sorbents and polyethersulfone (PES) membranes were separately extracted and analyzed by UPLC-MS/MS. When possible, a three-compartment model was used to describe the uptake of compounds from water, over the PES membrane into the sorbent. Uptake of target compounds by sorbents was shown not to approach equilibrium during 21 days. However, nitroaromatics strongly accumulated in PES, thus delaying the transfer of these compounds to sorbents (lag-phase up to 9 days). Whereas sampling rate (R<sub>S</sub>) of nitroamines were in the range of 0.06-0.14 L day<sup>-1</sup>, R<sub>S</sub> of nitroaromatics were up to 10 times lower. As nitroaromatic accumulation in PES was integrative over 21 days, PES was used as receiving phase for these compounds. The samplers were then deployed at lake bottoms. To ensure that exposure conditions were similar between calibration and field experiments, low-density polyethylene strips spiked with performance reference compounds were co-deployed in both experiments and dissipation data were compared. Integrative concentrations of explosives measured in the lakes confirmed results obtained by previous studies based on grab sampling.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Estoppey</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal office for defence procurement (armasuisse), Feuerwerkerstrasse 39, 3602 Thun, Switzerland; School of Criminal Justice, University of Lausanne, Batochime building, 1015 Lausanne, Switzerland. Electronic address: nicolas.estoppey@unil.ch.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathieu</LastName>
+                    <ForeName>Jörg</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal office for defence procurement (armasuisse), Feuerwerkerstrasse 39, 3602 Thun, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gascon Diez</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Criminal Justice, University of Lausanne, Batochime building, 1015 Lausanne, Switzerland; Direction générale de la santé, Secteur des produits chimiques, République et Canton de Genève, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sapin</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Criminal Justice, University of Lausanne, Batochime building, 1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delémont</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Criminal Justice, University of Lausanne, Batochime building, 1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esseiva</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Criminal Justice, University of Lausanne, Batochime building, 1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Alencastro</LastName>
+                    <ForeName>Luiz Felippe</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central Environmental Laboratory, Ecole Polytechnique Fédérale de Lausanne (EPFL), Station 2, 1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coudret</LastName>
+                    <ForeName>Sylvain</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central Environmental Laboratory, Ecole Polytechnique Fédérale de Lausanne (EPFL), Station 2, 1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Folly</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal office for defence procurement (armasuisse), Feuerwerkerstrasse 39, 3602 Thun, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Pollut</MedlineTA>
+            <NlmUniqueID>8804476</NlmUniqueID>
+            <ISSNLinking>0269-7491</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Continuous flow calibration</Keyword>
+            <Keyword MajorTopicYN="N">HMX</Keyword>
+            <Keyword MajorTopicYN="N">Passive sampling</Keyword>
+            <Keyword MajorTopicYN="N">RDX</Keyword>
+            <Keyword MajorTopicYN="N">TNT</Keyword>
+            <Keyword MajorTopicYN="N">Three-compartment model</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200202</ArticleId>
+            <ArticleId IdType="pii">S0269-7491(18)34263-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envpol.2019.04.087</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

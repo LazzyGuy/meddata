@@ -1,0 +1,429 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200111</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1567-7257</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases</Title>
+                <ISOAbbreviation>Infect. Genet. Evol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Updated unified phylogenetic classification system and revised nomenclature for Newcastle disease virus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103917</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-1348(19)30138-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.meegid.2019.103917</ELocationID>
+            <Abstract>
+                <AbstractText>Several Avian paramyxoviruses 1 (synonymous with Newcastle disease virus or NDV, used hereafter) classification systems have been proposed for strain identification and differentiation. These systems pioneered classification efforts; however, they were based on different approaches and lacked objective criteria for the differentiation of isolates. These differences have created discrepancies among systems, rendering discussions and comparisons across studies difficult. Although a system that used objective classification criteria was proposed by Diel and co-workers in 2012, the ample worldwide circulation and constant evolution of NDV, and utilization of only some of the criteria led to identical naming and/or incorrect assigning of new sub/genotypes. To address these issues, an international consortium of experts was convened to undertake in-depth analyses of NDV genetic diversity. This consortium generated curated, up-to-date, complete fusion gene class I and class II datasets of all known NDV for public use, performed comprehensive phylogenetic Neighbor-Joining, maximum-likelihood, Bayesian and nucleotide distance analyses, and compared these inference methods. An updated NDV classification and nomenclature system that incorporates phylogenetic topology, genetic distances, branch support, and epidemiological independence was developed. This new consensus system maintains two NDV classes and existing genotypes, identifies three new genotypes, and reduces the number of sub-genotypes. In order to track the ancestry of viruses, a dichotomous naming system for designating sub-genotypes was introduced. In addition, a pilot dataset and sub-trees rooting guidelines for rapid preliminary genotype identification of new isolates are provided. Guidelines for sequence dataset curation and phylogenetic inference, and a detailed comparison between the updated and previous systems are included. To increase the speed of phylogenetic inference and ensure consistency between laboratories, detailed guidelines for the use of a supercomputer are also provided. The proposed unified classification system will facilitate future studies of NDV evolution and epidemiology, and comparison of results obtained across the world.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dimitrov</LastName>
+                    <ForeName>Kiril M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exotic and Emerging Avian Viral Disease Research Unit, Southeast Poultry Research Laboratory, US National Poultry Research Center, ARS, USDA, 934 College Station Road, Athens, GA 30605, USA. Electronic address: dimitrov_kiril@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abolnik</LastName>
+                    <ForeName>Celia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Production Studies, Faculty of Veterinary Science, University of Pretoria, Old Soutpan Road, Onderstepoort, Pretoria 0110, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Afonso</LastName>
+                    <ForeName>Claudio L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exotic and Emerging Avian Viral Disease Research Unit, Southeast Poultry Research Laboratory, US National Poultry Research Center, ARS, USDA, 934 College Station Road, Athens, GA 30605, USA. Electronic address: claudio.afonso@ars.usda.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albina</LastName>
+                    <ForeName>Emmanuel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIRAD, UMR ASTRE, F-97170 Petit-Bourg, Guadeloupe, France; ASTRE CIRAD, INRA, Univ Montpellier, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahl</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Ecology of Infectious Disease, Department of Infectious Diseases, Department of Epidemiology and Biostatistics, Institute of Bioinformatics, University of Georgia, Athens, GA 30602, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Mikael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences and Veterinary Public Health, Swedish University of Agricultural Sciences, Box 7028, 750 07 Uppsala, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Briand</LastName>
+                    <ForeName>Francois-Xavier</ForeName>
+                    <Initials>FX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ANSES, Avian and Rabbit Virology Immunology and Parasitology Unit, National reference laboratory for avian Influenza and Newcastle disease, BP 53, 22440 Ploufragan, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Ian H</ForeName>
+                    <Initials>IH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OIE/FAO International Reference Laboratory for Newcastle Disease, Animal and Plant Health Agency (APHA -Weybridge), Addlestone KT15 3NB, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Kang-Seuk</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal and Plant Quarantine Agency, Ministry of Agriculture, Food and Rural Affairs (MAFRA), 177 Hyeoksin 8-ro, Gimcheon-si, Gyeongsangbuk-do 39660, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chvala</LastName>
+                    <ForeName>Ilya</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal Governmental Budgetary Institution, Federal Centre for Animal Health, FGI ARRIAH, Vladimir 600901, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diel</LastName>
+                    <ForeName>Diego G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary and Biomedical Sciences, Animal Disease, Research and Diagnostic Laboratory, South Dakota State University, Brookings, SD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Durr</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CSIRO Australian Animal Health Laboratory, Portarlington Road, East Geelong, Victoria 3219, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferreira</LastName>
+                    <ForeName>Helena L</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exotic and Emerging Avian Viral Disease Research Unit, Southeast Poultry Research Laboratory, US National Poultry Research Center, ARS, USDA, 934 College Station Road, Athens, GA 30605, USA; University of Sao Paulo, ZMV, FZEA, Pirassununga 13635900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fusaro</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe), Viale dell'Università 10, Legnaro 35020, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gil</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ASTRE CIRAD, INRA, Univ Montpellier, Montpellier, France; CIRAD, UMR ASTRE, F-34398 Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goujgoulova</LastName>
+                    <ForeName>Gabriela V</ForeName>
+                    <Initials>GV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Diagnostic and Research Veterinary Medical Institute, 15 Pencho Slaveikov blvd., Sofia 1606, Bulgaria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grund</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedrich-Loeffler-Institut, 17493 Greifswald, Insel Riems, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hicks</LastName>
+                    <ForeName>Joseph T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Ecology of Infectious Disease, Department of Infectious Diseases, Department of Epidemiology and Biostatistics, Institute of Bioinformatics, University of Georgia, Athens, GA 30602, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joannis</LastName>
+                    <ForeName>Tony M</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Laboratory for Animal Influenzas and Transboundary Animal Diseases, National Veterinary Research Institute, Vom, Nigeria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torchetti</LastName>
+                    <ForeName>Mia Kim</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Veterinary Services Laboratories, Diagnostics and Biologics, Veterinary Services, Animal and Plant Health Inspection Service,, U.S. Department of Agriculture, 1920 Dayton Ave, Ames, IA 50010, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolosov</LastName>
+                    <ForeName>Sergey</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal Governmental Budgetary Institution, Federal Centre for Animal Health, FGI ARRIAH, Vladimir 600901, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambrecht</LastName>
+                    <ForeName>Bénédicte</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectious Diseases in Animals, SCIENSANO, Groeselenberg 99, 1180, Ukkel, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Nicola S</ForeName>
+                    <Initials>NS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OIE/FAO International Reference Laboratory for Newcastle Disease, Animal and Plant Health Agency (APHA -Weybridge), Addlestone KT15 3NB, UK; Royal Veterinary College, University of London, 4 Royal College Street, London NW1 0TU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Haijin</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Veterinary Medicine, Northwest A &amp; F University, Yangling, Shaanxi 712100, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hualei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>China Animal Health and Epidemiology Center (CAHEC), 369 Nanjing Road, Qingdao 266032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCullough</LastName>
+                    <ForeName>Sam</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CSIRO Australian Animal Health Laboratory, Portarlington Road, East Geelong, Victoria 3219, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Patti J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health, College of Veterinary Medicine, University of Georgia, 953 College Station Road, Athens, GA 30602, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monne</LastName>
+                    <ForeName>Isabella</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe), Viale dell'Università 10, Legnaro 35020, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muller</LastName>
+                    <ForeName>Claude P</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectious Diseases Research Unit, Department of Infection and Immunity, Luxembourg Institute of Health, 29, rue Henri Koch, L-4354 Esch-sur-Alzette, Luxembourg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munir</LastName>
+                    <ForeName>Muhammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biomedical and Life Sciences, Faculty of Health and Medicine, Lancaster University, Lancaster, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reischak</LastName>
+                    <ForeName>Dilmara</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ministério da Agricultura, Pecuária e Abastecimento, Laboratório Federal de Defesa Agropecuário, Campinas, SP 13100-105, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabra</LastName>
+                    <ForeName>Mahmoud</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Poultry Diseases, Faculty of Veterinary Medicine, South Valley University, Qena 83523, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samal</LastName>
+                    <ForeName>Siba K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Virginia-Maryland Regional College of Veterinary Medicine, University of Maryland, College Park, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Almeida</LastName>
+                    <ForeName>Renata Servan</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ASTRE CIRAD, INRA, Univ Montpellier, Montpellier, France; CIRAD, UMR ASTRE, F-34398 Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shittu</LastName>
+                    <ForeName>Ismaila</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Laboratory for Animal Influenzas and Transboundary Animal Diseases, National Veterinary Research Institute, Vom, Nigeria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snoeck</LastName>
+                    <ForeName>Chantal J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectious Diseases Research Unit, Department of Infection and Immunity, Luxembourg Institute of Health, 29, rue Henri Koch, L-4354 Esch-sur-Alzette, Luxembourg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suarez</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exotic and Emerging Avian Viral Disease Research Unit, Southeast Poultry Research Laboratory, US National Poultry Research Center, ARS, USDA, 934 College Station Road, Athens, GA 30605, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Borm</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infectious Diseases in Animals, SCIENSANO, Groeselenberg 99, 1180, Ukkel, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhiliang</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>China Animal Health and Epidemiology Center (CAHEC), 369 Nanjing Road, Qingdao 266032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Frank Y K</ForeName>
+                    <Initials>FYK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CSIRO Australian Animal Health Laboratory, Portarlington Road, East Geelong, Victoria 3219, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Infect Genet Evol</MedlineTA>
+            <NlmUniqueID>101084138</NlmUniqueID>
+            <ISSNLinking>1567-1348</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Avian paramyxovirus 1 (APMV-1)</Keyword>
+            <Keyword MajorTopicYN="N">Classification</Keyword>
+            <Keyword MajorTopicYN="N">Genotype</Keyword>
+            <Keyword MajorTopicYN="N">Newcastle disease virus (NDV)</Keyword>
+            <Keyword MajorTopicYN="N">Nomenclature</Keyword>
+            <Keyword MajorTopicYN="N">Phylogenetic analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200111</ArticleId>
+            <ArticleId IdType="pii">S1567-1348(19)30138-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.meegid.2019.103917</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

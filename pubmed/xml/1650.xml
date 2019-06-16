@@ -1,0 +1,213 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198526</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-2392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular autism</Title>
+                <ISOAbbreviation>Mol Autism</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Autistic traits in adults who have attempted suicide.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13229-019-0274-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">An emerging literature suggests that autistic adults are at increased risk of experiencing suicidal thoughts, making suicidal plans and attempts, and dying by suicide. However, few studies have investigated whether autistic traits are related to suicidal behaviour. The current study examined autistic traits in a sample of adults who reported at least one suicide attempt.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">An online questionnaire was advertised between June and September 2017 on suicide prevention websites, research databases, and social media. Participants reported whether they had ever attempted suicide (yes/no), and if so, how many times they had attempted (once/more than once). They also reported diagnosed and suspected mental health or neurodevelopmental conditions, and completed the Autism Spectrum Quotient (AQ). Two hundred forty-five adults accessed the survey; 132 reported having attempted suicide and also completed the AQ. It was hypothesised that AQ total scores and subscale scores would be higher in adults who had attempted suicide more than once compared to adults who had attempted once. These hypotheses were tested using an independent samples <i>t</i> test, Mann-Whitney <i>U</i> tests, and binary logistic regression.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Most participants were female (83.3%, male = 12.9%, other = 3.8%), and ages ranged from 18 to 65 (median = 36.00; IQR = 19.00). Total AQ scores, as well as communication and imagination subscale scores were significantly higher in adults who had attempted suicide more than once compared to adults who had attempted suicide once. Even after removing participants with diagnosed or suspected autism (<i>n</i> = 34), 40.6% had an AQ score indicative of clinical concern (≥ 26).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The findings suggest that high levels of autistic traits may frequently be present in adults who have attempted suicide, and that AQ scores are higher in those with a history of more than one suicide attempt. It may be possible to better identify suicide risk by screening autistic adults with mental health conditions for suicidal thoughts and behaviours, and by screening people with suicidal thoughts and/or behaviours for autism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Richards</LastName>
+                    <ForeName>Gareth</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">0000-0003-0233-0153</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2School of Psychology, Newcastle University, Newcastle upon Tyne, UK.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0462 7212</Identifier>
+                        <Identifier Source="GRID">grid.1006.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kenny</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffiths</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allison</LastName>
+                    <ForeName>Carrie</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosse</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3SOAS, University of London, London, UK.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0425 5983</Identifier>
+                        <Identifier Source="GRID">grid.22631.34</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holt</LastName>
+                    <ForeName>Rosemary</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Connor</LastName>
+                    <ForeName>Rory C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Suicidal Behaviour Research Laboratory, Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2193 314X</Identifier>
+                        <Identifier Source="GRID">grid.8756.c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Cassidy</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5School of Psychology, University of Nottingham, Nottingham, UK.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8868</Identifier>
+                        <Identifier Source="GRID">grid.4563.4</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Baron-Cohen</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Autism Research Centre, Department of Psychiatry, Douglas House, University of Cambridge, 18b Trumpington Road, Cambridge, CB2 8AH UK.</Affiliation>
+                        <Identifier Source="ISNI">0000000121885934</Identifier>
+                        <Identifier Source="GRID">grid.5335.0</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CLASS Clinic, Cambridgeshire and Peterborough Foundation NHS Trust, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Autism</MedlineTA>
+            <NlmUniqueID>101534222</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ASC</Keyword>
+            <Keyword MajorTopicYN="N">ASD</Keyword>
+            <Keyword MajorTopicYN="N">Asperger syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Autism</Keyword>
+            <Keyword MajorTopicYN="N">Autism spectrum</Keyword>
+            <Keyword MajorTopicYN="N">Autistic traits</Keyword>
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Mental health</Keyword>
+            <Keyword MajorTopicYN="N">Suicidality</Keyword>
+            <Keyword MajorTopicYN="N">Suicide</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198526</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13229-019-0274-4</ArticleId>
+            <ArticleId IdType="pii">274</ArticleId>
+            <ArticleId IdType="pmc">PMC6555998</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

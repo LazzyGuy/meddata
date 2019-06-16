@@ -1,0 +1,178 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198634</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transcriptomic study of the mechanism of anoikis resistance in head and neck squamous carcinoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6978</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6978</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Normal epithelial cells rapidly undergo apoptosis as soon as they lose contact with the extracellular matrix (ECM), which is termed as anoikis. However, cancer cells tend to develop a resistance mechanism to anoikis. This acquired ability is termed as anoikis resistance. Cancer cells, with anoikis resistance, can spread to distant tissues or organs via the peripheral circulatory system and cause cancer metastasis. Thus, inhibition of anoikis resistance blocks the metastatic ability of cancer cells.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Anoikis-resistant CAL27 (CAL27<sup>AR</sup>) cells were induced from CAL27 cells using the suspension culture approach. Transcriptome analysis was performed using RNA-Seq to study the differentially expressed genes (DEGs) between the CAL27<sup>AR</sup>cells and the parental CAL27 cells. Gene function annotation and Gene Ontology (GO) enrichment analysis were performed using DAVID database. Signaling pathways involved in DEGs were analyzed using Gene Set Enrichment Analysis (GSEA) software. Analysis results were confirmed by reverse transcription PCR (RT-PCR), western blotting, and gene correlation analysis based on the TCGA database.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">GO enrichment analysis indicated that the biological process (BP) of the DEGs was associated with epidermal development, DNA replication, and G1/S transition of the mitotic cell cycle. The analysis of cellular component (CC) showed that the most significant up-regulated genes were related to extracellular exosome. KEGG Pathway analysis revealed that 23 signaling pathways were activated (<i>p</i>-value ≤ 0.05, FDR <i>q</i>-value ≤ 0.05) and 22 signaling pathways were suppressed (<i>p</i>-value ≤ 0.05, FDR <i>q</i>-value ≤ 0.05). The results from the GSEA indicated that in contrast to the inhibition of EGFR signaling pathway, the VEGF signaling pathway was activated. The VEGF signaling pathway possibly activates STAT3 though induction of STAT3 phosphorylation. Gene correlation analysis revealed that the VEGFA- STAT3-KLF4-CDKN1A signal axis was not only present in head and neck squamous carcinoma (HNSCC) but also two other epithelial-derived carcinomas that highly express VEGFA, including kidney renal clear cell carcinoma (KIRC) and ovarian serous cystadenocarcinoma (OV).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Ling-Feng</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Hui-Min</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Ji-Hua</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jia</LastName>
+                    <ForeName>Meng-Qi</ForeName>
+                    <Initials>MQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jia</LastName>
+                    <ForeName>Rong</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jia</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The State Key Laboratory Breeding Base of Basic Science of Stomatology (Hubei-MOST) &amp; Key Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, Wuhan University, School and Hospital of Stomatology, Wuhan, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>figshare</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>10.6084/m9.figshare.7390229.v1</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anoikis resistance</Keyword>
+            <Keyword MajorTopicYN="N">Head and neck squamous cell carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">RNA-Seq</Keyword>
+            <Keyword MajorTopicYN="N">Transcriptomics</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198634</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6978</ArticleId>
+            <ArticleId IdType="pii">6978</ArticleId>
+            <ArticleId IdType="pmc">PMC6535219</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

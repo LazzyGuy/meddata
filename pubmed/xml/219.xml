@@ -1,0 +1,173 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200188</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4529</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>59</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical anesthesia</Title>
+                <ISOAbbreviation>J Clin Anesth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The association of body mass index with same-day hospital admission, postoperative complications, and 30-day readmission following day-case eligible joint arthroscopy: A national registry analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0952-8180(19)30338-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jclinane.2019.06.012</ELocationID>
+            <Abstract>
+                <AbstractText Label="STUDY OBJECTIVE" NlmCategory="OBJECTIVE">We examined the association of body mass index (BMI) with hospital admission, same-day complications, and 30-day hospital readmission following day-case eligible joint arthroscopy.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Retrospective cohort study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Multi-institutional.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Adult patients undergoing arthroscopy of the knee, hip or shoulder in the outpatient setting.</AbstractText>
+                <AbstractText Label="INTERVENTION" NlmCategory="METHODS">None.</AbstractText>
+                <AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Using the American College of Surgeons National Surgical Quality Improvement Program dataset from 2012 to 2016, we examined seven BMI ranges: normal BMI (≥20 kg/m<sup>2</sup> and &lt;25 kg/m<sup>2</sup>), underweight (&lt;20 kg/m<sup>2</sup>), overweight (≥25 kg/m<sup>2</sup> and &lt;30 kg/m<sup>2</sup>), Class 1 and 2 obese (≥30 kg/m<sup>2</sup> and &lt;40 kg/m<sup>2</sup>, reference variable), and severe obesity, which we divided into the following BMI ranges: ≥40 kg/m<sup>2</sup> and &lt;50 kg/m<sup>2</sup>, ≥50 kg/m<sup>2</sup> and &lt;60 kg/m<sup>2</sup>, and ≥60 kg/m<sup>2</sup>. The primary outcome was hospital admission. Secondary outcomes included same-day postoperative complications and 30-day hospital readmission. We performed multivariable logistic regression and reported odds ratios (OR) and their associated 95% confidence interval (CI) and considered a p-value of &lt;0.05 as statistically significant.</AbstractText>
+                <AbstractText Label="MAIN RESULTS" NlmCategory="RESULTS">There were a total of 99,410 patients included in the final analysis, in which there was a 2.6% rate of hospital admission. When compared to class 3 obesity, only those with BMI ≥50 kg/m<sup>2</sup>(OR 1.55, 95% CI 1.18-2.01, p = 0.005) had increased odds of hospital admission. There were no differences in 30-day hospital readmission or same-day postoperative complications.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found that only patients with BMI ≥50 kg/m<sup>2</sup> had increased odds for same-day hospital admission even when patient's comorbid conditions are optimized, suggesting that a BMI ≥50 kg/m<sup>2</sup> may be used as a sole factor for patient selection in patients undergoing joint arthroscopy. For patients with BMI &lt;50 kg/m<sup>2</sup>, we recommend that BMI alone should not be solely used to exclude patients from having joint arthroscopies performed in an outpatient setting, especially since this patient group makes up a significant proportion of joint arthroscopy.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gabriel</LastName>
+                    <ForeName>Rodney A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, University of California, San Diego, La Jolla, CA, USA; Department of Medicine, Division of Biomedical Informatics, University of California, San Diego, La Jolla, CA, USA. Electronic address: ragabriel@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burton</LastName>
+                    <ForeName>Brittany N</ForeName>
+                    <Initials>BN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, University of California, San Diego, La Jolla, CA, USA. Electronic address: bnburton@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ingrande</LastName>
+                    <ForeName>Jerry</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, University of California, San Diego, La Jolla, CA, USA. Electronic address: jingrande@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joshi</LastName>
+                    <ForeName>Girish P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia, University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic address: girish.joshi@utsouthwestern.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waterman</LastName>
+                    <ForeName>Ruth S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, University of California, San Diego, La Jolla, CA, USA. Electronic address: rwaterman@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spurr</LastName>
+                    <ForeName>Kristin R</ForeName>
+                    <Initials>KR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, University of California, San Diego, La Jolla, CA, USA. Electronic address: kspurr@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Urman</LastName>
+                    <ForeName>Richard D</ForeName>
+                    <Initials>RD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative and Pain Medicine, Harvard Medical School, Brigham and Women's Hospital, Boston, MA, USA. Electronic address: rurman@bwh.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Anesth</MedlineTA>
+            <NlmUniqueID>8812166</NlmUniqueID>
+            <ISSNLinking>0952-8180</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ambulatory</Keyword>
+            <Keyword MajorTopicYN="N">BMI</Keyword>
+            <Keyword MajorTopicYN="N">Complications</Keyword>
+            <Keyword MajorTopicYN="N">Day surgery</Keyword>
+            <Keyword MajorTopicYN="N">Obesity</Keyword>
+            <Keyword MajorTopicYN="N">Outpatient surgery</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200188</ArticleId>
+            <ArticleId IdType="pii">S0952-8180(19)30338-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jclinane.2019.06.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

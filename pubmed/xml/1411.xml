@@ -1,0 +1,175 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198861</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2405-805X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Synthetic and systems biotechnology</Title>
+                <ISOAbbreviation>Synth Syst Biotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic engineering of <i>Corynebacterium glutamicum</i> S9114 based on whole-genome sequencing for efficient <i>N</i>-acetylglucosamine synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>120-129</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.synbio.2019.05.002</ELocationID>
+            <Abstract>
+                <AbstractText>Glucosamine (GlcN) and its acetylated derivative <i>N</i>-acetylglucosamine (GlcNAc) are widely used in the pharmaceutical industries. Here, we attempted to achieve efficient production of GlcNAc via genomic engineering of <i>Corynebacterium glutamicum</i>. Specifically, we ligated the <i>GNA1</i> gene, which converts GlcN-6-phosphate to GlcNAc-6-phosphate by transferring the acetyl group in Acetyl-CoA to the amino group of GlcN-6-phosphate, into the plasmid pJYW4 and then transformed this recombinant vector into the <i>C. glutamicum</i> ATCC 13032, ATCC 13869, ATCC 14067, and S9114 strains, and we assessed the GlcNAc titers at 0.5 g/L, 1.2 g/L, 0.8 g/L, and 3.1 g/L from each strain, respectively. This suggested that there were likely to be significant differences among the key genes in the glutamate and GlcNAc synthesis pathways of these <i>C. glutamicum</i> strains. Therefore, we performed whole genome sequencing of the S9114 strain, which has not been previously published, and found that there are many differences among the genes in the glutamate and GlcNAc synthesis pathways among the four strains tested. Next, <i>nagA</i> (encoding GlcNAc-6-phosphate deacetylase) and <i>gamA</i> (encoding GlcN-6-phosphate deaminase) were deleted in <i>C. glutamicum</i> S9114 to block the catabolism of intracellular GlcNAc, leading to a 54.8% increase in GlcNAc production (from 3.1 to 4.8 g/L) when grown in a shaker flask. In addition, lactate synthesis was blocked by knockout of <i>ldh</i> (encoding lactate dehydrogenase); thus, further increasing the GlcNAc titer to 5.4 g/L. Finally, we added a key gene of the GlcN synthetic pathway, <i>glmS</i>, from different sources into the expression vector pJYW-4-ceN, and the resulting recombinant strain CGGN2-<i>GNA1</i>-<i>CgglmS</i> produced the GlcNAc titer of 6.9 g/L. This is the first report concerning the metabolic engineering of <i>C. glutamicum</i>, and the results of this study provide a good starting point for further metabolic engineering to achieve industrial-scale production of GlcNAc<i>.</i></AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Xueqin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yanfeng</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jianghua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shandong Runde Biotechnology CO., LTD, Taian, 271200, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Guocheng</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Long</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi, 214122, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Synth Syst Biotechnol</MedlineTA>
+            <NlmUniqueID>101694371</NlmUniqueID>
+            <ISSNLinking>2405-805X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C. glutamicum</Keyword>
+            <Keyword MajorTopicYN="N">Complete genome</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic engineering</Keyword>
+            <Keyword MajorTopicYN="N">N-acetylglucosamine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198861</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.synbio.2019.05.002</ArticleId>
+            <ArticleId IdType="pii">S2405-805X(19)30027-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6558094</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

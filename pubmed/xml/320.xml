@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200085</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0038</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gene</Title>
+                <ISOAbbreviation>Gene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficiency of different fragment lengths of the ubiquitous chromatin opening element HNRPA2B1-CBX3 in driving human CD18 gene expression within self-inactivating lentiviral vectors for gene therapy applications.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-1119(19)30576-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gene.2019.06.016</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with leukocyte adhesion deficiency type 1 (LAD1) suffer from life-threatening bacterial infections due to mutations in the common β<sub>2</sub> integrin subunit (CD18/ITGB2 gene). We tested different fragments of the ubiquitous chromatin opening element (UCOE) from the human HNRPA2B1-CBX3 locus for their efficiency in driving the human CD18 gene expression and compared it with that of an elongation factor 1 alpha promoter (EF1αL, 1169 bp; EF1αS 248 bp) and a murine stem cell virus (MSCV) promoter within the context of the same lentiviral vector backbone. These vectors were tested in vitro for the human CD18 gene expression on the surface of CD34<sup>+</sup> hematopoietic stem cells (HSCs) isolated from both moderate and severe LAD1 patients. Among the promoters tested in the patients' CD34<sup>+</sup> HSCs, only U631 bp, U652 bp, U1262 bp, 5' 2.2 kb A2UCOE and EF1αS resulted in higher percentage of CD18<sup>+</sup>CD34<sup>+</sup> cells comparable to that of the MSCV promoter. The U655 bp, U723 bp, U1296 bp, U2598 bp and EF1αL promoters resulted in comparatively lower numbers of CD18<sup>+</sup>CD34<sup>+</sup> cells. This study would be useful in investigating the human CD18 gene expression in an ex vivo experiment to demonstrate the phenotypic correction of LAD1 in a pre-clinical model.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gopinath</LastName>
+                    <ForeName>Chitra</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gene Therapy Laboratory, Department of Integrative Biology, School of Bio Sciences and Technology, Vellore Institute of Technology, Vellore 632 014, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chodisetty</LastName>
+                    <ForeName>Sarvani</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gene Therapy Laboratory, Department of Integrative Biology, School of Bio Sciences and Technology, Vellore Institute of Technology, Vellore 632 014, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Arkasubhra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Grow Research Laboratory, Narayana Nethralaya Foundation, Bangalore 560 099, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nelson</LastName>
+                    <ForeName>Everette Jacob Remington</ForeName>
+                    <Initials>EJR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gene Therapy Laboratory, Department of Integrative Biology, School of Bio Sciences and Technology, Vellore Institute of Technology, Vellore 632 014, Tamil Nadu, India. Electronic address: everette.nelson@vit.ac.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Gene</MedlineTA>
+            <NlmUniqueID>7706761</NlmUniqueID>
+            <ISSNLinking>0378-1119</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CD18</Keyword>
+            <Keyword MajorTopicYN="N">Gene therapy</Keyword>
+            <Keyword MajorTopicYN="N">Hematopoietic stem cells (HSCs)</Keyword>
+            <Keyword MajorTopicYN="N">Lentiviral vectors</Keyword>
+            <Keyword MajorTopicYN="N">Leukocyte adhesion deficiency type 1 (LAD1)</Keyword>
+            <Keyword MajorTopicYN="N">Ubiquitous chromatin opening element (UCOE)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200085</ArticleId>
+            <ArticleId IdType="pii">S0378-1119(19)30576-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gene.2019.06.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

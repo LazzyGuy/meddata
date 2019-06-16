@@ -1,0 +1,91 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199912</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Surface Sugars Get Cells in Shape.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1672-1674</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(19)30624-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2019.05.053</ELocationID>
+            <Abstract>
+                <AbstractText>Cell membranes can adopt a variety of shapes and curvatures, yet our understanding of the factors involved remains limited. In this issue of Cell, Shurer et al. (2019) demonstrate that the glycocalyx can regulate cell shape from the outside in.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Godula</LastName>
+                    <ForeName>Kamil</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, University of California San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0358, USA. Electronic address: kgodula@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199912</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(19)30624-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.053</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

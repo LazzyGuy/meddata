@@ -1,0 +1,160 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198790</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2314-7156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology research</Title>
+                <ISOAbbreviation>J Immunol Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of Inhibitory Effects of Safflower Decoction and Safflower Injection on Protein and mRNA Expressions of iNOS and IL-1<i>β</i> in LPS-Activated RAW264.7 Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1018274</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/1018274</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">Safflower has antioxidant and anti-inflammatory activities. The two forms of preparations for safflower which are widely used in China are injection and decoction. The first step of the process for preparing an injection involves extracting safflower with water, which actually yields a decoction. This study is intended to investigate how the preparation process influences the anti-inflammatory activity of safflower <i>in vitro</i>.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Five samples, including a decoction (sample 1) and an injection (sample 5) of safflower, were prepared according to the national standard WS3-B-3825-98-2012 and were analyzed by the oxygen radical absorbance capacity (ORAC) method and the 1,1-diphenyl-2-trinitrophenylhydrazine (DPPH) method for comparison. Sample 1 and sample 5 were further tested by the Griess assay and ELISA for their effects on nitric oxide (NO) production and interleukin- (IL-) 1<i>β</i> content in lipopolysaccharide- (LPS-) activated RAW264.7 cells. The protein and mRNA levels of inducible nitric oxide synthase (iNOS) and IL-1<i>β</i> were measured by Western blotting and real-time quantitative PCR.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Sample 5 showed a significantly higher ORAC value and a lower half inhibitory concentration (IC<sub>50</sub>) for DPPH scavenging activity as compared to the other four samples (<i>p</i> &lt; 0.05). LPS significantly upregulated the mRNA and protein expressions of iNOS and IL-1<i>β</i> as compared to the solvent control (<i>p</i> &lt; 0.01). As compared to sample 1, sample 5 significantly decreased NO production, iNOS protein expression, and the contents of IL-1<i>β</i> mRNA and IL-1<i>β</i> protein at both 100 <i>μ</i>g/ml and 200 <i>μ</i>g/ml (all: <i>p</i> &lt; 0.05) and significantly downregulated iNOS mRNA expression at 100 <i>μ</i>g/ml (<i>p</i> &lt; 0.05).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Results of this study demonstrate that the safflower injection prepared according to the national standard has a significant effect of suppressing protein and mRNA expressions of iNOS and IL-1<i>β</i> as compared to its traditional decoction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">0000-0001-6325-062X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Shanxi Provincial People's Hospital of Shanxi Medical University, Taiyuan 030012, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yuanping</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Shanxi Provincial People's Hospital of Shanxi Medical University, Taiyuan 030012, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhai</LastName>
+                    <ForeName>Xiaoru</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>China Institute for Radiation Protection, Taiyuan 030006, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Shanxi Provincial People's Hospital of Shanxi Medical University, Taiyuan 030012, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banbury</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0001-5348-9952</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NSW Health Pathology, Lismore Base Hospital, Hunter Street, Lismore, 2480 NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiaoyun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, Shanxi Medical University, Taiyuan 030001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Rongshan</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0002-8082-4389</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Shanxi Provincial People's Hospital of Shanxi Medical University, Shanxi Kidney Disease Institute, No. 29 Shuangtasi Street, Taiyuan, 030012 Shanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Egypt</Country>
+            <MedlineTA>J Immunol Res</MedlineTA>
+            <NlmUniqueID>101627166</NlmUniqueID>
+            <ISSNLinking>2314-7156</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198790</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/1018274</ArticleId>
+            <ArticleId IdType="pmc">PMC6526513</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

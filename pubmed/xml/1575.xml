@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198636</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CAM: an alignment-free method to recover phylogenies using codon aversion motifs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6984</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6984</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Common phylogenomic approaches for recovering phylogenies are often time-consuming and require annotations for orthologous gene relationships that are not always available. In contrast, alignment-free phylogenomic approaches typically use structure and oligomer frequencies to calculate pairwise distances between species. We have developed an approach to quickly calculate distances between species based on codon aversion.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Utilizing a novel alignment-free character state, we present CAM, an alignment-free approach to recover phylogenies by comparing differences in codon aversion motifs (i.e., the set of unused codons within each gene) across all genes within a species. Synonymous codon usage is non-random and differs between organisms, between genes, and even within a single gene, and many genes do not use all possible codons. We report a comprehensive analysis of codon aversion within 229,742,339 genes from 23,428 species across all kingdoms of life, and we provide an alignment-free framework for its use in a phylogenetic construct. For each species, we first construct a set of codon aversion motifs spanning all genes within that species. We define the pairwise distance between two species, A and B, as one minus the number of shared codon aversion motifs divided by the total codon aversion motifs of the species, A or B, containing the fewest motifs. This approach allows us to calculate pairwise distances even when substantial differences in the number of genes or a high rate of divergence between species exists. Finally, we use neighbor-joining to recover phylogenies.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Using the Open Tree of Life and NCBI Taxonomy Database as expected phylogenies, our approach compares well, recovering phylogenies that largely match expected trees and are comparable to trees recovered using maximum likelihood and other alignment-free approaches. Our technique is much faster than maximum likelihood and similar in accuracy to other alignment-free approaches. Therefore, we propose that codon aversion be considered a phylogenetically conserved character that may be used in future phylogenomic studies.</AbstractText>
+                <AbstractText Label="Availability" NlmCategory="UNASSIGNED">CAM, documentation, and test files are freely available on GitHub at https://github.com/ridgelab/cam.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Justin B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Brigham Young University, Provo, UT, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKinnon</LastName>
+                    <ForeName>Lauren M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Brigham Young University, Provo, UT, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whiting</LastName>
+                    <ForeName>Michael F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Brigham Young University, Provo, UT, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Brigham Young University, M.L. Bean Museum, Provo, UT, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ridge</LastName>
+                    <ForeName>Perry G</ForeName>
+                    <Initials>PG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Brigham Young University, Provo, UT, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alignment-free</Keyword>
+            <Keyword MajorTopicYN="N">Codon aversion</Keyword>
+            <Keyword MajorTopicYN="N">Codon usage bias</Keyword>
+            <Keyword MajorTopicYN="N">Maximum likelihood</Keyword>
+            <Keyword MajorTopicYN="N">Phylogenetics</Keyword>
+            <Keyword MajorTopicYN="N">Phylogenomics</Keyword>
+            <Keyword MajorTopicYN="N">Phylogeny</Keyword>
+            <Keyword MajorTopicYN="N">Systematics</Keyword>
+            <Keyword MajorTopicYN="N">Taxonomy</Keyword>
+            <Keyword MajorTopicYN="N">Tree of life</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198636</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6984</ArticleId>
+            <ArticleId IdType="pii">6984</ArticleId>
+            <ArticleId IdType="pmc">PMC6555396</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

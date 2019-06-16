@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200184</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-1991</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>81</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell calcium</Title>
+                <ISOAbbreviation>Cell Calcium</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lipid metabolism and Calcium signaling in epithelial ovarian cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0143-4160(19)30068-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ceca.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Epithelial Ovarian cancer (EOC) is the deadliest gynecologic malignancy and represents the fifth leading cause of all cancer-related deaths in women. The majority of patients are diagnosed at an advanced stage of the disease that has spread beyond the ovaries to the peritoneum or to distant organs (stage FIGO III-IV) with a 5-year overall survival of about 29%. Consequently, it is necessary to understand the pathogenesis of this disease. Among the factors that contribute to cancer development, lipids and ion channels have been described to be associated to cancerous diseases particularly in breast, colorectal and prostate cancers. Here, we reviewed the literature data to determine how lipids or lipid metabolites may influence EOC risk or progression. We also highlighted the role and the expression of the calcium (Ca<sup>2+</sup>) and calcium-activated potassium (KCa) channels in EOC and how lipids might regulate them. Although lipids and some subclasses of nutritional lipids may be associated to EOC risk, lipid metabolism of LPA (lysophosphatidic acid) and AA (arachidonic acid) emerges as an important signaling network in EOC. Clinical data showed that they are found at high concentrations in EOC patients and in vitro and in vivo studies referred to them as triggers of the Ca<sup>2+</sup>entry in the cancer cells inducing their proliferation, migration or drug resistance. The cross-talk between lipid mediators and Ca<sup>2+</sup> and/or KCa channels needs to be elucidated in EOC in order to facilitate the understanding of its outcomes and potentially suggest novel therapeutic strategies including treatment and prevention.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kouba</LastName>
+                    <ForeName>Sana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouldamer</LastName>
+                    <ForeName>Lobna</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Université de Tours, INSERM, N2C UMR 1069, CHRU de Tours, Service de gynécologie et d'obstétrique, Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>Céline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fontaine</LastName>
+                    <ForeName>Delphine</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chantome</LastName>
+                    <ForeName>Aurélie</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France; Université de Tours, INSERM, N2C UMR 1069, Faculté de Pharmacie, Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vandier</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goupille</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Réseau CASTOR du Cancéropôle Grand Ouest, France; Université de Tours, INSERM, N2C UMR 1069, CHRU de Tours, Faculté de Médecine, Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Potier-Cartereau</LastName>
+                    <ForeName>Marie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, INSERM, N2C UMR 1069, Faculté de Médecine, Tours, France; Réseau Molécules Marines, Métabolisme et Cancer du Cancéropôle Grand Ouest, France. Electronic address: marie.potier-cartereau@univ-tours.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cell Calcium</MedlineTA>
+            <NlmUniqueID>8006226</NlmUniqueID>
+            <ISSNLinking>0143-4160</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200184</ArticleId>
+            <ArticleId IdType="pii">S0143-4160(19)30068-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ceca.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

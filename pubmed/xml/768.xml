@@ -1,0 +1,214 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199589</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-7634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer medicine</Title>
+                <ISOAbbreviation>Cancer Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Therapeutic potential of CRISPR/Cas9 gene editing in engineered T-cell therapy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.2257</ELocationID>
+            <Abstract>
+                <AbstractText>Cancer patients have been treated with various types of therapies, including conventional strategies like chemo-, radio-, and targeted therapy, as well as immunotherapy like checkpoint inhibitors, vaccine and cell therapy etc. Among the therapeutic alternatives, T-cell therapy like CAR-T (Chimeric Antigen Receptor Engineered T cell) and TCR-T (T Cell Receptor Engineered T cell), has emerged as the most promising therapeutics due to its impressive clinical efficacy. However, there are many challenges and obstacles, such as immunosuppressive tumor microenvironment, manufacturing complexity, and poor infiltration of engrafted cells, etc still, need to be overcome for further treatment with different forms of cancer. Recently, the antitumor activities of CAR-T and TCR-T cells have shown great improvement with the utilization of CRISPR/Cas9 gene editing technology. Thus, the genome editing system could be a powerful genetic tool to use for manipulating T cells and enhancing the efficacy of cell immunotherapy. This review focuses on pros and cons of various gene delivery methods, challenges, and safety issues of CRISPR/Cas9 gene editing application in T-cell-based immunotherapy.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Qianqian</ForeName>
+                    <Initials>Q</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7022-139X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Xuan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Qumiao</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Linnan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Fei</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>BGI Education Center, University of Chinese Academy of Sciences, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chao</LastName>
+                    <ForeName>Cheng-Chi</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BGI-Shenzhen, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shenzhen Key Laboratory of Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Enterprise Key Laboratory of Human Disease Genomics, Beishan Industrial Zone, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>AbVision, Inc, Milpitas, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>JCYJ20170817150015170</GrantID>
+                    <Agency>Science, Technology and Innovation Commission of Shenzhen Municipality, China</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Med</MedlineTA>
+            <NlmUniqueID>101595310</NlmUniqueID>
+            <ISSNLinking>2045-7634</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CRISPR</Keyword>
+            <Keyword MajorTopicYN="N">gene editing</Keyword>
+            <Keyword MajorTopicYN="N">immunotherapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199589</ArticleId>
+            <ArticleId IdType="doi">10.1002/cam4.2257</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

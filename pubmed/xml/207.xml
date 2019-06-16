@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200203</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6424</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>252</Volume>
+                    <Issue>Pt A</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental pollution (Barking, Essex : 1987)</Title>
+                <ISOAbbreviation>Environ. Pollut.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>1,4-Dioxane cosolvency impacts on trichloroethene dissolution and sorption.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>777-783</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0269-7491(19)32307-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envpol.2019.05.156</ELocationID>
+            <Abstract>
+                <AbstractText>Solvent stabilizer 1,4-dioxane, an emerging recalcitrant groundwater contaminant, was commonly added to chlorinated solvents such as trichloroethene (TCE), and the impact of co-disposal on contaminant transport processes remains uncertain. A series of batch equilibrium experiments was conducted with variations of 1,4-dioxane and TCE composition to evaluate aqueous dissolution of the two components and their sorption to aquifer sediments. The solubility of TCE increased with increasing amounts of 1,4-dioxane, indicating that 1,4-dioxane acts as a cosolvent causing solubility enhancement of co-contaminants. The solubilization results compared favorably with predictions using the log-linear cosolvency model. Equilibrium sorption coefficients (K<sub>d</sub> and K<sub>f</sub>) were also measured for different 1,4-dioxane and TCE compositions, and the findings indicate that both contaminants adsorb to aquifer sediments and TCE K<sub>d</sub> values increased with increasing organic matter content. However, the K<sub>d</sub> for TCE decreased with increases in 1,4-dioxane concentration, which was attributed to cosolvency impacts on TCE solubility. These findings further advance our understanding of the mass-transfer processes controlling groundwater plumes containing 1,4-dioxane, and also have implications for the remediation of 1,4-dioxane contamination.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Milavec</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water Science and Management Program, New Mexico State University, MSC 3Q, USA; Plant &amp; Environmental Science, New Mexico State University, MSC 3Q P.O. Box 30003, Las Cruces, NM, 88003, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tick</LastName>
+                    <ForeName>Geoffrey R</ForeName>
+                    <Initials>GR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Geological Sciences, University of Alabama, Tuscaloosa, AL, 35487, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brusseau</LastName>
+                    <ForeName>Mark L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Soil, Water and Environmental Science Department, University of Arizona, USA; Hydrology and Atmospheric Sciences Department, University of Arizona, Tucson, AZ, 85721, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carroll</LastName>
+                    <ForeName>Kenneth C</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water Science and Management Program, New Mexico State University, MSC 3Q, USA; Plant &amp; Environmental Science, New Mexico State University, MSC 3Q P.O. Box 30003, Las Cruces, NM, 88003, USA. Electronic address: kccarr@nmsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Pollut</MedlineTA>
+            <NlmUniqueID>8804476</NlmUniqueID>
+            <ISSNLinking>0269-7491</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">1,4-Dioxane</Keyword>
+            <Keyword MajorTopicYN="N">Cosolvent</Keyword>
+            <Keyword MajorTopicYN="N">Groundwater contamination</Keyword>
+            <Keyword MajorTopicYN="N">NAPL</Keyword>
+            <Keyword MajorTopicYN="N">Sorption</Keyword>
+            <Keyword MajorTopicYN="N">TCE</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200203</ArticleId>
+            <ArticleId IdType="pii">S0269-7491(19)32307-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envpol.2019.05.156</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

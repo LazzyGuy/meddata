@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199704</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-957X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Traffic injury prevention</Title>
+                <ISOAbbreviation>Traffic Inj Prev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trends in bicycle-related injuries, hospital admissions, and deaths in the USA 1997-2013.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/15389588.2019.1620219</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objective:</b> Cycling is associated with numerous health benefits but also the risk of traumatic injury. Recent data demonstrate an increase in overall cycling injuries as well as hospital admissions from 1997 to 2013 in the United States. We seek to better understand the causes of the increase in cycling injuries and hospital admissions. <b>Methods:</b> Data regarding cycling-related injuries and hospital admissions were obtained from the National Electronic Injury Surveillance System (NEISS). Participation data were derived from the <i>National Sporting Goods Association Sports Participation Survey</i>, and fatality data were collected from the Fatality Analysis Reporting System (FARS). Population estimates were obtained using a complex survey design. Linear regression was used to evaluate univariate relationships between cycling injuries, hospital admissions, deaths, and participation. To evaluate factors associated with hospital admission, we developed a multivariable logistic regression model that included year, age, gender, body part injured, and injury type (i.e., contusion, fracture, or laceration). <b>Results:</b> The number of individuals who cycle did not change significantly over time, but there was a substantial increase in cycling-related injuries, leading to an increase in per participant injuries from 701/100,000 in 1997 to 1,164/100,000 in 2013. When the injuries were evaluated by age group, younger cyclists have an increased risk for injury, whereas the rise in injuries among older cyclists stemmed from an increase in ridership rather than a unique susceptibility to injury. Trends in hospital admissions and fatalities appeared to be driven by increases in the older age groups. In the multivariable model evaluating factors related to hospital admission, the odds of hospital admission increased for each decade after age 25, as well as male gender and body part injured. <b>Conclusion:</b> On a per participant basis, the rate of cycling-related injuries and hospital admissions increased between 1997 and 2013. This trend likely reflects a combination of shifting demographics among cyclists with an increase in older cyclists who are at increased risk of severe injury.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fergus</LastName>
+                    <ForeName>Kirkpatrick B</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Urology , University of California San Francisco , San Francisco , California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanford</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Urology , University of California San Francisco , San Francisco , California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vargo</LastName>
+                    <ForeName>Jason</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Independent researcher , San Francisco , California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breyer</LastName>
+                    <ForeName>Benjamin N</ForeName>
+                    <Initials>BN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Urology , University of California San Francisco , San Francisco , California.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Epidemiology and Biostatistics , University of California San Francisco , San Francisco , California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Traffic Inj Prev</MedlineTA>
+            <NlmUniqueID>101144385</NlmUniqueID>
+            <ISSNLinking>1538-9588</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Trauma</Keyword>
+            <Keyword MajorTopicYN="N">cycling</Keyword>
+            <Keyword MajorTopicYN="N">injury</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199704</ArticleId>
+            <ArticleId IdType="doi">10.1080/15389588.2019.1620219</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,166 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200190</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-9800</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>151</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine</Title>
+                <ISOAbbreviation>Appl Radiat Isot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simple coincidence technique for cosmic-ray intensity exploration via low-energy photon detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>157-165</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0969-8043(19)30048-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.apradiso.2019.06.009</ELocationID>
+            <Abstract>
+                <AbstractText>Changes in cosmic-ray intensity can significantly influence the search for rare events or processes in nuclear and astroparticle physics through corresponding variations in detector background count rate. In this work, we present an approach to explore cosmic-ray intensity and corresponding cascade production of secondary particles in the detector vicinity using low-energy photon background spectra induced by cosmic rays at the earth's surface. The coincidence system based on a plastic scintillator and an extended range HPGe detector, including a multiparameter device, was used for the acquisition of low-energy photon spectra. This system was also simulated by the GEANT4 toolkit, and the simulated and experimental spectra were compared. Single aperiodic events, as well as possible periodic behavior of low-energy photon emission were searched for.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Knezevic</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mrdja</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia. Electronic address: mrdjad@df.uns.ac.rs.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bikit</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bikit</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansman</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slivka</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forkapic</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Novi Sad, Faculty of Sciences, Department of Physics, Trg Dositeja Obradovica 3, 21000, Novi Sad, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Appl Radiat Isot</MedlineTA>
+            <NlmUniqueID>9306253</NlmUniqueID>
+            <ISSNLinking>0969-8043</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Coincidence measurements</Keyword>
+            <Keyword MajorTopicYN="N">Cosmic rays</Keyword>
+            <Keyword MajorTopicYN="N">GEANT4 simulations</Keyword>
+            <Keyword MajorTopicYN="N">Low-energy photons</Keyword>
+            <Keyword MajorTopicYN="N">Periodicity analysis</Keyword>
+            <Keyword MajorTopicYN="N">Spectral intensity variations</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200190</ArticleId>
+            <ArticleId IdType="pii">S0969-8043(19)30048-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.apradiso.2019.06.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

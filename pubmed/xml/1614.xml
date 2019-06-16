@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198580</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2055-5784</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pilot and feasibility studies</Title>
+                <ISOAbbreviation>Pilot Feasibility Stud</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of endurance exercise and probiotic supplementation on the intestinal microbiota: a cross-over pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s40814-019-0459-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The human microbiota has a broad range of functions contributing to metabolic processes and the activities of our immune system. Its influence on health, well-being and chronic diseases are discussed in various studies. The intestinal microbiota and the mucosal integrity are influenced by diet, environment and other lifestyle factors, including physical activity. There are correlations between cardiorespiratory fitness and important markers of intestinal health. However, data linking endurance exercise to microbiota composition are sparse. Many endurance athletes take probiotics to reduce gastrointestinal symptoms linked to exercise or immunosuppression, but the longitudinal data is insufficient.This randomised, controlled cross-over pilot study will examine the impact of specific endurance training and probiotic supplementation on the intestinal microbiota and mucosa in healthy, athletic students.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The aim of this pilot study is to elucidate the impact of physical activity on the intestinal microbiota and mucosa with regard to the effects of a probiotic supplementation.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">In this pilot study, thirty non-specifically trained student athletes will participate in an intervention consisting of a two-week rest (baseline) period, a four-week exercise programme and a four-week probiotic intervention using SymbioLactComp®. The exercise programme consists of three 60-min running workouts per week at 70-85% of the peak heart rate (HRpeak). Primary endpoint of this pilot study is the feasibility and practicality of the intervention as well as a sample size estimation. Furthermore, anthropometric measurements and information on nutrition and lifestyle will be obtained. The peak oxygen uptake (VO<sub>2</sub>peak) and peak heart rate (HRpeak) (determined during a shuttle run test) as well as selected blood and saliva parameters (haemogram, cytokines) will be evaluated. Changes to the intestinal microbiota will be analysed by stool diagnostics (KyberKompaktPRO®, KyberPlus®). The potential changes may include microbiota composition, bacterial metabolites and mucosa- and immune markers.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Results will be used for the design of a main randomised controlled trial with a larger collective based on feasibility, validity and sample size estimation as well as the potential effects of endurance exercise on intestinal microbiota and mucosa. Evidence-based information of an exercise-altered microbiota could be of importance for the prevention and therapy of intestinal or immune disorders.</AbstractText>
+                <AbstractText Label="Trial registration" NlmCategory="UNASSIGNED">German Clinical Trials Register: DRKS00011108. Retrospectively registered on 28 November 2016.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmitz</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0001-7339-4213</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Institute of Movement and Neuroscience, Department of Movement and Health Promotion, German Sport University Cologne, Am Sportpark Müngersdorf 6, Cologne, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2244 5164</Identifier>
+                        <Identifier Source="GRID">grid.27593.3a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrari</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Institute of Movement and Neuroscience, Department of Movement and Health Promotion, German Sport University Cologne, Am Sportpark Müngersdorf 6, Cologne, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2244 5164</Identifier>
+                        <Identifier Source="GRID">grid.27593.3a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Cologne Center for Prevention in Childhood and Youth/Heart Center Cologne, University Hospital of Cologne, Kerpener Str. 62, Cologne, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 8852 305X</Identifier>
+                        <Identifier Source="GRID">grid.411097.a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwiertz</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2MVZ Institute of Microecology, Auf den Lueppen 8, Herborn, Germany.</Affiliation>
+                        <Identifier Source="GRID">grid.473667.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rusch</LastName>
+                    <ForeName>Kerstin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2MVZ Institute of Microecology, Auf den Lueppen 8, Herborn, Germany.</Affiliation>
+                        <Identifier Source="GRID">grid.473667.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woestmann</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Academic postgraduate training practice of the University Düsseldorf, Düsseldorf, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2176 9917</Identifier>
+                        <Identifier Source="GRID">grid.411327.2</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahabir</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Comparative Medicine, Center for Molecular Medicine, University of Cologne, Robert-Koch-Str. 21, Cologne, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0000 8580 3777</Identifier>
+                        <Identifier Source="GRID">grid.6190.e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graf</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Institute of Movement and Neuroscience, Department of Movement and Health Promotion, German Sport University Cologne, Am Sportpark Müngersdorf 6, Cologne, Germany.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2244 5164</Identifier>
+                        <Identifier Source="GRID">grid.27593.3a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Pilot Feasibility Stud</MedlineTA>
+            <NlmUniqueID>101676536</NlmUniqueID>
+            <ISSNLinking>2055-5784</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiorespiratory fitness</Keyword>
+            <Keyword MajorTopicYN="N">Exercise</Keyword>
+            <Keyword MajorTopicYN="N">Intestinal health</Keyword>
+            <Keyword MajorTopicYN="N">Intestinal microbiota</Keyword>
+            <Keyword MajorTopicYN="N">Physical activity</Keyword>
+            <Keyword MajorTopicYN="N">Probiotics</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declared that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198580</ArticleId>
+            <ArticleId IdType="doi">10.1186/s40814-019-0459-9</ArticleId>
+            <ArticleId IdType="pii">459</ArticleId>
+            <ArticleId IdType="pmc">PMC6556026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

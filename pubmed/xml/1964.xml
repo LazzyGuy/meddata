@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198153</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Etiological analysis of 61 286 hospitalized specimens from a tertiary hospital over 5 years].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>629-632</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.021</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the detection and distribution of hospitalized specimens from a tertiary hospital over 5 years.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Specimens of sputum, urine, blood, secretions and puncture fluid were collected from patients admitted to the Harrison International Peace Hospital from November 2013 to November 2018. The origin of specimens, the distribution of departments and the distribution of pathogenic bacteria isolated were analyzed retrospectively.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 61 286 specimens were sent for examination during the 5 years. The top 5 specimens were sputum culture (n = 18 302, 29.9%), sputum smear (n = 11 253, 18.4%), blood culture (n = 9 713, 15.8%), urine culture (n = 6 448, 10.5%) and secretion culture (n = 6 133, 10.0%), accounting for 84.6% (51 849/61 286). Sputum specimens accounted for 48.2% (29 555/61 286) with the largest proportion. The number of specimens from medical wards was much higher than that from surgical wards (specimens: 25 468 vs. 10 521), respiratory medicine, department of critical care medicine and emergency intensive care unit (EICU) were important sources of pathogenic specimens in the hospital, accounting for 29.8% (18 243/61 286) in total. The average positive rate of all specimens was 23.5% (14 424/61 286). The positive rates of sputum culture and urine culture were 29.7% (5 428/18 302) and 35.4% (2 281/6 448), respectively, while the positive rate of blood culture was only 6.6% (643/9 713). Escherichia coli was the most common pathogen in all specimens except for sputum culture and fecal culture. Escherichia coli [40.6% (926/2 281)], Klebsiella pneumoniae [9.2% (210/2 281)], Pseudomonas aeruginosa [8.2% (188/2 281)], Enterococcus faecalis (group D) [6.6% (151/2 281)] and Candida albicans [3.2% (73/2 281)] were the most common pathogens in urine culture. Klebsiella pneumoniae [24.1% (1 309/5 428)], Acinetobacter baumannii [21.3% (1 154/5 428)], Pseudomonas aeruginosa [15.1% (818/5 428)], Escherichia coli [6.5% (351/5 428)] and Maltose oligotrophomonas maltose [5.8% (316/5 428)] were the most common pathogens in sputum culture. Escherichia coli [36.5% (235/643)], Klebsiella pneumoniae [10.9% (70/643)], Pseudomonas aeruginosa [4.8% (31/643)], Staphylococcus epidermidis [3.4% (22/643)] and Staphylococcus humanis [3.3% (21/643)] were the most common pathogens in blood culture.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Specimens sent for examination by inpatients are mainly from internal medicine wards, mainly from sputum, blood and urine, and the detected pathogens are mainly Gram-negative bacteria.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Lingzhi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Intensive Care Unit, Harrison International Peace Hospital, Hengshui 053000, Hebei, China. Corresponding author: Wang Jinrong, Email: iamwjr306@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jinrong</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Pan</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Shufen</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shao</LastName>
+                    <ForeName>Liye</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Zhaobo</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198153</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

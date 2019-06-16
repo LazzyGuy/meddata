@@ -1,0 +1,165 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199327</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mining of Textual Health Information from Reddit: Analysis of Chronic Diseases With Extracted Entities and Their Relations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12876</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12876</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Social media platforms constitute a rich data source for natural language processing tasks such as named entity recognition, relation extraction, and sentiment analysis. In particular, social media platforms about health provide a different insight into patient's experiences with diseases and treatment than those found in the scientific literature.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This paper aimed to report a study of entities related to chronic diseases and their relation in user-generated text posts. The major focus of our research is the study of biomedical entities found in health social media platforms and their relations and the way people suffering from chronic diseases express themselves.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We collected a corpus of 17,624 text posts from disease-specific subreddits of the social news and discussion website Reddit. For entity and relation extraction from this corpus, we employed the PKDE4J tool developed by Song et al (2015). PKDE4J is a text mining system that integrates dictionary-based entity extraction and rule-based relation extraction in a highly flexible and extensible framework.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using PKDE4J, we extracted 2 types of entities and relations: biomedical entities and relations and subject-predicate-object entity relations. In total, 82,138 entities and 30,341 relation pairs were extracted from the Reddit dataset. The most highly mentioned entities were those related to oncological disease (2884 occurrences of cancer) and asthma (2180 occurrences). The relation pair anatomy-disease was the most frequent (5550 occurrences), the highest frequent entities in this pair being cancer and lymph. The manual validation of the extracted entities showed a very good performance of the system at the entity extraction task (3682/5151, 71.48% extracted entities were correctly labeled).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study showed that people are eager to share their personal experience with chronic diseases on social media platforms despite possible privacy and security issues. The results reported in this paper are promising and demonstrate the need for more in-depth studies on the way patients with chronic diseases express themselves on social media platforms.</AbstractText>
+                <CopyrightInformation>©Vasiliki Foufi, Tatsawan Timakum, Christophe Gaudet-Blavignac, Christian Lovis, Min Song. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 13.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Foufi</LastName>
+                    <ForeName>Vasiliki</ForeName>
+                    <Initials>V</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8625-0734</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Information Sciences, University Hospitals of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Timakum</LastName>
+                    <ForeName>Tatsawan</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9877-0323</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Library and Information Science, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Gaudet-Blavignac</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6527-5898</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Information Sciences, University Hospitals of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lovis</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2681-8076</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Information Sciences, University Hospitals of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3255-1600</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Library and Information Science, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic disease</Keyword>
+            <Keyword MajorTopicYN="N">data mining</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199327</ArticleId>
+            <ArticleId IdType="pii">v21i6e12876</ArticleId>
+            <ArticleId IdType="doi">10.2196/12876</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

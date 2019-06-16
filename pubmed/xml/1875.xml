@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198249</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative Evaluation of Dexmedetomidine versus Midazolam as Premedication to Propofol Anesthesia in Endoscopic Retrograde Cholangiopancreatography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>297-302</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_62_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Endoscopic retrograde cholangiopancreatography (ERCP) is used to diagnose and treat pancreaticobiliary diseases. It is a potentially uncomfortable procedure that needs to be performed under conscious sedation. Safe and effective sedation protocol is the need of an hour.</AbstractText>
+                <AbstractText Label="Aims" NlmCategory="UNASSIGNED">This study aims to evaluate the requirement of propofol using midazolam and dexmedetomidine as premedication for ERCP. The degree of comfort experienced by endoscopist and the patients was also assessed.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">A total of sixty patients were enrolled in a randomized, assessor-blinded study in the age group of 40-80 years, American Society of Anesthesiologists physical class II-III undergoing elective ERCP procedures. They were divided into two groups of 30 each. Group D (<i>n</i> = 30): Dexmedetomidine (100 μg/mL + 18 mL saline) loading dose at 1 μg/kg intravenous (IV) over 10 min followed by 0.5 μg/kg/h infusion, and Group M (<i>n</i> = 30): Midazolam at 0.05 mg/kg IV bolus over 10 min followed by normal saline infusion under hemodynamic monitoring. Satisfaction scores, total propofol requirement, and complications such as gagging, restlessness, agitation, postoperative nausea and vomiting were noted and analyzed statistically.</AbstractText>
+                <AbstractText Label="Statistical Analysis" NlmCategory="UNASSIGNED">Statistical analysis was performed using SSPS 17.0 software (SPSS Inc., 233 South Wacker Drive, Chicago, USA). The Chi-square test was applied for nonparametric data and parametric numerical data, unpaired <i>t</i>-test for intergroup comparison, and repeated measures ANOVA for intragroup comparison. Results were expressed as a mean ± standard deviation. Value of <i>P</i> &lt; 0.05 was considered statistically significant and &lt;0.001 as highly significant.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Surgeons and patients were more satisfied and comfortable along with less requirement of propofol in the dexmedetomidine group. The incidence of complications was also less in the dexmedetomidine group as compared to that of midazolam group.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Both dexmedetomidine and midazolam can be safely administered as an anesthetic adjuvant to propofol for short procedures like ERCP's. Dexmedetomidine provided intense and better sedation quality along with lesser requirement of propofol doses. Moreover, it provided stable hemodynamic conditions and good recovery characteristics as compared to midazolam group.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pushkarna</LastName>
+                    <ForeName>Geetanjali</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia, SGRDIMSAR, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarangal</LastName>
+                    <ForeName>Pankaj</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia, SGRDIMSAR, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pushkarna</LastName>
+                    <ForeName>Varun</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care, Fortis Escort Hospital, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ruchi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia, SGRDIMSAR, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Conscious sedation</Keyword>
+            <Keyword MajorTopicYN="N">dexmedetomidine</Keyword>
+            <Keyword MajorTopicYN="N">endoscopic retrograde cholangiopancreatography</Keyword>
+            <Keyword MajorTopicYN="N">midazolam</Keyword>
+            <Keyword MajorTopicYN="N">propofol</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198249</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_62_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-297</ArticleId>
+            <ArticleId IdType="pmc">PMC6545960</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

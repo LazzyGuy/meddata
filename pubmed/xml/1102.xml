@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199217</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8714</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Visual neuroscience</Title>
+                <ISOAbbreviation>Vis. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of contrast sensitivity in macaque monkeys and humans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E008</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0952523819000051</ELocationID>
+            <Abstract>
+                <AbstractText>Contrast sensitivity functions reveal information about a subject's overall visual ability and have been investigated in several species of nonhuman primates (NHPs) with experimentally induced amblyopia and glaucoma. However, there are no published studies comparing contrast sensitivity functions across these species of normal NHPs. The purpose of this investigation was to compare contrast sensitivity across these primates to determine whether they are similar. Ten normal humans and eight normal NHPs (Macaca fascicularis) took part in this project. Previously published data from Macaca mulatta and Macaca nemestrina were also compared. Threshold was operationally defined as two misses in a row for a descending method of limits. A similar paradigm was used for the humans except that the descending method of limits was combined with a spatial, two-alternative forced choice (2-AFC) technique. The contrast sensitivity functions were fit with a double exponential function. The averaged peak contrast sensitivity, peak spatial frequency, acuity, and area under the curve for the humans were 268.9, 3.40 cpd, 27.3 cpd, and 2345.4 and for the Macaca fascicularis were 99.2, 3.93 cpd, 26.1 cpd, and 980.9. A two-sample t-test indicated that the peak contrast sensitivities (P = 0.001) and areas under the curve (P = 0.010) were significantly different. The peak spatial frequencies (P = 0.150) and the extrapolated visual acuities (P = 0.763) were not different. The contrast sensitivities for the Macaca fascicularis, Macaca mulatta, and Macaca nemestrina were qualitatively and quantitatively similar. The contrast sensitivity functions for the NHPs had lower peak contrast sensitivities and areas under the curve than the humans. Even though different methods have been used to measure contrast sensitivity in different species of NHP, the functions are similar. The contrast sensitivity differences and similarities between humans and NHPs need to be considered when using NHPs to study human disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ridder</LastName>
+                    <ForeName>William H</ForeName>
+                    <Initials>WH</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1732-1519</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Southern California College of Optometry,Marshall B. Ketchum University,Fullerton,California 92831.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Kai Ming</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Allergan, Plc.,Irvine,California 92623.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karsolia</LastName>
+                    <ForeName>Apoorva</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southern California College of Optometry,Marshall B. Ketchum University,Fullerton,California 92831.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Engles</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Allergan, Plc.,Irvine,California 92623.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Allergan, Plc.,Irvine,California 92623.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vis Neurosci</MedlineTA>
+            <NlmUniqueID>8809466</NlmUniqueID>
+            <ISSNLinking>0952-5238</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acuity</Keyword>
+            <Keyword MajorTopicYN="N">Contrast sensitivity</Keyword>
+            <Keyword MajorTopicYN="N">Human</Keyword>
+            <Keyword MajorTopicYN="N">Monkey</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199217</ArticleId>
+            <ArticleId IdType="pii">S0952523819000051</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0952523819000051</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

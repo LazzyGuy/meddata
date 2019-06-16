@@ -1,0 +1,135 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199074</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-4658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The FEBS journal</Title>
+                <ISOAbbreviation>FEBS J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Understanding the lower GMP formation in large GTPase hGBP-2 and role of its individual domains in regulation of GTP hydrolysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/febs.14957</ELocationID>
+            <Abstract>
+                <AbstractText>The interferon γ-inducible large GTPases hGBP-1 and hGBP-2 mediate anti-pathogenic and anti-proliferative effects in human cells. Both proteins hydrolyze GTP to GDP and GMP through successive cleavages of phosphate bonds, a property that functionally distinguishes them from other GTPases. However, it is unclear why hGBP-2 yields lower GMP than hGBP-1 despite sharing high sequence identity (~78%). We previously reported that the hGBP-1 tetramer is crucial for enhanced GMP formation. We show here that the hGBP-2 tetramer has no role in GMP formation. Using truncated hGBP-2 variants, we found that its GTP-binding domain alone hydrolyzes GTP only to GDP. However, this domain along with the intermediate region enabled dimerization and hydrolyzed GTP further to GMP. We observed that unlike in hGBP-1, the helical domain of hGBP-2 has an insignificant role in the regulation of GTP hydrolysis, suggesting that the differences in GMP formation between hGBP-2 and hGBP-1 arise from differences in their GTP-binding domains. A large sequence variation seen in the guanine-capmay be responsible for the lower GMP formation in hGBP-2. Moreover, we identified the sites in the hGBP-2 domains that are critical for both dimerization and tetramerization. We also found the existence of hGBP-2 tetramer in mammalian cells, which might have a role in the suppression of the carcinomas. Our study suggests that sequence variation near the active-site in these two close homologs leads to differential second phosphate cleavage and highlights the role of individual hGBP-2 domains in the regulation of GTP hydrolysis. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rajan</LastName>
+                    <ForeName>Sudeepa</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi, 110067, INDIA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pandita</LastName>
+                    <ForeName>Esha</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi, 110067, INDIA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mittal</LastName>
+                    <ForeName>Monika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi, 110067, INDIA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sau</LastName>
+                    <ForeName>Apurba Kumar</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi, 110067, INDIA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS J</MedlineTA>
+            <NlmUniqueID>101229646</NlmUniqueID>
+            <ISSNLinking>1742-464X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Allosteric regulation</Keyword>
+            <Keyword MajorTopicYN="N">Conformational change</Keyword>
+            <Keyword MajorTopicYN="N">Guanine cap</Keyword>
+            <Keyword MajorTopicYN="N">Large GTPase</Keyword>
+            <Keyword MajorTopicYN="N">Tetramerization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199074</ArticleId>
+            <ArticleId IdType="doi">10.1111/febs.14957</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

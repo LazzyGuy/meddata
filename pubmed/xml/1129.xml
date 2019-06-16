@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199184</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-1539</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Heart and circulatory physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol. Heart Circ. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of a Mouse Model of Hypereosinophilia-Associated Heart Disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/ajpheart.00133.2019</ELocationID>
+            <Abstract>
+                <AbstractText>Hypereosinophilic syndrome is characterized by sustained and marked eosinophilia leading to tissue damage and organ dysfunction. Morbidity and mortality occur primarily due to cardiac and thromboembolic complications. Understanding the cause and mechanism of disease would aid in the development of targeted therapies with greater efficacy and fewer side effects. We discovered a spontaneous mouse mutant in our colony with a hypereosinophilic phenotype. Mice develop peripheral blood eosinophilia, infiltration of lungs, spleen and heart by eosinophils, and extensive myocardial damage and remodeling. This ultimately leads to heart failure and premature death. Histopathologic assessment of the hearts revealed a robust inflammatory infiltrate composed primarily of eosinophils and B-lymphocytes, associated with myocardial damage and replacement fibrosis, consistent with eosinophilic myocarditis (EM). In many cases, hearts showed dilatation and thinning of the right ventricular wall, suggestive of an inflammatory dilated cardiomyopathy. Most mice showed atrial thrombi, which often filled the chamber. Protein expression analysis revealed overexpression of chemokines and cytokines involved in innate and adaptive immunity including IL-4, eotaxin and RANTES. Disease could be transferred to wild type mice by adoptive transfer of splenocytes from affected mice, suggesting a role for the immune system. In summary, the pathologies observed in the mutant lines are reminiscent of those seen in patients with hypereosinophilia, where cardiac-related morbidities, like congestive heart failure and thrombi, are the most common causes of death. As such, our model provides an opportunity to test mechanistic hypotheses and develop targeted therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Prows</LastName>
+                    <ForeName>Daniel R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Genetics, Cincinnati Children's Hospital Medical Center, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klingler</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gibbons</LastName>
+                    <ForeName>William J</ForeName>
+                    <Initials>WJ</Initials>
+                    <Suffix>Jr</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Hospital Medical Center, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Homan</LastName>
+                    <ForeName>Shelli M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zimmermann</LastName>
+                    <ForeName>Nives</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Allergy and Immunology, Cincinnati Children's Hospital, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Heart Circ Physiol</MedlineTA>
+            <NlmUniqueID>100901228</NlmUniqueID>
+            <ISSNLinking>0363-6135</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199184</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.00133.2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

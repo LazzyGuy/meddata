@@ -1,0 +1,88 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199742</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biometrics: digital technology as a clinical aid to dental examination and diagnosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>32-36</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The new-patient visit includes examination, diagnosis, and establishment of a treatment plan. This process must include an evaluation of the dental occlusion and stomatognathic system, including the temporomandibular joints. This clinical case describes the use of biometric aids, including T-Scan, BioJVA, and JT-3D, in the digital evaluation of a patient with signs and symptoms of occlusal stress. These technologies provide clinicians with additional information that can help in the examination and diagnostic processes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Girouard</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biometrics</Keyword>
+            <Keyword MajorTopicYN="N">dental stress</Keyword>
+            <Keyword MajorTopicYN="N">digital occlusion</Keyword>
+            <Keyword MajorTopicYN="N">occlusal disease</Keyword>
+        </KeywordList>
+        <CoiStatement>The author reports no conflicts of interest pertaining to any of the products or companies discussed in this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199742</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

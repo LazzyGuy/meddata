@@ -1,0 +1,250 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199945</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2399</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental hematology</Title>
+                <ISOAbbreviation>Exp. Hematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Remission clone in acute myeloid leukemia shows growth advantage after chemotherapy but is distinct from leukemic clone.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-472X(19)30329-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.exphem.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>We previously published an AML case study where we tracked the dynamics of somatic mutations over 9 years. Interestingly, we observed a group of mutations that expanded during remission, which we named &quot;remission clone&quot;. To investigate the nature of the remission clone, we performed flow cytometry-based cell sorting followed by ultra-deep sequencing. The remission clone repeatedly expanded after chemotherapeutic cycles and was suppressed during relapse in the myeloid lineage (multipotent hematopoietic stem, progenitor, and myeloid cells). On the other hand, the remission clone was consistently observed in lymphoid lineages (B- and T-cells) regardless of the disease state. When transfected to HEK-293 cell line, NR2C2(A93V) mutant showed a growth advantage (all p &lt; 0.05). The results indicate that the remission clone seems to be another form of clonal hematopoiesis, but without a clear association with leukemia. As the remission clone is present in both myeloid and lymphoid lineages, it likely originates from ancestral hematopoietic cell lineages. More importantly, the remission clone is distinct from the leukemic clone therefore, mutations expanded during remission requires special interpretation when performing next generation sequencing-based measurable residual disease assessment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Jae-Sook</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea; Genomic Research Center for Hematopoietic Diseases, Chonnam National University Hwasun Hospital, Jeollanam-do, Republic of Korea; The Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>TaeHyung</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, ON, Canada,; Department of Computer Science, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Yeo-Kyeoung</ForeName>
+                    <Initials>YK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gwangju Veterans Hospital, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Young-Chang</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmacy, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Sayeon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmacy, Chung-Ang University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Sung-Hoon</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Seo-Yeon</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Seung-Yeon</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>St. Carollo General Hospital, Jeollanam-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Deok-Hwan</ForeName>
+                    <Initials>DH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Je-Jung</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>SeungHyun</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genomic Research Center for Hematopoietic Diseases, Chonnam National University Hwasun Hospital, Jeollanam-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ja-Yeon</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genomic Research Center for Hematopoietic Diseases, Chonnam National University Hwasun Hospital, Jeollanam-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Myung-Geun</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Chonnam National University Hwasun Hospital, Jeollanam-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Kenichi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Tumour Biology, Kyoto University Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogawa</LastName>
+                    <ForeName>Seishi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Tumour Biology, Kyoto University Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Il-Chul</ForeName>
+                    <Initials>IC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Chonnam National University, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhaolei</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, ON, Canada,; Department of Computer Science, University of Toronto, Toronto, ON, Canada,; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hyeoung-Joon</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Chonnam National University Hwasun Hospital, Chonnam National University, Gwangju, Republic of Korea; Genomic Research Center for Hematopoietic Diseases, Chonnam National University Hwasun Hospital, Jeollanam-do, Republic of Korea. Electronic address: hjoonk@chonnam.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dennis Dong Hwan</ForeName>
+                    <Initials>DDH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Exp Hematol</MedlineTA>
+            <NlmUniqueID>0402313</NlmUniqueID>
+            <ISSNLinking>0301-472X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199945</ArticleId>
+            <ArticleId IdType="pii">S0301-472X(19)30329-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.exphem.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199298</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13803</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13803</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Social media use is now ubiquitous, but the growth in social media communications has also made it a convenient digital platform for drug dealers selling controlled substances, opioids, and other illicit drugs. Previous studies and news investigations have reported the use of popular social media platforms as conduits for opioid sales. This study uses deep learning to detect illicit drug dealing on the image and video sharing platform Instagram.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to develop and evaluate a machine learning approach to detect Instagram posts related to illegal internet drug dealing.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In this paper, we describe an approach to detect drug dealers by using a deep learning model on Instagram. We collected Instagram posts using a Web scraper between July 2018 and October 2018 and then compared our deep learning model against 3 different machine learning models (eg, random forest, decision tree, and support vector machine) to assess the performance and accuracy of the model. For our deep learning model, we used the long short-term memory unit in the recurrent neural network to learn the pattern of the text of drug dealing posts. We also manually annotated all posts collected to evaluate our model performance and to characterize drug selling conversations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">From the 12,857 posts we collected, we detected 1228 drug dealer posts comprising 267 unique users. We used cross-validation to evaluate the 4 models, with our deep learning model reaching 95% on F1 score and performing better than the other 3 models. We also found that by removing the hashtags in the text, the model had better performance. Detected posts contained hashtags related to several drugs, including the controlled substance Xanax (1078/1228, 87.78%), oxycodone/OxyContin (321/1228, 26.14%), and illicit drugs lysergic acid diethylamide (213/1228, 17.34%) and 3,4-methylenedioxy-methamphetamine (94/1228, 7.65%). We also observed the use of communication applications for suspected drug trading through user comments.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our approach using a combination of Web scraping and deep learning was able to detect illegal online drug sellers on Instagram, with high accuracy. Despite increased scrutiny by regulators and policymakers, the Instagram platform continues to host posts from drug dealers, in violation of federal law. Further action needs to be taken to ensure the safety of social media communities and help put an end to this illicit digital channel of sourcing.</AbstractText>
+                <CopyrightInformation>©Jiawei Li, Qing Xu, Neal Shah, Tim K Mackey. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 15.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jiawei</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9801-4715</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Healthcare Research and Policy, University of California - San Diego, Extension, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Policy Institute, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Qing</ForeName>
+                    <Initials>Q</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4507-1094</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Healthcare Research and Policy, University of California - San Diego, Extension, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Policy Institute, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Neal</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8670-6124</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Policy Institute, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mackey</LastName>
+                    <ForeName>Tim K</ForeName>
+                    <Initials>TK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2191-7833</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Healthcare Research and Policy, University of California - San Diego, Extension, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Policy Institute, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, University of California - San Diego, School of Medicine, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Infectious Disease and Global Public Health, University of California - San Diego, School of Medicine, La Jolla, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+            <Keyword MajorTopicYN="N">internet</Keyword>
+            <Keyword MajorTopicYN="N">machine learning</Keyword>
+            <Keyword MajorTopicYN="N">narcotics</Keyword>
+            <Keyword MajorTopicYN="N">opioids</Keyword>
+            <Keyword MajorTopicYN="N">prescription drug abuse</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+            <Keyword MajorTopicYN="N">substance abuse</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199298</ArticleId>
+            <ArticleId IdType="pii">v21i6e13803</ArticleId>
+            <ArticleId IdType="doi">10.2196/13803</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

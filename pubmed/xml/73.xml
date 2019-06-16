@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200341</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2472</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>180</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cost effectiveness analysis of direct oral anticoagulant (DOAC) versus dalteparin for the treatment of cancer associated thrombosis (CAT) in the United States.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37-42</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0049-3848(19)30247-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.thromres.2019.05.012</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">While trials have demonstrated non-inferiority of direct oral anticoagulant drugs (DOAC) to low-molecular-weight heparins (LMWH) for the treatment of cancer associated thrombosis (CAT), it is unclear if the newer intervention is cost-effective.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We performed a cost-utility analysis using a Markov state-transition model over a time horizon of 60 months in a hypothetical cohort of 65-year-old patients with active malignancy and first acute symptomatic CAT who were eligible to receive either rivaroxaban/edoxaban or dalteparin. We obtained transition probability, relative risk, cost, and utility inputs from the literature. We estimated the differential impact on costs and quality-adjusted life years (QALYs) per patient and performed one-way and probabilistic sensitivity analyses to test the robustness of results.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using the base-case analysis over 60 months, DOAC versus dalteparin was associated with an incremental cost reduction of $24,129 with an incremental QALY reduction of 0.04. In the one-way sensitivity analysis, the cost of dalteparin contributed the most to the incremental cost difference; relative risk of death related to underlying cancer contributed the most of the incremental QALY difference. The probabilistic sensitivity analysis confirmed the base-case analysis, with a large reduction in cost but small reduction in QALYs.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Rivaroxaban or edoxaban as compared to dalteparin is cost saving from a payer's perspective for the treatment of CAT. Professional organizations and healthcare systems may want to consider this analysis in future practice recommendations.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ang</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology, University of Washington School of Medicine, Seattle, WA, United States of America. Electronic address: ali2015@uw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manohar</LastName>
+                    <ForeName>Poorni M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Oncology, University of Washington School of Medicine, Seattle, WA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology, University of Washington School of Medicine, Seattle, WA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyman</LastName>
+                    <ForeName>Gary H</ForeName>
+                    <Initials>GH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Oncology, University of Washington School of Medicine, Seattle, WA, United States of America; Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steuten</LastName>
+                    <ForeName>Lotte M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200341</ArticleId>
+            <ArticleId IdType="pii">S0049-3848(19)30247-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thromres.2019.05.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

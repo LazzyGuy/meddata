@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200318</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-8464</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>124</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of pediatric otorhinolaryngology</Title>
+                <ISOAbbreviation>Int. J. Pediatr. Otorhinolaryngol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Can MRI-induced silastic casing tear be repaired without the need for cochlear implant replacement?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>161-163</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-5876(19)30272-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijporl.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>Silastic magnet casing tear of cochlear implant (CI) due to magnetic resonance imaging (MRI) is an uncommon complication. We report repair of a case with magnet dislocation due to MRI-induced silastic casing tear without re-implantation. We believe that this repair method, which has not been previously defined in the literature, will be interesting and guiding.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Demir</LastName>
+                    <ForeName>Emine</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Recep Tayyip Erdogan University Faculty of Medicine, Department of Otorhinolaryngology, Turkey. Electronic address: emine.demir@erdogan.edu.tr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dursun</LastName>
+                    <ForeName>Engin</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Recep Tayyip Erdogan University Faculty of Medicine, Department of Otorhinolaryngology, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olgun</LastName>
+                    <ForeName>Levent</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Izmir Başkent Zubeyde Hanım Training and Research Hospital, Department of Otorhinolaryngology, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Int J Pediatr Otorhinolaryngol</MedlineTA>
+            <NlmUniqueID>8003603</NlmUniqueID>
+            <ISSNLinking>0165-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cochlear implant</Keyword>
+            <Keyword MajorTopicYN="N">Magnet</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">Silastic casing tear</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200318</ArticleId>
+            <ArticleId IdType="pii">S0165-5876(19)30272-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijporl.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

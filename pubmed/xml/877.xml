@@ -1,0 +1,194 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199460</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1756-2651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biochemistry</Title>
+                <ISOAbbreviation>J. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the human E2F4 promoter region and its response to 12-O-tetradecanoylphorbol-13-acetate.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">mvz047</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jb/mvz047</ELocationID>
+            <Abstract>
+                <AbstractText>The E2F transcription factors (TFs), which control the progression of the cell cycle in response to DNA-damage and various stresses, are known to interact with a tumor suppressor, Retinoblastoma 1 (RB1). We previously showed that the response of the human RB1 promoter to a 12-O-tetradecanoylphorbol-13-acetate (TPA) in HL-60 cells is mediated by a duplicated GGAA-motif, which is also present in the 5'-upstream of the E2F family genes. The motifs are especially rich in the 5'-upstream of the E2F4 gene. In the present study, we constructed Luciferase (Luc) expression vectors containing a 466-bp of the 5'-upstream of the human E2F4 gene. The transfection of this plasmid and deletion/mutation-introduced derivatives into HL-60 cells and a Luc reporter assay showed that duplicated and triplicated GGAA (TTCC) motifs in the E2F4 promoter respond to TPA. As expected, electrophoretic mobility shift assay (EMSA) indicated that SPI1 (PU.1) binds to the GGAA-motif containing element. A quantitative RT-PCR and Western blotting showed that the E2F4 transcripts and its encoding proteins accumulate during the differentiation of HL-60 into macrophage-like cells. In contrast, the expression of the E2F1 gene and the protein, which possibly acts as a cell cycle accelerator, was greatly diminished.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Japanese Biochemical Society. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hamada</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goto</LastName>
+                    <ForeName>Yuta</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arakawa</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murayama</LastName>
+                    <ForeName>Erisa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogawa</LastName>
+                    <ForeName>Yui</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konno</LastName>
+                    <ForeName>Midori</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oyama</LastName>
+                    <ForeName>Takahiro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hinoki Shinyaku Co., Ltd, 9-6 Nibancho, Chiyoda-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asai</LastName>
+                    <ForeName>Masashi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sato</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanuma</LastName>
+                    <ForeName>Sei-Ichi</ForeName>
+                    <Initials>SI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Genomic Medical Science, Research Institute of Science and Technology, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchiumi</LastName>
+                    <ForeName>Fumiaki</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gene Regulation, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda-shi, Chiba-ken, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Biochem</MedlineTA>
+            <NlmUniqueID>0376600</NlmUniqueID>
+            <ISSNLinking>0021-924X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">E2F</Keyword>
+            <Keyword MajorTopicYN="N">ETS</Keyword>
+            <Keyword MajorTopicYN="N">HL-60</Keyword>
+            <Keyword MajorTopicYN="N">TPA</Keyword>
+            <Keyword MajorTopicYN="N">differentiation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199460</ArticleId>
+            <ArticleId IdType="pii">5519121</ArticleId>
+            <ArticleId IdType="doi">10.1093/jb/mvz047</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

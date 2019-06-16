@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198798</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2322-2522</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bulletin of emergency and trauma</Title>
+                <ISOAbbreviation>Bull Emerg Trauma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Game versus Lecture-Based Learning in Disaster Risk Education; An Experience on Shiraz High School Students.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112-117</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29252/beat-070204</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To compare the effect of lecture and game methods in disaster risk education on high school students' knowledge.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This research was a randomized field trial of educational intervention for high school's students in Shiraz, Iran. Through cluster sampling, the 332 students were randomly selected and their knowledge was compared in two randomized allocated intervention groups by pretest and posttest. For one group a classic lecture about the basic concepts of disaster risk management were presented. In the other group through a game base method and demonstrations the mentors tried to educate the considered concepts.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED"> In this study 332 students were participated in lecture (n=166) and game (n=166) groups. There was a significant increase between the mean of students' knowledge in the two groups of lectures and games method after educational intervention. The mean of students' disaster risk knowledge in the lecture and game methods were 17.47 and 29.77 percent respectively (<i>p&lt;0.001</i>).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED"> The game's educational method was more effective than the traditional lecture method on students' knowledge and it can be considered as a new approach for promoting the behaviors on disaster risk management.</AbstractText>
+                <AbstractText Label="Clinical Trial Registry" NlmCategory="UNASSIGNED">IRCT20171014036766N.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moradian</LastName>
+                    <ForeName>Mohamad Javad</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Trauma Research Center, Shahid Rajaee (Emtiaz) Trauma Hospital, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehraein Nazdik</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Disaster Management, School of Management and Economics, Shahid Bahonar University of Kerman, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Bull Emerg Trauma</MedlineTA>
+            <NlmUniqueID>101614018</NlmUniqueID>
+            <ISSNLinking>2322-2522</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Disaster risk</Keyword>
+            <Keyword MajorTopicYN="N">Education through game method</Keyword>
+            <Keyword MajorTopicYN="N">Knowledge</Keyword>
+            <Keyword MajorTopicYN="N">Students</Keyword>
+        </KeywordList>
+        <CoiStatement>None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198798</ArticleId>
+            <ArticleId IdType="doi">10.29252/beat-070204</ArticleId>
+            <ArticleId IdType="pmc">PMC6555209</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

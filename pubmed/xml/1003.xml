@@ -1,0 +1,228 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199326</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Electronic Pre-Exposure Prophylaxis Initiation and Maintenance Home Care System for Nonurban Young Men Who Have Sex With Men: Protocol for a Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13982</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13982</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Pre-exposure prophylaxis (PrEP) is highly efficacious for preventing HIV but has not yet been brought to scale among at-risk persons. In several clinical trials in urban areas, technology-based interventions have shown a positive impact on PrEP adherence. In rural and small-town areas in the United States, which often do not have geographically proximal access to PrEP providers, additional support may be needed. This may be particularly true for younger persons who are more likely to face multiple barriers to accessing PrEP services. Home-based care, accomplished through a tailored mobile phone app, specimen self-collection (SSC), and interactive video consultations, could increase both PrEP initiation and persistence in care.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The goal of this study is to assess the initiation and persistence in PrEP care for those randomized to a home-care intervention (electronic PrEP, ePrEP) relative to those assigned to the standard of care (control) condition. We will conduct additional assessments, including quantitative and qualitative analyses, to contextualize trial results and facilitate scale-up.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This 2-arm, randomized controlled trial will enroll young men who have sex with men (YMSM) aged between 18 and 24 years from rural areas of Georgia, Mississippi, and North Carolina. The trial will seek to recruit a diverse sample, targeting 50% participation among highly impacted groups of black or Latino men who have sex with men. Intervention participants will receive a study app that incorporates a messaging platform, a scheduling and milestone-based tracking system for PrEP care progress, electronic behavioral surveys, and interactive video consultations with a clinician. Complemented by SSC kits mailed to laboratories for standard PrEP-related monitoring, the ePrEP system will allow participants to access PrEP care without leaving their homes. YMSM randomized to the control condition will receive a listing of nearest local PrEP providers to receive standard PrEP care. Both groups will complete quarterly electronic surveys. The primary outcome, assessed at 6 and 12 months after randomization, will be the difference in the proportion of intervention versus control participants that achieve protective levels of the active metabolite of oral PrEP (tenofovir diphosphate in dried blood spots).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Enrollment will begin in May 2019, with study completion in 2022.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This trial will determine whether home PrEP care provided through an app-based platform is an efficacious means of expanding access to PrEP care for a diverse group of YMSM in rural and small-town areas of the United States.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT03729570; https://clinicaltrials.gov/ct2/show/NCT03729570 (Archived by WebCite at http://www.webcitation.org/78RE2Qizf).</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">PRR1-10.2196/13982.</AbstractText>
+                <CopyrightInformation>©Aaron J Siegler, James B Brock, Christopher B Hurt, Lauren Ahlschlager, Karen Dominguez, Colleen F Kelley, Samuel M Jenness, Gretchen Wilde, Samuel B Jameson, Gina Bailey-Herring, Leandro A Mena. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 10.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Siegler</LastName>
+                    <ForeName>Aaron J</ForeName>
+                    <Initials>AJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5553-7540</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Behavioral Sciences and Health Education, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brock</LastName>
+                    <ForeName>James B</ForeName>
+                    <Initials>JB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8967-0606</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Infectious Diseases, Department of Medicine, University of Mississippi Medical Center, Jackson, MS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurt</LastName>
+                    <ForeName>Christopher B</ForeName>
+                    <Initials>CB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3290-8200</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Global Health &amp; Infectious Diseases, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahlschlager</LastName>
+                    <ForeName>Lauren</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0762-4214</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dominguez</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9860-3146</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Behavioral Sciences and Health Education, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kelley</LastName>
+                    <ForeName>Colleen F</ForeName>
+                    <Initials>CF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5611-0119</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Infectious Diseases, Department of Medicine, Emory University School of Medicine, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenness</LastName>
+                    <ForeName>Samuel M</ForeName>
+                    <Initials>SM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8840-105X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilde</LastName>
+                    <ForeName>Gretchen</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4467-8772</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Behavioral Sciences and Health Education, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jameson</LastName>
+                    <ForeName>Samuel B</ForeName>
+                    <Initials>SB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7242-3473</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Science, John D Bower School of Population Health, University of Mississippi Medical Center, Jackson, MS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bailey-Herring</LastName>
+                    <ForeName>Gina</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2306-1194</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Behavioral Sciences and Health Education, Rollins School of Public Health, Emory University, Atlanta, GA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mena</LastName>
+                    <ForeName>Leandro A</ForeName>
+                    <Initials>LA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8994-6457</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Infectious Diseases, Department of Medicine, University of Mississippi Medical Center, Jackson, MS, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Science, John D Bower School of Population Health, University of Mississippi Medical Center, Jackson, MS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03729570</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">mobile apps</Keyword>
+            <Keyword MajorTopicYN="N">pre-exposure prophylaxis</Keyword>
+            <Keyword MajorTopicYN="N">prevention</Keyword>
+            <Keyword MajorTopicYN="N">sexual and gender minorities</Keyword>
+            <Keyword MajorTopicYN="N">smartphone</Keyword>
+            <Keyword MajorTopicYN="N">telehealth</Keyword>
+            <Keyword MajorTopicYN="N">telemedicine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199326</ArticleId>
+            <ArticleId IdType="pii">v8i6e13982</ArticleId>
+            <ArticleId IdType="doi">10.2196/13982</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

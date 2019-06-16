@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198837</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2352-8273</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>SSM - population health</Title>
+                <ISOAbbreviation>SSM Popul Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A gender analysis of the impact of physical education on the mental health of brazilian schoolchildren.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100419</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ssmph.2019.100419</ELocationID>
+            <Abstract>
+                <AbstractText>This paper investigates the effect of attending physical education classes on mental health indicators - loneliness and insomnia - of Brazilian schoolchildren. The identification strategy consists of separating the sample into two parts: people who practice physical activity and who attend physical education classes at school and people who, despite not attending physical education classes, practice physical activities. The data are from the 2015 National Adolescent School-based Health Survey (PeNSE), and the sample pairing method is the Propensity Score Matching with robustness analysis using the Bivariate Probit method and the sensitivity is tested using the method developed by Ichino, Mealli, and Nannicini (2008). For both girls and boys the results showed that physical education exerts a negative effect, reducing the probability of reporting problems of insomnia and loneliness among schoolchildren who attend the discipline. Although they show similar magnitudes, the observed effects are greater for boys, in both measures. The study investigates - in a rigorous and unprecedented way in the literature - the effect of physical education classes on the insomnia and loneliness of Brazilian school children. The results are important for the formulation of discipline maintenance policies in the curriculum of schoolchildren in Brazil.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Triaca</LastName>
+                    <ForeName>Lívia Madeira</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departament of Economics, Federal University of Rio Grande Foundation (Fundação Universidade Federal do Rio Grande), Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frio</LastName>
+                    <ForeName>Gustavo Saraiva</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Posgraduate Program in Economics, Pontifical Catholic University of Rio Grande do Sul (Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS), Rio Grande do Sul, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aniceto França</LastName>
+                    <ForeName>Marco Túlio</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Posgraduate Program in Economics, Pontifical Catholic University of Rio Grande do Sul (Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS), Rio Grande do Sul, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>SSM Popul Health</MedlineTA>
+            <NlmUniqueID>101678841</NlmUniqueID>
+            <ISSNLinking>2352-8273</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescents</Keyword>
+            <Keyword MajorTopicYN="N">Gender</Keyword>
+            <Keyword MajorTopicYN="N">Insomnia</Keyword>
+            <Keyword MajorTopicYN="N">Loneliness</Keyword>
+            <Keyword MajorTopicYN="N">Physical education</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198837</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ssmph.2019.100419</ArticleId>
+            <ArticleId IdType="pii">S2352-8273(19)30079-5</ArticleId>
+            <ArticleId IdType="pii">100419</ArticleId>
+            <ArticleId IdType="pmc">PMC6556550</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

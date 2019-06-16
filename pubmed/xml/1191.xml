@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199117</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Highly Stabilized α-Helical Coiled Coils Kill Gram-Negative Bacteria by Multicomplementary Mechanisms under Acidic Condition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b04654</ELocationID>
+            <Abstract>
+                <AbstractText>Although antimicrobial peptides (AMPs) hold tremendous promise in overcoming the threats of multidrug resistance, the main obstacle to successful therapeutic applications is their poor stability. Various synthetic strategies such as unnatural amino acids and chemical modifications have made advances for improving this problem. However, this complicated synthesis often greatly increases the cost of production. Here, we show that a series of novel peptides, designed by combining an α-helical coiled coil model, knowledge of the specificity of proteolysis and major parameters of AMPs, exhibited efficient activity against all tested Gram-negative bacteria under acidic condition and demonstrate low toxicity. Of these α-helical coiled coil peptides, 3IH3 displayed the highest average therapeutic index (GM<sub>TI</sub> = 294.25) with high stability toward salts, serum, extreme pH, heat, and proteases. Electron microscopy and biological analytical technique analyses showed that 3IH3 killed bacterial cells via a multicomplementary mechanism at pH 6.0, with physical membrane disruption as the dominant bactericidal mechanism. These results suggest that 3IH3 shows great stability as an inexpensive and effective antimicrobial activity agent and has the potential for clinical application in the treatment of infections occurring in body sites with acidic pH.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Zhenheng</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6450-4051</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Yongjie</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shao</LastName>
+                    <ForeName>Changxuan</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shan</LastName>
+                    <ForeName>Anshan</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2830-7509</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Gram-negative bacteria</Keyword>
+            <Keyword MajorTopicYN="N">acidic condition</Keyword>
+            <Keyword MajorTopicYN="N">antimicrobial peptides</Keyword>
+            <Keyword MajorTopicYN="N">multicomplementary mechanism</Keyword>
+            <Keyword MajorTopicYN="N">stability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199117</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b04654</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

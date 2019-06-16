@@ -1,0 +1,189 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198427</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1710-1484</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology</Title>
+                <ISOAbbreviation>Allergy Asthma Clin Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Outcomes following mepolizumab treatment discontinuation: real-world experience from an open-label trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13223-019-0348-z</ELocationID>
+            <Abstract>
+                <AbstractText>Limited information is available on the clinical course of patients with severe asthma following discontinuation of biologic treatment. Therefore, a post hoc analysis was conducted in patients with severe eosinophilic asthma who participated in the COSMOS trial, where patients received mepolizumab for more than 1 year of continuous therapy. The objective of this post hoc analysis was to evaluate changes in the Asthma Control Questionnaire (ACQ-5) and blood eosinophil counts 12 weeks after the last administration of mepolizumab. Cessation of mepolizumab was associated with a rise in the blood eosinophil count and loss of asthma control after stopping therapy. These data suggest that patients with severe disease require extended and continuous treatment. Further studies evaluating longer duration of continuous treatment with mepolizumab could help understanding of whether changes in the presentation of the disease (disease modification) are possible with the use of biologics, such as mepolizumab.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ortega</LastName>
+                    <ForeName>Hector</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Respiratory US Medical Affairs, GlaxoSmithKline, La Jolla, CA USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0393 4335</Identifier>
+                        <Identifier Source="GRID">grid.418019.5</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Present Address: Gossamer Bio, 3013 Science Park Rd, Suite 200, San Diego, CA 92121 USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lemiere</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Pharmacy, Université de Montréal, Montreal, QC Canada.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2292 3357</Identifier>
+                        <Identifier Source="GRID">grid.14848.31</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Research Centre, Hôpital du Sacré-Cœur de Montréal, Montreal, QC Canada.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2160 7387</Identifier>
+                        <Identifier Source="GRID">grid.414056.2</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Llanos</LastName>
+                    <ForeName>Jean-Pierre</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Respiratory US Medical Affairs, GlaxoSmithKline, Research Triangle Park, NC USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0393 4335</Identifier>
+                        <Identifier Source="GRID">grid.418019.5</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forshag</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Respiratory US Medical Affairs, GlaxoSmithKline, Research Triangle Park, NC USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0393 4335</Identifier>
+                        <Identifier Source="GRID">grid.418019.5</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Price</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5Clinical Statistics, GlaxoSmithKline, Stockley Park, Uxbridge, Middlesex, UK.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2162 0389</Identifier>
+                        <Identifier Source="GRID">grid.418236.a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albers</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>6Respiratory Therapeutic Area Unit, GlaxoSmithKline, Research Triangle Park, NC USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0393 4335</Identifier>
+                        <Identifier Source="GRID">grid.418019.5</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yancey</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>6Respiratory Therapeutic Area Unit, GlaxoSmithKline, Research Triangle Park, NC USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0393 4335</Identifier>
+                        <Identifier Source="GRID">grid.418019.5</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castro</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>7Division of Pulmonary and Critical Care Medicine, Washington University School of Medicine, St. Louis, MO USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2355 7002</Identifier>
+                        <Identifier Source="GRID">grid.4367.6</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Allergy Asthma Clin Immunol</MedlineTA>
+            <NlmUniqueID>101244313</NlmUniqueID>
+            <ISSNLinking>1710-1484</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Asthma control</Keyword>
+            <Keyword MajorTopicYN="N">Blood eosinophils</Keyword>
+            <Keyword MajorTopicYN="N">Cessation of treatment</Keyword>
+            <Keyword MajorTopicYN="N">Severe eosinophilic asthma</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsHO, J-P LL, MF, RP, FA and SY are employees of GSK and own stock/stock options in GSK. CL has attended advisory boards for AstraZeneca, GSK, Teva and Methapharm; received consulting fees from AstraZeneca, Teva and Methapharm; and received research funding from AstraZeneca and Teva. MC has received consulting fees from Genentech, Teva, Sanofi-Aventis, Aviragen, Boston Scientific and Holaira; received speaker fees from Genentech, Boston Scientific, Teva, Boehringer-Ingelheim and AstraZeneca; received research funding from Teva, GSK, Sanofi-Aventis, Vectura, Boehringer-Ingelheim, Invion, AstraZeneca, Gilead, Novartis and Chiesi; has participated on GSK Data Safety Monitoring Committee; and received royalties from Elsevier.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198427</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13223-019-0348-z</ArticleId>
+            <ArticleId IdType="pii">348</ArticleId>
+            <ArticleId IdType="pmc">PMC6558891</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,170 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199034</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1740-0929</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Animal science journal = Nihon chikusan Gakkaiho</Title>
+                <ISOAbbreviation>Anim. Sci. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of electrical stimulation and pre-rigor conditioning temperature on aging potential of hot-boned beef M. longissimus lumborum.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/asj.13217</ELocationID>
+            <Abstract>
+                <AbstractText>The objective of this study was to create various pH/temp decline rates in hot-boned bull beef M. longissimus lumborum (LL) through a combination of electrical stimulation (ES) and pre-rigor holding temperature. The relationship between the pre-rigor interventions, the activities of µ-calpain and small heat shock proteins (sHSP), and the impacts on meat product quality were determined. Paired LL loins from 13 bulls were hot-boned within 40 min of slaughter, immediately ES and subjected to various holding temperatures (5, 15, 25, and 35°C) for 3 hr. The rate of muscle pH decline, sarcomere length, shear force, and proteolysis of muscle proteins were measured. ES-25°C had a longer sarcomere length compared to non-electrical stimulation samples. ES-25°C and ES-35°C samples had lower shear force values, higher µ-calpain activity and higher desmin, troponin-T, and sHSP degradation. The above findings suggest that pH/temp decline rates created in hot-boned muscle impacted muscle protein proteolysis by increasing the activity of proteases and degradation of sHSP.</AbstractText>
+                <CopyrightInformation>© 2019 Japanese Society of Animal Science.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balan</LastName>
+                    <ForeName>Prabhu</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0540-1471</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farouk</LastName>
+                    <ForeName>Mustafa M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stuart</LastName>
+                    <ForeName>Adam D</ForeName>
+                    <Initials>AD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kemp</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Staincliffe</LastName>
+                    <ForeName>Maryaan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Craige</LastName>
+                    <ForeName>Cameron</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Yuan H B</ForeName>
+                    <Initials>YHB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AgResearch Ltd, Ruakura Research Centre, Hamilton, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Sciences, Purdue University, West Lafayette, Indiana.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AGMARDT Postdoctoral fellowship fund (A19076)</GrantID>
+                    <Agency>Agricultural and Marketing Research and Development Trust</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Anim Sci J</MedlineTA>
+            <NlmUniqueID>100956805</NlmUniqueID>
+            <ISSNLinking>1344-3941</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">beef</Keyword>
+            <Keyword MajorTopicYN="N">electrical stimulation</Keyword>
+            <Keyword MajorTopicYN="N">meat quality</Keyword>
+            <Keyword MajorTopicYN="N">pre-rigor holding temperature</Keyword>
+            <Keyword MajorTopicYN="N">small heat shock proteins</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199034</ArticleId>
+            <ArticleId IdType="doi">10.1111/asj.13217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

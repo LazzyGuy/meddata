@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200393</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-9064</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Seminars in thrombosis and hemostasis</Title>
+                <ISOAbbreviation>Semin. Thromb. Hemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vascular Nanomedicine: Current Status, Opportunities, and Challenges.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0039-1692395</ELocationID>
+            <Abstract>
+                <AbstractText>The term &quot;nanotechnology&quot; was coined by Norio Taniguchi in the 1970s to describe the manipulation of materials at the nano (10<sup>-9</sup>) scale, and the term &quot;nanomedicine&quot; was put forward by Eric Drexler and Robert Freitas Jr. in the 1990s to signify the application of nanotechnology in medicine. Nanomedicine encompasses a variety of systems including nanoparticles, nanofibers, surface nano-patterning, nanoporous matrices, and nanoscale coatings. Of these, nanoparticle-based applications in drug formulations and delivery have emerged as the most utilized nanomedicine system. This review aims to present a comprehensive assessment of nanomedicine approaches in vascular diseases, emphasizing particle designs, therapeutic effects, and current state-of-the-art. The expected advantages of utilizing nanoparticles for drug delivery stem from the particle's ability to (1) protect the drug from plasma-induced deactivation; (2) optimize drug pharmacokinetics and biodistribution; (3) enhance drug delivery to the disease site via passive and active mechanisms; (4) modulate drug release mechanisms via diffusion, degradation, and other unique stimuli-triggered processes; and (5) biodegrade or get eliminated safely from the body. Several nanoparticle systems encapsulating a variety of payloads have shown these advantages in vascular drug delivery applications in preclinical evaluation. At the same time, new challenges have emerged regarding discrepancy between expected and actual fate of nanoparticles in vivo, manufacturing barriers of complex nanoparticle designs, and issues of toxicity and immune response, which have limited successful clinical translation of vascular nanomedicine systems. In this context, this review will discuss challenges and opportunities to advance the field of vascular nanomedicine.</AbstractText>
+                <CopyrightInformation>Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Sun</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Sen Gupta</LastName>
+                    <ForeName>Anirban</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Semin Thromb Hemost</MedlineTA>
+            <NlmUniqueID>0431155</NlmUniqueID>
+            <ISSNLinking>0094-6176</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Dr. Sen Gupta has a patent US 9107845 licensed to Haima Therapeutics, and a patent US 9107963 issued. Dr. Sen Gupta has no other conflicts of interest, relevant financial activities, and relationships.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200393</ArticleId>
+            <ArticleId IdType="doi">10.1055/s-0039-1692395</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

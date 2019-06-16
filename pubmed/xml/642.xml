@@ -1,0 +1,89 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199727</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Availability of Medical and Oral Health Services for People Living with HIV in British Columbia, Canada.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>j1</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To conduct an environmental scan and categorize the scope of medical and oral health care services for people living with HIV (PLWHIV) across the province of British Columbia (BC).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data were collected using online search engines such as Google and Yahoo, as well as the websites of health services agencies and community/not-for-profit organizations in BC. Informal telephone conversations were conducted to confirm findings from the online scan. Available services were categorized in terms of scope (e.g., prevention, treatment or support) and geographic location in relation to the latest rates of new HIV infections per 100 000 people. In 2014, the number of people in BC known to be infected with HIV was 12 100, with the rate of new infections at 261 per 100 000 people.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 104 organizations that were providing services exclusively for PLWHIV; these organizations were unevenly distributed across 40 out of 51 cities in BC. Of all the services offered at these organizations, 59% were preventive and educational in nature, 15% were related to treatment services for HIV-related conditions and 38% entailed support services including social assistance. Only 3% of the 104 organizations offered basic dental care. Services of any kind tended to cluster around metropolitan areas of high HIV prevalence, including Vancouver, while northern BC remains underserved despite having the second highest rate of new HIV infections in the province.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study reveals a mismatch between the number and scope of services available for PLWHIV and the distribution of HIV infection across BC. Almost half of the services identified by the environmental scan were preventive, and only 3% offered some form of dental treatment exclusively to PLWHIV in BC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jessani</LastName>
+                    <ForeName>Abbas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brondani</LastName>
+                    <ForeName>Mario A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199727</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199109</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficient gas adsorption using superamphiphobic porous monoliths as the under-liquid gas-conductive circuits.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b07510</ELocationID>
+            <Abstract>
+                <AbstractText>The gas-liquid membrane contactor forms a gas-solid-liquid interface and has a high potential for the applications in gas adsorption, catalysis, energy exchange and so on. Porous superhydrophobic membranes show a great gas separation/adsorption ability. However, the complicated device architecture and the durability issue are normally concerned especially for the continuous circulation of gas and liquid. In this work, we present a free-standing gas-conductive circuit simply formed by connecting the porous superamphiphobic monoliths (SAPM) to achieve an efficient under-liquid gas adsorption. The porous worm-like SAPM is prepared with low-temperature expandable graphite (LTEG) and polyvinylidenefluoride (PVDF), exhibiting superamphiphobicity and superaerophilicity after fluoridation. The as-made SAPM circuits can be used as a reliable gas conductor under numerous liquids, such as water, alkaline, acidic and oily solutions. In this work, the CO2 adsorption capacities of the SAPM circuits are evaluated under NaOH and methyldiethanolamine (MDEA) solutions and the mass transfer rate can reach up to 9.61 mmol m-2 s-1. Moreover, the effective human blood oxygenation process is also demonstrated using SAPM circuits. Thus, the reported SAPM provides an alternative gas-liquid exchanging method and the simplified process could be of great benefit to the cost-effectively large-scale CO2 capture or gas exchanging applications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wen</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Cheng</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Chao</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ming</LastName>
+                    <ForeName>Tingzhen</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Biaolin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Fuzhi</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhong</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Yi-Bing</ForeName>
+                    <Initials>YB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199109</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b07510</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

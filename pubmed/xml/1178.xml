@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199130</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GTP Hydrolysis Without an Active Site Base: A Unifying Mechanism for Ras and Related GTPases.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b03193</ELocationID>
+            <Abstract>
+                <AbstractText>GTP hydrolysis is a biologically crucial reaction, being involved in regulating almost all cellular processes. As a result the enzymes that catalyze this reaction are amongst the most important drug targets. Despite their vital importance and decades of substantial research effort, the fundamental mechanism of enzyme-catalyzed GTP hydrolysis by GTPases remains highly controversial. Specifically: how do these regulatory proteins hydrolyze GTP without an obvious general base in the active site to activate the water molecule for nucleophilic attack? To answer this question, we perform empirical valence bond simulations of GTPase-catalyzed GTP hydrolysis, comparing solvent- and substrate-assisted pathways in three distinct GTPases: Ras, Rab, and the G<sub>αi</sub> subunit of a heterotrimeric G-protein, both in the presence and absence of the corresponding GTPase activating proteins. Our results demonstrate that a general base is not needed in the active site, as the preferred mechanism for GTP hydrolysis is a conserved solvent-assisted pathway. This pathway involves the rate-limiting nucleophilic attack of a water molecule, leading to a short-lived intermediate that tautomerizes to form H<sub>2</sub>PO<sub>4</sub><sup>-</sup> and GDP as the final products. Our fundamental biochemical insight into the enzymatic regulation of GTP hydrolysis not only resolves a decades-old mechanistic controversy but also has high relevance for drug discovery efforts. That is, revisiting the role of oncogenic mutants with respect to our mechanistic findings would pave the way for a new starting point to discover drugs for (so far) &quot;undruggable&quot; GTPases like Ras.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Calixto</LastName>
+                    <ForeName>Ana R</ForeName>
+                    <Initials>AR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moreira</LastName>
+                    <ForeName>Cátia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pabis</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kötting</LastName>
+                    <ForeName>Carsten</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerwert</LastName>
+                    <ForeName>Klaus</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudack</LastName>
+                    <ForeName>Till</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamerlin</LastName>
+                    <ForeName>Shina C L</ForeName>
+                    <Initials>SCL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199130</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b03193</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

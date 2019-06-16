@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199453</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2574-3805</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA network open</Title>
+                <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of Mortality and Smoking Rates Before and After Reduction in Community-wide Prevention Programs in Rural Maine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e195877</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2019.5877</ELocationID>
+            <Abstract>
+                <AbstractText Label="Importance" NlmCategory="UNASSIGNED">It is unclear whether effective population-wide interventions that reduce risk factors and improve health result in sustained benefits to a community's health. If benefits do persist after a program is ended, interventions could be brief rather than maintained long term.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To measure mortality and smoking rates in a rural community over decades before, during, and after prevention program reductions.</AbstractText>
+                <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">This cross-sectional study compared smoking and mortality rates in a rural Maine county with other Maine counties over time by 5-year intervals. Multiple changes occurred between 2001 and 2015 in the physiological and behavioral risk factor reduction programs offered in the county. They included reductions in leadership, staff, institutional resources, data monitoring, and the programs themselves. Data were analyzed from May 2018 to March 2019.</AbstractText>
+                <AbstractText Label="Intervention" NlmCategory="UNASSIGNED">Previous multifaceted interventions and outcome monitoring were withdrawn or diminished in the past decade.</AbstractText>
+                <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">Smoking and age-adjusted mortality rates vs household income.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Reduced mortality rates in Franklin County in 1986 to 2005 reverted to those predicted by household incomes, relative to other Maine counties, by 2006 to 2015 (1986-1990 T score = -2.86 [P = .01] and 2001-2005 T score = -3.00 [P = .01] to 2006 to 2010 T score = -0.43 [P = .67] and 2011-2015 T score = -0.72 [P = .48]). Analysis of County Health Rankings data from 2010 to 2018 also showed that Franklin County's outcomes have reverted to no better than predicted by socioeconomic status. The county's T scores increased from -3.62 (P = .003) in 2010 to -0.41 (P = .69) in 2015 to 0.13 (P = .90) in 2018. Statewide association of income with mortality by analyses of variance showed that the R2 values have increased from the decades preceding 2000 (1976-1980, R2 = 0.21; P = .08; 1986-1990, R2 = 0.32; P = .02) to 2006 to 2010 (R2 = 0.73; P &lt; .001) and 2011 to 2015 (R2 = 0.70; P &lt; .001).</AbstractText>
+                <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">This study suggests that gains associated with population health interventions may be lost when the interventions are reduced. Adjusting outcome measures for socioeconomic status may allow quicker and more sensitive monitoring of intervention adequacy and success. The increasing trend of age-adjusted mortality in Maine and nationally to correlate inversely with incomes may warrant further community interventions, especially for poorer populations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Onion</LastName>
+                    <ForeName>Daniel K</ForeName>
+                    <Initials>DK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maine-Dartmouth Family Medicine Residency, MaineGeneral Medical Center, Augusta.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community and Family Medicine, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prior</LastName>
+                    <ForeName>Roderick E</ForeName>
+                    <Initials>RE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Franklin Memorial Hospital, Farmington, Maine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Record</LastName>
+                    <ForeName>N Burgess</ForeName>
+                    <Initials>NB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Franklin Memorial Hospital, Farmington, Maine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Record</LastName>
+                    <ForeName>Sandra S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Franklin Memorial Hospital, Farmington, Maine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cayer</LastName>
+                    <ForeName>Gerald R</ForeName>
+                    <Initials>GR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lewis County General Hospital, Lowville, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amos</LastName>
+                    <ForeName>Christopher I</ForeName>
+                    <Initials>CI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community and Family Medicine, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Baylor College of Medicine, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pearson</LastName>
+                    <ForeName>Thomas A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine and Public Health and Health Professions, University of Florida, Gainesville.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Netw Open</MedlineTA>
+            <NlmUniqueID>101729235</NlmUniqueID>
+            <ISSNLinking>2574-3805</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199453</ArticleId>
+            <ArticleId IdType="pii">2735767</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamanetworkopen.2019.5877</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

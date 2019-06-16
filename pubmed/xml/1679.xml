@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198492</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-0994</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oxidative medicine and cellular longevity</Title>
+                <ISOAbbreviation>Oxid Med Cell Longev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure Characterization and Action Mechanism of an Antiaging New Compound from <i>Gastrodia elata</i> Blume.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5459862</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/5459862</ELocationID>
+            <Abstract>
+                <AbstractText>A new compound, bis(4-hydroxybenzyl)ether mono-<i>β</i>-L-galactopyranoside (<b>1</b>), was isolated from the rhizome of <i>Gastrodia elata</i> Blume. Its structure was elucidated using extensive spectroscopic analysis, including 1D and 2D NMR, HR-ESI-TOF-MS, and chemical derivatization. Compound <b>1</b> extended the replicative lifespan of K6001 and the chronological lifespan of YOM36 yeast strains. To understand the mechanism of action, oxidative stress assessment, reactive oxygen species (ROS) and malondialdehyde (MDA) levels, catalase (CAT) and total glutathione peroxidase (GPx) activity assays, and replicative lifespan assay of <i>sod1</i>, <i>sod2</i>, <i>uth1</i>, and <i>skn7</i> yeast mutant strains were performed. Results indicated the significant increase in the survival rate of yeast under oxidative stress after treatment with <b>1</b>. ROS and MDA levels were reduced significantly. Meanwhile, the activity of CAT and GPx was significantly increased. The lifespan of <i>sod1</i>, <i>sod2</i>, <i>uth1</i>, and <i>skn7</i> mutants of K6001 was not affected by <b>1</b>. Furthermore, we investigated the gene expression related to longevity after administrating <b>1</b>. The significant increase of <i>Sir2</i> and reduction of <i>Uth1</i> gene expression in the <b>1</b>-treated group were observed. These results indicated that antioxidative stress played an important role in the antiaging effect of <b>1</b>; <i>Sir2</i> and <i>Uth1</i> genes were involved in antiaging effects of <b>1</b>.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Farooq</LastName>
+                    <ForeName>Umer</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Yanjun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Yanfei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osada</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Research Group, RIKEN Center for Sustainable Resource Science, Wako-shi, Saitama 351-0198, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiang</LastName>
+                    <ForeName>Lan</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0001-6595-2836</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>Jianhua</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0002-2723-1648</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Yu Hang Tang Road 866, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oxid Med Cell Longev</MedlineTA>
+            <NlmUniqueID>101479826</NlmUniqueID>
+            <ISSNLinking>1942-0994</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198492</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/5459862</ArticleId>
+            <ArticleId IdType="pmc">PMC6526511</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198836</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2352-8273</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>SSM - population health</Title>
+                <ISOAbbreviation>SSM Popul Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reproduction and longevity: A Mendelian randomization study of gonadotropin-releasing hormone and ischemic heart disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100411</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ssmph.2019.100411</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">According to well-established evolutionary biology theory there is a trade-off between reproduction and longevity, implying that upregulating the reproductive axis might drive major diseases. We assessed whether the central driver of reproduction gonadotropin-releasing hormone 1 (GnRH1) had a causal effect on the leading cause of global morbidity and mortality, i.e. ischemic heart disease (IHD). As a contrast we similarly examined the role of GnRH2 because it is more a driver of female sexual behavior.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We applied strong (p-value &lt;5 × 10<sup>-6</sup>) and independent genetic predictors of GnRH1 and GnRH2 to an extensively genotyped IHD case (n = 76,014) - control (n = 264,785) study and combined the genetic variant specific Wald estimates using inverse variance weighting (IVW) with multiplicative random effects, and as a sensitivity analysis used weighted median, MR-Egger and MR-PRESSO estimates, and repeated the analysis only using genome wide significant genetic predictors.</AbstractText>
+                <AbstractText Label="Findings" NlmCategory="UNASSIGNED">GnRH1, predicted by 11 genetic variants, was positively associated with IHD (IVW odds ratio (OR) 1.04 per effect size, 95% confidence interval (CI) 1.01 to 1.08), but GnRH2, predicted by 15 genetic variants, was not (IVW OR 0.98, 95% CI 0.95 to 1.02). Estimates from sensitivity analysis were similar.</AbstractText>
+                <AbstractText Label="Interpretation" NlmCategory="UNASSIGNED">GnRH1 is a potential IHD genetic target. Apart from demonstrating a central tenet of evolutionary biology in humans, our study suggests that existing treatments and environmental factors targeting GnRH1, its drivers or consequences could be re-purposed to prevent and treat IHD. Given, the importance of reproduction to the human species, many such exposures likely exist.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schooling</LastName>
+                    <ForeName>C M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Public Health and Health Policy, The City University of New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Jack C M</ForeName>
+                    <Initials>JCM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>SSM Popul Health</MedlineTA>
+            <NlmUniqueID>101678841</NlmUniqueID>
+            <ISSNLinking>2352-8273</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CVD, cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">Evolutionary biology</Keyword>
+            <Keyword MajorTopicYN="N">GWAS, genome-wide association study</Keyword>
+            <Keyword MajorTopicYN="N">GnRH</Keyword>
+            <Keyword MajorTopicYN="N">GnRH, Gonadotropin-releasing hormone</Keyword>
+            <Keyword MajorTopicYN="N">IHD</Keyword>
+            <Keyword MajorTopicYN="N">IHD, ischemic heart disease</Keyword>
+            <Keyword MajorTopicYN="N">Mendelian randomization</Keyword>
+            <Keyword MajorTopicYN="N">SNP, single nucleotide polymorphism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198836</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ssmph.2019.100411</ArticleId>
+            <ArticleId IdType="pii">S2352-8273(19)30090-4</ArticleId>
+            <ArticleId IdType="pii">100411</ArticleId>
+            <ArticleId IdType="pmc">PMC6556548</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

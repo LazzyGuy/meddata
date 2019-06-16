@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198957</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1367-4811</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioinformatics (Oxford, England)</Title>
+                <ISOAbbreviation>Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Testing Clonal Relatedness of Two Tumors from the Same Patient based on their Mutational Profiles: update of the Clonality R Package.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">btz486</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bioinformatics/btz486</ELocationID>
+            <Abstract>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">The Clonality R package is a practical tool to assess the clonal relatedness of two tumors from the same patient. We have previously presented its functionality for testing tumors using loss of heterozygosity data or copy number arrays. Since then somatic mutation data have been more widely available through next generation sequencing and we have developed new methodology for comparing the tumors' mutational profiles (Ostrovnaya et al 2015, Mauguen et al 2018). We thus extended the package to include these two new methods for comparing tumors as well as the mutational frequency estimation from external data required for their implementation. The first method is a likelihood ratio test that is readily available on a patient by patient basis. The second method employs a random-effects model to estimate both the population and individual probabilities of clonal relatedness from a group of patients with pairs of tumors. The package is available on Bioconductor.</AbstractText>
+                <AbstractText Label="AVAILABILITY" NlmCategory="BACKGROUND">Bioconductor (http://bioconductor.org/packages/release/bioc/html/Clonality.html).</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mauguen</LastName>
+                    <ForeName>Audrey</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, 485 Lexington Ave, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seshan</LastName>
+                    <ForeName>Venkatraman E</ForeName>
+                    <Initials>VE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, 485 Lexington Ave, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Begg</LastName>
+                    <ForeName>Colin B</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, 485 Lexington Ave, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ostrovnaya</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, 485 Lexington Ave, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioinformatics</MedlineTA>
+            <NlmUniqueID>9808944</NlmUniqueID>
+            <ISSNLinking>1367-4803</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198957</ArticleId>
+            <ArticleId IdType="pii">5518921</ArticleId>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btz486</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

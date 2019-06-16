@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199364</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>All-fiber broadband multiplexer based on an elliptical ring core fiber structure mode selective coupler.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2994-2997</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.002994</ELocationID>
+            <Abstract>
+                <AbstractText>A novel all-fiber broadband mode multiplexer based on an elliptical ring core fiber structure mode selective coupler (MSC) is proposed and analyzed numerically. The MSC is composed of a core-doped single-mode fiber and a polarization-maintaining elliptical ring-shaped core few-mode fiber (FMF). The mode multiplexing can be implemented by a single LP<sub>01</sub> mode excitation that does not introduce insertion loss, which can simplify and promote the multiplexer. The high refractive index difference between the elliptical annular region and the cladding of the FMF, as well as the ellipticity of the ring-shaped core of the FMF could not only decompose the degenerate modes, but also reduce the mode coupling of the adjacent spatial modes to eliminate the multiple-input-multiple-output digital-signal processing in the receiver of the mode division multiplexing system. Finally, a seven-mode multiplexer is modeled and optimized for operation covering the C+L band. Furthermore, the multiplexer provides a high coupling efficiency (&gt;64% for the worst case) for the seven spatial modes, LP<sub>01</sub>, LP<sub>11a</sub>, LP<sub>11b</sub>, LP<sub>21a</sub>, LP<sub>21b</sub>, LP<sub>31a</sub>, and LP<sub>31b</sub>, and relatively high mode extinction ratios of more than 15 dB in the C-band.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hu</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhaocai</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xi</LastName>
+                    <ForeName>Lixia</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Cheng</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaoguang</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiao</LastName>
+                    <ForeName>Xiangsen</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Wenbo</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199364</ArticleId>
+            <ArticleId IdType="pii">413520</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.002994</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

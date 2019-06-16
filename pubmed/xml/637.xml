@@ -1,0 +1,89 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199732</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Changes in Oral Health and Treatment Needs for Elderly Residents of Long-Term Care Facilities Over 10 Years.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>j7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This study aimed to examine the oral health status of seniors residing in Providence Health Care (PHC) long-term care facilities in 2002 and 2012.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Staff dentists with the University of British Columbia Geriatric Dentistry Program made a complete oral health assessment of 799 elderly residents of 7 long-term care PHC facilities in 2002 and 381 residents in the 5 remaining PHC facilities in 2012. The 2012 data were divided into those for 275 residents who had received treatment in previous years and 106 new residents. All consenting residents were examined by dentists using the clinical oral disorder in elders (CODE) index detailing their medical and oral health status and medications. On completion of the oral health assessment, the dentist documented the need for specific dental treatment and reassessment.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Comparing the cohorts from 2002 and 2012, the mean age of the residents who had CODE assessments increased from 85 years to 86 years, the proportion of men increased from 31% to 35%, the mean number of medical conditions per resident remained unchanged (2.6 to 2.5), but the mean number of prescribed medications has increased from 4.0 to 4.6. The percentage of residents with natural teeth increased from 56% to 76%. The proportion of edentulous residents recommended for denture-related treatment decreased from 21% to 10%. The 106 new residents in 2012 had higher treatment needs than the 275 original residents, but fewer required extractions than in 2002. Although the mean number of teeth per resident examined increased from 14.6 to 17.4 over the study period, the need for restorations remained at 20%, and the need for extraction of teeth decreased from 22% to 6%. The proportion of residents with healthy periodontium increased from 14% to 21%, but the need for dental hygiene services increased from 43% to 80%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The profile of long-term care residents who consented to an oral health assessment changed over the first decade of the new millennium, with an increase in mean age and number of prescribed medications, number of retained natural teeth and the need for dental hygiene services, but a decrease in the need for extractions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wyatt</LastName>
+                    <ForeName>Chris C L</ForeName>
+                    <Initials>CCL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kawato</LastName>
+                    <ForeName>Takayuki</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199732</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

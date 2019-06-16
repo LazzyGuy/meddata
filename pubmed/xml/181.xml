@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200230</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-7103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>553</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of colloid and interface science</Title>
+                <ISOAbbreviation>J Colloid Interface Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Facile enhancement of bulk heterojunction solar cells performance by utilizing PbSe nanorods decorated with graphene.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117-125</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0021-9797(19)30683-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcis.2019.06.010</ELocationID>
+            <Abstract>
+                <AbstractText>An efficient approach for improving the photoelectrical conversion efficiency (PCE) of the bulk heterojunction (BHJ) solar cells, based on poly(3-hexylthiophene) (P3HT) and [6,6]-phenyl-C<sub>61</sub> butyric acidmethyl ester (PC<sub>61</sub>BM), by incorporating PbSe nanorods decorated with graphene (G) into their active layer has been reported for the first time. Pristine PbSe and PbSe:G composites (with different amount of graphene) are synthesized via hydrothermal process and the formation mechanism is explained. The systematic investigation indicates that the crystallite size of PbSe:G increases with increasing graphene content. The PCE of the classical BHJ solar cells based on P3HT:PC<sub>61</sub>BM is improved from 2.32 up to 2.57% by the incorporation of pristine PbSe. It is also enhanced by the incorporation of PbSe:G up to certain composition of graphene in which a maximum PCE value of 5.16% is achieved. The external quantum efficiency of the BHJ solar cells is also investigated. The photovoltaic parameters are discussed based on the morphology variation detected by scanning electron microscope and atomic force microscope of the active layers together with their UV-VIS absorption measurements.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Menyawy</LastName>
+                    <ForeName>E M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut des Matériaux Jean Rouxel (IMN), CNRS, UMR 6502, Université de Nantes, 2 rue de la Houssinière, BP 32229, 44322 Nantes cedex 3, France; Solid State Electronics Laboratory, Solid State Physics Department, Physics Research Division, National Research Centre, 33 El-Bohouth St., Dokki, Giza 12622, Egypt. Electronic address: emad_elmenyawy@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cattin</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut des Matériaux Jean Rouxel (IMN), CNRS, UMR 6502, Université de Nantes, 2 rue de la Houssinière, BP 32229, 44322 Nantes cedex 3, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernède</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MOLTECH-Anjou, CNRS, UMR 6200, Université de Nantes, 2 rue de la Houssinière, BP 92208, Nantes F-44000 France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Louarn</LastName>
+                    <ForeName>Guy</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut des Matériaux Jean Rouxel (IMN), CNRS, UMR 6502, Université de Nantes, 2 rue de la Houssinière, BP 32229, 44322 Nantes cedex 3, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arzel</LastName>
+                    <ForeName>Ludovic</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut des Matériaux Jean Rouxel (IMN), CNRS, UMR 6502, Université de Nantes, 2 rue de la Houssinière, BP 32229, 44322 Nantes cedex 3, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Colloid Interface Sci</MedlineTA>
+            <NlmUniqueID>0043125</NlmUniqueID>
+            <ISSNLinking>0021-9797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BHJ solar cells</Keyword>
+            <Keyword MajorTopicYN="N">Graphene</Keyword>
+            <Keyword MajorTopicYN="N">Optical absorption</Keyword>
+            <Keyword MajorTopicYN="N">PbSe nanorods</Keyword>
+            <Keyword MajorTopicYN="N">Surface morphology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200230</ArticleId>
+            <ArticleId IdType="pii">S0021-9797(19)30683-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jcis.2019.06.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

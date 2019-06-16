@@ -1,0 +1,290 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198906</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2522-5812</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature metabolism</Title>
+                <ISOAbbreviation>Nat Metab</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mitochondrial pyruvate import is a metabolic vulnerability in androgen receptor-driven prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>70-85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s42255-018-0002-y</ELocationID>
+            <Abstract>
+                <AbstractText>Specific metabolic underpinnings of androgen receptor (AR)-driven growth in prostate adenocarcinoma (PCa) are largely undefined, hindering the development of strategies to leverage the metabolic dependencies of this disease when hormonal manipulations fail. Here we show that the mitochondrial pyruvate carrier (MPC), a critical metabolic conduit linking cytosolic and mitochondrial metabolism, is transcriptionally regulated by AR. Experimental MPC inhibition restricts proliferation and metabolic outputs of the citric acid cycle (TCA) including lipogenesis and oxidative phosphorylation in AR-driven PCa models. Mechanistically, metabolic disruption resulting from MPC inhibition activates the eIF2α/ATF4 integrated stress response (ISR). ISR signaling prevents cell cycle progression while coordinating salvage efforts, chiefly enhanced glutamine assimilation into the TCA, to regain metabolic homeostasis. We confirm that MPC function is operant in PCa tumors <i>in-vivo</i> using isotopomeric metabolic flux analysis. In turn, we apply a clinically viable small molecule targeting the MPC, MSDC0160, to pre-clinical PCa models and find that MPC inhibition suppresses tumor growth in hormone-responsive and castrate-resistant conditions. Collectively, our findings characterize the MPC as a tractable therapeutic target in AR-driven prostate tumors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bader</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartig</LastName>
+                    <ForeName>Sean M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putluri</LastName>
+                    <ForeName>Vasanta</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foley</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>Mark P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Eric A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saha</LastName>
+                    <ForeName>Pradip K</ForeName>
+                    <Initials>PK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panigrahi</LastName>
+                    <ForeName>Anil</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walker</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Imaging Physics, Division of Diagnostic Imaging, The University of Texas M.D. Anderson Cancer Center, Houston TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zong</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martini-Stoica</LastName>
+                    <ForeName>Heidi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdepartmental Program in Translational Biology and Molecular Medicine, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rajapakshe</LastName>
+                    <ForeName>Kimal</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coarfa</LastName>
+                    <ForeName>Cristian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sreekumar</LastName>
+                    <ForeName>Arun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitsiades</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Hematology &amp; Oncology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bankson</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Imaging Physics, Division of Diagnostic Imaging, The University of Texas M.D. Anderson Cancer Center, Houston TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ittmann</LastName>
+                    <ForeName>Michael M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Malley</LastName>
+                    <ForeName>Bert W</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putluri</LastName>
+                    <ForeName>Nagireddy</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGuire</LastName>
+                    <ForeName>Sean E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Division of Radiation Oncology, The University of Texas M.D. Anderson Cancer Center, Houston TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Nat Metab</MedlineTA>
+            <NlmUniqueID>101736592</NlmUniqueID>
+            <ISSNLinking>2522-5812</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Competing Interests The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198906</ArticleId>
+            <ArticleId IdType="doi">10.1038/s42255-018-0002-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6563330</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+

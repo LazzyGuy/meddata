@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200136</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1298</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>233</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemosphere</Title>
+                <ISOAbbreviation>Chemosphere</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electrochemical removal of amoxicillin using a Cu doped PbO<sub>2</sub> electrode: Electrode characterization, operational parameters optimization and degradation mechanism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>762-770</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-6535(19)31147-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chemosphere.2019.05.226</ELocationID>
+            <Abstract>
+                <AbstractText>This work investigated the electrochemical degradation of amoxicillin (AMX) in aqueous solution with Cu-PbO<sub>2</sub> electrode. The main inﬂuence factors on the degradation of AMX, such as Na<sub>2</sub>SO<sub>4</sub> concentration, initial AMX concentration, current density and initial pH value, were analyzed in detail. Under the optimal conditions, the removal rates of AMX and chemical oxygen demand (COD) reached 99.4% and 46.3% after 150 min treatment. The results indicated that the electrochemical degradation of AMX ﬁtted pseudo-ﬁrst-order reaction kinetics. Compared with undoped PbO<sub>2</sub> electrode, Cu-PbO<sub>2</sub> electrode had a smaller crystal size, more proportion of hydroxyl oxygen species, greater AMX and chemical oxygen demand (COD) removal efficiency, higher average current efﬁciency (ACE) and lower electrical efﬁciency per log order (EE/O). Electrochemical oxidation using Cu-PbO<sub>2</sub> electrodes was an effective way to eliminate amoxicillin in aqueous solution. Moreover, a possible degradation pathway including ring open and mineralization was proposed by intermediate products determined by GC-MS method. This paper could provide basic data and technique reference for the amoxicillin wastewater pollution control.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bian</LastName>
+                    <ForeName>Xinze</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhan</LastName>
+                    <ForeName>Tingting</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Wan</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Qizhou</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China. Electronic address: dqz@zjut.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jianmeng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environment, Zhejiang University of Technology, Hangzhou, 310032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chemosphere</MedlineTA>
+            <NlmUniqueID>0320657</NlmUniqueID>
+            <ISSNLinking>0045-6535</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amoxicillin</Keyword>
+            <Keyword MajorTopicYN="N">Cu-doped PbO(2) electrode</Keyword>
+            <Keyword MajorTopicYN="N">Degradation mechanism</Keyword>
+            <Keyword MajorTopicYN="N">Electrochemical degradation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200136</ArticleId>
+            <ArticleId IdType="pii">S0045-6535(19)31147-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chemosphere.2019.05.226</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198900</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-2533</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of ophthalmology</Title>
+                <ISOAbbreviation>Rom J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of corneal cross-linking on the anterior and posterior parameters of the cornea: A prospective repeatability study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>68-74</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText><b>Objective.</b> To determine the effect of corneal cross-linking (CXL) on the anterior and posterior corneal indices in terms of their repeatability and change as measured with Pentacam. <b>Methods.</b> Thirty eyes of 30 patients with progressive keratoconus undergoing CXL were enrolled. At each visit (pre-CXL, 6 and 12 months after CXL), imaging were done twice, one hour apart to determine the repeatability index (RI) and intra-class correlation coefficient (ICC). For same session measurements, we computed the intra-session repeatability. We also calculated 4 measures of change by subtracting baseline from 1-year results and determined the repeatability of measures of change. <b>Results.</b> There was no significant difference between the intra-session RI at baseline, 6 months, and 12 months for anterior Kmax-3mm (P=0.609), anterior Kmin-3mm (P=0.548), Kmax-8mm (P=0.860), posterior Kmax-3mm (P=0.717), posterior Kmin-3mm (P=0.548), Q-value-6mm (P=0.890), central corneal thickness (P=0.751), minimum corneal thickness (P=0.787), or anterior chamber depth (P=0.760). The ICCs for these indices were higher than 0.9. For keratoconus indices, there was no significant difference between the intra-session RI at baseline and follow-ups (P&gt;0.05), and the ICC were higher than 0.9 except for baseline and 6-month index of height asymmetry (IHA). The ICC for all 1-year measures of change were more than 0.75 except for posterior corneal indices and IHA. <b>Conclusion.</b> Pentacam repeatability of different indices is not affected by CXL. However, the change of indices showed high variance, which should be taken into consideration, especially in systematic reviews because inter-study differences can be due to low repeatability of the measures of change.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hashemi</LastName>
+                    <ForeName>Hassan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Noor Research Center for Ophthalmic Epidemiology, Noor Eye Hospital, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehravaran</LastName>
+                    <ForeName>Shiva</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ASCEND Center for Biomedical Research, Morgan State University, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asgari</LastName>
+                    <ForeName>Soheila</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Noor Ophthalmology Research Center, Noor Eye Hospital, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Rom J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101677459</NlmUniqueID>
+            <ISSNLinking>2457-4325</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">corneal cross-linking</Keyword>
+            <Keyword MajorTopicYN="N">corneal index</Keyword>
+            <Keyword MajorTopicYN="N">reliability study </Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198900</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

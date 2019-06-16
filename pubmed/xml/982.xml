@@ -1,0 +1,227 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199347</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2368-7959</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mental health</Title>
+                <ISOAbbreviation>JMIR Ment Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exposure Therapy With Personalized Real-Time Arousal Detection and Feedback to Alleviate Social Anxiety Symptoms in an Analogue Adult Sample: Pilot Proof-of-Concept Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13869</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13869</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Exposure therapy is highly effective for social anxiety disorder. However, there is room for improvement.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This is a first attempt to examine the feasibility of an arousal feedback-based exposure therapy to alleviate social anxiety symptoms in an analogue adult sample.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A randomized, pilot, proof-of-concept trial was conducted to evaluate the acceptability, safety, and preliminary efficacy of our treatment program. Sessions were administered once a week for 4 weeks (1 hour each) to an analogue sample of 50 young adults who reported at least minimal social anxiety symptoms. Participants in both intervention and waitlist control groups completed assessments for social anxiety symptoms at the baseline, week 5, and week 10.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Most participants found the intervention acceptable (82.0%, 95% CI 69.0%-91.0%). Seven (14.9%, 95% CI 7.0%-28.0%) participants reported at least one mild adverse event over the course of study. No moderate or serious adverse events were reported. Participants in the intervention group demonstrated greater improvements on all outcome measures of public speaking anxiety from baseline to week 5 as compared to the waitlist control group (Cohen d=0.61-1.39). Effect size of the difference in mean change on the overall Liebowitz Social Anxiety Scale was small (Cohen d=0.13).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results indicated that it is worthwhile to proceed to a larger trial for our treatment program. This new medium of administration for exposure therapy may be feasible for treating a subset of social anxiety symptoms. Additional studies are warranted to explore its therapeutic mechanisms.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT02493010; https://clinicaltrials.gov/ct2/show/NCT02493010.</AbstractText>
+                <CopyrightInformation>©Xiangting Bernice Lin, Tih-Shih Lee, Yin Bun Cheung, Joanna Ling, Shi Hui Poon, Leslie Lim, Hai Hong Zhang, Zheng Yang Chin, Chuan Chu Wang, Ranga Krishnan, Cuntai Guan. Originally published in JMIR Mental Health (http://mental.jmir.org), 14.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Xiangting Bernice</ForeName>
+                    <Initials>XB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9255-0450</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroscience and Behavioral Disorders Program, Duke University - National University of Singapore Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Tih-Shih</ForeName>
+                    <Initials>TS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0788-422X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroscience and Behavioral Disorders Program, Duke University - National University of Singapore Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore General Hospital, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Cheung</LastName>
+                    <ForeName>Yin Bun</ForeName>
+                    <Initials>YB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0517-7625</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Quantitative Medicine, Duke University - National University of Singapore Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Child Health Research, University of Tampere and Tampere University Hospital, Finland, Finland, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Ling</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6111-3864</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore Clinical Research Institute, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poon</LastName>
+                    <ForeName>Shi Hui</ForeName>
+                    <Initials>SH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1850-5088</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore General Hospital, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lim</LastName>
+                    <ForeName>Leslie</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3397-1677</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Singapore General Hospital, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hai Hong</ForeName>
+                    <Initials>HH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8571-5675</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Infocomm Research, Agency for Science, Technology, and Research, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Chin</LastName>
+                    <ForeName>Zheng Yang</ForeName>
+                    <Initials>ZY</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8136-4671</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Infocomm Research, Agency for Science, Technology, and Research, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Chuan Chu</ForeName>
+                    <Initials>CC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5974-7844</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Infocomm Research, Agency for Science, Technology, and Research, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Krishnan</LastName>
+                    <ForeName>Ranga</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3661-8449</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Rush Medical College of Rush University, Chicago, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Guan</LastName>
+                    <ForeName>Cuntai</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0872-3276</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Nanyang Technological University, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT02493010</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Ment Health</MedlineTA>
+            <NlmUniqueID>101658926</NlmUniqueID>
+            <ISSNLinking>2368-7959</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">arousal feedback</Keyword>
+            <Keyword MajorTopicYN="N">exposure therapy</Keyword>
+            <Keyword MajorTopicYN="N">public speaking anxiety</Keyword>
+            <Keyword MajorTopicYN="N">randomized controlled trial</Keyword>
+            <Keyword MajorTopicYN="N">social anxiety</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199347</ArticleId>
+            <ArticleId IdType="pii">v6i6e13869</ArticleId>
+            <ArticleId IdType="doi">10.2196/13869</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

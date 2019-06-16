@@ -1,0 +1,203 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199520</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of cancer</Title>
+                <ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bromodomain and Extraterminal Domain Inhibition Synergizes with WEE1-Inhibitor AZD1775 Effect by Impairing Non-Homologous End Joining and Enhancing DNA Damage in Non-Small Cell Lung Cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/ijc.32515</ELocationID>
+            <Abstract>
+                <AbstractText>Bromodomain and extraterminal domain (BET) inhibitors are broadly active against distinct types of cancer, including non-small cell lung cancer (NSCLC). Previous studies have addressed the effect of BET-inhibiting drugs on the expression of oncogenes such as c-Myc, but DNA damage repair pathways have also been reported to be involved in the efficacy of these drugs. AZD1775, an inhibitor of the G2-M cell cycle checkpoint kinase WEE1, induces DNA damage by promoting premature mitotic entry. Thus, we hypothesized that BET inhibition would increase AZD1775-induced cytotoxicity by impairing DNA damage repair. Here, we demonstrate that combined inhibition of BET and WEE1 synergistically suppresses NSCLC growth both in vitro and in vivo. Two BET inhibitors, JQ1 and AZD5153, increased and prolonged AZD1775-induced DNA double-strand breaks (DSBs) and concomitantly repressed genes related to non-homologous end joining (NHEJ), including XRCC4 and SHLD1. Furthermore, pharmaceutical inhibition of BET or knockdown of the BET protein BRD4 markedly diminished NHEJ activity, and the BET-inhibitor treatment also repressed myelin transcription factor 1 (MYT1) expression and promoted mitotic entry with subsequent mitotic catastrophe when combined with WEE1 inhibition. Our findings reveal that BET proteins, predominantly BRD4, play an essential role in DSB repair through the NHEJ pathway, and further suggest that combined inhibition of BET and WEE1 could serve as a novel therapeutic strategy for NSCLC. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takashima</LastName>
+                    <ForeName>Yuta</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0136-520X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikuchi</LastName>
+                    <ForeName>Eiki</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikuchi</LastName>
+                    <ForeName>Junko</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suzuki</LastName>
+                    <ForeName>Motofumi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Bioanalysis and Molecular Imaging, Graduate School of Pharmaceutical Sciences, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikuchi</LastName>
+                    <ForeName>Hajime</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>First Department of Medicine, JA Obihiro Kosei Hospital, Obihiro, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maeda</LastName>
+                    <ForeName>Makie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoji</LastName>
+                    <ForeName>Tetsuaki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Furuta</LastName>
+                    <ForeName>Megumi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kinoshita</LastName>
+                    <ForeName>Ichiro</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dosaka-Akita</LastName>
+                    <ForeName>Hirotoshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakakibara-Konishi</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konno</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Faculty of Medicine and Graduate School of Medicine, Hokkaido University, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Cancer</MedlineTA>
+            <NlmUniqueID>0042124</NlmUniqueID>
+            <ISSNLinking>0020-7136</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BET bromodomain inhibitor</Keyword>
+            <Keyword MajorTopicYN="N">DNA damage repair</Keyword>
+            <Keyword MajorTopicYN="N">WEE1 inhibitor</Keyword>
+            <Keyword MajorTopicYN="N">non-homologous end joining</Keyword>
+            <Keyword MajorTopicYN="N">non-small cell lung cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199520</ArticleId>
+            <ArticleId IdType="doi">10.1002/ijc.32515</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

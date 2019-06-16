@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198907</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2573-9832</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB bioAdvances</Title>
+                <ISOAbbreviation>FASEB Bioadv</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protease-activated receptor 2 activates CRAC-mediated Ca2+ influx to cause prostate smooth muscle contraction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>255-264</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fba.2018-00024</ELocationID>
+            <Abstract>
+                <AbstractText>Protease activated receptor 2 (PAR2) is a G-protein coupled receptor that contributes to prostate fibrosis and lower urinary tract symptoms (LUTS). In addition to fibrosis, aberrant smooth muscle tone in the prostate has been hypothesized to play a role. We therefore examined PAR2 expression in primary human prostate smooth muscle cells (PSMC) and studied the downstream signaling effects of PAR2 activation. Signaling pathways involved in the process were assessed using the PAR2 activating peptide SLIGKV-NH2. We show that PAR2 is expressed in PSMC and that PAR2 activation mediates a biphasic elevation in intracellular Ca<sup>2+</sup> and phosphorylation of myosin light chain 20 (MLC20), causing cellular contraction as assessed in a gel contraction assay. Intracellular Ca<sup>2+</sup> flux was inhibited by a phosphoinositide hydrolysis inhibitor, U73122, showing a requirement for phospholipase C β (PLCβ) activation. PSMC expressed mRNA for L-type voltage dependent Ca<sup>2+</sup> channels (VDCC) as well as Ca<sup>2+</sup> release activated channels (CRAC), a hitherto unreported finding. Secondary intracellular Ca<sup>2+</sup> oscillations were abrogated only by BTP2, the CRAC channel inhibitor, but not by nifedipine, an inhibitor of VDCC. These data suggest that, PAR2 activation and subsequent Ca<sup>2+</sup> entry through CRAC channels are important mechanisms in prostate smooth muscle contraction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Paul</LastName>
+                    <ForeName>Madhumita</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murphy</LastName>
+                    <ForeName>Stephen F</ForeName>
+                    <Initials>SF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Christel</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaeffer</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thumbikat</LastName>
+                    <ForeName>Praveen</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB Bioadv</MedlineTA>
+            <NlmUniqueID>101733210</NlmUniqueID>
+            <ISSNLinking>2573-9832</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">G-protein coupled receptor</Keyword>
+            <Keyword MajorTopicYN="N">PAR2</Keyword>
+            <Keyword MajorTopicYN="N">calcium channels</Keyword>
+            <Keyword MajorTopicYN="N">phospholipase</Keyword>
+            <Keyword MajorTopicYN="N">prostate</Keyword>
+            <Keyword MajorTopicYN="N">smooth muscle</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198907</ArticleId>
+            <ArticleId IdType="doi">10.1096/fba.2018-00024</ArticleId>
+            <ArticleId IdType="pmc">PMC6563600</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+

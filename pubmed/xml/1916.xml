@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198207</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-4668</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vestnik otorinolaringologii</Title>
+                <ISOAbbreviation>Vestn. Otorinolaringol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Morphofunctional status of inner ear's cells in case of experimental hearing loss].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17116/otorino2019840214</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To study ultrastructural changes in stria's vascularis cells of inner ear and determine possible ways of correction.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">The work was carried out on male guinea pigs. After completion of the experiment, stria vascularis of inner ear was subjected to electron microscopic examination.</AbstractText>
+                <AbstractText Label="RESULTS AND DISCUSSION" NlmCategory="CONCLUSIONS">In the control group (receiving gentamycin sulfate in an ototoxic dose), signs of blood flow disturbance were revealed, as well as ultrastructural changes in stria's vascularis cells (expansion of intercellular space, deformation of organelles, thinning of glycocalyx, blebbing). Also, fragmented cells were found. These changes are characteristics for apoptosis. In experimental group (receiving gentamycin sulfate and melaxen), degenerative changes were less pronounced. An increase of cell's secretory activity was observed.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Changes in stria's vascularis cells by using melaxen are less pronounced. Increase of cell's secretory activity in stria vascularis is a compensatory reaction and saves auditory function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Petrova</LastName>
+                    <ForeName>N N</ForeName>
+                    <Initials>NN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>North-Western State Medical University named after I.I. Mechnikov, St. Petersburg, Russia, 195067.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korotkova</LastName>
+                    <ForeName>V N</ForeName>
+                    <Initials>VN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>North-Western State Medical University named after I.I. Mechnikov, St. Petersburg, Russia, 195067.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ilinskaya</LastName>
+                    <ForeName>E V</ForeName>
+                    <Initials>EV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute of Influenza, St. Petersburg, Russia, 197376.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maslova</LastName>
+                    <ForeName>Yu A</ForeName>
+                    <Initials>YA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>North-Western State Medical University named after I.I. Mechnikov, St. Petersburg, Russia, 195067.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Morfofunktsional'noe sostoianie kletok vnutrennego ukha pri éksperimental'noĭ tugoukhosti.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Vestn Otorinolaringol</MedlineTA>
+            <NlmUniqueID>0416577</NlmUniqueID>
+            <ISSNLinking>0042-4668</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Цель исследования - изучение ультраструктурных изменений в клетках сосудистой полоски внутреннего уха и определение возможных путей коррекции. Результаты и обсуждение. В контрольной группе (животные получали гентамицина сульфат в ототоксической дозе) были выявлены признаки нарушения кровотока, а также ультраструктурные изменения клеток сосудистой полоски (расширение межклеточного пространства, деформация органелл, истончение гликокаликса, блеббинг). Также были обнаружены фрагментированные клетки. Данные изменения характерны для апоптоза. В экспериментальной группе (животные получали гентамицина сульфат и мелатонин) дегенеративные изменения были менее выраженными. Наблюдалось увеличение секреторной активности клеток. Заключение. Таким образом, ототоксические изменения в сосудистой полоске при применении мелатонина носят менее выраженный характер. Повышение секреторной активности клеток сосудистой полоски является компенсаторной реакцией и морфологическим субстратом сохранения слуховой функции.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">melatonin</Keyword>
+            <Keyword MajorTopicYN="N">sensoneural hearing loss</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198207</ArticleId>
+            <ArticleId IdType="doi">10.17116/otorino2019840214</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

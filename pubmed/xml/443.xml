@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199954</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuropsychologia</Title>
+                <ISOAbbreviation>Neuropsychologia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Does the motor system contribute to the perception of changes in objects visual attributes? The neural dynamics of sensory binding by action.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>107121</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0028-3932(18)30548-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuropsychologia.2019.107121</ELocationID>
+            <Abstract>
+                <AbstractText>The contribution of the motor system to perception has been highlighted in research investigating the effect of performing an action on the conscious processing of information received from the sensory systems. For example, the perceptual temporal asynchrony observed when passively reporting changes in visual object attributes (e.g., colour and position) was found to disappear virtually when the changes resulted from a voluntary motor action. Although the spatio-temporal constraints of sensory binding by action have been broadly investigated, the underlying neural correlates are still largely unknown. In the present study, participants performed temporal order judgments of changes in the colour and position of a visual stimulus, while adapting to a 750 ms delay between a sound (perceptual condition) or the end of a manual reaching action (motor condition), and the visual changes. Behavioural observations indicated that temporal asynchrony (-30.2 ms) decreased in the motor condition (2.7 ms), as a result of sensorimotor adaptation, but not in the perceptual condition (-29.6 ms). EEG-evoked potentials on posterior visual regions showed that early components were altered by sensorimotor adaptation, with in particular a broad reduction in the amplitude of the early P1 component. Furthermore, time-frequency analysis of EEG signals during the 350 ms period preceding the visual changes revealed an increase of the 15-25 Hz frequency band amplitude in the central region and a decrease of the 8-12 Hz frequency band amplitude in the posterior region. Overall the results suggest that sensory binding by action depends on an early top-down modulation of the visual regions by the motor system - in agreement with the pre-activation theory of action-perception coupling - associated with an increase of attentional resources.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wamain</LastName>
+                    <ForeName>Yannick</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Lille, CNRS, CHU Lille, UMR 9193 - SCALab - Sciences Cognitives et Sciences Affectives, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corveleyn</LastName>
+                    <ForeName>Xavier</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Côte d'Azur, LAPCOS, EA 7278, 06300, Nice, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ott</LastName>
+                    <ForeName>Laurent</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Lille, CNRS, CHU Lille, UMR 9193 - SCALab - Sciences Cognitives et Sciences Affectives, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coello</LastName>
+                    <ForeName>Yann</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Lille, CNRS, CHU Lille, UMR 9193 - SCALab - Sciences Cognitives et Sciences Affectives, F-59000, Lille, France. Electronic address: yann.coello@univ-lille.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neuropsychologia</MedlineTA>
+            <NlmUniqueID>0020713</NlmUniqueID>
+            <ISSNLinking>0028-3932</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Attention</Keyword>
+            <Keyword MajorTopicYN="N">EEG</Keyword>
+            <Keyword MajorTopicYN="N">Evoked potential</Keyword>
+            <Keyword MajorTopicYN="N">Sensorimotor adaptation</Keyword>
+            <Keyword MajorTopicYN="N">Temporal asynchrony</Keyword>
+            <Keyword MajorTopicYN="N">Temporal order judgment</Keyword>
+            <Keyword MajorTopicYN="N">Time-frequency analysis</Keyword>
+            <Keyword MajorTopicYN="N">ensory binding by action</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199954</ArticleId>
+            <ArticleId IdType="pii">S0028-3932(18)30548-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuropsychologia.2019.107121</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

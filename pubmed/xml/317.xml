@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200088</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0038</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gene</Title>
+                <ISOAbbreviation>Gene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Relevance of the iron-responsive element (IRE) pseudotriloop structure for IRP1/2 binding and validation of IRE-like structures using the yeast three-hybrid system.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-1119(19)30570-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gene.2019.06.012</ELocationID>
+            <Abstract>
+                <AbstractText>Iron-responsive elements (IREs) are ~35-nucleotide (nt) stem-loop RNA structures located in 5' or 3' untranslated regions (UTRs) of mRNAs that mediate post-transcriptional regulation by their association with IRE-binding proteins (IRPs). IREs are characterized by their apical 6-nt loop motif 5'-CAGWGH-3' (W = A or U and H = A, C or U), the so-called pseudotriloop, of which the loop nts C1 and G5 are paired, and the none-paired C between the two stem regions. In this study, the yeast three-hybrid (Y3H) system was used to investigate the relevance of the pseudotriloop structure of ferritin light chain (FTL) for the IRE-IRP interaction and the binding affinities between variant IRE(-like) structures and the two IRP isoforms, IRP1 and 2. Destabilization of the pseudotriloop structure by a G5-to-A mutation reduced binding of IRP1 and 2, while restoring the pseudotriloop conformation by the compensatory C1-to-U mutation, restored binding to both IRPs. In particular, IRP1 showed even stronger binding to the C1U-G5A mutant than to the wildtype FTL IRE. On the other hand, deletion of the bulged-out U6 of the pseudotriloop did not significantly affect its binding to either IRP1 or 2, but substitution with C particularly enhanced the binding to IRP1. In comparison to FTL IRE, IRE-like structures of 5'-aminolevulinate synthase 2 (ALAS2) and SLC40A1 (also known as ferroportin-1) showed similar or, in the case of endothelial PAS domain protein 1 (EPAS1) IRE, slightly weaker binding affinity to IRPs. SLC11A2 (a.k.a. divalent metal transporter-1) IRE exhibited relatively weak binding to IRP1 and medium binding to IRP2. Notably, the IRE-like structure of α-synuclein showed no detectable binding to either IRP under the conditions used in this Y3H assay. Our results indicate that Y3H can be used to characterize binding between IRPs and various IRE-like structures in vivo.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Shih-Cheng</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leiden Institute of Chemistry, Leiden University, Leiden, the Netherlands. Electronic address: scchen@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsthoorn</LastName>
+                    <ForeName>René C L</ForeName>
+                    <Initials>RCL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leiden Institute of Chemistry, Leiden University, Leiden, the Netherlands. Electronic address: olsthoor@chem.leidenuniv.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Gene</MedlineTA>
+            <NlmUniqueID>7706761</NlmUniqueID>
+            <ISSNLinking>0378-1119</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Iron-regulatory protein, RNA-protein interaction</Keyword>
+            <Keyword MajorTopicYN="N">Iron-responsive element</Keyword>
+            <Keyword MajorTopicYN="N">Pseudotriloop</Keyword>
+            <Keyword MajorTopicYN="N">RNA structure</Keyword>
+            <Keyword MajorTopicYN="N">Yeast three-hybrid system</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200088</ArticleId>
+            <ArticleId IdType="pii">S0378-1119(19)30570-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gene.2019.06.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

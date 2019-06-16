@@ -1,0 +1,141 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199343</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Current Knowledge and Adoption of Mobile Health Apps Among Australian General Practitioners: Survey Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13199</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13199</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mobile health (mHealth) apps can be prescribed as an effective self-management tool for patients. However, it is challenging for doctors to navigate 350,000 mHealth apps to find the right ones to recommend. Although medical professionals from many countries are using mHealth apps to varying degrees, current mHealth app use by Australian general practitioners (GPs) and the barriers and facilitators they encounter when integrating mHealth apps in their clinical practice have not been reported comprehensively.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objectives of this study were to (1) evaluate current knowledge and use of mHealth apps by GPs in Australia, (2) determine the barriers and facilitators to their use of mHealth apps in consultations, and (3) explore potential solutions to the barriers.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We helped the Royal Australian College of General Practitioners (RACGP) to expand the mHealth section of their annual technology survey for 2017 based on the findings of our semistructured interviews with GPs to further explore barriers to using mHealth apps in clinical practice. The survey was distributed to the RACGP members nationwide between October 26 and December 3, 2017 using Qualtrics Web-based survey tool.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 1014 RACGP members responded (response rate 4.6% [1014/21,884], completion rate 61.2% [621/1014]). The median years practiced was 20.7 years. Two-thirds of the GPs used apps professionally in the forms of medical calculators and point-of-care references. A little over half of the GPs recommended apps for patients either daily (12.9%, 80/621), weekly (25.9%, 161/621), or monthly (13.4%, 83/621). Mindfulness and mental health apps were recommended most often (32.5%, 337/1036), followed by diet and nutrition (13.9%, 144/1036), exercise and fitness (12.7%, 132/1036), and women's health (10%, 104/1036) related apps. Knowledge and usage of evidence-based apps from the Handbook of Non-Drug Interventions were low. The prevailing barriers to app prescription were the lack of knowledge of effective apps (59.9%, 372/621) and the lack of trustworthy source to access them (15.5%, 96/621). GPs expressed their need for a list of safe and effective apps from a trustworthy source, such as the RACGP, to overcome these barriers. They reported a preference for online video training material or webinar to learn more about mHealth apps.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Most GPs are using apps professionally but recommending apps to patients sparingly. The main barriers to app prescription were the lack of knowledge of effective apps and the lack of trustworthy source to access them. A curated compilation of effective mHealth apps or an app library specifically aimed at GPs and health professionals would help solve both barriers.</AbstractText>
+                <CopyrightInformation>©Oyungerel Byambasuren, Elaine Beller, Paul Glasziou. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 03.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Byambasuren</LastName>
+                    <ForeName>Oyungerel</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8641-1286</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Research in Evidence-Based Practice, Bond University, Robina, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beller</LastName>
+                    <ForeName>Elaine</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3241-2611</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Research in Evidence-Based Practice, Bond University, Robina, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glasziou</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7564-073X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Research in Evidence-Based Practice, Bond University, Robina, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">general practice</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">mobile apps</Keyword>
+            <Keyword MajorTopicYN="N">mobile health</Keyword>
+            <Keyword MajorTopicYN="N">smartphone</Keyword>
+            <Keyword MajorTopicYN="N">smartphone apps</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199343</ArticleId>
+            <ArticleId IdType="pii">v7i6e13199</ArticleId>
+            <ArticleId IdType="doi">10.2196/13199</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,191 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199014</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-2594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Magnetic resonance in medicine</Title>
+                <ISOAbbreviation>Magn Reson Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A simulation study on the effect of optimized high permittivity materials on fetal imaging at 3T.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/mrm.27849</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">One of the main concerns in fetal MRI is the radiofrequency power that is absorbed both by the mother and the fetus. Passive shimming using high permittivity materials in the form of &quot;dielectric pads&quot; has previously been shown to increase the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+                        <mml:msubsup>
+                            <mml:mtext>B</mml:mtext>
+                            <mml:mrow>
+                                <mml:mn>1</mml:mn>
+                            </mml:mrow>
+                            <mml:mo>+</mml:mo>
+                        </mml:msubsup>
+                    </mml:math> efficiency and homogeneity in different applications, while reducing the specific absorption rate (SAR). In this work, we study the effect of optimized dielectric pads for 3 pregnant models.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Pregnant models in the 3rd, 7th, and 9th months of gestation were used for simulations in a birdcage coil at 3T. Dielectric pads were optimized regions of interest (ROI) using previously developed methods for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+                        <mml:msubsup>
+                            <mml:mtext>B</mml:mtext>
+                            <mml:mrow>
+                                <mml:mn>1</mml:mn>
+                            </mml:mrow>
+                            <mml:mo>+</mml:mo>
+                        </mml:msubsup>
+                    </mml:math> efficiency and homogeneity and were designed for 2 ROIs: the entire fetus and the brain of the fetus. The SAR was evaluated in terms of the whole-body SAR, average SAR in the fetus and amniotic fluid, and maximum 10 g-averaged SAR in the mother, fetus, and amniotic fluid.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The optimized dielectric pads increased the transmit efficiency up to 55% and increased the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+                        <mml:msubsup>
+                            <mml:mtext>B</mml:mtext>
+                            <mml:mrow>
+                                <mml:mn>1</mml:mn>
+                            </mml:mrow>
+                            <mml:mo>+</mml:mo>
+                        </mml:msubsup>
+                    </mml:math> homogeneity in almost every tested configuration. The <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+                        <mml:msubsup>
+                            <mml:mtext>B</mml:mtext>
+                            <mml:mrow>
+                                <mml:mn>1</mml:mn>
+                            </mml:mrow>
+                            <mml:mo>+</mml:mo>
+                        </mml:msubsup>
+                    </mml:math> -normalized whole-body SAR was reduced by more than 31% for all body models. The <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+                        <mml:msubsup>
+                            <mml:mtext>B</mml:mtext>
+                            <mml:mrow>
+                                <mml:mn>1</mml:mn>
+                            </mml:mrow>
+                            <mml:mo>+</mml:mo>
+                        </mml:msubsup>
+                    </mml:math> -normalized local SAR was reduced in most scenarios by up to 62%.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Simulations have shown that optimized high permittivity pads can reduce SAR in pregnant subjects at the 3rd, 7th, and 9th month of gestation, while improving the transmit field homogeneity in the fetus. However, significantly more work is required to demonstrate that fetal imaging is safe under standard operating conditions.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Magnetic Resonance in Medicine published by Wiley Periodicals, Inc. on behalf of International Society for Magnetic Resonance in Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van Gemert</LastName>
+                    <ForeName>Jeroen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Circuits &amp; Systems Group, Electrical Engineering, Mathematics and Computer Science Faculty, Delft University of Technology, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brink</LastName>
+                    <ForeName>Wyger</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, C.J. Gorter Center for High-Field MRI, Leiden University Medical Center, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Remis</LastName>
+                    <ForeName>Rob</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Circuits &amp; Systems Group, Electrical Engineering, Mathematics and Computer Science Faculty, Delft University of Technology, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webb</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, C.J. Gorter Center for High-Field MRI, Leiden University Medical Center, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>13375</GrantID>
+                    <Agency>Dutch Technology Foundation (STW)project</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>670629 NOMA MRI</GrantID>
+                    <Agency>European Research Council Advanced Grant</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Magn Reson Med</MedlineTA>
+            <NlmUniqueID>8505245</NlmUniqueID>
+            <ISSNLinking>0740-3194</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">design tool</Keyword>
+            <Keyword MajorTopicYN="N">dielectric pad</Keyword>
+            <Keyword MajorTopicYN="N">fetal MRI</Keyword>
+            <Keyword MajorTopicYN="N">fetal imaging</Keyword>
+            <Keyword MajorTopicYN="N">high-permittivity</Keyword>
+            <Keyword MajorTopicYN="N">passive shimming</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199014</ArticleId>
+            <ArticleId IdType="doi">10.1002/mrm.27849</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

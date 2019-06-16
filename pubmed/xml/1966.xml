@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198151</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Passive leg raising combined with echocardiography could evaluate volume responsiveness in patients with septic shock].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>619-622</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.019</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the value of passive leg raising (PLR) combined with echocardiography in predicting volume responsiveness in patients with septic shock.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty septic shock patients with spontaneous respiration admitted to intensive care unit (ICU) of Tianjin First Center Hospital from July 2016 to August 2018 were enrolled. PLR and volume expansion (VE) were performed successively. The hemodynamic parameters including left ventricular end-diastolic volume (LVEDV), left ventricular end-systolic volume (LVESV), stroke volume (SV) and left ventricular ejection fraction (LVEF) before PLR (baseline level), after PLR, immediately after VE were examined by echocardiography, and the central venous pressure (CVP) was monitored. The patients with increase in SV after VE (ΔSV) ≥ 15% were served as reaction group, while ΔSV &lt; 15% were served as non-reaction group. The changes in LVEDV, LVESV, SV, LVEF and CVP at baseline level, after PLR and after VE were compared between the two groups. Pearson correlation method was used to analyze the correlation between ΔSV, increase in LVEF (ΔLVEF) after PLR and ΔSV, and ΔLVEF after VE. Receiver operating characteristic (ROC) curve was plotted to evaluate the predictive value of ΔSV and ΔLVEF after PLR for volume responsiveness.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PLR and VE were successfully performed in 30 patients, of which 23 patients (76.7%) were enrolled in the reaction group, and 7 patients (23.3%) in the non-reaction group. Compared with baseline levels, LVEDV, SV, and LVEF in the reaction group were significantly increased after PLR [LVEDV (mL): 83.5±9.6 vs. 77.1±6.2, SV (mL): 48.5±5.6 vs. 43.2±4.9, LVEF: 0.58±0.04 vs. 0.56±0.06, all P &lt; 0.05], and CVP was significantly increased after VE [cmH<sub>2</sub>O (1 cmH<sub>2</sub>O = 0.098 kPa): 7.4±3.3 vs. 4.6±0.7, P &lt; 0.01], however, there was no significant change in LVESV. In the non-reaction group, SV and LVEF were significantly increased after PLR as compared with those at baseline levels [SV (mL): 42.7±3.7 vs. 40.6±3.1, LVEF: 0.52±0.05 vs. 0.50±0.05, both P &lt; 0.05], while LVEDV and CVP were significantly increased after VE as compared with those at baseline levels [LVEDV (mL): 84.4±4.1 vs. 80.6±5.9, CVP (cmH<sub>2</sub>O): 10.6±3.5 vs. 7.6±0.5, both P &lt; 0.05], however, there was no significant change in LVESV. Pearson correlation analysis showed that ΔSV and ΔLVEF after PLR were positively correlated with ΔSV and ΔLVEF after VE (r<sub>1</sub> = 0.86, r<sub>2</sub> = 0.65, both P &lt; 0.01). ROC curve analysis showed that the area under ROC curve (AUC) of PLR-induced ΔSV and ΔLVEF for predicting volume responsiveness was 0.85 and 0.66 respectively. When the cut-off value of ΔSV after PLR was 10.6%, the sensitivity was 78.2%, the specificity was 82.3%; when the cut-off value of ΔLVEF after PLR was 3.6%, the sensitivity was 78.2%, and the specificity was 73.2%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">ΔSV and ΔLVEF measured by PLR combined with echocardiography can be used to evaluate the volume responsiveness in patients with septic shock and can guide fluid therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Xiangyu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ultrasound, Tianjin First Center Hospital, Tianjin 300192, China. Corresponding author: Tang Ying, Email: doctortang2010@aliyun.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hao</LastName>
+                    <ForeName>Xiaoye</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niu</LastName>
+                    <ForeName>Ningning</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198151</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

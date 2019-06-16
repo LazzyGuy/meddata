@@ -1,0 +1,108 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199749</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Short-term aging and the dentin bond strength of adhesive systems.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>71-76</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of this study was to compare the effects of 2 aging methods on the dentin bond strength of different adhesive systems, including a universal adhesive. Seventy-two third molars were sectioned to create flat midcoronal dentin surfaces, which were randomly assigned to 12 groups (n = 6 each) according to the aging method (conventional aging, defined as 6 months of water storage; accelerated aging by means of a pH-cycling method; or negative control [immediate bond strength]) and adhesive system (Adper Single Bond 2, Clearfil SE Bond, Prime &amp; Bond 2.1, or Scotchbond Universal). Composite resin blocks were constructed on the flattened dentin surfaces after application of the appropriate adhesive, and the specimens were stored in water for 24 hours. Specimens from the control group were immediately sectioned into resin-dentin sticks (0.8 mm2) and subjected to a microtensile bond strength test. Specimens from the experimental groups were sectioned and tested after undergoing the assigned aging method. Data were analyzed with 2-way analysis of variance and a Tukey test (α = 0.05). The study findings showed that neither aging method significantly affected the dentin bond strength (P = 0.917). Of the 4 adhesives, Adper Single Bond 2 had the highest bond strength value after aging (P &lt; 0.001). Scotchbond Universal adhesive demonstrated statistically significantly higher bond strength values than Clearfil SE Bond and Prime &amp; Bond 2.1, which had statistically similar values. Adhesive failures at the resin-dentin interface or adhesive failures mixed with cohesive failure of the adjacent substrate predominated in all groups. The 2 aging processes did not result in degradation of the adhesive interface or jeopardize the dentin bond strength of any of the adhesives tested.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nicoloso</LastName>
+                    <ForeName>Gabriel Ferreira</ForeName>
+                    <Initials>GF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carvalho</LastName>
+                    <ForeName>Marcos Paulo</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soares</LastName>
+                    <ForeName>Fabio Zovico Maxnuck</ForeName>
+                    <Initials>FZM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Susin</LastName>
+                    <ForeName>Alexandre Henrique</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rocha</LastName>
+                    <ForeName>Rachel Oliveira</ForeName>
+                    <Initials>RO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bond strength</Keyword>
+            <Keyword MajorTopicYN="N">dentin</Keyword>
+            <Keyword MajorTopicYN="N">microtensile</Keyword>
+            <Keyword MajorTopicYN="N">universal adhesive</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors report no conflicts of interest pertaining to any of the products or companies discussed in this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199749</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

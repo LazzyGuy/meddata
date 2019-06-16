@@ -1,0 +1,168 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199530</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-8249</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of neurology</Title>
+                <ISOAbbreviation>Ann. Neurol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic risk for Alzheimer's disease is distinct from genetic risk for amyloid deposition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/ana.25530</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Alzheimer's disease (AD) is the most common form of dementia and is responsible for a huge and growing health care burden in the developed and developing world. The Polygenic Risk Score (PRS) approach has shown 75%-84% prediction accuracy of identifying individuals with AD risk.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In this study we tested the prediction accuracy of AD, MCI and amyloid deposition risks with PRS, including and excluding APOE genotypes in a large publicly available data set with extensive phenotypic data: the Alzheimer's Disease Neuroimaging Initiative cohort. Among MCI individuals with amyloid positive status we examined PRS prediction accuracy in those who converted to AD. In addition, we divided polygenic risk score by biological pathways and tested them independently for distinguishing between AD, MCI and amyloid deposition.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that AD and MCI are predicted by both APOE genotype and PRS (AUC=0.82% and 68%, respectively). Amyloid deposition is predicted by APOE only (AUC=79%). Further progression to AD of individuals with MCI and amyloid positive status is predicted by PRS over and above APOE (AUC=67%). In pathway-specific PRSs analyses the protein-lipid complex has the strongest association with AD and amyloid deposition even when genes in APOE region were removed (p=0.0055 and p=0.0079, respectively).</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">The results showed different pattern of APOE contribution in PRS risk predictions of AD/MCI and amyloid deposition. Our study suggests that APOE mostly contributes to amyloid accumulation and the PRS affects risk of further conversion to AD. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leonenko</LastName>
+                    <ForeName>Ganna</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8025-661X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neuropsychiatric Genetics and Genomics and UK Dementia Research Institute, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoai</LastName>
+                    <ForeName>Maryam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Reta Lilla Research Laboratories, Department of Neurodegeneration and UK Dementia Research Institute, UCL Institute of Neurology, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellou</LastName>
+                    <ForeName>Eftychia</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neuropsychiatric Genetics and Genomics and UK Dementia Research Institute, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sims</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neuropsychiatric Genetics and Genomics and UK Dementia Research Institute, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neuropsychiatric Genetics and Genomics and UK Dementia Research Institute, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UK Dementia Research Institute at Cardiff University, Cardiff, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hardy</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Reta Lilla Research Laboratories, Department of Neurodegeneration and UK Dementia Research Institute, UCL Institute of Neurology, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UK Dementia Research Institute at UCL, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escott-Price</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neuropsychiatric Genetics and Genomics and UK Dementia Research Institute, Cardiff University, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UK Dementia Research Institute at Cardiff University, Cardiff, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Alzheimer's Disease Neuroimaging Initiative</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ann Neurol</MedlineTA>
+            <NlmUniqueID>7707449</NlmUniqueID>
+            <ISSNLinking>0364-5134</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199530</ArticleId>
+            <ArticleId IdType="doi">10.1002/ana.25530</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

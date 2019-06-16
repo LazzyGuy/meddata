@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199746</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of previous irrigation with chlorhexidine on the push-out bond strength of a calcium silicate-based material.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>58-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This study evaluated the effect of previous irrigation with chlorhexidine (CHX) on the bond strength of a calcium silicate-based material, Biodentine, when used for furcal repair. Furcal perforations were produced in 30 extracted mandibular molars. Teeth were divided into 3 groups according to the irrigant used: distilled water (DW), CHX followed by DW (CHX), and CHX followed by ethylenediaminetetraacetic acid (EDTA) and DW (CHX/EDTA). Biodentine was used to repair the perforations. A push-out bond strength test was performed after 7 days, and data were statistically analyzed using Kruskal-Wallis and Dunn tests (P &lt; 0.05). The CHX/EDTA group showed significantly lower values than the DW and CHX groups (P &lt; 0.05). The failure mode of the DW group was mainly mixed, while that of the CHX group was cohesive. The CHX/EDTA group exhibited adhesive and mixed failures. Irrigation with CHX prior to furcation repair did not result in a statistically significant difference, compared to the use of DW, in the push-out bond strength of Biodentine.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Lima</LastName>
+                    <ForeName>Carolina Oliveira</ForeName>
+                    <Initials>CO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dutra</LastName>
+                    <ForeName>Hugo Gonçalves</ForeName>
+                    <Initials>HG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duque</LastName>
+                    <ForeName>Thais Mageste</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campos</LastName>
+                    <ForeName>Celso Neiva</ForeName>
+                    <Initials>CN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ballal</LastName>
+                    <ForeName>Vasudev</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simão</LastName>
+                    <ForeName>Renata Antoun</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prado</LastName>
+                    <ForeName>Maíra</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chlorhexidine</Keyword>
+            <Keyword MajorTopicYN="N">dentin</Keyword>
+            <Keyword MajorTopicYN="N">root canal irrigants</Keyword>
+            <Keyword MajorTopicYN="N">shear strength</Keyword>
+            <Keyword MajorTopicYN="N">tricalcium silicate</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors report no conflicts of interest pertaining to any of the products or companies discussed in this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199746</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

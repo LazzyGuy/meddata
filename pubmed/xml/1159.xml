@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199149</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. A</Title>
+                <ISOAbbreviation>J Phys Chem A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of Triplet Surface Properties on Excited-State Deactivation of Expanded Cage Bis(tridentate)Ruthenium(II) Complexes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpca.9b02927</ELocationID>
+            <Abstract>
+                <AbstractText>Calculations of excited-state potential energy surfaces (PESs) are useful to predict key properties relating to the deactivation cascade of transition-metal complexes. Here, we first perform full free optimizations of the relevant excited-state minima, followed by extensive two-dimensional PES calculations based on the minima of interest. Maps of the lowest triplet excited-state surfaces of two bistridentate Ru<sup>II</sup>-complexes, [Ru(DQP)<sub>2</sub>]<sup>2+</sup> and [Ru(DQzP)<sub>2</sub>]<sup>2+</sup>, are used to explain recent experimental findings including an unexpected order of magnitude difference in an excited-state lifetime. The calculations reveal significant differences in the fundamental shapes and spin transitions of the lowest triplet excited-state energy surfaces of the two complexes and, in particular, show that the metal-to-ligand charge transfer (MLCT) surface region of [Ru(DQzP)<sub>2</sub>]<sup>2+</sup> with a shorter excited-state lifetime is significantly smaller than that of [Ru(DQP)<sub>2</sub>]<sup>2+</sup>. This leads to a minimum energy crossing between the triplet and singlet surfaces near the MLCT for [Ru(DQzP)<sub>2</sub>]<sup>2+</sup> or near the MC for [Ru(DQP)<sub>2</sub>]<sup>2+</sup>. These results indicate that the experimentally observed difference in the excited-state lifetime is closely related to the set of energetically accessible <sup>3</sup>MLCT conformations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fredin</LastName>
+                    <ForeName>Lisa A</ForeName>
+                    <Initials>LA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4091-0899</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Chemistry Department, Theoretical Chemistry Division , Lund University , Box 124, SE-22100 Lund , Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Persson</LastName>
+                    <ForeName>Petter</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7600-3230</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Chemistry Department, Theoretical Chemistry Division , Lund University , Box 124, SE-22100 Lund , Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem A</MedlineTA>
+            <NlmUniqueID>9890903</NlmUniqueID>
+            <ISSNLinking>1089-5639</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199149</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpca.9b02927</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

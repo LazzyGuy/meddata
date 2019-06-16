@@ -1,0 +1,202 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198139</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Performance of clinical pulmonary infection score induces the duration and defined daily doses of antibiotics in patients with bacterial severe pneumonia in intensive care unit].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>556-561</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.007</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the impacts of clinical pulmonary infection score (CPIS) on duration and defined daily doses (DDDs) of antibiotics in patients with bacterial severe pneumonia in intensive care unit (ICU).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with severe pneumonia, whose antibiotic usage was prescribed with the guide of CPIS, and admitted to ICU severe respiratory and infectious disease ward of Guizhou Medical University Affiliated Hospital from May 2017 to October 2017 were enrolled as CPIS group. Patients with the first CPIS score &gt; 5 were given antimicrobial therapy, and the score was dynamically evaluated every 2-3 days. If the CPIS score &lt; 5, the score was evaluated again after 2 days. If the score was still &lt; 5, the antimicrobial drugs were discontinued. Patients admitted to the same ward from November 2016 to April 2017 were regarded as controls, of whom the antibiotic usage was completely conducted by the clinical experience of the chief physician. The duration and DDDs of antibiotics were compared between patients in two groups. At the same time, the usage of ventilator and prognostic indicators (the length of ICU stay, ICU mortality) were recorded. Kaplan-Meier survival curve was drawn, and the cumulative survival rates of 28 days, 90 days and 12 months were analyzed and compared between the two groups.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In our department, 177 and 182 patients were admitted to ICU from November 2016 to April 2017 and from May 2017 to October 2017, respectively, of whom 101 and 65 patients with severe pneumonia were collected respectively during the two stages. There was no significant difference in gender composition, age, underlying diseases, vital signs, acute physiology and chronic health evaluation II (APACHE II) score, or peripheral blood routine at admission between the two groups, indicating that the baseline data of the two groups were equally comparable. During the treatment process, there was no significant difference in the duration of mechanical ventilation [hours: 126.0 (69.0, 228.8) vs. 120.0 (72.0, 192.0)], the length of ICU stay [days: 7.0 (5.0, 11.0) vs. 8.0 (5.0, 14.0)], or ICU mortality [18.8% (19/101) vs. 26.2% (17/65)] between the control group and CPIS group (all P &gt; 0.05). Kaplan-Meier survival curve analysis showed that there was no significant difference in the cumulative survival rate of 28 days (log-rank test: χ<sup>2</sup> = 0.540, P = 0.462), 90 days (log-rank test: χ<sup>2</sup> = 0.332, P = 0.564) or 12 months (log-rank test: χ<sup>2</sup> = 0.833, P = 0.362). Patients from CPIS guided group, however, had a shorter duration of antibiotics usage (days: 7.54±4.81 vs. 9.88±4.96, P &lt; 0.01), and had a lower DDDs of antibiotics (17.58±13.09 vs. 22.73±18.31, P &lt; 0.05) as compared with those in the control group.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">CPIS-guided therapeutic regimen shortens antibiotic duration and decreases antibiotic DDDs in patients with severe pneumonia in ICU, indicating the values of CPIS in guiding antibiotics usage in these patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Feng</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yanqi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yahui</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Huilin</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Guixia</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Xinghao</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guizhou Medical University, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Lulu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Daixiu</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Liang</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, Guizhou Medical University Affiliated Hospital, Guiyang 550004, Guizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Imageology, Guiyang Public Health Rescue Center, Guiyang 550001, Guizhou, China. Corresponding author: Shen Feng, Email: doctorshenfeng@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198139</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

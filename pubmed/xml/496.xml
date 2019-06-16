@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199896</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2642</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta. Biomembranes</Title>
+                <ISOAbbreviation>Biochim Biophys Acta Biomembr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A time domain study of surfactin penetrating a phospholipid monolayer at the air-water Interface investigated using sum frequency generation spectroscopy, infrared reflection absorption spectroscopy, and AFM-nano infrared microscopy.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0005-2736(19)30136-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbamem.2019.06.004</ELocationID>
+            <Abstract>
+                <AbstractText>We have investigated the interaction of surfactin with a monolayer of 1,2-dipalmitoyl-sn-glycero-3-phosphocholine (DPPC) at the air-water interface as a function of time, following its injection into the sub-phase, using non-linear Sum Frequency Generation (SFG) vibrational spectroscopy and Infrared Reflection Absorption Spectroscopy (IRRAS). SFG resonances from the phospholipid and from the surfactin were distinguished from each other by using selective deuteration. The surface pressure at the interface was measured concurrently for up to 8 h. After an induction period, the spectra from the lipid diminished and those of surfactin gradually appeared whilst at the same time the surface pressure increased. However, eventually the surfactin signals disappeared and those of the lipid reappeared. Although the SFG spectra of the lipid disappeared at intermediate times, the IRRAS spectra of the lipid were always present at the interface. Variation in the temporal SFG behaviour was investigated as the pH of the sub-phase, the initial surface pressure of the lipid, and the surfactin concentration were changed. Samples of the surface film were transferred onto mica substrates at selected times along the temporal profile and imaged by Atomic Force Microscopy - nano Infrared Spectroscopy (nano-IR). A model is proposed to account for the results from the four different experimental techniques used.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goussous</LastName>
+                    <ForeName>S A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fellows</LastName>
+                    <ForeName>A P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Casford</LastName>
+                    <ForeName>M T L</ForeName>
+                    <Initials>MTL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>P B</ForeName>
+                    <Initials>PB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK. Electronic address: pbd2@cam.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta Biomembr</MedlineTA>
+            <NlmUniqueID>101731713</NlmUniqueID>
+            <ISSNLinking>0005-2736</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Lipid monolayers</Keyword>
+            <Keyword MajorTopicYN="N">Nano infrared microscopy</Keyword>
+            <Keyword MajorTopicYN="N">Surfactin lipid interaction</Keyword>
+            <Keyword MajorTopicYN="N">Time domain SFG spectroscopy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199896</ArticleId>
+            <ArticleId IdType="pii">S0005-2736(19)30136-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbamem.2019.06.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

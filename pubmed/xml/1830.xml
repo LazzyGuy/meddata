@@ -1,0 +1,113 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198318</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-4879</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacy &amp; bioallied sciences</Title>
+                <ISOAbbreviation>J Pharm Bioallied Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of Finite Element Model in Implant Dentistry: A Systematic Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S85-S91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/JPBS.JPBS_296_18</ELocationID>
+            <Abstract>
+                <AbstractText>FEM was technologically innovated which initially aimed at answering structural analysis difficulties involving Mechanics, Civil and Aeronautical Engineering. FEM basically stands for a numerical model of analyzing stresses as well as distortions in the form of any agreed geometry. There for the shape is discretized into the so-called 'finite elements' coupled through nodes. Accuracy of the results is determined by type, planning and total number of elements used for a particular study model. 3-D FE model was designed for in-depth qualitative examination of the relations amongst implant, tooth, periodontal ligament, and bone. Scholarly work equating work reliability, validated with a 3-D modeling suggested that meticulous data can be acquired with respect to stress distribution in bone. Comparative results from 3-D FEA studies showed that 3D FEA, when matched with in-vivo strain gauge measurements were corresponding with clinical outcomes. The aim of this review of literature is to provide an overview to show the application of FEM in (Short) implant dentistry.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reddy</LastName>
+                    <ForeName>M Sesha</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontics, College of Dentistry, Gulf Medical University, Ajman, UAE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sundram</LastName>
+                    <ForeName>Rajasekar</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontics, Annamalai University, Chidambaram, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eid Abdemagyd</LastName>
+                    <ForeName>Hossam Abdelatty</ForeName>
+                    <Initials>HA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontics, College of Dentistry, Gulf Medical University, Ajman, UAE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Pharm Bioallied Sci</MedlineTA>
+            <NlmUniqueID>101537209</NlmUniqueID>
+            <ISSNLinking>0975-7406</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FEM</Keyword>
+            <Keyword MajorTopicYN="N">platform switched-implants</Keyword>
+            <Keyword MajorTopicYN="N">short implants</Keyword>
+            <Keyword MajorTopicYN="N">stress analysis</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198318</ArticleId>
+            <ArticleId IdType="doi">10.4103/JPBS.JPBS_296_18</ArticleId>
+            <ArticleId IdType="pii">JPBS-11-85</ArticleId>
+            <ArticleId IdType="pmc">PMC6555377</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199653</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of Ionic Liquid Aqueous Two-Phase Systems: Phase Separation Behaviors and Hydrophobicity Index between the Two Phases.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpcb.9b04848</ELocationID>
+            <Abstract>
+                <AbstractText>1-Allyl-3-methylimidazolium chloride [Amim][Cl] and 1-butyl-3-methylimidazolium chloride [Bmim][Cl] are water-soluble ionic liquids (ILs) that can from an aqueous two-phase system (ATPS) when mixed with specific salts. Herein, we prepared [Amim][Cl]- and [Bmim][Cl]-ATPSs by adding the salts (K2CO3, K2HPO4). To investigate the phase separation behavior of the IL-ATPSs, binodal curves were drawn at different temperatures, and the length and slope of the tie lines were analyzed. The [Bmim][Cl]/K2HPO4 system underwent two-phase separation at lower temperature conditions, suggesting that the phase separation might depend on the salting-out effect in the bottom phase. Using the IL-ATPS, the distribution coefficients Kaa of amino acids were determined and used to characterize the hydrophobicity index (HF) between the top and bottom phases, which is a good indicator to understand the molecular partitioning behaviors in conventional ATPSs. The HF values of the IL-ATPSs were in the range 0.13-0.41 mol/kJ; these values were almost the same as the HF values reported for an ATPS composed of polyethylene glycol and salt.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tanimura</LastName>
+                    <ForeName>Kazuhiko</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amau</LastName>
+                    <ForeName>Misaki</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kume</LastName>
+                    <ForeName>Ryosuke</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suga</LastName>
+                    <ForeName>Keishi</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okamoto</LastName>
+                    <ForeName>Yukihiro</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Umakoshi</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199653</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpcb.9b04848</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

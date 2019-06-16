@@ -1,0 +1,162 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199416</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-3372</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nanoscale</Title>
+                <ISOAbbreviation>Nanoscale</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Highly sensitive detection of microcystin-LR under visible light using a self-powered photoelectrochemical aptasensor based on a CoO/Au/g-C<sub>3</sub>N<sub>4</sub> Z-scheme heterojunction.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9nr03004b</ELocationID>
+            <Abstract>
+                <AbstractText>Based on the unique photoelectrochemical properties of a CoO/Au/g-C3N4 Z-scheme heterojunction, a self-powered photoelectrochemical (PEC) aptasensor was constructed for the detection of microcystin-leucine arginine (MC-LR). Z-scheme heterojunctions can promote the separation of a photo-induced electron-hole pair, and the surface plasmonic resonance (SPR) of Au nanoparticles can significantly enhance the adsorption of visible light. Importantly, MC-LR molecules were captured by aptamers initially immobilized on the modified electrode due to their high affinity, and then oxidized by the photogenerated holes, which caused an amplified photocurrent signal, allowing the quantitative analysis of MC-LR by measuring the photocurrent intensity change. This PEC MC-LR aptasensor showed high sensitivity and selectivity within a wide linear response range from 0.1 pM to 10 nM and a detection limit of 0.01 pM. The application of this sensor in the analysis of lake water samples provided accurate results with a relative standard deviation (RSD) of 2.6%-4.2%.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6996-7955</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouyang</LastName>
+                    <ForeName>Xilian</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Guangming</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6496-8123</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jiangfang</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Chengyang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Siyuan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Xu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Jisui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Science and Engineering, Hunan University, Changsha 410082, China. tanglin@hnu.edu.cn zgming@hnu.edu.cn and Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nanoscale</MedlineTA>
+            <NlmUniqueID>101525249</NlmUniqueID>
+            <ISSNLinking>2040-3364</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199416</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9nr03004b</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

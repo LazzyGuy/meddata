@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198838</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-8737</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Alzheimer's &amp; dementia (New York, N. Y.)</Title>
+                <ISOAbbreviation>Alzheimers Dement (N Y)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of dementia in the US population using Medicare claims: Insights from linked survey and administrative claims data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-207</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.trci.2019.04.003</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Medicare claims data may be a rich data source for tracking population dementia rates. Insufficient understanding of completeness of diagnosis, and for whom, limits their use.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We analyzed agreement in prevalent and incident dementia based on cognitive assessment from the Health and Retirement Study for persons with linked Medicare claims from 2000 to 2008 (N = 10,450 persons). Multinomial logistic regression identified sociodemographic factors associated with disagreement.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Survey-based cognitive tests and claims-based dementia diagnosis yielded equal prevalence estimates, yet only half were identified by both measures. Race and education were associated with disagreement. Eighty-five percent of respondents with incident dementia measured by cognitive decline received a diagnosis or died within the study period, with lower odds among blacks and Hispanics than among whites.</AbstractText>
+                <AbstractText Label="Discussions" NlmCategory="UNASSIGNED">Claims data are valuable for tracking dementia in the US population and improve over time. Delayed diagnosis may underestimate rates within black and Hispanic populations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Price School of Public Policy, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tysinger</LastName>
+                    <ForeName>Bryan</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leonard D. Schaeffer Center for Health Policy and Economics, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crimmins</LastName>
+                    <ForeName>Eileen</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Davis School of Gerontology, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zissimopoulos</LastName>
+                    <ForeName>Julie M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Price School of Public Policy, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Leonard D. Schaeffer Center for Health Policy and Economics, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Alzheimers Dement (N Y)</MedlineTA>
+            <NlmUniqueID>101650118</NlmUniqueID>
+            <ISSNLinking>2352-8737</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cognition</Keyword>
+            <Keyword MajorTopicYN="N">Diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Disparities</Keyword>
+            <Keyword MajorTopicYN="N">Incidence</Keyword>
+            <Keyword MajorTopicYN="N">Prevalence</Keyword>
+            <Keyword MajorTopicYN="N">Race/ethnicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198838</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.trci.2019.04.003</ArticleId>
+            <ArticleId IdType="pii">S2352-8737(19)30017-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6556828</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200123</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-0480</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biomedical informatics</Title>
+                <ISOAbbreviation>J Biomed Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ARtPM: Article Retrieval for Precision Medicine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103224</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1532-0464(19)30143-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jbi.2019.103224</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Information curation and literature surveillance efforts that synthesize the current knowledge about the impact of genetic variability on disease states and drug responses are vitally important for the practise of evidence-based precision medicine. For these efforts, finding the relevant and comprehensive set of articles from the ever growing scientific literature is a challenge.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We have designed and developed Article Retrieval for Precision Medicine (ARtPM), an end-to-end article retrieval system that employs multi-stage architecture to retrieve and rank relevant articles for a given medical case summary (genetic variants, disease, demographic, and other medical conditions). We compared ARtPM with five baselines, including PubMed Best Match, the improved search functionality recently introduced by PubMed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The differences in the performance of ARtPM and five baselines were statistically significant for four metrics that quantify different aspects of search effectiveness (P-values for P@10, R-prec, infNDCG, Recall@1000 were &lt;.001, &lt;.001, .003, .009, respectively). Pairwise systems' comparisons show that ARtPM is comparable or better than the best performing baseline on three metrics (R-prec: 0.324 vs 0.299, P-value=.06; infNDCG: 0.556 vs 0.465, P-value=.08; R@1000: 0.665 vs 0.572, P-value=.007), but performance in P@10 (0.603 vs 0.630, P-value:.64) needs to improve.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The recall-focused phase of the ARtPM is effective at retrieving more relevant articles. The precision-focused ranking phase performs well at deeper ranks but needs further work on early ranks (e.g., richer feature set). Overall, the ARtPM system effectively facilitates evidence-based precision medicine practice, and provides a robust search framework for further work in this direction.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Milliken</LastName>
+                    <ForeName>Lowell K</ForeName>
+                    <Initials>LK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, San Francisco State University, 1600 Holloway Avenue, San Francisco, 94132, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Motomarry</LastName>
+                    <ForeName>Sirisha K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, San Francisco State University, 1600 Holloway Avenue, San Francisco, 94132, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulkarni</LastName>
+                    <ForeName>Anagha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, San Francisco State University, 1600 Holloway Avenue, San Francisco, 94132, USA. Electronic address: ak@sfsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biomed Inform</MedlineTA>
+            <NlmUniqueID>100970413</NlmUniqueID>
+            <ISSNLinking>1532-0464</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomedical Information Retrieval</Keyword>
+            <Keyword MajorTopicYN="N">Biomedical Knowledge Curation</Keyword>
+            <Keyword MajorTopicYN="N">Document Retrieval</Keyword>
+            <Keyword MajorTopicYN="N">Learning to Rank</Keyword>
+            <Keyword MajorTopicYN="N">Precision Medicine</Keyword>
+            <Keyword MajorTopicYN="N">Query Expansion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200123</ArticleId>
+            <ArticleId IdType="pii">S1532-0464(19)30143-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jbi.2019.103224</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

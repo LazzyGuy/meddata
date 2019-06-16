@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198964</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-9053</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant &amp; cell physiology</Title>
+                <ISOAbbreviation>Plant Cell Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Role of RNA Binding Protein OsTudor-SN in Post-Transcriptional Regulation of Seed Storage Proteins and Endosperm Development.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pcz113</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/pcp/pcz113</ELocationID>
+            <Abstract>
+                <AbstractText>Tudor-SN is involved in a myriad of transcriptional and post-transcriptional processes due to its modular structure consisting of 4 tandem SN domains (4SN module) and C-terminal Tsn module consisting of Tudor-partial SN domains. We had previously demonstrated that OsTudor-SN is a key player for transporting storage protein mRNAs to speciﬁc ER subdomains in developing rice endosperm. Here, we provide genetic evidence that this multi-functional RBP is required for storage protein expression, seed development and protein body formation. The rice EM1084 line, possessing a nonsynonymous mutation in the 4SN module (SN3 domain), exhibited a strong reduction in grain weight and storage protein accumulation, while a mutation in the Tudor domain (47M) or the loss of the Tsn module (43M) had much smaller effects. Immunoelectron microscopic analysis showed the presence of a new protein body type containing glutelin and prolamine inclusions in EM1084, while 43M and 47M exhibited structurally-modified prolamine and glutelin protein bodies. Transcriptome analysis indicates that OsTudor-SN also functions in regulating gene expression of transcriptional factors and genes involved in developmental processes and stress responses as well as for storage proteins. Normal protein body formation, grain weight, and expression of many genes were partially restored in EM1084 transgenic line complemented with wildtype OsTudor-SN gene. Overall, our study showed that OsTudor-SN possesses multiple functional properties in rice storage protein expression and seed development and that the 4SN and Tsn modules have unique roles in these processes.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Japanese Society of Plant Physiologists. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chou</LastName>
+                    <ForeName>Hong-Li</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biological Chemistry Washington State University, Pullman, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Huck Institutes of the Life Sciences, Pennsylvania State University, University Park, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biological Chemistry Washington State University, Pullman, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukuda</LastName>
+                    <ForeName>Masako</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Genetics Laboratory, Institute of Genetic Resources, Faculty of Agriculture, Kyushu University, 744 Motooka Nishi-ku, Fukuoka 819-0395, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumamaru</LastName>
+                    <ForeName>Toshihiro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Genetics Laboratory, Institute of Genetic Resources, Faculty of Agriculture, Kyushu University, 744 Motooka Nishi-ku, Fukuoka 819-0395, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okita</LastName>
+                    <ForeName>Thomas W</ForeName>
+                    <Initials>TW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Plant Cell Physiol</MedlineTA>
+            <NlmUniqueID>9430925</NlmUniqueID>
+            <ISSNLinking>0032-0781</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Mutant analysis</Keyword>
+            <Keyword MajorTopicYN="N">Protein body</Keyword>
+            <Keyword MajorTopicYN="N">RNA binding protein</Keyword>
+            <Keyword MajorTopicYN="N">Rice</Keyword>
+            <Keyword MajorTopicYN="N">Rice transformation</Keyword>
+            <Keyword MajorTopicYN="N">Storage proteins</Keyword>
+            <Keyword MajorTopicYN="N">Transcriptomics</Keyword>
+            <Keyword MajorTopicYN="N">Tudor-SN</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198964</ArticleId>
+            <ArticleId IdType="pii">5518930</ArticleId>
+            <ArticleId IdType="doi">10.1093/pcp/pcz113</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

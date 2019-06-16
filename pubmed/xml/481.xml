@@ -1,0 +1,91 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199914</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integration of Single-Cell Genomics Datasets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1677-1679</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(19)30562-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2019.05.034</ELocationID>
+            <Abstract>
+                <AbstractText>Welch et al. and Stuart et al. present novel techniques for the integration of single-cell RNA-seq datasets across multiple platforms, individuals, and species. They both extend these strategies to map cell types between RNA-seq datasets with epigenetic properties and in situ transcript profiling. The ability to transfer information between datasets and spatial methods will enable more comprehensive profiling and comparisons of cell populations in complex biological systems.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Adey</LastName>
+                    <ForeName>Andrew C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular &amp; Medical Genetics, Knight Cardiovascular Institute, Knight Cancer Institute, Cancer Early-Detection Advanced Research Center, Oregon Health &amp; Science University, Portland, OR 97239, USA. Electronic address: adey@ohsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199914</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(19)30562-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

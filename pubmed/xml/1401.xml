@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198871</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2405-8440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heliyon</Title>
+                <ISOAbbreviation>Heliyon</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detailed structural assessment of healthy interventricular septum in the presence of remodeling infarct in the free wall - A finite element model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e01841</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.heliyon.2019.e01841</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">Computational modelling may improve the fundamental understanding of various mechanisms of diseases more particularly related to clinical challenges. In this study the effect of remodeling infarct presence in the left ventricle on the interventricular septal wall is studied using the finite element methods.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">In this study, two rat heart (one model with healthy myocardium and one model with remodeling free wall and healthy septal wall) with magnetic resonance imaging data was gathered to reconstruct three-dimensional (3D) rat heart models. 3D data points from Segment® were imported into SolidEdge® for creation of 3D rat heart models. Abaqus® was used for finite element modeling.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The strain in the healthy interventricular septum of the infarcted left ventricle wall increased when compared to the healthy interventricular septum in the healthy left ventricle. Similarly, the average stress in the healthy left ventricle was observed to have increased on the healthy the interventricular septum where the free wall is subjected to remodeling infarct. When comparing the infarcted models to the healthy model, it was found that the average strain had greatly increased by up to 50.0 %.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The remodeling infarct in the left ventricle has an impact on the healthy interventricular septal wall. Even though the interventricular septal wall was modelled as healthy, it was observed that it has undergone considerable changes in stresses and strains in circumferential and longitudinal direction. The observed changes in myocardial stresses and strains may result in poor global functioning of the heart.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nemavhola</LastName>
+                    <ForeName>Fulufhelo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical and Industrial Engineering, School of Engineering, College of Science, Engineering and Technology, University of South Africa, Florida, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Heliyon</MedlineTA>
+            <NlmUniqueID>101672560</NlmUniqueID>
+            <ISSNLinking>2405-8440</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bi-ventricular heart model</Keyword>
+            <Keyword MajorTopicYN="N">Bioengineering</Keyword>
+            <Keyword MajorTopicYN="N">Biomedical engineering</Keyword>
+            <Keyword MajorTopicYN="N">Computational mechanics</Keyword>
+            <Keyword MajorTopicYN="N">Finite element modelling</Keyword>
+            <Keyword MajorTopicYN="N">Mechanics</Keyword>
+            <Keyword MajorTopicYN="N">Myocardial strain</Keyword>
+            <Keyword MajorTopicYN="N">Myocardial stress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198871</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.heliyon.2019.e01841</ArticleId>
+            <ArticleId IdType="pii">S2405-8440(19)31513-0</ArticleId>
+            <ArticleId IdType="pii">e01841</ArticleId>
+            <ArticleId IdType="pmc">PMC6556880</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

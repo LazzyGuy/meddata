@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199913</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Next-Gen Learning: The C. elegans Approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1674-1676</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(19)30568-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2019.05.039</ELocationID>
+            <Abstract>
+                <AbstractText>In this issue, Moore et al. and Posner et al., provide evidence for how the activity of the nervous system in C. elegans results in gene expression changes in the germline to pass on parental experiences and learned behavior to their progeny.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Charlesworth</LastName>
+                    <ForeName>Amanda G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seroussi</LastName>
+                    <ForeName>Uri</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claycomb</LastName>
+                    <ForeName>Julie M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada. Electronic address: julie.claycomb@utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199913</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(19)30568-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

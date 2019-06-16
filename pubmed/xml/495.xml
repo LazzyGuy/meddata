@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199897</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2642</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta. Biomembranes</Title>
+                <ISOAbbreviation>Biochim Biophys Acta Biomembr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidences of plasma membrane-mediated ROS generation upon ELF exposure in neuroblastoma cells.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0005-2736(19)30137-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbamem.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Molecular mechanisms of interaction between cells and extremely low frequency magnetic fields (ELF-MFs) still represent a matter of scientific debate. In this paper, to identify the possible primary source of oxidative stress induced by ELF-MF in SH-SY5Y human neuroblastoma cells, we estimated the induced electric field and current density at the cell level.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We followed a computational multiscale approach, estimating the local electric field and current density from the whole sample down to the single cell level. The procedure takes into account morphological modeling of SH-SY5Y cells, arranged in different topologies. Experimental validation has been carried out: neuroblastoma cells have been treated with Diphenyleneiodonium (DPI) -an inhibitor of the plasma membrane enzyme NADPH oxidase (Nox)- administered 24 h before exposure to 50 Hz (1 mT) MF.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Macroscopic and microscopic dosimetric evaluations suggest that increased current densities are induced at the plasma membrane/extra-cellular medium interface; identifying the plasma membrane as the main site of the ELF-neuroblastoma cell interaction. The in vitro results provide an experimental proof that plasma membrane Nox exerts a key role in the redox imbalance elicited by ELF, as DPI treatment reverts the generation of reactive oxygen species induced by ELF exposure.</AbstractText>
+                <AbstractText Label="GENERAL SIGNIFICANCE" NlmCategory="CONCLUSIONS">Microscopic current densities induced at the plasma membrane are likely to play an active physical role in eliciting ELF effects related to redox imbalance. Multiscale computational dosimetry, supported by an in vitro approach for validation, is proposed as the innovative and rigorous paradigm to unveil mechanisms underlying the complex ELF-MF interactions.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Merla</LastName>
+                    <ForeName>Caterina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ENEA, Division of Health Protection Technologies, via Anguillarese 301, 00123 Rome, Italy. Electronic address: caterina.merla@enea.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liberti</LastName>
+                    <ForeName>Micaela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Engineering, Electronic, and Telecommunications, Sapienza University, 00184 Rome, Italy. Electronic address: micaela.liberti@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Consales</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ENEA, Division of Health Protection Technologies, via Anguillarese 301, 00123 Rome, Italy. Electronic address: claudia.consales@enea.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Denzi</LastName>
+                    <ForeName>Agnese</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Engineering, Electronic, and Telecommunications, Sapienza University, 00184 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Apollonio</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Engineering, Electronic, and Telecommunications, Sapienza University, 00184 Rome, Italy. Electronic address: francesca.apollonio@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marino</LastName>
+                    <ForeName>Carmela</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ENEA, Division of Health Protection Technologies, via Anguillarese 301, 00123 Rome, Italy. Electronic address: carmela.marino@enea.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benassi</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ENEA, Division of Health Protection Technologies, via Anguillarese 301, 00123 Rome, Italy. Electronic address: barbara.benassi@enea.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta Biomembr</MedlineTA>
+            <NlmUniqueID>101731713</NlmUniqueID>
+            <ISSNLinking>0005-2736</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Extremely low frequency-magnetic field</Keyword>
+            <Keyword MajorTopicYN="N">Induced current density</Keyword>
+            <Keyword MajorTopicYN="N">Nox</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">Plasma membrane</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199897</ArticleId>
+            <ArticleId IdType="pii">S0005-2736(19)30137-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbamem.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

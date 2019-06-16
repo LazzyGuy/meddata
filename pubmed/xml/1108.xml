@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199210</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1092-8529</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>CNS spectrums</Title>
+                <ISOAbbreviation>CNS Spectr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suicidal ideation and behavior in adults with major depressive disorder treated with vortioxetine: post hoc pooled analyses of randomized, placebo-controlled, short-term and open-label, long-term extension trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S109285291900097X</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This study aimed to evaluate the risk of suicidal ideation and behavior associated with vortioxetine treatment in adults with major depressive disorder (MDD).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Suicide-related events were evaluated post hoc using 2 study pools: one short-term pool of 10 randomized, placebo-controlled studies (6-8 weeks) and another long-term pool that included 3 open-label extension studies (52 weeks). Evaluation of suicide-related events was performed using Columbia-Suicide Severity Rating Scale (C-SSRS) scores and treatment-emergent adverse events (TEAEs) data.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, the percentage of patients reporting any C-SSRS ideation or behavior events in short-term studies was similar between placebo (14.7%), vortioxetine (19.8%, 13.0%, 11.2%, and 13.7% for 5-, 10-, 15-, and 20-mg groups, respectively), and duloxetine active reference (13.2%) and did not change throughout the 6- to 8-week treatment period for placebo (17.0%), vortioxetine (19.3%, 13.5%, 12.6%, and 15% for 5-, 10-, 15-, and 20-mg groups, respectively), or duloxetine (11.3%). The incidence of suicide-related events for TEAEs in the short-term pool was 0.4% for placebo, 0.2% or 1.0% for vortioxetine 5 mg or 10 mg, and 0.7% each for vortioxetine 15 mg and 20 mg, as well as duloxetine. After 52-week treatment with vortioxetine, suicidal ideation based on C-SSRS was 9.8%, C-SSRS suicidal behavior was 0.2%, and the incidence of suicide-related events based on TEAEs was &amp;lt;1%. There were no completed suicides in any study.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Vortioxetine is not associated with increased risk of suicidal ideation or behavior in MDD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mahableshwarkar</LastName>
+                    <ForeName>Atul R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Development, BlackThorn Therapeutics,San Francisco, California,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Affinito</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Global Patient Safety Evaluation Marketed Products Group, Takeda Development Center Americas, Inc.,One Takeda Parkway, Deerfield, Illinois,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reines</LastName>
+                    <ForeName>Elin Heldbo</ForeName>
+                    <Initials>EH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Affairs, H. Lundbeck A/S,Ottiliavej 9, 2500 Valby,Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics, Takeda Development Center Americas, Inc.,Deerfield, Illinois,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nomikos</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research &amp; Development, Biogen,Cambridge, Massachusetts,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobsen</LastName>
+                    <ForeName>Paula L</ForeName>
+                    <Initials>PL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroscience, Takeda Development Center Americas, Inc.,Deerfield, Illinois,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>CNS Spectr</MedlineTA>
+            <NlmUniqueID>9702877</NlmUniqueID>
+            <ISSNLinking>1092-8529</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antidepressant</Keyword>
+            <Keyword MajorTopicYN="N">Columbia-Suicide Severity Rating Scale (C-SSRS)</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">suicidal behavior</Keyword>
+            <Keyword MajorTopicYN="N">suicidal ideation</Keyword>
+            <Keyword MajorTopicYN="N">suicide</Keyword>
+            <Keyword MajorTopicYN="N">vortioxetine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199210</ArticleId>
+            <ArticleId IdType="pii">S109285291900097X</ArticleId>
+            <ArticleId IdType="doi">10.1017/S109285291900097X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,182 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200386</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of predictive grading systems for procedural risk in endovascular treatment of brain arteriovenous malformations: analysis of 104 consecutive patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.4.JNS19266</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.4.JNS19266</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Several grading systems for procedural risk in the endovascular treatment of brain arteriovenous malformations (AVMs) have been proposed, including the Buffalo, Puerto Rico, and AVM embocure scoring systems. The authors sought to validate these systems in an independent patient cohort and compare each system to the established Spetzler-Martin (SM) scale.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">One hundred four consecutive patients underwent adjunctive endovascular embolization of brain AVMs between 2002 and 2016 with the goal of reducing the surgical or hemorrhagic risk before definitive radiosurgical treatment. Baseline clinical and AVM characteristics, complications, and degree of AVM nidus reduction were obtained retrospectively. Univariate and multivariate comparisons and receiver operating characteristic (ROC) curve analyses were performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ten major (9.6%) and 16 minor (15.4%) complications were encountered in 24 patients (23.1%). An arterial pedicle size &lt; 1 mm (p = 0.001) and a greater number of pedicles (p = 0.039) were predictors of complication occurrence. Only the Buffalo score predicted the complication rate on univariate (p = 0.039) and multivariate (p = 0.001) analyses. ROC curve analysis revealed a greater area under the curve (AUC) of the Buffalo score (0.703) compared to the Puerto Rico score (p = 0.028), AVM embocure score (AVMES; p = 0.010), and SM grade (SMG; p = 0.030). The Buffalo score, Puerto Rico score, and AVMES but not the SMG predicted &gt; 85% nidus reduction. The AUCs for the different scoring systems were not significantly different.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The major complication rate of 9.6% is within the range of rates reported in the literature and emphasizes that brain AVM embolization is not a low-risk procedure. The Buffalo score but not the Puerto Rico score, AVMES, or SMG predicted the endovascular procedural risk. All three endovascular scores but not the SMG predicted a &gt; 85% nidus reduction rate in this cohort embolized as part of a multimodal AVM treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pulli</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Radiology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stapleton</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walcott</LastName>
+                    <ForeName>Brian P</ForeName>
+                    <Initials>BP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Department of Neurological Surgery, Keck School of Medicine, University of Southern California, Los Angeles, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koch</LastName>
+                    <ForeName>Matthew J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raymond</LastName>
+                    <ForeName>Scott B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Radiology.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leslie-Mazwi</LastName>
+                    <ForeName>Thabele M</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rabinov</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Aman B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurosurgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AUC = area under the curve</Keyword>
+            <Keyword MajorTopicYN="N">AVM</Keyword>
+            <Keyword MajorTopicYN="N">AVM = arteriovenous malformation</Keyword>
+            <Keyword MajorTopicYN="N">AVMES = AVM embocure score</Keyword>
+            <Keyword MajorTopicYN="N">NBCA = N-butyl cyanoacrylate</Keyword>
+            <Keyword MajorTopicYN="N">ROC = receiver operating characteristic</Keyword>
+            <Keyword MajorTopicYN="N">SMG = Spetzler-Martin grade</Keyword>
+            <Keyword MajorTopicYN="N">embolization</Keyword>
+            <Keyword MajorTopicYN="N">mRS = modified Rankin Scale</Keyword>
+            <Keyword MajorTopicYN="N">prediction</Keyword>
+            <Keyword MajorTopicYN="N">risk</Keyword>
+            <Keyword MajorTopicYN="N">vascular disorders</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200386</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.4.JNS19266</ArticleId>
+            <ArticleId IdType="pii">2019.4.JNS19266</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

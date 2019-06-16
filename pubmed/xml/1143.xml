@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199165</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-3338</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Avian pathology : journal of the W.V.P.A</Title>
+                <ISOAbbreviation>Avian Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glycoprotein D peptide-based diagnostic approach for the detection of avian infectious laryngotracheitis antibodies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/03079457.2019.1631444</ELocationID>
+            <Abstract>
+                <AbstractText>Infectious laryngotracheitis (ILT) is a highly contagious respiratory disease of chickens, pheasants, and peafowl. It is caused by the alpha herpesvirus, an infectious laryngotracheitis virus (ILTV). Glycoprotein D (gD) of ILTV is immunogenic and helps in its binding to the susceptible host cell receptor. In the present study, a recombinant gD protein was expressed in a prokaryotic system to develop a single serum dilution ELISA. In addition, two immunogenic peptides corresponding to regions 77-89, and 317-328 were identified in gD protein. The peptides were synthesized using solid-phase peptide synthesis, purified using reversed-phase HPLC, and characterized using mass spectrometry. The peptides displayed a good titer and found promising antigen to coat the ELISA plate to detect the ILTV antibodies in the serum sample. The developed ELISA showed 96.9% sensitivity, 87.5% specificity, and 95.3% accuracy as compared to OIE referenced standard indirect ILTV ELISA (whole viral coated). The assay may not differentiate vaccinated from infected birds when the flocks are administered with live attenuated vaccines. However, the assay could be useful to detect the disease condition in birds vaccinated with recombinant vaccine expressing glycoproteins other than gD. The developed ILTV single serum dilution ELISA could be an alternative to the existing diagnostics against the detection of ILTV antibodies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Vishnu</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Biosciences and Bioengineering , Indian Institute of Technology Guwahati , Guwahati 781 039 , Assam , India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yadav</LastName>
+                    <ForeName>Karamchand</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Biosciences and Bioengineering , Indian Institute of Technology Guwahati , Guwahati 781 039 , Assam , India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Rakesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Biosciences and Bioengineering , Indian Institute of Technology Guwahati , Guwahati 781 039 , Assam , India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaudhary</LastName>
+                    <ForeName>Nitin</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Biosciences and Bioengineering , Indian Institute of Technology Guwahati , Guwahati 781 039 , Assam , India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Sachin</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8526-6013</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Biosciences and Bioengineering , Indian Institute of Technology Guwahati , Guwahati 781 039 , Assam , India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Avian Pathol</MedlineTA>
+            <NlmUniqueID>8210638</NlmUniqueID>
+            <ISSNLinking>0307-9457</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibody</Keyword>
+            <Keyword MajorTopicYN="N">ELISA</Keyword>
+            <Keyword MajorTopicYN="N">Infection</Keyword>
+            <Keyword MajorTopicYN="N">Infectious laryngotracheitis</Keyword>
+            <Keyword MajorTopicYN="N">Poultry</Keyword>
+            <Keyword MajorTopicYN="N">Respiratory pathogens</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199165</ArticleId>
+            <ArticleId IdType="doi">10.1080/03079457.2019.1631444</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198911</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem. Commun. (Camb.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Atomic-layer-deposition-formed sacrificial template for the construction of an MIL-53 shell to increase selectivity of hydrogenation reactions.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9cc02727k</ELocationID>
+            <Abstract>
+                <AbstractText>We developed a method for using atomic layer deposition (ALD)-formed layers of Al2O3 as a sacrificial template to generate MIL-53(Al). The MOF shell in the CeO2/Pd@MIL-53(Al) configuration not only stabilized the Pd nanoparticles, but also regulated the selectivity of the hydrogenation of unsaturated aldehydes. This work represents the first demonstration of ALD-formed layers of metal oxides serving as sacrificial templates in the design of MOF-shell-based sandwich-type structures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Tiantian</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Chemical Engineering, University of Jinan, Shandong Province 255022, China. chm_chengz@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Material Science and Engineering, University of Jinan, Shandong Province 255022, China. mse_hux@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Daowei</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Chemical Engineering, University of Jinan, Shandong Province 255022, China. chm_chengz@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Cuncheng</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1456-9858</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Chemical Engineering, University of Jinan, Shandong Province 255022, China. chm_chengz@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Xun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Material Science and Engineering, University of Jinan, Shandong Province 255022, China. mse_hux@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Guozhu</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3976-1240</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Chemical Engineering, University of Jinan, Shandong Province 255022, China. chm_chengz@ujn.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198911</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9cc02727k</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

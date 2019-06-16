@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199639</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular Mechanisms of Interactions between Monolayered Transition Metal Dichalcogenides and Biological Molecules.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b03641</ELocationID>
+            <Abstract>
+                <AbstractText>Single layered two-dimensional (2D) materials such as transition metal dichalcogenides (TMDs) show great potential in many microelectronic or nanoelectronic applications. For example, because of extremely high sensitivity, TMD-based biosensors have become promising candidates for next-generation label-free detection. However, very few studies have been conducted on understanding the fundamental interactions between TMDs and other molecules including biological molecules, making the rational design of TMD-based sensors (including biosensors) difficult. This study focuses on the investigations of the fundamental interactions between proteins and two widely researched single-layered TMDs, MoS<sub>2</sub>, and WS<sub>2</sub> using a combined study with linear vibrational spectroscopy attenuated total reflectance FTIR and nonlinear vibrational spectroscopy sum frequency generation vibrational spectroscopy, supplemented by molecular dynamics simulations. It was concluded that a large surface hydrophobic region in a relatively flat location on the protein surface is required for the protein to adsorb onto a monolayered MoS<sub>2</sub> or WS<sub>2</sub> surface with preferred orientation. No disulfide bond formation between cysteine groups on the protein and MoS<sub>2</sub> or WS<sub>2</sub> was found. The conclusions are general and can be used as guiding principles to engineer proteins to attach to TMDs. The approach adopted here is also applicable to study interactions between other 2D materials and biomolecules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Minyu</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0083-4243</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Shuai</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Junjie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Jiayi</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooks Iii</LastName>
+                    <ForeName>Charles L</ForeName>
+                    <Initials>CL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8149-5417</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marsh</LastName>
+                    <ForeName>E Neil G</ForeName>
+                    <Initials>ENG</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1713-1683</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhan</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8687-8348</Identifier>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199639</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b03641</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

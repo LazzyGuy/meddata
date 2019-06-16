@@ -1,0 +1,96 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198162</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-1151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventing chronic disease</Title>
+                <ISOAbbreviation>Prev Chronic Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Estimating County-Level Mortality Rates Using Highly Censored Data From CDC WONDER.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5888/pcd16.180441</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">CDC WONDER is a system developed to promote information-driven decision making and provide access to detailed public health information to the general public. Although CDC WONDER contains a wealth of data, any counts fewer than 10 are suppressed for confidentiality reasons, resulting in left-censored data. The objective of this analysis was to describe methods for the analysis of highly censored data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A substitution approach was compared with 1) a simple, nonspatial Bayesian model that smooths rates toward their statewide averages and 2) a more complex Bayesian model that accounts for spatial and between-age sources of dependence. Age group-specific county-level data on heart disease mortality were used for the comparisons.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Although the substitution and nonspatial approach provided age-standardized rate estimates that were more highly correlated with the true rate estimates, the estimates from the spatial Bayesian model provided a superior compromise between goodness-of-fit and model complexity, as measured by the deviance information criterion. In addition, the spatial Bayesian model provided rate estimates with greater precision than the nonspatial approach; in contrast, the substitution approach did not provide estimates of uncertainty.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Because of the ability to account for multiple sources of dependence and the flexibility to include covariate information, the use of spatial Bayesian models should be considered when analyzing highly censored data from CDC WONDER.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quick</LastName>
+                    <ForeName>Harrison</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Drexel University, Philadelphia, PA 19104. Email: hsq23@drexel.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prev Chronic Dis</MedlineTA>
+            <NlmUniqueID>101205018</NlmUniqueID>
+            <ISSNLinking>1545-1151</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198162</ArticleId>
+            <ArticleId IdType="doi">10.5888/pcd16.180441</ArticleId>
+            <ArticleId IdType="pii">E76</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

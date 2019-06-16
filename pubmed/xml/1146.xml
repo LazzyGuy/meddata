@@ -1,0 +1,135 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199162</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1948-7185</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry letters</Title>
+                <ISOAbbreviation>J Phys Chem Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Surface Sensitive Photoluminescence of Carbon Nanodots：Coupling between Carbonyl Group and π-Electron System.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpclett.9b01339</ELocationID>
+            <Abstract>
+                <AbstractText>The functional groups and π-electron system of C-dots were carefully controlled by several innovative chemical methods, without any changes in size, to unravel the relationship between surface structure and photoluminescence (PL). The results of experiments and theoretical calculations reveal that the PL of C-dots is related to the surface state. The energy gap is determined by the coupling of the π-electron system and carbonyl group, and the QY is dependent on the carbonyl group. The carbonyl group is the main factor enlarging a ratio of non-radiation to radiation recombination, thereby leading to low QY of C-dots. This work provides a strategy to effectively tune the structure of C-dots, giving rise to the tunable PL emission wavelength and highly desirable quantum yield, which enables us to further penetrate the PL mechanism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Cui</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bao</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Mengli</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Song</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Miaomiao</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Baoshan</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yufei</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhi-Ling</ForeName>
+                    <Initials>ZL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Bing</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pang</LastName>
+                    <ForeName>Dai-Wen</ForeName>
+                    <Initials>DW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem Lett</MedlineTA>
+            <NlmUniqueID>101526034</NlmUniqueID>
+            <ISSNLinking>1948-7185</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199162</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpclett.9b01339</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

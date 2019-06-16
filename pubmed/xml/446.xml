@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199950</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0260</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventive medicine</Title>
+                <ISOAbbreviation>Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Associations between psychological distress and health-related behaviors among adults with chronic kidney disease.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0091-7435(19)30217-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ypmed.2019.06.007</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) affects 15% of the US general population, and this rate is projected to increase. A healthy lifestyle is important for individuals with CKD to reduce risk for CKD progression and adverse heath events. Adults with CKD also have high rates of psychological distress, which may be associated with unhealthy behaviors. Using the 2013-2017 public use data files of the US National Health Interview Survey, we compared health behaviors (smoking, alcohol use, and physical activity [PA]) and psychological distress (assessed with the Kessler-6 scale) between adults with a CKD diagnosis in the preceding year and a matched sample of adults without a CKD diagnosis. We then examined the association between psychological distress and health behaviors among adults with CKD (n = 3923) using multinomial logistic regression models. Compared to those without CKD, those with CKD had lower rates of smoking, heavy alcohol use, and engagement in any type of PA 3+ times a week and higher rates of psychological distress. In addition to the health concerns posed by the high smoking rate (17%) and low physical activity rate (34%) among those with CKD, smoking and lack of PA were associated with greater risk of mild-moderate and/or serious psychological distress. Compared to no unhealthy behaviors, 2-3 unhealthy behaviors were associated with 4.72 (95% CI = 2.97-7.48) times greater risk of serious psychological distress. Adults with CKD and unhealthy behaviors need help with lifestyle modifications and assessment and treatment of psychological distress to reduce CKD progression and prevent other health complications.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Namkee G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Texas at Austin Steve Hicks School of Social Work, United States of America. Electronic address: nchoi@austin.utexas.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sullivan</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Texas at Austin Steve Hicks School of Social Work, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DiNitto</LastName>
+                    <ForeName>Diana M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Texas at Austin Steve Hicks School of Social Work, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kunik</LastName>
+                    <ForeName>Mark E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Houston VA HSR&amp;D Center for Innovations in Quality, Effectiveness and Safety, Michael E. Debakey VA Medical Center, Houston, TX, United States of America; VA South Central Mental Illness Research, Education and Clinical Center, Baylor College of Medicine, Houston, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prev Med</MedlineTA>
+            <NlmUniqueID>0322116</NlmUniqueID>
+            <ISSNLinking>0091-7435</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alcohol use</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Physical activity</Keyword>
+            <Keyword MajorTopicYN="N">Psychological distress</Keyword>
+            <Keyword MajorTopicYN="N">Smoking</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199950</ArticleId>
+            <ArticleId IdType="pii">S0091-7435(19)30217-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ypmed.2019.06.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

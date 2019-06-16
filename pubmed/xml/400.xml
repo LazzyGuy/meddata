@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200001</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Life sciences</Title>
+                <ISOAbbreviation>Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lack of zinc finger protein 521 upregulates dopamine β-hydroxylase expression in the mouse brain, leading to abnormal behavior.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>116559</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0024-3205(19)30485-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.lfs.2019.116559</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">Previously, we reported that mice deficient in most of the Zfp521 coding region (Zfp521<sup>Δ/Δ</sup> mice) displayed abnormal behaviors, including hyperlocomotion and lower anxiety. In this study, we aimed to elucidate the involvement and mechanisms of monoamine variation.</AbstractText>
+                <AbstractText Label="MAIN METHODS" NlmCategory="METHODS">First, we compared the levels of dopamine (DA), noradrenaline (NA), and serotonin in the brains of Zfp521<sup>Δ/Δ</sup> and Zfp521<sup>+/+</sup> mice using enzyme-linked immunosorbent assay. Next, we elucidated the mechanisms using quantitative PCR and Western Blotting. Additionally, we administered inhibitory drug to the mice and performed behavioral tests.</AbstractText>
+                <AbstractText Label="KEY FINDINGS" NlmCategory="RESULTS">Our results showed that the DA level decreased and the NA level increased in Zfp521<sup>Δ/Δ</sup> mice. We found that ZFP521 suppresses the expression of dopamine β-hydroxylase (DBH), which converts DA into NA. We also demonstrated that paired homeodomain transcription factor 2 and early growth response protein-1, which are the transcription factors for Dbh, were involved in the upregulation of Dbh by ZFP521. The administration of nepicastat, a specific inhibitor of DBH, attenuated the abnormal behaviors of Zfp521<sup>Δ/Δ</sup> mice.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">These results suggest that the lack of ZFP521 upregulates the expression of DBH, which leads to a decrease in the DA level and an increase in the NA level in the brain, resulting in abnormal behaviors.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ohkubo</LastName>
+                    <ForeName>Nobutaka</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Circulatory Physiology, Graduate School of Medicine, Ehime University, Shitsukawa, Toon, Ehime 791-0295, Japan.. Electronic address: nobu@m.ehime-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aoto</LastName>
+                    <ForeName>Mamoru</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Circulatory Physiology, Graduate School of Medicine, Ehime University, Shitsukawa, Toon, Ehime 791-0295, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kon</LastName>
+                    <ForeName>Kazunori</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Circulatory Physiology, Graduate School of Medicine, Ehime University, Shitsukawa, Toon, Ehime 791-0295, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitsuda</LastName>
+                    <ForeName>Noriaki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Circulatory Physiology, Graduate School of Medicine, Ehime University, Shitsukawa, Toon, Ehime 791-0295, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Life Sci</MedlineTA>
+            <NlmUniqueID>0375521</NlmUniqueID>
+            <ISSNLinking>0024-3205</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Behavior</Keyword>
+            <Keyword MajorTopicYN="N">Dopamine</Keyword>
+            <Keyword MajorTopicYN="N">Dopamine beta-hydroxylase</Keyword>
+            <Keyword MajorTopicYN="N">Noradrenaline</Keyword>
+            <Keyword MajorTopicYN="N">Schizophrenia</Keyword>
+            <Keyword MajorTopicYN="N">Zinc finger protein 521</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200001</ArticleId>
+            <ArticleId IdType="pii">S0024-3205(19)30485-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.lfs.2019.116559</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199282</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2275</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on cybernetics</Title>
+                <ISOAbbreviation>IEEE Trans Cybern</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automatic Search-and-Replace From Examples With Coevolutionary Genetic Programming.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TCYB.2019.2918337</ELocationID>
+            <Abstract>
+                <AbstractText>We describe the design and implementation of a system for executing search-and-replace text processing tasks automatically, based only on examples of the desired behavior. The examples consist of pairs describing the original string and the desired modified string. Their construction, thus, does not require any specific technical skill. The system constructs a solution to the specified task that can be used unchanged on popular existing software for text processing. The solution consists of a search pattern coupled with a replacement expression: the former is a regular expression which describes both the strings to be replaced and their portions to be reused in the latter, which describes how to build the modified strings. Our proposed system is internally based on genetic programming and implements a form of cooperative coevolution in which two separate populations are evolved independently, one for search patterns and the other for replacement expressions. We assess our proposal on six tasks of realistic complexity obtaining very good results, both in terms of absolute quality of the solutions and with respect to the challenging baselines considered.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bartoli</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Lorenzo</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medvet</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tarlao</LastName>
+                    <ForeName>Fabiano</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Cybern</MedlineTA>
+            <NlmUniqueID>101609393</NlmUniqueID>
+            <ISSNLinking>2168-2267</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199282</ArticleId>
+            <ArticleId IdType="doi">10.1109/TCYB.2019.2918337</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

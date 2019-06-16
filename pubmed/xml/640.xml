@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199729</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Relation Between Exposure to Intimate Partner Violence and Childhood Dental Decay: A Scoping Review to Identify Novel Public Health Approaches to Early Intervention.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>j5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Early childhood dental decay or caries (ECC) is common, often painful and costly to the health care system, yet it is largely preventable. A public health approach is needed, especially as socially vulnerable children most at risk for ECC are less likely to access conventional treatment. Exposure to intimate partner violence (IPV) in the family represents an important social vulnerability for children, yet little is known about ECC in this context. We explored the relation between ECC and exposure to IPV as well as opportunities for community-based early interventions to prevent ECC.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We searched 5 electronic databases. All primary research and reviews that focused on childhood decay and exposure to IPV or that referred to community settings (specifically women's shelters) for oral health service delivery were included.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 198 unique documents identified, 12 were included in the analysis. Although limited, our findings suggest a positive relation between exposure to IPV and ECC, the mechanisms of which are not well studied. Women's-shelter-based prevention programs may hold promise in terms of detecting and addressing ECC. Over the time frame of the literature reviewed, we observed a subtle shift in emphasis away from individual behaviours and biological models toward upstream societal structures.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The available literature suggests that the issue of ECC and IPV may be poised to embrace a public health approach to early intervention, characterized by community collaboration, interprofessional cooperation between dentistry and social work and an equitable approach to ECC in a socially vulnerable group.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lang</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lorenzetti</LastName>
+                    <ForeName>Diane L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milaney</LastName>
+                    <ForeName>Katrina</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueiredo</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weijs</LastName>
+                    <ForeName>Cynthia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Leonard B</ForeName>
+                    <Initials>LB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLaren</LastName>
+                    <ForeName>Lindsay</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199729</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

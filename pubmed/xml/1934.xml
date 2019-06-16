@@ -1,0 +1,309 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198187</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Cost-Effectiveness Analysis of Shortened Direct-Acting Antiviral Treatment in Genotype 1 Noncirrhotic Treatment-Naive Patients With Chronic Hepatitis C Virus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>693-703</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30101-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2018.12.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Direct-acting antivirals are successful in curing hepatitis C virus infection in more than 95% of patients treated for 12 weeks, but they are expensive. Shortened treatment durations, which may have lower cure rates, have been proposed to reduce costs.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To evaluate the lifetime cost-effectiveness of different shortened treatment durations for genotype 1 noncirrhotic treatment-naive patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Assuming a UK National Health Service perspective, we used a probabilistic decision tree and Markov model to compare 3 unstratified shortened treatment durations (8, 6, and 4 weeks) against a standard 12-week treatment duration. Patients failing shortened first-line treatment were re-treated with a 12-week treatment regimen. Parameter inputs were taken from published studies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The 8-week treatment duration had an expected incremental net monetary benefit of £7737 (95% confidence interval £3242-£11 819) versus the standard 12-week treatment, per 1000 patients. The 6-week treatment had a positive incremental net monetary benefit, although some uncertainty was observed. The probability that the 8- and 6-week treatments were the most cost-effective was 56% and 25%, respectively, whereas that for the 4-week treatment was 17%. Results were generally robust to sensitivity analyses, including a threshold analysis that showed that the 8-week treatment was the most cost-effective at all drug prices lower than £40 000 per 12-week course.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Shortening treatments licensed for 12 weeks to 8 weeks is cost-effective in genotype 1 noncirrhotic treatment-naive patients. There was considerable uncertainty in the estimates for 6- and 4-week treatments, with some indication that the 6-week treatment may be cost-effective.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fawsitt</LastName>
+                    <ForeName>Christopher G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, England, UK. Electronic address: c.fawsitt@bristol.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vickerman</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooke</LastName>
+                    <ForeName>Graham</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Imperial College London, London, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welton</LastName>
+                    <ForeName>Nicky J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>STOP-HCV Consortium</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cost-effectiveness</Keyword>
+            <Keyword MajorTopicYN="N">direct-acting antivirals</Keyword>
+            <Keyword MajorTopicYN="N">hepatitis C virus</Keyword>
+            <Keyword MajorTopicYN="N">shortened treatment duration</Keyword>
+        </KeywordList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Barnes</LastName>
+                <ForeName>Eleanor</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ball</LastName>
+                <ForeName>Jonathan</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Brainard</LastName>
+                <ForeName>Diana</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Burgess</LastName>
+                <ForeName>Gary</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cooke</LastName>
+                <ForeName>Graham</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Dillon</LastName>
+                <ForeName>John</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Foster</LastName>
+                <ForeName>Graham</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gore</LastName>
+                <ForeName>Charles</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Guha</LastName>
+                <ForeName>Neil</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Halford</LastName>
+                <ForeName>Rachel</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Whitby</LastName>
+                <ForeName>Kevin</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Holmes</LastName>
+                <ForeName>Chris</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Howe</LastName>
+                <ForeName>Anita</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hudson</LastName>
+                <ForeName>Emma</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hutchinson</LastName>
+                <ForeName>Sharon</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Irving</LastName>
+                <ForeName>William</ForeName>
+                <Initials>W</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Khakoo</LastName>
+                <ForeName>Salim</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Klenerman</LastName>
+                <ForeName>Paul</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martin</LastName>
+                <ForeName>Natasha</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Massetto</LastName>
+                <ForeName>Benedetta</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mbisa</LastName>
+                <ForeName>Tamyo</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>McHutchison</LastName>
+                <ForeName>John</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>McKeating</LastName>
+                <ForeName>Jane</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>McLauchlan</LastName>
+                <ForeName>John</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Miners</LastName>
+                <ForeName>Alec</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Murray</LastName>
+                <ForeName>Andrea</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Shaw</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Simmonds</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Spencer</LastName>
+                <ForeName>Chris</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Thomson</LastName>
+                <ForeName>Emma</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Vickerman</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zitzmann</LastName>
+                <ForeName>Nicole</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198187</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30101-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2018.12.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199478</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7170</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrinology</Title>
+                <ISOAbbreviation>Endocrinology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Accurate Substitution Method to Minimize Left Censoring Bias in Serum Steroid Measurements.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">en.2019-00340</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/en.2019-00340</ELocationID>
+            <Abstract>
+                <AbstractText>Hormone assay results below the assay detection limit (DL) can introduce bias into quantitative analysis. Although complex maximum likelihood estimation (MLE) methods exist, they are not widely used whereas simple substitution methods are often employed ad hoc to replace the undetectable (UD) results with numeric values to facilitate data analysis with the full dataset. However, the bias of substitution methods for steroid measurements is not reported. Using a large dataset (n=2896) of serum testosterone (T), dihydrotestosterone (DHT), estradiol (E2) concentrations from healthy men, we created modified datasets with increasing proportions of UD samples (up to 40%) to which we applied 5 different substitution methods (deleting UD samples as missing, substituting UD sample with DL, DL/√2, DL/2 or 0) in order to calculate univariate descriptive statistics (mean, standard deviation) or bivariate correlations. For all three steroids and for univariate as well as bivariate statistics, bias increased progressively with increasing proportion of UD samples. Bias was worst with deleting UD samples or substituting UD with 0 and least by substituting UD samples with DL/√2 whereas the other methods (DL or DL/2) displayed intermediate bias. Similar findings were replicated in randomly drawn small subsets (n= 25, 50 &amp; 100). Hence, we propose that in steroid hormone data with up to 40% UD samples, substituting UD with DL/√2 is a simple, versatile and reasonably accurate method to minimize left censoring bias allowing for data analysis with the full dataset.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Endocrine Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Handelsman</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ANZAC Research Institute, University of Sydney Andrology, Concord Hospital NSW.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ly</LastName>
+                    <ForeName>Lam P</ForeName>
+                    <Initials>LP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ANZAC Research Institute, University of Sydney Andrology, Concord Hospital NSW.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocrinology</MedlineTA>
+            <NlmUniqueID>0375040</NlmUniqueID>
+            <ISSNLinking>0013-7227</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199478</ArticleId>
+            <ArticleId IdType="pii">5518334</ArticleId>
+            <ArticleId IdType="doi">10.1210/en.2019-00340</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

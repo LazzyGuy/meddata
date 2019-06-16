@@ -1,0 +1,357 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200351</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-1413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Comprehensive Cancer Network : JNCCN</Title>
+                <ISOAbbreviation>J Natl Compr Canc Netw</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acute Myeloid Leukemia, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>721-749</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.6004/jnccn.2019.0028</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">jnccnGLSAML1706</ELocationID>
+            <Abstract>
+                <AbstractText>Acute myeloid leukemia (AML) is the most common form of acute leukemia among adults and accounts for the largest number of annual deaths due to leukemias in the United States. Recent advances have resulted in an expansion of treatment options for AML, especially concerning targeted therapies and low-intensity regimens. This portion of the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for AML focuses on the management of AML and provides recommendations on the workup, diagnostic evaluation and treatment options for younger (age &lt;60 years) and older (age ≥60 years) adult patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tallman</LastName>
+                    <ForeName>Martin S</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Memorial Sloan Kettering Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Eunice S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Roswell Park Comprehensive Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altman</LastName>
+                    <ForeName>Jessica K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Robert H. Lurie Comprehensive Cancer Center of Northwestern University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Appelbaum</LastName>
+                    <ForeName>Frederick R</ForeName>
+                    <Initials>FR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Fred Hutchinson Cancer Research Center/Seattle Cancer Care Alliance.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhatt</LastName>
+                    <ForeName>Vijaya Raj</ForeName>
+                    <Initials>VR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5Fred &amp; Pamela Buffett Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bixby</LastName>
+                    <ForeName>Dale</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>6University of Michigan Rogel Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coutre</LastName>
+                    <ForeName>Steven E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>7Stanford Cancer Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Lima</LastName>
+                    <ForeName>Marcos</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>8Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and Cleveland Clinic Taussig Cancer Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fathi</LastName>
+                    <ForeName>Amir T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>9Massachusetts General Hospital Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fiorella</LastName>
+                    <ForeName>Melanie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>10UC San Diego Moores Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foran</LastName>
+                    <ForeName>James M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>11Mayo Clinic Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Aric C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>12University of Wisconsin Carbone Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacoby</LastName>
+                    <ForeName>Meagan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>13Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lancet</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>14Moffitt Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LeBlanc</LastName>
+                    <ForeName>Thomas W</ForeName>
+                    <Initials>TW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>15Duke Cancer Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannis</LastName>
+                    <ForeName>Gabriel</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>7Stanford Cancer Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marcucci</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>16City of Hope National Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>17St. Jude Children's Research Hospital/The University of Tennessee Health Science Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mims</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>18The Ohio State University Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Donnell</LastName>
+                    <ForeName>Margaret R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>16City of Hope National Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olin</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>19UCSF Helen Diller Family Comprehensive Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peker</LastName>
+                    <ForeName>Deniz</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>20O'Neal Comprehensive Cancer Center at UAB.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perl</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>21Abramson Cancer Center at the University of Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollyea</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>22University of Colorado Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pratz</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>23The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prebet</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>24Yale Cancer Center/Smilow Cancer Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ravandi</LastName>
+                    <ForeName>Farhad</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>25The University of Texas MD Anderson Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shami</LastName>
+                    <ForeName>Paul J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>26Huntsman Cancer Institute at the University of Utah.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stone</LastName>
+                    <ForeName>Richard M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>27Dana-Farber/Brigham and Women's Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strickland</LastName>
+                    <ForeName>Stephen A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>28Vanderbilt-Ingram Cancer Center; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wieduwilt</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>10UC San Diego Moores Cancer Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gregory</LastName>
+                    <ForeName>Kristina M</ForeName>
+                    <Initials>KM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>OCN</CollectiveName>
+                    <AffiliationInfo>
+                        <Affiliation>29National Comprehensive Cancer Network.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammond</LastName>
+                    <ForeName>Lydia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>29National Comprehensive Cancer Network.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogba</LastName>
+                    <ForeName>Ndiya</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>29National Comprehensive Cancer Network.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Compr Canc Netw</MedlineTA>
+            <NlmUniqueID>101162515</NlmUniqueID>
+            <ISSNLinking>1540-1405</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200351</ArticleId>
+            <ArticleId IdType="doi">10.6004/jnccn.2019.0028</ArticleId>
+            <ArticleId IdType="pii">jnccnGLSAML1706</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199741</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Buccal injection of articaine to anesthetize the palatal mucosa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Buccal and palatal injections are required for administration of anesthetic agents before maxillary tooth extractions, but palatal injections are painful for patients. Studies suggest that the palatal injection can be eliminated when articaine is delivered as a local anesthetic agent via buccal injection, but the anatomical mechanism for this effectiveness remains unclear. The objective of this study was to explore the potential mechanism by which buccal infiltration results in palatal anesthesia. The study approach included examining cadaveric specimens and investigating the pharmacologic properties of articaine. Twenty-eight formalin-fixed cadaveric hemimaxillae were dissected and sectioned into anterior, premolar, and molar regions. The maxillary sections were measured in 3 planes: inferior, middle, and superior. Buccal cortical plate (BCP), palatal cortical plate (PCP), and total buccopalatal (TBP) thickness were independently evaluated by 2 measurers using standard digital calipers. Statistical analysis of regional maxillary thickness measurements was achieved via 2-way analysis of variance. Measurements of BCP and PCP thickness revealed no statistically significant differences along the maxillae (P &gt; 0.05). Both the BCP and PCP mean values were significantly less than the TBP measurement (P &lt; 0.0001). In all 3 regions, the mean TBP thickness in the superior plane was significantly greater than that of the inferior plane (P &lt; 0.05). The mean TBP thickness was significantly greater in the molar and premolar regions than in the anterior region (P &lt; 0.05). The mean BCP measurements were significantly lesser in the maxillary premolar and molar regions than in the corresponding mandibular regions (P &lt; 0.0001). The pharmacologic properties of articaine, which is capable of diffusing greater distances than other local anesthetics, coupled with the uniformly thin, cancellous maxillary bone, provide a plausible explanation for the success of palatal anesthesia achieved through buccal infiltration of articaine, obviating the need for a palatal injection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abu Sharkh</LastName>
+                    <ForeName>Mohamad</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khalil</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ong-Ly</LastName>
+                    <ForeName>Cathy</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Timothy D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galil</LastName>
+                    <ForeName>Khadry</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">anatomy</Keyword>
+            <Keyword MajorTopicYN="N">anesthesia</Keyword>
+            <Keyword MajorTopicYN="N">local anesthesia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199741</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

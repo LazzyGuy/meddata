@@ -1,0 +1,162 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198817</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2328-8957</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Open forum infectious diseases</Title>
+                <ISOAbbreviation>Open Forum Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Antimicrobial Resistance or Delayed Appropriate Therapy-Does One Influence Outcomes More Than the Other Among Patients With Serious Infections Due to Carbapenem-Resistant Versus Carbapenem-Susceptible Enterobacteriaceae?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>ofz194</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ofid/ofz194</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The relative contribution of antimicrobial resistance versus delayed appropriate treatment to the clinical and economic burden of Enterobacteriaceae infections is not well understood.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Using a large US hospital database, we identified all admissions between July 2011 and September 2014 with evidence of serious Enterobacteriaceae infection. The &quot;index date&quot; was the earliest date on which a culture positive for Enterobacteriaceae was drawn. Infections were classified as carbapenem-resistant (CRE) or carbapenem-susceptible (CSE). Receipt of antimicrobials with activity against all index pathogens on the index date or ≤2 days thereafter was deemed as &quot;timely&quot;; all other instances were &quot;delayed.&quot; Associations between CRE status and delayed appropriate therapy on outcomes were estimated using inverse probability weighting and multivariate regression models (ie, logistic model for discharge destination and composite mortality [in-hospital death or discharge to hospice] or generalized linear model for duration of antibiotic therapy, hospital length of stay [LOS], and costs).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 50 069 patients met selection criteria; 514 patients (1.0%) had CRE. Overall, 67.5% of CSE patients (vs 44.6%, CRE) received timely appropriate therapy (<i>P</i> &lt; .01). Irrespective of CRE status, patients who received delayed appropriate therapy had longer durations of antibiotic therapy and LOS, higher costs, lower likelihood of discharge to home, and greater likelihood of the composite mortality outcome (<i>P</i> for trend &lt; .01).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Delayed appropriate therapy is a more important driver of outcomes than CRE, although the 2 factors are somewhat synergistic. Better methods of early CRE identification may improve outcomes in this patient population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lodise</LastName>
+                    <ForeName>Thomas P</ForeName>
+                    <Initials>TP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmacy Practice, Albany College of Pharmacy and Health Sciences, Albany, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berger</LastName>
+                    <ForeName>Ariel</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real-World Evidence, Evidera, Waltham, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altincatal</LastName>
+                    <ForeName>Arman</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real-World Evidence, Evidera, Waltham, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Rosa</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real-World Evidence, Evidera, Waltham, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhagnani</LastName>
+                    <ForeName>Tarun</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real-World Evidence, Evidera, Waltham, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gillard</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Outcomes Strategy &amp; Research, Allergan plc, Madison, New Jersey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonine</LastName>
+                    <ForeName>Nicole G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Outcomes Strategy &amp; Research, Allergan plc, Madison, New Jersey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Open Forum Infect Dis</MedlineTA>
+            <NlmUniqueID>101637045</NlmUniqueID>
+            <ISSNLinking>2328-8957</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Enterobacteriaceae</Keyword>
+            <Keyword MajorTopicYN="N">antibacterial drug resistance</Keyword>
+            <Keyword MajorTopicYN="N">antibiotic resistance</Keyword>
+            <Keyword MajorTopicYN="N">carbapenems</Keyword>
+            <Keyword MajorTopicYN="N">cost of illness</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198817</ArticleId>
+            <ArticleId IdType="doi">10.1093/ofid/ofz194</ArticleId>
+            <ArticleId IdType="pii">ofz194</ArticleId>
+            <ArticleId IdType="pmc">PMC6546203</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

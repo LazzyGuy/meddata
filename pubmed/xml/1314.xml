@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198978</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1791-244X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular medicine</Title>
+                <ISOAbbreviation>Int. J. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Screening of differentially expressed genes and identification of NUF2 as a prognostic marker in breast cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3892/ijmm.2019.4239</ELocationID>
+            <Abstract>
+                <AbstractText>The aims of the present study were to screen differentially expressed genes (DEGs) in breast cancer (BC) and investigate NDC80 kinetochore complex component (NUF2) as a prognostic marker of BC in detail. A total of four BC microarray datasets, downloaded from the Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) databases, were used to screen DEGs. A total of 190 DEGs with the same expression trends were identified in the 4 datasets, including 65 upregulated and 125 downregulated DEGs. Functional and pathway enrichment analyses were performed using the Database for Annotation, Visualization and Integrated Discovery. The upregulated DEGs were enriched for 10 Gene Ontology (GO) terms and 7 pathways, and the downregulated DEGs were enriched for 10 GO terms and 10 pathways. A protein‑protein interaction network containing 149 nodes and 930 edges was constructed using the Search Tool for the Retrieval of Interacting Genes, and 2 functional modules were identified using the MCODE plugin of Cytoscape. Based on an in‑depth analysis of module 1 and literature mining, NUF2 was selected for further research. Oncomine database analysis and reverse transcription‑quantitative PCR showed that NUF2 is significantly upregulated in BC tissues. In analyses of correlations between NUF2 and clinical pathological characteristics, NUF2 was significantly associated with the malignant features of BC. Using 5 additional datasets from GEO, it was demonstrated that NUF2 has a significant prognostic role in both ER‑positive and ER‑negative BC. A Gene Set Enrichment Analysis indicated that NUF2 may regulate breast carcinogenesis and progression via cell cycle‑related pathways. The results of the present study demonstrated that NUF2 is overexpressed in BC and is significantly associated with its multiple pathological features and prognosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Wenjie</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yizhen</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yanan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Shanmei</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiuping</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Xuejun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory Center, Shaoxing Hospital, Zhejiang University School of Medicine, Shaoxing People's Hospital, Shaoxing, Zhejiang 312000, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Int J Mol Med</MedlineTA>
+            <NlmUniqueID>9810955</NlmUniqueID>
+            <ISSNLinking>1107-3756</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198978</ArticleId>
+            <ArticleId IdType="doi">10.3892/ijmm.2019.4239</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

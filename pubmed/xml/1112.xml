@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199206</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1087-2981</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical education online</Title>
+                <ISOAbbreviation>Med Educ Online</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors that predict for representation of women in physician graduate medical education.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1624132</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/10872981.2019.1624132</ELocationID>
+            <Abstract>
+                <AbstractText><b>Background/Objective</b>: To identify factors associated with underrepresentation of women in the largest medical specialties. <b>Methods</b>: The authors obtained specialty-specific data from the Association of American Medical Colleges, National Residency Match Program and Journal of the American Medical Association Graduate Medical Education Supplement from 2014 on the gender of trainees and faculty members, residency program director (PD)-rated importance of interview selection and rank list formation criteria, and characteristics of matched NRMP participants. They used linear regression to evaluate whether factors were associated with representation of female trainees in the 18 largest specialties that participated in the NRMP. They hypothesized that factors representing lower student exposure or higher research requirements would be associated with lower representation of women. <b>Results</b>: In 2014, representation of women as trainees ranged from 13.7% in Orthopedic Surgery to 82.5% in OB/Gyn. On multivariable analysis, the factors associated with specialties having lower percentages of female trainees were: not being part of the third year core (slope = 0.141, p = 0.002), having lower specialty mean step 1 scores (slope = 0.007, p = 0.017), and having lower percentages of female faculty members. For each 1% increase in female faculty, the percentage of female trainees increased by 1.45% (p &lt; 0.001). <b>Conclusions</b>: Two exposure-related factors, percentage of female faculty members and being part of the third year core, were associated with underrepresentation of women as trainees. Future research could help examine whether these are causal associations. Medical schools and training specialties should investigate whether strategies to enhance mentorship and increase exposure to non-core specialties will increase the proportion of women in fields in which they are underrepresented.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chapman</LastName>
+                    <ForeName>Christina H</ForeName>
+                    <Initials>CH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8513-5398</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Radiation Oncology , University of Michigan , Ann Arbor , MI , USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Center for Clinical Management Research , VA Ann Arbor Healthcare System , Ann Arbor , MI , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Wei-Ting</ForeName>
+                    <Initials>WT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Biostatistics, Epidemiology and Informatics , University of Pennsylvania , Philadelphia , PA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xingmei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Center for Clinical Epidemiology and Biostatistics , University of Pennsylvania , Philadelphia , PA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deville</LastName>
+                    <ForeName>Curtiland</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4846-6486</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>e Department of Radiation Oncology and Molecular Radiation Sciences , Johns Hopkins , Baltimore , MD , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Educ Online</MedlineTA>
+            <NlmUniqueID>9806550</NlmUniqueID>
+            <ISSNLinking>1087-2981</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Diversity</Keyword>
+            <Keyword MajorTopicYN="N">National Residency Match Program</Keyword>
+            <Keyword MajorTopicYN="N">gender</Keyword>
+            <Keyword MajorTopicYN="N">graduate medical education</Keyword>
+            <Keyword MajorTopicYN="N">specialty selection</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199206</ArticleId>
+            <ArticleId IdType="doi">10.1080/10872981.2019.1624132</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200072</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deiminated proteins in extracellular vesicles and plasma of nurse shark (Ginglymostoma cirratum) - Novel insights into shark immunity.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1050-4648(19)30659-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fsi.2019.06.012</ELocationID>
+            <Abstract>
+                <AbstractText>Peptidylarginine deiminases (PADs) are phylogenetically conserved calcium-dependent enzymes which post-translationally convert arginine into citrulline in target proteins in an irreversible manner, causing functional and structural changes in target proteins. Protein deimination causes generation of neo-epitopes, affects gene regulation and also allows for protein moonlighting. Extracellular vesicles are found in most body fluids and participate in cellular communication via transfer of cargo proteins and genetic material. In this study, post-translationally deiminated proteins and extracellular vesicles (EVs) are described for the first time in shark plasma. We report a poly-dispersed population of shark plasma EVs, positive for phylogenetically conserved EV-specific markers and characterised by TEM. In plasma, 6 deiminated proteins, including complement and immunoglobulin, were identified, whereof 3 proteins were found to be exported in plasma-derived EVs. A PAD homologue was identified in shark plasma by Western blotting and detected at expected 70 kDa size. Deiminated histone H3, a marker of neutrophil extracellular trap formation, was also detected in nurse shark plasma. This is the first report of deiminated proteins in plasma and EVs, highlighting a hitherto unrecognized post-translational modification in key immune proteins of innate and adaptive immunity in shark.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Criscitiello</LastName>
+                    <ForeName>Michael F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Comparative Immunogenetics Laboratory, Department of Veterinary Pathobiology, College of Veterinary Medicine and Biomedical Sciences, Texas A&amp;M University, College Station, TX, 77843, USA; Department of Microbial Pathogenesis and Immunology, College of Medicine, Texas A&amp;M Health Science Center, Texas A&amp;M University, College Station, TX, 77843, USA. Electronic address: mcriscitiello@cvm.tamu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraev</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life, Health and Chemical Sciences, The Open University, Walton Hall, MK7 6AA, UK. Electronic address: igor.kraev@open.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lange</LastName>
+                    <ForeName>Sigrun</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tissue Architecture and Regeneration Research Group, Department of Biomedical Sciences, University of Westminster, London, W1W 6UW, UK. Electronic address: s.lange@westminster.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adaptive immunity</Keyword>
+            <Keyword MajorTopicYN="N">Alpha 2-macroglobulin</Keyword>
+            <Keyword MajorTopicYN="N">Complement C3</Keyword>
+            <Keyword MajorTopicYN="N">Extracellular vesicles (EVs)</Keyword>
+            <Keyword MajorTopicYN="N">Haptoglobin</Keyword>
+            <Keyword MajorTopicYN="N">Hemopexin</Keyword>
+            <Keyword MajorTopicYN="N">IgW</Keyword>
+            <Keyword MajorTopicYN="N">Innate immunity</Keyword>
+            <Keyword MajorTopicYN="N">Novel antigen receptor (NAGR)</Keyword>
+            <Keyword MajorTopicYN="N">Peptidylarginine deiminases (PADs)</Keyword>
+            <Keyword MajorTopicYN="N">Protein deimination</Keyword>
+            <Keyword MajorTopicYN="N">Shark (Ginglymostoma cirratum)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200072</ArticleId>
+            <ArticleId IdType="pii">S1050-4648(19)30659-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2019.06.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

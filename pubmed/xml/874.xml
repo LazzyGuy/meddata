@@ -1,0 +1,151 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199463</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1367-4811</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioinformatics (Oxford, England)</Title>
+                <ISOAbbreviation>Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GeneNoteBook, a collaborative notebook for comparative genomics.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">btz491</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bioinformatics/btz491</ELocationID>
+            <Abstract>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">Analysis and comparison of genomic and transcriptomic data sets have become standard procedures in biological research. However, for non-model organisms no efficient tools exist to visually work with multiple genomes and their metadata, and to annotate such data in a collaborative way. Here we present GeneNoteBook: a web based collaborative notebook for comparative genomics. GeneNoteBook allows experimental and computational researchers to query, browse, visualize and curate bioinformatic analysis results for multiple genomes. GeneNoteBook is particularly suitable for the analysis of non-model organisms, as it allows for comparing newly sequenced genomes to those of model organisms.</AbstractText>
+                <AbstractText Label="AVAILABILITY AND IMPLEMENTATION" NlmCategory="METHODS">GeneNoteBook is implemented as a node.js web application and depends on MongoDB and NCBI BLAST. Source code is available at https://github.com/genenotebook/genenotebook. Additionally, GeneNoteBook can be installed through Bioconda and as a Docker image.</AbstractText>
+                <AbstractText Label="SUPPLEMENTARY INFORMATION" NlmCategory="BACKGROUND">Full installation instructions and online documentation are available at https://genenotebook.github.io. Supplementary text is available at Bioinformatics online.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Holmer</LastName>
+                    <ForeName>Rens</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Group, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Velzen</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geurts</LastName>
+                    <ForeName>Rene</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bisseling</LastName>
+                    <ForeName>Ton</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Ridder</LastName>
+                    <ForeName>Dick</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Group, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smit</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Group, Wageningen University, Wageningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioinformatics</MedlineTA>
+            <NlmUniqueID>9808944</NlmUniqueID>
+            <ISSNLinking>1367-4803</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199463</ArticleId>
+            <ArticleId IdType="pii">5519115</ArticleId>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btz491</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

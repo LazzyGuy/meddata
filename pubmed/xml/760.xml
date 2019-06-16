@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199597</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-7634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer medicine</Title>
+                <ISOAbbreviation>Cancer Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Advanced cancer patients' understanding of prognostic information: Applying insights from psychological research.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.2331</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Informed medical decision-making at the end of life often requires engaging in highly emotional, potentially upsetting discussions about prognosis, while ensuring that patients grasp its personal meaning. Behavioral science offers insights into ways to promote prognostic understanding among patients with advanced cancer.</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">In this literature review, we synthesize complementary findings from basic behavioral science and applied clinical research, which suggest that psychological factors can significantly influence both patients' clinical interactions and their prognostic understanding. For example, stress and emotion can affect cognition, which may shape how patients process complex medical information. Additionally, clinicians may be less likely to share prognostic information with distressed patients who, in turn, may be hesitant to ask about their prognosis for fear of the answer. Although traditional approaches for increasing advanced cancer patients' understanding focus on improving information delivery, these efforts may not be sufficient without corresponding interventions that assist patients in managing distress.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Psychological barriers may limit opportunities for patients to fully understand their prognosis and to receive high quality of end-of-life care that is linked with an accurate understanding of their disease and treatment options. Failure to attend to patients' emotional distress may undermine efforts to improve medical communication. This underscores the importance of increased attention to the psychological factors that impede patients' comprehension of material shared in cancer clinic visits, in order to inform interventions that address patient distress both before and after receiving &quot;bad news.&quot; Integrating findings from psychological research into prognostic discussions may not only improve advanced cancer patients' mental health, but may also promote their ability to make informed, value-consistent medical decisions.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Derry</LastName>
+                    <ForeName>Heather M</ForeName>
+                    <Initials>HM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0753-0859</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reid</LastName>
+                    <ForeName>M Carrington</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prigerson</LastName>
+                    <ForeName>Holly G</ForeName>
+                    <Initials>HG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R35CA197730</GrantID>
+                    <Agency>National Cancer Institute</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>K24AG053462</GrantID>
+                    <Agency>National Institute on Aging</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>P30AG022845</GrantID>
+                    <Agency>National Institute on Aging</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>T32AG049666</GrantID>
+                    <Agency>National Institute on Aging</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Med</MedlineTA>
+            <NlmUniqueID>101595310</NlmUniqueID>
+            <ISSNLinking>2045-7634</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">anxiety</Keyword>
+            <Keyword MajorTopicYN="N">delivery of health care</Keyword>
+            <Keyword MajorTopicYN="N">health knowledge</Keyword>
+            <Keyword MajorTopicYN="N">neoplasms</Keyword>
+            <Keyword MajorTopicYN="N">psycho-oncology</Keyword>
+            <Keyword MajorTopicYN="N">psychological factors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199597</ArticleId>
+            <ArticleId IdType="doi">10.1002/cam4.2331</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

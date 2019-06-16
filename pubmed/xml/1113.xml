@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199205</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1543-6136</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of suicide research : official journal of the International Academy for Suicide Research</Title>
+                <ISOAbbreviation>Arch Suicide Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suicide Risk and Restricted Emotions in Women: The Diverging Effects of Masculine Gender Norms and Suicide Capability.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/13811118.2019.1599480</ELocationID>
+            <Abstract>
+                <AbstractText>This study investigated whether gender moderated the association between masculine socialization pressures of restrictive emotionality and suicide risk through suicide capability (i.e., fearlessness about death). A sample of inpatients admitted for recent suicidality (<i>n</i> = 194) completed validated measures of restrictive emotionality, fearlessness about death, and current suicide risk. A moderated mediation effect was found opposite the hypothesized direction: fearlessness about death mediated the relationship between endorsement of the masculine gender norm of restrictive emotionality and suicide risk in women, but not men. Gender did not moderate the association between restrictive emotionality and fearlessness about death. The diverging gender effects suggest that the masculine gender norm of restrictive emotionality is associated with suicide capability in men and women, while acquired fearlessness about death is more informative of risk for suicide in women than men.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fadoir</LastName>
+                    <ForeName>Nicholas A</ForeName>
+                    <Initials>NA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0943-6527</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuhlman</LastName>
+                    <ForeName>Shane T W</ForeName>
+                    <Initials>STW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Phillip N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Arch Suicide Res</MedlineTA>
+            <NlmUniqueID>9504451</NlmUniqueID>
+            <ISSNLinking>1381-1118</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">acquired capability for suicide</Keyword>
+            <Keyword MajorTopicYN="N">fearlessness about death</Keyword>
+            <Keyword MajorTopicYN="N">gender paradox</Keyword>
+            <Keyword MajorTopicYN="N">interpersonal theory of suicide</Keyword>
+            <Keyword MajorTopicYN="N">male suicide</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199205</ArticleId>
+            <ArticleId IdType="doi">10.1080/13811118.2019.1599480</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

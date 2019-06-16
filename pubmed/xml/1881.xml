@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198243</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Blind Tracheal Intubation through the Air-Q Intubating Laryngeal Airway in Pediatric Patients: Reevaluation - A Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>269-273</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_42_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Some pediatric supraglottic airway devices have not been evaluated in a large perspective for blind intubation although they are validated as a conduit for fiberoptic-guided intubation.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The objective of this study was to compare the success rate of blind technique with correction maneuvers versus fiberoptic-guided intubation through the air-Q laryngeal airway in pediatric patients.</AbstractText>
+                <AbstractText Label="Patients and Methods" NlmCategory="UNASSIGNED">One hundred and twenty-six pediatric patients undergoing elective surgery under general anesthesia were randomized into two equal groups. The air-Q was placed in all patients as a conduit for tracheal intubation. Group B patients underwent blind intubation with correction maneuvers. Group F patients underwent fiberoptic-guided intubation.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">There was no significant difference between the groups regarding the success rate of intubation or postextubation complications. Group F patients showed a significantly longer time to intubation and total time of the trial. Furthermore, Group F patients showed a significantly higher level of pre- and postintubation heart rate compared to Group B patients.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Blind tracheal intubation in pediatric patients through the air-Q with correction maneuvers could be a good alternative for fiberoptic-guided intubation with stable hemodynamics and shorter time till intubation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Emam</LastName>
+                    <ForeName>El-Sayed M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Motlb</LastName>
+                    <ForeName>Enas A Abd</ForeName>
+                    <Initials>EAA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Air-Q</Keyword>
+            <Keyword MajorTopicYN="N">blind intubation</Keyword>
+            <Keyword MajorTopicYN="N">correction maneuvers</Keyword>
+            <Keyword MajorTopicYN="N">fiberoptic-guided intubation</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198243</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_42_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-269</ArticleId>
+            <ArticleId IdType="pmc">PMC6545951</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

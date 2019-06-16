@@ -1,0 +1,225 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199501</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of cancer</Title>
+                <ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of KRAS, NRAS, BRAF, PIK3CA and TP53 mutations in a large prospective series of locally advanced rectal cancer patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/ijc.32507</ELocationID>
+            <Abstract>
+                <AbstractText>Little information is available on the clinical significance of cancer-related genes such as KRAS, NRAS, BRAF, PIK3CA and TP53 in non-metastatic rectal cancer. We investigated mutations of these genes in a large prospective series of locally advanced rectal cancer (LARC) patients who were recruited into two phase II trials. Mutational analyses were performed with diagnostically validated methods including polymerase chain reaction, capillary electrophoresis-single strand conformational analysis, Sanger sequencing and next-generation sequencing. Associations between single or multiple gene mutations and clinico-pathological characteristics and treatment outcomes were explored. 210/269 (78%) patients were assessable. Mutations of KRAS, NRAS, BRAF, PIK3CA and TP53 occurred in 43%, 9%, 4%, 9% and 60% of patients, respectively. Concordance between paired biopsy and resection specimens was 82% for KRAS, 95% for NRAS, 99% for BRAF, 96% for PIK3CA and 63% for TP53. TP53 mutations were associated with extramural venous invasion on baseline MRI (78% vs 65%, p=0.04), good pathological tumour regression (36% vs 23%, p=0.05) and a trend towards a better 5-year progression-free survival (74% vs 60%, HR 1.59, p=0.06). Patients with tumours harbouring mutation of TP53 and either KRAS or NRAS (32%) had a worse 5-year progression-free survival than those with TP53/KRAS/NRAS wild-type tumours (54% vs 72%, HR 1.75, p=0.02). In univariate analysis BRAF mutation predicted poor 5-year overall survival only among patients treated without cetuximab (20% vs 73%, HR 3.29, p=0.03). This is one of the largest biomarker studies in a prospective, largely homogeneous, LARC population. Our findings are hypothesis-generating and require validation in independent series. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sclafani</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0251-2627</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hulkki Wilson</LastName>
+                    <ForeName>Sanna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Diagnostics, Centre for Molecular Pathology, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunningham</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez De Castro</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Diagnostics, Centre for Molecular Pathology, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalaitzaki</LastName>
+                    <ForeName>Eleftheria</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Research &amp; Development, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Begum</LastName>
+                    <ForeName>Ruwaida</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wotherspoon</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Histopathology, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Capdevila</LastName>
+                    <ForeName>Jaume</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, Vall d'Hebron Institute of Oncology (VHIO), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glimelius</LastName>
+                    <ForeName>Bengt</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Genetics and Pathology, Section of Experimental and Clinical Oncology, University of Uppsala, Uppsala, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roselló</LastName>
+                    <ForeName>Susana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology and Medical Oncology, Biomedical Research Institute INCLIVA, University of Valencia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Janet</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tait</LastName>
+                    <ForeName>Daina</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Gina</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oates</LastName>
+                    <ForeName>Jacqui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chau</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Royal Marsden NHS Foundation Trust, London and Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Cancer</MedlineTA>
+            <NlmUniqueID>0042124</NlmUniqueID>
+            <ISSNLinking>0020-7136</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BRAF</Keyword>
+            <Keyword MajorTopicYN="N">KRAS</Keyword>
+            <Keyword MajorTopicYN="N">NRAS</Keyword>
+            <Keyword MajorTopicYN="N">PIK3CA</Keyword>
+            <Keyword MajorTopicYN="N">TP53</Keyword>
+            <Keyword MajorTopicYN="N">rectal cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199501</ArticleId>
+            <ArticleId IdType="doi">10.1002/ijc.32507</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

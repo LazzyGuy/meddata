@@ -1,0 +1,269 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198578</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2054-3085</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal biology and biotechnology</Title>
+                <ISOAbbreviation>Fungal Biol Biotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increasing access to microfluidics for studying fungi and other branched biological structures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s40694-019-0071-z</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Microfluidic systems are well-suited for studying mixed biological communities for improving industrial processes of fermentation, biofuel production, and pharmaceutical production. The results of which have the potential to resolve the underlying mechanisms of growth and transport in these complex branched living systems. Microfluidics provide controlled environments and improved optical access for real-time and high-resolution imaging studies that allow high-content and quantitative analyses. Studying growing branched structures and the dynamics of cellular interactions with both biotic and abiotic cues provides context for molecule production and genetic manipulations. To make progress in this arena, technical and logistical barriers must be overcome to more effectively deploy microfluidics in biological disciplines. A principle technical barrier is the process of assembling, sterilizing, and hydrating the microfluidic system; the lack of the necessary equipment for the preparatory process is a contributing factor to this barrier. To improve access to microfluidic systems, we present the development, characterization, and implementation of a microfluidics assembly and packaging process that builds on self-priming point-of-care principles to achieve &quot;ready-to-use microfluidics.&quot;</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">We present results from domestic and international collaborations using novel microfluidic architectures prepared with a unique packaging protocol. We implement this approach by focusing primarily on filamentous fungi; we also demonstrate the utility of this approach for collaborations on plants and neurons. In this work we (1) determine the shelf-life of ready-to-use microfluidics, (2) demonstrate biofilm-like colonization on fungi, (3) describe bacterial motility on fungal hyphae (fungal highway), (4) report material-dependent bacterial-fungal colonization, (5) demonstrate germination of vacuum-sealed <i>Arabidopsis</i> seeds in microfluidics stored for up to 2 weeks, and (6) observe bidirectional cytoplasmic streaming in fungi.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">This pre-packaging approach provides a simple, one step process to initiate microfluidics in any setting for fungal studies, bacteria-fungal interactions, and other biological inquiries. This process improves access to microfluidics for controlling biological microenvironments, and further enabling visual and quantitative analysis of fungal cultures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Millet</LastName>
+                    <ForeName>Larry J</ForeName>
+                    <Initials>LJ</Initials>
+                    <Identifier Source="ORCID">0000-0001-6443-2505</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Biosciences Division, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2The Bredesen Center, University of Tennessee-Knoxville, Knoxville, TN 37996 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2315 1184</Identifier>
+                        <Identifier Source="GRID">grid.411461.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aufrecht</LastName>
+                    <ForeName>Jayde</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2The Bredesen Center, University of Tennessee-Knoxville, Knoxville, TN 37996 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2315 1184</Identifier>
+                        <Identifier Source="GRID">grid.411461.7</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3The Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Labbé</LastName>
+                    <ForeName>Jessy</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0003-0368-2054</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Biosciences Division, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Department of Biochemistry and Cellular and Molecular Biology, The University of Tennessee, Knoxville, TN 37996 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2315 1184</Identifier>
+                        <Identifier Source="GRID">grid.411461.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uehling</LastName>
+                    <ForeName>Jessie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5Biology Department, Duke University, Box 90338, Durham, NC 27708 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 7961</Identifier>
+                        <Identifier Source="GRID">grid.26009.3d</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6Department of Plant and Microbial Biology, University of California at Berkeley, Berkeley, CA 94703 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2181 7878</Identifier>
+                        <Identifier Source="GRID">grid.47840.3f</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vilgalys</LastName>
+                    <ForeName>Rytas</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5Biology Department, Duke University, Box 90338, Durham, NC 27708 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 7961</Identifier>
+                        <Identifier Source="GRID">grid.26009.3d</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Estes</LastName>
+                    <ForeName>Myka L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>7The Center for Neuroscience, University of California Davis, One Shields Avenue, Davis, CA 95618 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 9684</Identifier>
+                        <Identifier Source="GRID">grid.27860.3b</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miquel Guennoc</LastName>
+                    <ForeName>Cora</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Biosciences Division, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>8Institut national de la recherche agronomique (INRA), Centre INRA-Lorraine, 54280 Champenoux, France.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2169 1988</Identifier>
+                        <Identifier Source="GRID">grid.414548.8</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deveau</LastName>
+                    <ForeName>Aurélie</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>8Institut national de la recherche agronomique (INRA), Centre INRA-Lorraine, 54280 Champenoux, France.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2169 1988</Identifier>
+                        <Identifier Source="GRID">grid.414548.8</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsson</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Agricultural and Forestry University, Fuzhou City, 350002 Fujian Province China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonito</LastName>
+                    <ForeName>Gregory</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>10Department of Plant, Soil and Microbial Sciences, Michigan State University, East Lansing, MI 48824 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2150 1785</Identifier>
+                        <Identifier Source="GRID">grid.17088.36</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doktycz</LastName>
+                    <ForeName>Mitchel J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Identifier Source="ORCID">0000-0003-4856-8343</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Biosciences Division, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2The Bredesen Center, University of Tennessee-Knoxville, Knoxville, TN 37996 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2315 1184</Identifier>
+                        <Identifier Source="GRID">grid.411461.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Retterer</LastName>
+                    <ForeName>Scott T</ForeName>
+                    <Initials>ST</Initials>
+                    <Identifier Source="ORCID">0000-0001-8534-1979</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Biosciences Division, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2The Bredesen Center, University of Tennessee-Knoxville, Knoxville, TN 37996 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2315 1184</Identifier>
+                        <Identifier Source="GRID">grid.411461.7</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3The Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, PO Box 2008, MS 6445, Oak Ridge, TN 37831 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0446 2659</Identifier>
+                        <Identifier Source="GRID">grid.135519.a</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fungal Biol Biotechnol</MedlineTA>
+            <NlmUniqueID>101655873</NlmUniqueID>
+            <ISSNLinking>2054-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Arabidopsis</Keyword>
+            <Keyword MajorTopicYN="N">Bacterial-fungal interactions</Keyword>
+            <Keyword MajorTopicYN="N">Branching biology</Keyword>
+            <Keyword MajorTopicYN="N">Cell culture</Keyword>
+            <Keyword MajorTopicYN="N">Fungi</Keyword>
+            <Keyword MajorTopicYN="N">Microfluidics</Keyword>
+            <Keyword MajorTopicYN="N">Neuron</Keyword>
+            <Keyword MajorTopicYN="N">Plant root</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198578</ArticleId>
+            <ArticleId IdType="doi">10.1186/s40694-019-0071-z</ArticleId>
+            <ArticleId IdType="pii">71</ArticleId>
+            <ArticleId IdType="pmc">PMC6556955</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198240</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of Adding Dexmedetomidine to Intra-articular Levobupivacaine on Postoperative Pain after Knee Arthroscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>254-258</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_23_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background and Aims" NlmCategory="UNASSIGNED">Intrarticular ingection of local anesthetics in the knee joint decreases postoperative pain after knee arthrosopy. Dexmedetomidine an α<sub>2</sub> agonist has sedative and analgesic effects and decreases postoperative pain after knee arthroscopy when injected intraarticulary. Levobubivacaine is a long acting local anesthetic with less toxicity than bubivacaine. We compared the analgesic effects of dexmedetomidine when added to intraarticular levobupivacaine in patients posted for knee arthroscopy.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Data were first tested for normality by Kolmogorov-Smirnov test. Study was done on 90 patients. Patients were divided into 3 groups 30 patients each. Group (C) received 50 ml saline only as a control group. Group (L) received 50 ml 0.25% levobupivacaine. Group (L/D) received 50 ml 0.25% levobupivacaine and dexmedetomidine 1μg.kg-1. (VAS) score was used to assess postoperative pain. Time of first pethidine demand and total dose of pethidine in the first 24 h were recorded, also postoperative complications such as pruritis, nausea and vomiting. SPSS version 16 was used for data analysis. <i>P</i> &lt; 0.05 was considered significant.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Postoperative VAS sore at different intervals was less in Group LD than Group L than Group C, time to the first pethedine injection in (min) was longer (39 ± 6, 31 ± 7, 21 ± 6), and total pethedine dose given (mg) was lower (36 ± 9.8, 64 ± 19, 102 ± 24) in Group LD than Group L than Group C respectively.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Adding dexmedetomidine to intraarticular levobupivacaine in patients undergoing knee arthroscopy provides more analgesic effect with lower pain scores than levobupivacaine alone with less use of postoperative analgesics during the first 24 h.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El Baz</LastName>
+                    <ForeName>Mohamed Maher</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology and Intesive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farahat</LastName>
+                    <ForeName>Tamer El Metwally</ForeName>
+                    <Initials>TEM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology and Intesive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dexmedetomidine</Keyword>
+            <Keyword MajorTopicYN="N">evobupivacaine</Keyword>
+            <Keyword MajorTopicYN="N">intraarticular</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198240</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_23_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-254</ArticleId>
+            <ArticleId IdType="pmc">PMC6545963</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

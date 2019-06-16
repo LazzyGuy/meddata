@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200273</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0457</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>186</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of experimental child psychology</Title>
+                <ISOAbbreviation>J Exp Child Psychol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fine motor skills and mental imagery: Is it all in the mind?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-0965(19)30101-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jecp.2019.05.002</ELocationID>
+            <Abstract>
+                <AbstractText>Previous work has indicated that children's fine motor skills (FMS) contribute to cognitive performance in a number of domains. A philosophically and scientifically central aspect of cognitive skill is the ability to mentally simulate external events; however, very little research has examined whether FMS relate to mental imagery. Children aged 35-129 months (N = 294) were administered measures of FMS and mental imagery. Control variables included working memory, vocabulary, visual closure, chronological age, and a vast array of stimulus lexical features. Multilevel linear models indicated that FMS uniquely predicted mental imagery abilities, as did visual closure, chronological age, and various lexical features, whereas working memory and vocabulary did not. Findings are taken to support the idea that both mental imagery and FMS share, in part, similar functional systems.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martzog</LastName>
+                    <ForeName>Philipp</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Regensburg, 93040 Regensburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suggate</LastName>
+                    <ForeName>Sebastian Paul</ForeName>
+                    <Initials>SP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Regensburg, 93040 Regensburg, Germany. Electronic address: sebastian.suggate@ur.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Child Psychol</MedlineTA>
+            <NlmUniqueID>2985128R</NlmUniqueID>
+            <ISSNLinking>0022-0965</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Embodied cognition</Keyword>
+            <Keyword MajorTopicYN="N">Fine motor skills</Keyword>
+            <Keyword MajorTopicYN="N">Grounded cognition</Keyword>
+            <Keyword MajorTopicYN="N">Mental imagery</Keyword>
+            <Keyword MajorTopicYN="N">Mental simulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200273</ArticleId>
+            <ArticleId IdType="pii">S0022-0965(19)30101-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jecp.2019.05.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198341</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-4879</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacy &amp; bioallied sciences</Title>
+                <ISOAbbreviation>J Pharm Bioallied Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of Resin Penetration Depth in Enamel Surface for Orthodontic Bonding Exposed to Five Types of Enamel Conditioning Methods: A Scanning Electron Microscopic Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S221-S227</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/JPBS.JPBS_301_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="Aims and Objectives" NlmCategory="UNASSIGNED">To evaluate the enamel surface depth of resin penetration for orthodontic bonding when exposed to five types of enamel conditioning methods using scanning electron microscope.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">The sample comprised of 25 human extracted premolar teeth for orthodontic reasons. The samples are divided into 5 groups with each 5 teeth based on the enamel conditioning methods such as group A with 37% Phosphoric acid, group B with 10% Polyacrylic acid, group C with Self etch primer, group D with Laser etching and group E with air abrasion etching. All the samples in each group are bonded with metal brackets using Transbond XT Adhesive. After bonding, the teeth are sectioned mesiodistally using hard-tissue microtome and observed under scanning electron microscope at 500x and 3000x for the calculation of depth of resin penetration.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The teeth etched with 37%phosphoric acid exhibited significantly greater depth of resin penetration (15.1µm) than do self-etch and polyacrylic acid. Laser etching has comparable penetration depth with that of acid etching. Air abrasion has got the least penetration of all groups.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Comparing the enamel treated with these conditioning methods, the penetration of resin material into enamel are greater when it is treated with 37% Phosphoric acid than self-etch or laser etching.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bhandari</LastName>
+                    <ForeName>D Pawan Kumar</ForeName>
+                    <Initials>DPK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, Vivekanandha Dental College for Women, Tiruchengode, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anbuselvan</LastName>
+                    <ForeName>Gobichettipalayam J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Private Practitioner, Erode, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karthi</LastName>
+                    <ForeName>Muthukumar</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, KSR Institute of Dental Science and Research, Tiruchengode, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Pharm Bioallied Sci</MedlineTA>
+            <NlmUniqueID>101537209</NlmUniqueID>
+            <ISSNLinking>0975-7406</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acid etching</Keyword>
+            <Keyword MajorTopicYN="N">depth of resin penetration</Keyword>
+            <Keyword MajorTopicYN="N">laser etching</Keyword>
+            <Keyword MajorTopicYN="N">resin tags</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198341</ArticleId>
+            <ArticleId IdType="doi">10.4103/JPBS.JPBS_301_18</ArticleId>
+            <ArticleId IdType="pii">JPBS-11-221</ArticleId>
+            <ArticleId IdType="pmc">PMC6555353</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

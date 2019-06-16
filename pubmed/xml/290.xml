@@ -1,0 +1,225 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200116</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-7568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta biomaterialia</Title>
+                <ISOAbbreviation>Acta Biomater</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential outcomes of venous and arterial tissue engineered vascular grafts highlight the importance of coupling long-term implantation studies with computational modeling.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1742-7061(19)30390-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.actbio.2019.05.063</ELocationID>
+            <Abstract>
+                <AbstractText>Electrospinning is commonly used to generate polymeric scaffolds for tissue engineering. Using this approach, we developed a small-diameter tissue engineered vascular graft (TEVG) composed of poly-ε-caprolactone-co-L-lactic acid (PCLA) fibers and longitudinally assessed its performance within both the venous and arterial circulations of immunodeficient (SCID/bg) mice. Based on in vitro analysis demonstrating complete loss of graft strength by 12 weeks, we evaluated neovessel formation in vivo over 6-, 12- and 24-week periods. Mid-term observations indicated excellent physiologic graft function, characterized by 100% patency and excellent luminal matching with adjoining native vessel in both the venous and arterial circulations. An active and robust remodeling process was characterized by a confluent endothelial cell monolayer, macrophage infiltrate, and extracellular matrix deposition and remodeling. Long-term follow-up of venous TEVGs at 24 weeks revealed viable neovessel formation beyond graft degradation when implanted in this high flow, low-pressure environment. Arterial TEVGs experienced catastrophic graft failure due to aneurysmal dilatation and rupture after 14 weeks. Scaffold parameters such as porosity, fiber diameter, and degradation rate informed a previously described computational model of vascular growth and remodeling, and simulations predicted the gross differential performance of the venous and arterial TEVGs over the 24-week time course. Taken together, these results highlight the requirement for in vivo implantation studies to extend past the critical time period of polymer degradation, the importance of differential neotissue deposition relative to the mechanical (pressure) environment, and further support the utility of predictive modeling in the design, use, and evaluation of TEVGs in vivo. STATEMENT OF SIGNIFICANCE: Herein, we apply a biodegradable electrospun vascular graft to the arterial and venous circulations of the mouse and follow recipients beyond the point of polymer degradation. While venous implants formed viable neovessels, arterial grafts experienced catastrophic rupture due to aneurysmal dilation. We then inform a previously developed computational model of tissue engineered vascular graft growth and remodeling with parameters specific to the electrospun scaffolds utilized in this study. Remarkably, model simulations predict the differential performance of the venous and arterial constructs over 24 weeks. We conclude that computational simulations should inform the rational selection of scaffold parameters to fabricate tissue engineered vascular grafts that must be followed in vivo over time courses extending beyond polymer degradation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Best</LastName>
+                    <ForeName>Cameron A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Regenerative Medicine, Tissue Engineering Program, The Research Institute at Nationwide Children's Hospital, Columbus OH, United States; Biomedical Sciences Graduate Program, The Ohio State University College of Medicine, Columbus OH, United States. Electronic address: Cameron.Best@nationwidechildrens.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szafron</LastName>
+                    <ForeName>Jason M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Yale University, New Haven CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rocco</LastName>
+                    <ForeName>Kevin A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biorez, Inc., New Haven CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zbinden</LastName>
+                    <ForeName>Jacob</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Regenerative Medicine, Tissue Engineering Program, The Research Institute at Nationwide Children's Hospital, Columbus OH, United States; Biomedical Engineering Graduate Program, The Ohio State University College of Engineering, Columbus OH, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dean</LastName>
+                    <ForeName>Ethan W</ForeName>
+                    <Initials>EW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthopaedic Surgery, University of Florida, Gainesville, FL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maxfield</LastName>
+                    <ForeName>Mark W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic Surgery, University of Massachusetts Memorial Medical Center, Worcester MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurobe</LastName>
+                    <ForeName>Hirotsugu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiovascular Surgery, Institute of Biomedical Sciences, Tokushima University Graduate School, Tokushima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tara</LastName>
+                    <ForeName>Shuhei</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiovascular Medicine, Nippon Medical School, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bagi</LastName>
+                    <ForeName>Paul S</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthopaedic Surgery, Yale-New Haven Hospital, New Haven CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Udelsman</LastName>
+                    <ForeName>Brooks V</ForeName>
+                    <Initials>BV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Massachusetts General Hospital, Boston MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khosravi</LastName>
+                    <ForeName>Ramak</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Yale University, New Haven CT, United States; Vascular Biology and Therapeutics Program, Yale University School of Medicine, New Haven CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Tai</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Regenerative Medicine, Tissue Engineering Program, The Research Institute at Nationwide Children's Hospital, Columbus OH, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shinoka</LastName>
+                    <ForeName>Toshiharu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Regenerative Medicine, Tissue Engineering Program, The Research Institute at Nationwide Children's Hospital, Columbus OH, United States; Department of Cardiac Surgery, Nationwide Children's Hospital, Columbus OH, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Humphrey</LastName>
+                    <ForeName>Jay D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Yale University, New Haven CT, United States; Vascular Biology and Therapeutics Program, Yale University School of Medicine, New Haven CT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breuer</LastName>
+                    <ForeName>Christopher K</ForeName>
+                    <Initials>CK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Regenerative Medicine, Tissue Engineering Program, The Research Institute at Nationwide Children's Hospital, Columbus OH, United States; Department of Surgery, Nationwide Children's Hospital, Columbus OH, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Acta Biomater</MedlineTA>
+            <NlmUniqueID>101233144</NlmUniqueID>
+            <ISSNLinking>1742-7061</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biodegradable scaffold</Keyword>
+            <Keyword MajorTopicYN="N">electrospinning</Keyword>
+            <Keyword MajorTopicYN="N">neovessel</Keyword>
+            <Keyword MajorTopicYN="N">predictive modelling</Keyword>
+            <Keyword MajorTopicYN="N">tissue-engineered vascular graft</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200116</ArticleId>
+            <ArticleId IdType="pii">S1742-7061(19)30390-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.actbio.2019.05.063</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

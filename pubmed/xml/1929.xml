@@ -1,0 +1,190 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198192</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Real-World Evidence in Healthcare Decision Making: Global Trends and Case Studies From Latin America.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>739-749</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30077-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2019.01.014</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Real-world evidence (RWE) is increasingly used to inform health technology assessments for resource allocation, which are valuable tools for emerging economies such as in America. Nevertheless, the characteristics and uses in South America are unknown.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To identify sources, characteristics, and uses of RWE in Argentina, Brazil, Colombia, and Chile, and evaluate the context-specific challenges. The implications for future regulation and responsible management of RWE in the region are also considered.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A systematic literature review, database mapping, and targeted gray literature search were conducted to identify the sources and characteristics of RWE. Findings were validated by key opinion leaders attending workshops in 4 South American countries.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A database mapping exercise revealed 407 unique databases. Geographic scope, database type, population, and outcomes captured were reported. Characteristics of national health information systems show efforts to collect interoperable data from service providers, insurers, and government agencies, but that initiatives are hampered by fragmentation, lack of stewardship, and resources. In South America, RWE is mainly used for pharmacovigilance and as pure academic research, but less so for health technology assessment decision making or pricing negotiations and not at all to inform early access schemes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The quality of real-world data in the case study countries vary and RWE is not consistently used in healthcare decision making. Authors recommend that future studies monitor the impact of digitalization and the potential effects of access to RWE on the quality of patient care.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Justo</LastName>
+                    <ForeName>Nahila</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurobiology, Care Sciences and Society, Karolinska Institute, Stockholm, Sweden; Real World Evidence, Strategy and Analytics, ICON plc, Stockholm, Sweden. Electronic address: nahila.justo@ki.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Espinoza</LastName>
+                    <ForeName>Manuel A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Pontificia Universidad Católica del Chile, Santiago, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ratto</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Novartis Pharmaceuticals Corp, East Hanover, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicholson</LastName>
+                    <ForeName>Martha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Real World Evidence, Strategy and Analytics, ICON plc, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosselli</LastName>
+                    <ForeName>Diego</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Biostatistics Department, Pontificia Universidad Javeriana, Bogatá, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ovcinnikova</LastName>
+                    <ForeName>Olga</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>HTA Strategy and Analytics, ICON plc, London, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García Martí</LastName>
+                    <ForeName>Sebastián</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Clinical Effectiveness and Public Health, Buenos Aires, Argentina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferraz</LastName>
+                    <ForeName>Marcos B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal University of São Paulo, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Langsam</LastName>
+                    <ForeName>Martín</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Isalud, Buenos Aires, Argentina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drummond</LastName>
+                    <ForeName>Michael F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Health Economics, University of York, York, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Latin America</Keyword>
+            <Keyword MajorTopicYN="N">big data</Keyword>
+            <Keyword MajorTopicYN="N">epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">health policy</Keyword>
+            <Keyword MajorTopicYN="N">health technology assessment</Keyword>
+            <Keyword MajorTopicYN="N">real-world evidence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198192</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30077-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2019.01.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

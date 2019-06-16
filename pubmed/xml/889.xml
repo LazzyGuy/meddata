@@ -1,0 +1,290 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199448</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2574-3805</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA network open</Title>
+                <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of Outcomes After Transcatheter Aortic Valve Replacement vs Surgical Aortic Valve Replacement Among Patients With Aortic Stenosis at Low Operative Risk.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e195742</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2019.5742</ELocationID>
+            <Abstract>
+                <AbstractText Label="Importance" NlmCategory="UNASSIGNED">Transcatheter aortic valve replacement (TAVR) has been shown to be a valid alternative to surgical aortic valve replacement (SAVR) in patients at high operative risk with severe aortic stenosis (AS). However, the evidence of the benefits and harms of TAVR in patients at low operative risk is still scarce.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To compare the short-term and midterm outcomes after TAVR and SAVR in low-risk patients with AS.</AbstractText>
+                <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">This retrospective comparative effectiveness cohort study used data from the Nationwide Finnish Registry of Transcatheter and Surgical Aortic Valve Replacement for Aortic Valve Stenosis of patients at low operative risk who underwent TAVR or SAVR with a bioprosthesis for severe AS from January 1, 2008, to November 30, 2017. Low operative risk was defined as a Society of Thoracic Surgeons Predicted Risk of Mortality score less than 3% without other comorbidities of clinical relevance. One-to-one propensity score matching was performed to adjust for baseline covariates between the TAVR and SAVR cohorts.</AbstractText>
+                <AbstractText Label="Exposures" NlmCategory="UNASSIGNED">Primary TAVR or SAVR with a bioprosthesis for AS with or without associated coronary revascularization.</AbstractText>
+                <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">The primary outcomes were 30-day and 3-year survival.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Overall, 2841 patients (mean [SD] age, 74.0 [6.2] years; 1560 [54.9%] men) fulfilled the inclusion criteria and were included in the analysis; TAVR was performed in 325 patients and SAVR in 2516 patients. Propensity score matching produced 304 pairs with similar baseline characteristics. Third-generation devices were used in 263 patients (86.5%) who underwent TAVR. Among these matched pairs, 30-day mortality was 1.3% after TAVR and 3.6% after SAVR (P = .12). Three-year survival was similar in the study cohorts (TAVR, 85.7%; SAVR, 87.7%; P = .45). Interaction tests found no differences in terms of 3-year survival between the study cohorts in patients younger than vs older than 80 years or in patients who received recent aortic valve prostheses vs those who did not.</AbstractText>
+                <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">Transcatheter aortic valve replacement using mostly third-generation devices achieved similar short- and mid-term survival compared with SAVR in low-risk patients. Further studies are needed to assess the long-term durability of TAVR prostheses before extending their use to low-risk patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Virtanen</LastName>
+                    <ForeName>Marko P O</ForeName>
+                    <Initials>MPO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Hospital, Tampere University Hospital, Faculty of Medicine and Health Technology, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eskola</LastName>
+                    <ForeName>Markku</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Hospital, Tampere University Hospital, Faculty of Medicine and Health Technology, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jalava</LastName>
+                    <ForeName>Maina P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Husso</LastName>
+                    <ForeName>Annastiina</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Kuopio University Hospital, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laakso</LastName>
+                    <ForeName>Teemu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niemelä</LastName>
+                    <ForeName>Matti</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Oulu University Hospital, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahvenvaara</LastName>
+                    <ForeName>Tuomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Oulu University Hospital, University of Oulu, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tauriainen</LastName>
+                    <ForeName>Tuomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Oulu University Hospital, University of Oulu, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maaranen</LastName>
+                    <ForeName>Pasi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Hospital, Tampere University Hospital, Faculty of Medicine and Health Technology, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kinnunen</LastName>
+                    <ForeName>Eeva-Maija</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahlbacka</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaakkola</LastName>
+                    <ForeName>Jussi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasankari</LastName>
+                    <ForeName>Tuija</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Airaksinen</LastName>
+                    <ForeName>Juhani</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anttila</LastName>
+                    <ForeName>Vesa</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosato</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre of Global Health, Istituto Superiore di Sanità, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Errigo</LastName>
+                    <ForeName>Paola</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre of Global Health, Istituto Superiore di Sanità, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savontaus</LastName>
+                    <ForeName>Mikko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Juvonen</LastName>
+                    <ForeName>Tatu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laine</LastName>
+                    <ForeName>Mika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mäkikallio</LastName>
+                    <ForeName>Timo</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Oulu University Hospital, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valtola</LastName>
+                    <ForeName>Antti</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Kuopio University Hospital, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raivio</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biancari</LastName>
+                    <ForeName>Fausto</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Center, Turku University Hospital, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Oulu University Hospital, University of Oulu, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Turku, Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Netw Open</MedlineTA>
+            <NlmUniqueID>101729235</NlmUniqueID>
+            <ISSNLinking>2574-3805</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199448</ArticleId>
+            <ArticleId IdType="pii">2735762</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamanetworkopen.2019.5742</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

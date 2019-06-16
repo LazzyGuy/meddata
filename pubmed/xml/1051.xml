@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199278</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2208</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE journal of biomedical and health informatics</Title>
+                <ISOAbbreviation>IEEE J Biomed Health Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automatic CIN grades prediction of sequential cervigram image using LSTM with multistate CNN features.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/JBHI.2019.2922682</ELocationID>
+            <Abstract>
+                <AbstractText>Cervical cancer ranks as the second most common cancer in women worldwide. In clinical practice, colposcopy is an indispensable part of screening for cervical intraepithelial neoplasia (CIN) grades and cervical cancer but exhibits high misdiagnosis rate. Existing computer-assisted algorithms for analyzing cervigram images have neglected that colposcopy is a sequential and multistate process, which is unsuitable for clinical applications. In this work, we construct a cervigram-based recurrent convolutional neural network (C-RCNN) to classify different CIN grades and cervical cancer. Convolutional neural networks (CNN) are leveraged to extract spatial features. We develop a sequence-encoding module to encode discriminative temporal features and a multistate-aware convolutional layer to integrate features from different states of cervigram images. To train and evaluate the performance of C-RCNN, we leveraged a dataset of 4,753 real cervigrams and obtained 96.13% test accuracy with a specificity and sensitivity of 98.22% and 95.09%, respectively. Areas under each receiver operating characteristic curves (AUC) are above 0.94, proving that visual representations and sequential dynamics can be jointly and effectively optimized in the training phase. Comparative analysis demonstrated the effectiveness of the proposed C-RCNN against competing methods, showing significant improvement over only focusing on a single frame. This architecture can be extended to other applications in medical image analysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yue</LastName>
+                    <ForeName>Zijie</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Shuai</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Weidong</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Youtao</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yanchun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE J Biomed Health Inform</MedlineTA>
+            <NlmUniqueID>101604520</NlmUniqueID>
+            <ISSNLinking>2168-2194</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199278</ArticleId>
+            <ArticleId IdType="doi">10.1109/JBHI.2019.2922682</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,179 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198921</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-3372</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nanoscale</Title>
+                <ISOAbbreviation>Nanoscale</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spontaneous in-flight assembly of magnetic nanoparticles into macroscopic chains.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9nr02314c</ELocationID>
+            <Abstract>
+                <AbstractText>Knowing the interactions controlling aggregation processes in magnetic nanoparticles is of strong interest in preventing or promoting nanoparticles' aggregation at wish for different applications. Dipolar magnetic interactions, proportional to the particle volume, are identified as the key driving force behind the formation of macroscopic aggregates for particle sizes above about 20 nm. However, aggregates' shape and size are also strongly influenced by topological ordering. 1-D macroscopic chains of several micrometer lengths are obtained with cube-shaped magnetic nanoparticles prepared by the gas-aggregation technique. Using an analytical model and molecular dynamics simulations, the energy landscape of interacting cube-shaped magnetic nanoparticles is analysed revealing unintuitive dependence of the force acting on particles with the displacement and explaining pathways leading to their assembly into long linear chains. The mechanical behaviour and magnetic structure of the chains are studied by a combination of atomic and magnetic force measurements, and computer simulation. The results demonstrate that [111] magnetic anisotropy of the cube-shaped nanoparticles strongly influences chain assembly features.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balcells</LastName>
+                    <ForeName>Lluis</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6603-7357</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanković</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5756-7196</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Scientific Computing Laboratory, Center for the Study of Complex Systems, Institute of Physics Belgrade, University of Belgrade, 11080 Belgrade, Serbia. igor.stankovic@ipb.ac.rs.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konstantinović</LastName>
+                    <ForeName>Zorica</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6871-7038</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Solid State Physics and New Materials, Institute of Physics Belgrade, University of Belgrade, Pregrevica 118, 11080 Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alagh</LastName>
+                    <ForeName>Aanchal</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2466-8219</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fuentes</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7817-1649</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López-Mir</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5279-8849</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oró</LastName>
+                    <ForeName>Judit</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3755-4950</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mestres</LastName>
+                    <ForeName>Narcis</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6468-4227</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4578-5396</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Física &amp; Centro Científico Tecnológico de Valparaíso-CCTVal, Universidad Técnica Federico Santa María, Av. España 1680, Casilla 110-V, Valparaíso, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pomar</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5855-2356</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martínez</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9879-7748</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus de la UAB, 08193 Bellaterra, Catalonia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nanoscale</MedlineTA>
+            <NlmUniqueID>101525249</NlmUniqueID>
+            <ISSNLinking>2040-3364</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198921</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9nr02314c</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

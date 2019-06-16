@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199708</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1941-2703</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of aerosol medicine and pulmonary drug delivery</Title>
+                <ISOAbbreviation>J Aerosol Med Pulm Drug Deliv</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Delivered Lung Dose and Aerodynamic Particle Size Distribution of Salbutamol Pressurized Metered Dose Inhaler After Living Under Patients' Realistic Retention Environments.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/jamp.2019.1526</ELocationID>
+            <Abstract>
+                <AbstractText><b>
+                        <i>Background:</i>
+                    </b> The impact of inhalers' postdispensing, real-life temperature and relative humidity (RH) environments on their delivered dose (DD) and aerodynamic particle size distribution (APSD) is usually overlooked. This work evaluated the salbutamol DD and APSD of Ventolin<sup>®</sup> Evohaler<sup>®</sup> (V) inhalers already been used and stored by respiratory patients. <b>
+                        <i>Methods:</i>
+                    </b> Adult patients, prescribed V for ≥3 months before study enrollment, were dispensed both new V to use and portable, handheld electronic temperature and RH data loggers to keep close to the given V before returning them both after 2-3 weeks. Patients' enrollment took place during summer (VS) and winter (VW) seasons. The returned V was then <i>in vitro</i> evaluated using the Next Generation Impactor, and compared with control V (VC) counterparts stored under 21°C and 46% RH. <b>
+                        <i>Results:</i>
+                    </b> The VS survived in fluctuating habitats of 21.2°C-40.4°C and 16.2%-63.2% RH, which significantly (<i>p</i> &lt; 0.05) decreased the salbutamol DD from 80.4 to 70.5 μg compared with VC. This 12.3% DD reduction was accompanied with a decrease in the fine particle dose from 26.2 to 20.4 μg (<i>p</i> &lt; 0.05), and an increase in the mass median aerodynamic diameter from 2.3 to 2.5 μm (<i>p</i> &lt; 0.05). The VW and VC had equivalent DD and APSD. <b>
+                        <i>Conclusion:</i>
+                    </b> Patients using V are expected to receive smaller lung doses during the hot summer season compared with intentionally well-kept VC. To have equivalent lung deposition, V users should be advised to retain their inhalers around 20°C with minimal daily environmental fluctuations during summer times.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ammari</LastName>
+                    <ForeName>Wesam G</ForeName>
+                    <Initials>WG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Faculty of Pharmacy and Medical Sciences, Al-Ahliyya Amman University, Amman, Jordan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khalil Mohammad</LastName>
+                    <ForeName>Mohammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 ACDIMA Centre for Bioequivalence and Pharmaceutical Studies, Amman, Jordan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tayyem</LastName>
+                    <ForeName>Rabab F</ForeName>
+                    <Initials>RF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 ACDIMA Centre for Bioequivalence and Pharmaceutical Studies, Amman, Jordan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Gary P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Institute of Pharmaceutical Science, King's College London, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Royall</LastName>
+                    <ForeName>Paul G</ForeName>
+                    <Initials>PG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Institute of Pharmaceutical Science, King's College London, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Aerosol Med Pulm Drug Deliv</MedlineTA>
+            <NlmUniqueID>101475057</NlmUniqueID>
+            <ISSNLinking>1941-2711</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">aerosol emission</Keyword>
+            <Keyword MajorTopicYN="N">delivered dose</Keyword>
+            <Keyword MajorTopicYN="N">lung deposition</Keyword>
+            <Keyword MajorTopicYN="N">particle size distribution</Keyword>
+            <Keyword MajorTopicYN="N">pressurized metered dose inhaler</Keyword>
+            <Keyword MajorTopicYN="N">real-life inhaler environment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199708</ArticleId>
+            <ArticleId IdType="doi">10.1089/jamp.2019.1526</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

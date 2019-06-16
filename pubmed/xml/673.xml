@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199691</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-957X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Traffic injury prevention</Title>
+                <ISOAbbreviation>Traffic Inj Prev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Social environment versus cycling competency predicting risk-taking in 11- to 13-year-old cyclists in The Netherlands.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/15389588.2019.1613533</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objectives:</b> From age 12 onwards, cycling injuries begin rising in The Netherlands. A known contributing factor is younger children's underdeveloped competency to deal with complex and hazardous traffic situations, and their exposure to such situations strongly increases after transitioning to secondary school. Little is known about intentional risk-taking as a contributing factor. In this developmental stage, children become increasingly vulnerable because of intentional risk-taking, affecting their safety and health. The incidence, predictors in the child's social environment, and trends of such risks are systematically monitored; for instance, for alcohol use, smoking, and cyber bullying. Such monitors do not include risky road behavior. This exploratory field study examined the frequency of intentional risky cycling, its relationship with the perceived social environment, and relative to cycling competency measured as the ability to detect emerging hazards quickly. <b>Methods:</b> Three hundred thirty-five students between 11 and 13 years of age (51% male) completed computerized tests of hazard perception skill and surveys on crashes, risk-taking, peer pressure, perceived risk-taking by parents or friends, and exposure to risky driving as passenger. <b>Results:</b> Frequent risk-taking was associated with higher crash frequency. Stepwise regression confirmed that children who more often took risks on the road were also more sensitive to peer pressure, had more often been passengers of risky drivers, had parents and friends who exhibited risky behaviors in traffic more often, and perceived hazards as less dangerous but, in contrast to expectations, did not do worse on the detection of hazards. The predictors explained 28% of the variance in total risk-taking but varied from 6 to 20% depending on the specific risk-taking behavior concerned. <b>Conclusions:</b> At least 20% of children sometimes or more often take risks in traffic. Children who feel peer pressure to behave in a risky manner, observe parents and friends behaving in a risky manner in traffic, and have been exposed as passengers to risky driving more often take risks in traffic themselves. These results provide support for including items on risky road behavior in health monitors and to design interventions that address the risk factors in the child's perceived social environment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Twisk</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9352-9672</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Centre for Accident Research &amp; Road Safety-QLD , Queensland University of Technology , Kelvin Grove , Queensland , Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlakveld</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b SWOV Institute for Road Safety Research , The Hague , The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Traffic Inj Prev</MedlineTA>
+            <NlmUniqueID>101144385</NlmUniqueID>
+            <ISSNLinking>1538-9588</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Young adolescents</Keyword>
+            <Keyword MajorTopicYN="N">cycling competency</Keyword>
+            <Keyword MajorTopicYN="N">modeling</Keyword>
+            <Keyword MajorTopicYN="N">peer pressure</Keyword>
+            <Keyword MajorTopicYN="N">risk-taking</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199691</ArticleId>
+            <ArticleId IdType="doi">10.1080/15389588.2019.1613533</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

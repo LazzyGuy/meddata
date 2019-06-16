@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198965</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-9053</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant &amp; cell physiology</Title>
+                <ISOAbbreviation>Plant Cell Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel bacterial nitrate transporter composed of small transmembrane proteins.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pcz112</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/pcp/pcz112</ELocationID>
+            <Abstract>
+                <AbstractText>A putative silent gene of the freshwater cyanobacterium Synechococcus elongatus strain PCC 7942, encoding a small protein with two transmembrane helices, was named nrtS, since its overexpression from an inducible promoter conferred nitrate uptake activity on the nitrate transport-less NA4 mutant of S. elongatus. Homologs of nrtS, encoding proteins of 67-118 amino acid residues, are present in a limited number of eubacteria including mostly cyanobacteria and proteobacteria, but some others, e.g., the actinobacteria of the Mycobacterium tuberculosis complex, also have the gene. When expressed in NA4, the nrtS homolog of the γ-proteobacterium Marinomonas mediterranea took up nitrate with higher affinity for the substrate as compared to the S. elongatus NrtS (Km of 0.49 mM vs. 2.5 mM). Among the 61 bacterial species carrying the nrtS homolog, the marine cyanobacterium Synechococcus sp. strain PCC 7002 is unique in having two nrtS genes (nrtS1 and nrtS2) located in tandem on the chromosome. Coexpression of the two genes in NA4 resulted in nitrate uptake with a Km (NO3-) of 0.15 mM, while expression of either of the two resulted in low-affinity nitrate uptake activity with Km values of &gt; 3 mM, indicating that NrtS1 and NrtS2 form a heteromeric transporter complex. The heteromeric transporter was shown to transport nitrite as well. A Synechococcus sp. strain PCC 7002 mutant defective in the nitrate transporter (NrtP) showed a residual activity of nitrate uptake, which was ascribed to the NrtS proteins. Blue-native PAGE and immunoblotting analysis suggested a hexameric structure for the NrtS proteins.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Japanese Society of Plant Physiologists. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maeda</LastName>
+                    <ForeName>Shin-Ichi</ForeName>
+                    <Initials>SI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya 464-8601, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aoba</LastName>
+                    <ForeName>Risa</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya 464-8601, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishino</LastName>
+                    <ForeName>Yuma</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya 464-8601, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omata</LastName>
+                    <ForeName>Tatsuo</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya 464-8601, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Plant Cell Physiol</MedlineTA>
+            <NlmUniqueID>9430925</NlmUniqueID>
+            <ISSNLinking>0032-0781</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cyanobacteria</Keyword>
+            <Keyword MajorTopicYN="N">heteromeric complex</Keyword>
+            <Keyword MajorTopicYN="N">hexamer</Keyword>
+            <Keyword MajorTopicYN="N">nitrate</Keyword>
+            <Keyword MajorTopicYN="N">transmembrane protein</Keyword>
+            <Keyword MajorTopicYN="N">transporter</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198965</ArticleId>
+            <ArticleId IdType="pii">5518932</ArticleId>
+            <ArticleId IdType="doi">10.1093/pcp/pcz112</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

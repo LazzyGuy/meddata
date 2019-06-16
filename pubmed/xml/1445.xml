@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198821</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2352-1872</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bone reports</Title>
+                <ISOAbbreviation>Bone Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improved method for isolating high-quality RNA from mouse bone with RNA<i>later</i> at room temperature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100211</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bonr.2019.100211</ELocationID>
+            <Abstract>
+                <AbstractText>Accurate gene expression analysis of bone requires the ability to isolate RNA of good quality. Isolation of intact RNA from frozen bone tissue is problematic since RNA rapidly becomes degraded after thawing. Since we are interested in assessing gene expression from both bone marrow and mineralized bone, we aimed to develop improved simple, robust and statistically validated methods providing high-quality RNA from both mouse femur shaft and femur marrow. RNA integrity was quantified by the RNA Integrity Number (RIN) measured on a TapeStation. While the RNA stabilization reagent RNA<i>later</i> is not commonly used or recommended for mineralized bone, we found that preservation methods with RNA<i>later</i> significantly improved the RNA quality with a mean RIN for the femur shaft of 8.0 and a mean RIN for femur marrow of 9.6. With RNA<i>later</i>, high quality RNA with a mean RIN of 9.3 could also be isolated from lumbar vertebral bone. A further advantage of using RNA<i>later</i> is that the tissue can be allowed to thaw to room temperature before TRI Reagent lysis without any loss of RNA integrity. A comparison of the TRI Reagent method with a hybrid method combining TRI Reagent lysis with RNeasy column purification showed no difference in RNA integrity. However, the hybrid method seemed to give femur shaft RNA with fewer impurities inhibiting qRT-PCR.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pedersen</LastName>
+                    <ForeName>Kim B</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology &amp; Experimental Therapeutics, Louisiana State University Health Sciences Center (LSUHSC), New Orleans, LA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Ashlee</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology &amp; Experimental Therapeutics, Louisiana State University Health Sciences Center (LSUHSC), New Orleans, LA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watt</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology &amp; Experimental Therapeutics, Louisiana State University Health Sciences Center (LSUHSC), New Orleans, LA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ronis</LastName>
+                    <ForeName>Martin J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology &amp; Experimental Therapeutics, Louisiana State University Health Sciences Center (LSUHSC), New Orleans, LA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Bone Rep</MedlineTA>
+            <NlmUniqueID>101646176</NlmUniqueID>
+            <ISSNLinking>2352-1872</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CT, Cycle threshold value</Keyword>
+            <Keyword MajorTopicYN="N">RIN, RNA Integrity Number</Keyword>
+            <Keyword MajorTopicYN="N">RNA integrity number</Keyword>
+            <Keyword MajorTopicYN="N">RNA quality</Keyword>
+            <Keyword MajorTopicYN="N">RNAlater</Keyword>
+            <Keyword MajorTopicYN="N">TapeStation</Keyword>
+            <Keyword MajorTopicYN="N">qRT-PCR, Quantitative RT-PCR</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198821</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bonr.2019.100211</ArticleId>
+            <ArticleId IdType="pii">S2352-1872(19)30017-8</ArticleId>
+            <ArticleId IdType="pii">100211</ArticleId>
+            <ArticleId IdType="pmc">PMC6558217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

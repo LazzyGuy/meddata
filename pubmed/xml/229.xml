@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200178</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Difficulties for cost-benefit analysis in the 2020 environmental impact statement to recover the endangered wild salmon and steelhead in the Columbia River Basin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>434-443</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30727-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.05.099</ELocationID>
+            <Abstract>
+                <AbstractText>Runs of the endangered wild salmon/steelhead in the Columbia River basin may be only two to seven percent of historic levels. These fish are a common-pool resource, where stakeholders over-consume, pollute rivers and oceans, block passage with dams and culverts, operate net pen fish farms, and plant huge numbers of hatchery fish that compete with and hybridize wild fish. Rivers provide free or subsidized services that stakeholders covet, however recovery of the endangered wild fish requires that peoples utilizing the rivers and the ocean must constrain their behavior, often reducing their profit. A new Environmental Impact Statement (EIS) and cost-benefit analysis are in progress for recovery of the endangered wild salmon/steelhead in the Columbia River basin. New regulations require surveys of U.S. households to measure the non-use benefits of salmon/steelhead recovery that can be important for endangered species. We review the 2002 EIS for juvenile salmon migration on the lower Snake River tributary to find mistakes to avoid in the new EIS and in other recovery studies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McKean</LastName>
+                    <ForeName>John R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PO Box 95, Chimacum, WA, 98325, USA. Electronic address: ag_ent@msn.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Donn M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Economics Department, Quinnipiac University, Hamden. CT, 06518, USA. Electronic address: donn.johnson@quinnipiac.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Columbia river</Keyword>
+            <Keyword MajorTopicYN="N">Cost-benefit analysis</Keyword>
+            <Keyword MajorTopicYN="N">Dam breaching</Keyword>
+            <Keyword MajorTopicYN="N">Snake river</Keyword>
+            <Keyword MajorTopicYN="N">Wild pacific salmon/steelhead</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200178</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30727-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.05.099</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,150 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198178</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Estimating the Clinical Pipeline of Cell and Gene Therapies and Their Potential Economic Impact on the US Healthcare System.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>621-626</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30188-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2019.03.014</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To estimate, at the indication level, durable gene and cellular therapy new product launches in the United States through 2030, and the number of treated patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A statistical analysis of clinical trials pipeline data and disease incidence and prevalence was conducted to estimate the impact of new cell and gene therapies. We used Citeline's<sup>®</sup> Pharmaprojects<sup>®</sup> database to estimate the rates and timing of new product launches, on the basis of the phase of development, duration in phase, and probability of progression. Disease incidence and prevalence data were combined with estimates of market adoption to project the size of reimbursed patient populations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We project that about 350 000 patients will have been treated with 30 to 60 products by 2030. About half the launches are expected to be in B-cell (CD-19) lymphomas and leukemias.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cell and gene therapies promise durable clinical benefit from a single treatment course. High upfront reimbursement for these products means that the total costs could exceed what the healthcare system can manage. This creates a need for precision financing solutions and new reimbursement models that can ensure appropriate patient access to needed treatments, increase affordability for payers, and sustain private investment in innovation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quinn</LastName>
+                    <ForeName>Casey</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. Electronic address: caquinn@mit.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Colin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trusheim</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>MIT NEWDIGS FoCUS Writing Group</CollectiveName>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cell and gene therapies</Keyword>
+            <Keyword MajorTopicYN="N">drug pipeline</Keyword>
+            <Keyword MajorTopicYN="N">financing healthcare</Keyword>
+            <Keyword MajorTopicYN="N">managed care</Keyword>
+            <Keyword MajorTopicYN="N">pharmaceuticals</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198178</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30188-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2019.03.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

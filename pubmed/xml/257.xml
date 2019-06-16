@@ -1,0 +1,205 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200149</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2213-1582</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>NeuroImage. Clinical</Title>
+                <ISOAbbreviation>Neuroimage Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Visual cognition in non-amnestic Alzheimer's disease: Relations to tau, amyloid, and cortical atrophy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101889</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2213-1582(19)30239-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nicl.2019.101889</ELocationID>
+            <Abstract>
+                <AbstractText>Heterogeneity within the Alzheimer's disease (AD) syndromic spectrum is typically classified in a domain-specific manner (e.g., language vs. visual cognitive function). The central aim of this study was to investigate whether impairment in visual cognitive tasks thought to be subserved by posterior cortical dysfunction in non-amnestic AD presentations is associated with tau, amyloid, or neurodegeneration in those regions using <sup>18</sup>F-AV-1451 and <sup>11</sup>C-PiB positron emission tomography (PET) and magnetic resonance imaging (MRI). Sixteen amyloid-positive patients who met criteria for either Posterior Cortical Atrophy (PCA; n = 10) or logopenic variant Primary Progressive Aphasia (lvPPA; n = 6) were studied. All participants underwent a structured clinical assessment, neuropsychological battery, structural MRI, amyloid PET, and tau PET. The neuropsychological battery included two visual cognitive tests: VOSP Number Location and Benton Facial Recognition. Surface-based whole-cortical general linear models were used to first explore the similarities and differences between these biomarkers in the two patient groups, and then to assess their regional associations with visual cognitive test performance. The results show that these two variants of AD have both dissociable and overlapping areas of tau and atrophy, but amyloid is distributed with a stereotyped localization in both variants. Performance on both visual cognitive tests were associated with tau and atrophy in the right lateral and medial occipital association cortex, superior parietal cortex, and posterior ventral occipitotemporal cortex. No cortical associations were observed with amyloid PET. We further demonstrate that cortical atrophy has a partially mediating effect on the association between tau pathology and visual cognitive task performance. Our findings show that non-amnestic variants of AD have partially dissociable spatial patterns of tau and atrophy that localize as expected based on symptoms, but similar patterns of amyloid. Further, we demonstrate that impairments of visual cognitive dysfunction are strongly associated with tau in visual cortical regions and mediated in part by atrophy.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Putcha</LastName>
+                    <ForeName>Deepti</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA. Electronic address: dputcha@mgh.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brickhouse</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Touroutoglou</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collins</LastName>
+                    <ForeName>Jessica A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quimby</LastName>
+                    <ForeName>Megan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Bonnie</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eldaief</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schultz</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alzheimer's Disease Research Center, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Fakhri</LastName>
+                    <ForeName>Georges</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gordon Center for Medical Imaging, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Radiology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alzheimer's Disease Research Center, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Gordon Center for Medical Imaging, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Radiology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dickerson</LastName>
+                    <ForeName>Bradford C</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Alzheimer's Disease Research Center, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGinnis</LastName>
+                    <ForeName>Scott M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontotemporal Disorders Unit, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA; Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Neuroimage Clin</MedlineTA>
+            <NlmUniqueID>101597070</NlmUniqueID>
+            <ISSNLinking>2213-1582</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alzheimer's disease</Keyword>
+            <Keyword MajorTopicYN="N">Amyloid imaging</Keyword>
+            <Keyword MajorTopicYN="N">Brain atrophy</Keyword>
+            <Keyword MajorTopicYN="N">Tau imaging</Keyword>
+            <Keyword MajorTopicYN="N">Visual function</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200149</ArticleId>
+            <ArticleId IdType="pii">S2213-1582(19)30239-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nicl.2019.101889</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

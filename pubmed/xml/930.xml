@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199399</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multilevel accumulative switching processes in growth-dominated AgInSbTe phase change material.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3134-3137</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003134</ELocationID>
+            <Abstract>
+                <AbstractText>Highly reproducible and precisely controlled gradual variation in optical reflectivity or electrical resistance between amorphous and crystalline phases of phase change (PC) material is a key requirement for multilevel programming. Here we report high-contrast multilevel set and reset operations through accumulative switching in growth-dominated AgInSbTe PC material using a nanosecond laser-based pump-probe technique. The precise tuning of fractions of crystallized or re-amorphized region is achieved by means of controlling the number of irradiated laser pulses enabling six stable multilevels with high-reflectivity contrast of 2% between any two states. Furthermore, Raman spectra of irradiated spots validate the structural changes involved during multilevel switching between amorphous and crystalline phases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arjunan</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mondal</LastName>
+                    <ForeName>Anirban</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Amlan</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adarsh</LastName>
+                    <ForeName>K V</ForeName>
+                    <Initials>KV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manivannan</LastName>
+                    <ForeName>Anbarasu</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199399</ArticleId>
+            <ArticleId IdType="pii">413650</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003134</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

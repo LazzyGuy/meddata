@@ -1,0 +1,112 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199884</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1208-6002</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry and cell biology = Biochimie et biologie cellulaire</Title>
+                <ISOAbbreviation>Biochem. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-19a enhances cell proliferation, migration and invasion through improving lymphangiogenesis via targeting thrombospondin-1 in colorectal cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1139/bcb-2018-0302</ELocationID>
+            <Abstract>
+                <AbstractText>Colorectal cancer is a devastating disease with high mortality and morbidity and underlying mechanisms of miR-19a in CRC are poorly understood. In our study, dual-luciferase reporter assay was used to evaluate the binding of miR-19a with THBS1. Cell viability, migration and invasion were assessed by MTT, wound healing and transwell assays, respectively. Tube-formation assay of HLECs was used to evaluate lymphangiogenesis ability and tumor xenograft assay was used to measure tumor growth. Results showed that miR-19a was up-regulated and THBS1 was down-regulated in CRC tissues and cells. MiR-19a inhibitor suppressed survival, migration and invasion and inhibited the MMP-9 and VEGFC. Further mechanistic study identified that THBS1 was a direct target of miR-19a. THBS1 silencing attenuated the above effects induced by miR-19a inhibitor. Furthermore, miR-19a inhibitor suppressed migration and tube-formation abilities of HLECs via targeting THBS1-MMP-9/VEGFC signaling. And the inhibition of miR-19a also suppressed tumor growth and lymphatic tube formation in vivo. In conclusion, miR-19a inhibition suppressed the viability, migration and invasion of CRC cells and suppressed migration and tube formation abilities of HLECs, as well as inhibited tumor growth and lymphatic tube formation in vivo via targeting THBS1.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yin</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Affiliated Hospital of Zunyi Medical College, Zunyi, China ; ttyuo9521@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Pei-Pei</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Affiliated Hospital of Zunyi Medical College, Zunyi, China ; ttyuo9522@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Affiliated Hospital of Zunyi Medical College, Zunyi, China ; ttyuo9523@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Hang</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Affiliated Hospital of Zunyi Medical College, Zunyi, China ; zhouhang9910@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>Biochem Cell Biol</MedlineTA>
+            <NlmUniqueID>8606068</NlmUniqueID>
+            <ISSNLinking>0829-8211</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199884</ArticleId>
+            <ArticleId IdType="doi">10.1139/bcb-2018-0302</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

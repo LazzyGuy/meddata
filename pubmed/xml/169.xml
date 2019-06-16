@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200242</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2376</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>73</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Consciousness and cognition</Title>
+                <ISOAbbreviation>Conscious Cogn</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fake hand in movement: Visual motion cues from the rubber hand are processed for kinesthesia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102761</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1053-8100(18)30434-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.concog.2019.05.009</ELocationID>
+            <Abstract>
+                <AbstractText>The feeling that a fake (e.g. rubber) hand belongs to a person's own body can be elicited by synchronously stroking the fake hand and the real hand, with the latter hidden from view. Here, we sought to determine whether visual motion signals from that incorporated rubber hand would provide relevant cues for sensing movement (i.e. kinesthesia). After 180 s of visuo-tactile synchronous or asynchronous stroking, the fake hand was moved along the lateral or the sagittal axis. After synchronous stroking, movement of the rubber hand induced illusory movement of the static (real) hand in the same direction; the illusion was slightly more frequent and more intense when the fake hand was moved along the sagittal axis. We therefore conclude that visual signals of motion originating from the rubber hand are integrated for kinesthesia by the central nervous system just as visual signals from the real hand are.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Metral</LastName>
+                    <ForeName>Morgane</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, LIP/PC2S, F-38000 Grenoble, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guerraz</LastName>
+                    <ForeName>Michel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, LPNC, F-38000 Grenoble, France. Electronic address: michel.guerraz@univ-smb.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Conscious Cogn</MedlineTA>
+            <NlmUniqueID>9303140</NlmUniqueID>
+            <ISSNLinking>1053-8100</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Body representation</Keyword>
+            <Keyword MajorTopicYN="N">Kinesthesia</Keyword>
+            <Keyword MajorTopicYN="N">Rubber hand illusion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200242</ArticleId>
+            <ArticleId IdType="pii">S1053-8100(18)30434-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.concog.2019.05.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

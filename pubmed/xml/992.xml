@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199337</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accuracy of mHealth Devices for Atrial Fibrillation Screening: Systematic Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13641</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13641</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mobile health (mHealth) devices can be used for the diagnosis of atrial fibrillation. Early diagnosis allows better treatment and prevention of secondary diseases like stroke. Although there are many different mHealth devices to screen for atrial fibrillation, their accuracy varies due to different technological approaches.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We aimed to systematically review available studies that assessed the accuracy of mHealth devices in screening for atrial fibrillation. The goal of this review was to provide a comprehensive overview of available technologies, specific characteristics, and accuracy of all relevant studies.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">PubMed and Web of Science databases were searched from January 2014 until January 2019. Our systematic review was performed according to the Preferred Reporting Items for Systematic Review and Meta-Analyses. We restricted the search by year of publication, language, noninvasive methods, and focus on diagnosis of atrial fibrillation. Articles not including information about the accuracy of devices were excluded.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found 467 relevant studies. After removing duplicates and excluding ineligible records, 22 studies were included. The accuracy of mHealth devices varied among different technologies, their application settings, and study populations. We described and summarized the eligible studies.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our systematic review identifies different technologies for screening for atrial fibrillation with mHealth devices. A specific technology's suitability depends on the underlying form of atrial fibrillation to be diagnosed. With the suitable use of mHealth, early diagnosis and treatment of atrial fibrillation are possible. Successful application of mHealth technologies could contribute to significantly reducing the cost of illness of atrial fibrillation.</AbstractText>
+                <CopyrightInformation>©Godwin Denk Giebel, Christian Gissel. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 16.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Giebel</LastName>
+                    <ForeName>Godwin Denk</ForeName>
+                    <Initials>GD</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4182-1927</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Economics, Department of Economics and Business, Justus Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gissel</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6656-0877</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Economics, Department of Economics and Business, Justus Liebig University, Giessen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">app</Keyword>
+            <Keyword MajorTopicYN="N">atrial fibrillation</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">wearable</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199337</ArticleId>
+            <ArticleId IdType="pii">v7i6e13641</ArticleId>
+            <ArticleId IdType="doi">10.2196/13641</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

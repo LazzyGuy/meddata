@@ -1,0 +1,129 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198519</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2008-7802</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of preventive medicine</Title>
+                <ISOAbbreviation>Int J Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determinants of Compliance to Breast Cancer Screening and Referral in Low Socio-Economic Regions of Urban India.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijpvm.IJPVM_335_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Breast cancer (BC) is the most common cancer among women globally and also in India. Early detection by screening is likely to reduce mortality and improve survival. To study the determinants of compliance to BC screening and referral by women in a community based BC screening programme in urban India.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A community-based one-time cancer screening programme, implemented in the urban slums of Mumbai, India. The programme involves screening for breast cancer by Clinical Breast Examination (CBE) performed by trained primary health workers (PHWs), referral of screen-positive women to the nodal hospital for further investigations, confirmation of diagnosis and treatment. Univariate and multivariate logistic regression analysis in SPSS version 16 was used.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The compliance to screening, referral and treatment were 90.58%, 74.22% and 100% respectively. The results of multivariate logistic regression analysis demonstrate literate women, having family history of cancer, with tobacco habit, being treated for breast abnormalities, being ever pregnant and having history of contraceptive use were positive predictors while, women belonging to Muslim religion or speaking mother-tongue other than Marathi or Hindi were negative predictors of participation to screening. Educational status was the only significant predictor of compliance to referral. Screen-positive women with education of secondary school level or more were more likely to comply with referral.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The programme ensured good compliance with screening, referral and treatment indicating feasibility and acceptability of CBE based BC screening programme by the community.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kulkarni</LastName>
+                    <ForeName>Sheetal V</ForeName>
+                    <Initials>SV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Oncology, Tata Memorial Hospital, Mumbai, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mishra</LastName>
+                    <ForeName>Gauravi A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Oncology, Tata Memorial Hospital, Mumbai, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dusane</LastName>
+                    <ForeName>Rohit R</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Oncology, Tata Memorial Hospital, Mumbai, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Int J Prev Med</MedlineTA>
+            <NlmUniqueID>101535380</NlmUniqueID>
+            <ISSNLinking>2008-7802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Awareness</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">compliance</Keyword>
+            <Keyword MajorTopicYN="N">counseling</Keyword>
+            <Keyword MajorTopicYN="N">screening</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198519</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijpvm.IJPVM_335_17</ArticleId>
+            <ArticleId IdType="pii">IJPVM-10-84</ArticleId>
+            <ArticleId IdType="pmc">PMC6547800</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

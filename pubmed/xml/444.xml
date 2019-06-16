@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199953</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-8600</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Metabolism: clinical and experimental</Title>
+                <ISOAbbreviation>Metab. Clin. Exp.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Blood flow-restricted training enhances thigh glucose uptake during exercise and muscle antioxidant function in humans.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0026-0495(19)30112-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.metabol.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>This study examined the effects of blood-flow-restricted (BFR)-training on thigh glucose uptake at rest and during exercise in humans and the muscular mechanisms involved. Ten active men (~25 y; VO<sub>2max</sub> ~50 mL/kg/min) completed six weeks of training, where one leg trained with BFR (cuff pressure: ~180 mmHg) and the other leg without BFR. Before and after training, thigh glucose uptake was determined at rest and during exercise at 25% and 90% of leg incremental peak power output by sampling of femoral arterial and venous blood and measurement of femoral arterial blood flow. Furthermore, resting muscle samples were collected. After training, thigh glucose uptake during exercise was higher than before training only in the BFR-trained leg (p&lt;0.05) due to increased glucose extraction (p&lt;0.05). Further, BFR-training substantially improved time to exhaustion during exhaustive exercise (11 ± 5% vs. CON-leg; p=0.001). After but not before training, NAC infusion attenuated (~50-100%) leg net glucose uptake and extraction during exercise only in the BFR-trained leg, which coincided with an increased muscle abundance of Cu/Zn-SOD (39%), GPX-1 (29%), GLUT4 (28%), and nNOS (18%) (p&lt;0.05). Training did not affect Mn-SOD, catalase, and VEGF abundance in either leg (p&gt;0.05), although Mn-SOD was higher in BFR-leg vs. CON-leg after training (p&lt;0.05). The ratios of p-AMPK-Thr<sup>172</sup>/AMPK and p-ACC-Ser<sup>79</sup>/ACC, and p-ACC-Ser<sup>79</sup>, remained unchanged in both legs (p&gt;0.05), despite a higher p-AMPK-Thr<sup>172</sup> in BFR-leg after training (38%; p&lt;0.05). In conclusion, BFR-training enhances glucose uptake by exercising muscles in humans probably due to an increase in antioxidant function, GLUT4 abundance, and/or NO availability.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Christiansen</LastName>
+                    <ForeName>Danny</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Integrative Physiology, Department of Nutrition, Exercise and Sports (NEXS), University of Copenhagen, 2100 Copenhagen Ø, Denmark. Electronic address: danny@sportscience.dk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eibye</LastName>
+                    <ForeName>Kasper H</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Integrative Physiology, Department of Nutrition, Exercise and Sports (NEXS), University of Copenhagen, 2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hostrup</LastName>
+                    <ForeName>Morten</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Integrative Physiology, Department of Nutrition, Exercise and Sports (NEXS), University of Copenhagen, 2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bangsbo</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Integrative Physiology, Department of Nutrition, Exercise and Sports (NEXS), University of Copenhagen, 2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Metabolism</MedlineTA>
+            <NlmUniqueID>0375267</NlmUniqueID>
+            <ISSNLinking>0026-0495</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AMPK</Keyword>
+            <Keyword MajorTopicYN="N">Blood flow restriction</Keyword>
+            <Keyword MajorTopicYN="N">GLUT4</Keyword>
+            <Keyword MajorTopicYN="N">N-acetylcysteine</Keyword>
+            <Keyword MajorTopicYN="N">NAC</Keyword>
+            <Keyword MajorTopicYN="N">antioxidant</Keyword>
+            <Keyword MajorTopicYN="N">glucose uptake</Keyword>
+            <Keyword MajorTopicYN="N">human muscle</Keyword>
+            <Keyword MajorTopicYN="N">nNOS</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+            <Keyword MajorTopicYN="N">training</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199953</ArticleId>
+            <ArticleId IdType="pii">S0026-0495(19)30112-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.metabol.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

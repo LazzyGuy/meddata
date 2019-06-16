@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198820</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2352-0477</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of radiology open</Title>
+                <ISOAbbreviation>Eur J Radiol Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improvement in breast magnetic resonance imaging after a sentinel procedure for breast cancer with superparamagnetic tracers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>215-219</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejro.2019.05.006</ELocationID>
+            <Abstract>
+                <AbstractText>The superparamagnetic iron oxide tracer Sienna+<sup>®</sup> was introduced as an alternative to the radioisotope 99Tc Nanocoll to preoperatively mark sentinel lymph nodes in breast cancer. As previously reported, this tracer causes susceptibility artifacts on magnetic resonance imaging (MRI), potentially hampering the diagnostic performance of follow-up breast MRI. This short report illustrates the temporal development of these artifacts in a patient who was followed up at 6, 12, and 18 months after administration of Sienna+<sup>®</sup> with MRI systems of different magnetic field strengths (1.5 T and 3.0 T) and using an MRI protocol with sequences optimized for artifact reduction. Although the artifacts were severe and predominant at the higher magnetic strength in the early postoperative period, they diminished over time and the image quality could be further improved by adapting the sequences. These findings indicate the possible use of MRI even after administration of a superparamagnetic tracer for post-treatment monitoring in breast cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Forte</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kantonsspital Baden, Im Ergel, Baden 5404, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kubik-Huch</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kantonsspital Baden, Im Ergel, Baden 5404, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leo</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kantonsspital Baden, Im Ergel, Baden 5404, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Radiol Open</MedlineTA>
+            <NlmUniqueID>101650225</NlmUniqueID>
+            <ISSNLinking>2352-0477</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Artifacts</Keyword>
+            <Keyword MajorTopicYN="N">Breast neoplasms</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic fields</Keyword>
+            <Keyword MajorTopicYN="N">Sentinel lymph node</Keyword>
+            <Keyword MajorTopicYN="N">Superparamagnetic nanoparticles</Keyword>
+            <Keyword MajorTopicYN="N">Tc 99m nanocolloid</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198820</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejro.2019.05.006</ArticleId>
+            <ArticleId IdType="pii">S2352-0477(19)30029-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6556706</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

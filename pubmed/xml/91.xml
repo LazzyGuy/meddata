@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200323</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0852</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>116</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of cancer (Oxford, England : 1990)</Title>
+                <ISOAbbreviation>Eur. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>No survival difference between robotic and open radical hysterectomy for women with early-stage cervical cancer: results from a nationwide population-based cohort study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>169-177</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0959-8049(19)30319-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejca.2019.05.016</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The aim of the study was to compare overall survival (OS) and disease-free survival (DFS) after open and robotic radical hysterectomy for early-stage cervical cancer.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">This was a nationwide population-based cohort study on all women with cervical cancer stage IA1-IB of squamous, adenocarcinoma or adenosquamous histological subtypes, from January 2011 to December 2017, for whom radical hysterectomy was performed. The Swedish Quality Register of Gynaecologic Cancer was used for identification. To ensure quality and conformity of data and to disclose patients not yet registered, hospital registries were reviewed and validated. Cox and propensity score regression analysis and univariable and multivariable regression analysis were performed in regard to OS and DFS.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 864 women (236 open and 628 robotic) included in the study. The 5-year OS was 92% and 94% and DFS was 84% and 88% for the open and robotic cohorts, respectively. The recurrence pattern was similar in both groups. Using propensity score analysis and matched cohorts of 232 women in each surgical group, no significant differences were seen in survival: 5-year OS of 92% in both groups (hazard ratio [HR], 1.00; 95% confidence interval [CI], 0.50-2.01) and DFS of 85% vs 84% in the open and robotic cohort, respectively (HR, 1.08; 95% CI, 0.66-1.78). In univariable and multivariable analysis with OS as the end-point, no significant factors were found, and in regard to DFS, tumour size (p &lt; 0.001) and grade 3 (p = 0.02) were found as independent significant risk factors.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In a complete nationwide population-based cohort, where radical hysterectomy for early-stage cervical cancer is highly centralised, neither long-term survival nor pattern of recurrence differed significantly between open and robotic surgery.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alfonzo</LastName>
+                    <ForeName>Emilia</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, Sahlgrenska University Hospital, 41345 Gothenburg, Sweden; Department of Obstetrics &amp; Gynaecology, Institute of Clinical Sciences, Sahlgrenska Academy at University of Gothenburg, Medicinaregatan 3, 41390 Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wallin</LastName>
+                    <ForeName>Emelie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Division of Obstetrics and Gynaecology, Karolinska University Hospital and Karolinska Institute, K 57 14186 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekdahl</LastName>
+                    <ForeName>Linnea</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, Division of Gynaecologic Oncology Skåne University Hospital 22185 Lund, Sweden; Lund University, Faculty of Medicine, Department of Clinical Sciences, Obstetrics and Gynaecology, 22185 Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Staf</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Cancer Centre Western Sweden, Sahlgrenska University Hospital, 41345 Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rådestad</LastName>
+                    <ForeName>Angelique Flöter</ForeName>
+                    <Initials>AF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Division of Obstetrics and Gynaecology, Karolinska University Hospital and Karolinska Institute, K 57 14186 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reynisson</LastName>
+                    <ForeName>Petur</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, Division of Gynaecologic Oncology Skåne University Hospital 22185 Lund, Sweden; Lund University, Faculty of Medicine, Department of Clinical Sciences, Obstetrics and Gynaecology, 22185 Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stålberg</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Uppsala University, 75185 Uppsala, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falconer</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Division of Obstetrics and Gynaecology, Karolinska University Hospital and Karolinska Institute, K 57 14186 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Persson</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, Division of Gynaecologic Oncology Skåne University Hospital 22185 Lund, Sweden; Lund University, Faculty of Medicine, Department of Clinical Sciences, Obstetrics and Gynaecology, 22185 Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahm-Kähler</LastName>
+                    <ForeName>Pernilla</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, Sahlgrenska University Hospital, 41345 Gothenburg, Sweden; Department of Obstetrics &amp; Gynaecology, Institute of Clinical Sciences, Sahlgrenska Academy at University of Gothenburg, Medicinaregatan 3, 41390 Gothenburg, Sweden; Regional Cancer Centre Western Sweden, Sahlgrenska University Hospital, 41345 Gothenburg, Sweden. Electronic address: pernilla.dahm-kahler@vgregion.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Cancer</MedlineTA>
+            <NlmUniqueID>9005373</NlmUniqueID>
+            <ISSNLinking>0959-8049</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cervical cancer</Keyword>
+            <Keyword MajorTopicYN="N">Disease-free survival</Keyword>
+            <Keyword MajorTopicYN="N">Radical hysterectomy</Keyword>
+            <Keyword MajorTopicYN="N">Robotic</Keyword>
+            <Keyword MajorTopicYN="N">Surgery</Keyword>
+            <Keyword MajorTopicYN="N">Survival</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200323</ArticleId>
+            <ArticleId IdType="pii">S0959-8049(19)30319-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejca.2019.05.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

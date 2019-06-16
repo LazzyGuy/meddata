@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199730</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Relation Between Periodontal Disease and Vitamin D.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>j4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">There is conflicting evidence regarding the association between vitamin D and periodontal disease. The purpose of this study was to explore that relation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This cross-sectional study used data from the Canadian Health Measures Survey for respondents 13-79 years of age. Vitamin D status was determined by measuring plasma 25-hydroxyvitamin D (25(OH)D) concentrations. Periodontal disease was defined by gingival index (GI) and calculated loss of attachment (LOA). Statistical analyses included bivariate tests and multiple logistic regression.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At the bivariate level, 25(OH)D concentrations below the cutoff levels of 50 nmol/L and 75 nmol/L were associated with GI. However, multiple regression analyses for GI revealed no association with mean 25(OH)D level or either concentration. Although no significant association between LOA and 25(OH)D status was identified at the bivariate level, a statistically significant association was observed between LOA and 25(OH)D levels &lt; 75 nmol/L on multiple regression analysis. However, mean 25(OH)D concentrations and those &lt; 50 nmol/L were not associated with LOA on multiple regression analysis.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Vitamin D status was inversely associated with GI at the bivariate level, but not at the multivariate level. Conversely, vitamin D status was not associated with LOA at the bivariate level, but it was inversely associated with LOA at the multivariate level. These results provide modest evidence supporting a relation between low plasma 25(OH)D concentrations and periodontal disease as measured by GI and LOA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bonnet</LastName>
+                    <ForeName>Colin</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rabbani</LastName>
+                    <ForeName>Rasheda</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moffatt</LastName>
+                    <ForeName>Michael E K</ForeName>
+                    <Initials>MEK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kelekis-Cholakis</LastName>
+                    <ForeName>Anastasia</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schroth</LastName>
+                    <ForeName>Robert J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199730</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

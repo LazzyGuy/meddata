@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199457</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-6613</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of infectious diseases</Title>
+                <ISOAbbreviation>J. Infect. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Compartmentalization of a Multidrug-Resistant Cytomegalovirus UL54 Mutant in a Stem Cell Transplant Recipient with Encephalitis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">jiz298</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/infdis/jiz298</ELocationID>
+            <Abstract>
+                <AbstractText>We report a case of cytomegalovirus encephalitis in a hematopoietic stem cell transplant recipient. A previously uncharacterized V787E mutation in UL54 gene was identified in cerebrospinal fluid but not in plasma. The EC50 values for ganciclovir, foscarnet and cidofovir against V787E recombinant virus were 8.6-, 3.4- and 2.9-fold higher compared to wild type with reduced replicative capacity. The introduction of a bulkier and negatively-charged glutamate residue at position 787 could destabilize the finger domain of UL54 DNA polymerase. Viral genotyping of cerebrospinal fluid is warranted in subjects with cytomegalovirus encephalitis due to the low penetration of antivirals in this compartment.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Piret</LastName>
+                    <ForeName>Jocelyne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de recherche en infectiologie, CHU de Québec- Université Laval, Quebec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schibler</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Virology and Infectious Diseases Division, Geneva University Hospitals, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Van Dung</ForeName>
+                    <Initials>VD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie, de Microbiologie et de Bio-informatique, PROTEO, and Institut de Biologie Intégrative et des Systèmes (IBIS), Université Laval, Quebec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hantz</LastName>
+                    <ForeName>Sébastien</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Limoges, INSERM, CHU Limoges, RESINFIT, U1092, Limoges, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CHU Limoges, Laboratoire de Bactériologie-Virologie-Hygiène, National Reference Center for Herpesviruses, Limoges, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giannotti</LastName>
+                    <ForeName>Federica</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Division, Geneva University Hospitals, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masouridi-Levrat</LastName>
+                    <ForeName>Stavroula</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Division, Geneva University Hospitals, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaiser</LastName>
+                    <ForeName>Laurent</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Virology and Infectious Diseases Division, Geneva University Hospitals, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goyette</LastName>
+                    <ForeName>Nathalie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de recherche en infectiologie, CHU de Québec- Université Laval, Quebec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alain</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Limoges, INSERM, CHU Limoges, RESINFIT, U1092, Limoges, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CHU Limoges, Laboratoire de Bactériologie-Virologie-Hygiène, National Reference Center for Herpesviruses, Limoges, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Rong</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie, de Microbiologie et de Bio-informatique, PROTEO, and Institut de Biologie Intégrative et des Systèmes (IBIS), Université Laval, Quebec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boivin</LastName>
+                    <ForeName>Guy</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de recherche en infectiologie, CHU de Québec- Université Laval, Quebec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Infect Dis</MedlineTA>
+            <NlmUniqueID>0413675</NlmUniqueID>
+            <ISSNLinking>0022-1899</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cytomegalovirus</Keyword>
+            <Keyword MajorTopicYN="N">cerebrospinal fluid</Keyword>
+            <Keyword MajorTopicYN="N">compartmentalization</Keyword>
+            <Keyword MajorTopicYN="N">drug resistance</Keyword>
+            <Keyword MajorTopicYN="N">encephalitis</Keyword>
+            <Keyword MajorTopicYN="N">hematopoietic stem cell transplantation</Keyword>
+            <Keyword MajorTopicYN="N">recombinant phenotyping</Keyword>
+            <Keyword MajorTopicYN="N">replicative capacity</Keyword>
+            <Keyword MajorTopicYN="N">three-dimensional modeling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199457</ArticleId>
+            <ArticleId IdType="pii">5519111</ArticleId>
+            <ArticleId IdType="doi">10.1093/infdis/jiz298</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

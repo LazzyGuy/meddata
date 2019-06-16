@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199581</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1582-4934</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular and molecular medicine</Title>
+                <ISOAbbreviation>J. Cell. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-34b-3p represses cell proliferation, cell cycle progression and cell apoptosis in non-small-cell lung cancer (NSCLC) by targeting CDK4.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jcmm.14404</ELocationID>
+            <Abstract>
+                <AbstractText>Lung cancer is the most common incident cancer, with a high mortality worldwide, and non-small-cell lung cancer (NSCLC) accounts for approximately 85% of cases. Numerous studies have shown that the aberrant expression of microRNAs (miRNAs) is associated with the development and progression of cancers. However, the clinical significance and biological roles of most miRNAs in NSCLC remain elusive. In this study, we identified a novel miRNA, miR-34b-3p, that suppressed NSCLC cell growth and investigated the underlying mechanism. miR-34b-3p was down-regulated in both NSCLC tumour tissues and lung cancer cell lines (H1299 and A549). The overexpression of miR-34b-3p suppressed lung cancer cell (H1299 and A549) growth, including proliferation inhibition, cell cycle arrest and increased apoptosis. Furthermore, luciferase reporter assays confirmed that miR-34b-3p could bind to the cyclin-dependent kinase 4 (CDK4) mRNA 3'-untranslated region (3'-UTR) to suppress the expression of CDK4 in NSCLC cells. H1299 and A549 cell proliferation inhibition is mediated by cell cycle arrest and apoptosis with CDK4 interference. Moreover, CDK4 overexpression effectively reversed miR-34-3p-repressed NSCLC cell growth. In conclusion, our findings reveal that miR-34b-3p might function as a tumour suppressor in NSCLC by targeting CDK4 and that miR-34b-3p may, therefore, serve as a biomarker for the diagnosis and treatment of NSCLC.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &amp; Sons Ltd and Foundation for Cellular and Molecular Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Hongxiang</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic Surgery, China-Japan Friendship Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ge</LastName>
+                    <ForeName>Feixiang</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1955-5968</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell Biology and Genetics, College of Life Sciences, Nankai University, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Lanfang</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Peking University Third Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhenrong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic Surgery, China-Japan Friendship Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Deruo</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic Surgery, China-Japan Friendship Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Mol Med</MedlineTA>
+            <NlmUniqueID>101083777</NlmUniqueID>
+            <ISSNLinking>1582-1838</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CDK4</Keyword>
+            <Keyword MajorTopicYN="N">NSCLC</Keyword>
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">cell cycle</Keyword>
+            <Keyword MajorTopicYN="N">cell proliferation</Keyword>
+            <Keyword MajorTopicYN="N">miR-34b-3p</Keyword>
+            <Keyword MajorTopicYN="N">miRNA high throughput</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199581</ArticleId>
+            <ArticleId IdType="doi">10.1111/jcmm.14404</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

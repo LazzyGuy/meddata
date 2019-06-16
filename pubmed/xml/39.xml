@@ -1,0 +1,174 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200381</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prolactinomas and nonfunctioning adenomas: preoperative diagnosis of tumor type using serum prolactin and tumor size.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.JNS19121</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.JNS19121</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Prolactinoma and nonfunctioning adenoma (NFA) are the most common sellar pathologies, and both can present with hyperprolactinemia. There are no definitive studies analyzing the relationship between the sizes of prolactinomas and NFAs and the serum prolactin level. Current guidelines for serum prolactin level cutoffs to distinguish between pathologies are suboptimal because they fail to consider the adenoma volume. In this study, the authors attempted to describe the relationship between serum prolactin level and prolactinoma volume. They also examined the predictive value that can be gained by considering tumor volume in differentiating prolactinoma from NFA and provide cutoff values based on a large sample of patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective analysis of consecutive patients with prolactinomas (n = 76) and NFAs (n = 217) was performed. Patients were divided into groups based on adenoma volume, and the two pathologies were compared.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A strong correlation was found between prolactinoma volume and serum prolactin level (r = 0.831, p &lt; 0.001). However, there was no significant correlation between NFA volume and serum prolactin level (r = -0.020, p = 0.773). Receiver operating characteristic curve analysis of three different adenoma volume groups was performed and resulted in different serum prolactin level cutoffs for each group. For group 1 (≤ 0.5 cm3), the most accurate cutoff was 43.65 μg/L (area under the curve [AUC] = 0.951); for group 2 (&gt; 0.5 to 4 cm3), 60.05 μg/L (AUC = 0.949); and for group 3 (&gt; 4 cm3), 248.15 μg/L (AUC = 1.0).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Prolactinoma volume has a significant impact on serum prolactin level, whereas NFA volume does not. This finding indicates that the amount of prolactin-producing tissue is a more important factor regarding serum prolactin level than absolute adenoma volume. Hence, volume should be a determining factor to distinguish between prolactinoma and NFA prior to surgery. Current serum prolactin threshold level guidelines are suboptimal and cannot be generalized across all adenoma volumes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>William T</ForeName>
+                    <Initials>WT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1University of Louisville School of Medicine, University of Louisville, Louisville, Kentucky.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Penn</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castlen</LastName>
+                    <ForeName>Joseph P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1University of Louisville School of Medicine, University of Louisville, Louisville, Kentucky.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Donoho</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Repetti</LastName>
+                    <ForeName>Caroline S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iuliano</LastName>
+                    <ForeName>Sherry</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barkhoudarian</LastName>
+                    <ForeName>Garni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Pacific Neuroscience Institute at the John Wayne Cancer Institute, Santa Monica, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laws</LastName>
+                    <ForeName>Edward R</ForeName>
+                    <Initials>ER</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AUC = area under the curve</Keyword>
+            <Keyword MajorTopicYN="N">HPT = highest pretreatment</Keyword>
+            <Keyword MajorTopicYN="N">NFA = nonfunctioning adenoma</Keyword>
+            <Keyword MajorTopicYN="N">ROC = receiver operating characteristic</Keyword>
+            <Keyword MajorTopicYN="N">TSS = transsphenoidal surgery</Keyword>
+            <Keyword MajorTopicYN="N">nonfunctioning adenoma</Keyword>
+            <Keyword MajorTopicYN="N">pituitary adenoma</Keyword>
+            <Keyword MajorTopicYN="N">pituitary surgery</Keyword>
+            <Keyword MajorTopicYN="N">prolactinoma</Keyword>
+            <Keyword MajorTopicYN="N">transsphenoidal surgery</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200381</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.JNS19121</ArticleId>
+            <ArticleId IdType="pii">2019.3.JNS19121</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

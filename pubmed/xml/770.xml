@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199587</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-7634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer medicine</Title>
+                <ISOAbbreviation>Cancer Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spatial distribution characteristics of tumor marker CA724 reference values in China.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.2176</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTS" NlmCategory="OBJECTIVE">This study aims to explore the Cancer antigen 724 (CA724) reference values spatial distribution characteristics in healthy Chinese adults. The study can provide regional reference for medical diagnosis. Study Design The relationship between CA724 and 25 geographical environmental factors was analyzed firstly. Artificial neural network simulation training was used to construct the prediction model. The national forecast distribution map of the CA724 reference values was obtained by the geostatistical mapping method. Analyzing and exploring the influence mechanism of geographical environment factors on CA724 reference values.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Collecting 34470 cases from more than 106 cities healthy adults CA724 reference values via several paper databases in 10 recent years. Correlation analysis, RBF artificial neural networks and trend surface analysis were applied to explore if there was any tendency of spatial variation. The Kriging interpolation of geostatistical analysis was developed to reveal the spatial distribution characteristics of the CA724 reference values.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The distribution of CA724 reference values of Chinese healthy adults shows a downward trend from south to north. CA724 reference values have negative correlations with latitude, annual sunshine duration and topsoil cation exchange capacity in clay. CA724 have positive correlations with annual mean air temperature, annual mean relative humidity, and annual precipitation amount. High temperature and high humidity environment will reduce gastrointestinal function and breeze various mold bacteria. Lack of sunshine can easily lead to vitamin C deficiency in the body. These will increase the incidence of gastrointestinal diseases and gastric cancer, then increase the CA724 value.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">CA724 reference values show spatial autocorrelation and regional variation. There are some geographical environment factors effected Chinese healthy adults CA724 reference values. Geographic factors such as sunshine, temperature, and humidity have effects on CA724 reference values can provide new ideas and directions of prevention and clinical diagnosis in the future.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jing</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5841-4826</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Healthy Geography, College of Geography and Tourism, Shaanxi Normal University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Baoji University of Arts and Sciences, Baoji, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ge</LastName>
+                    <ForeName>Miao</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Healthy Geography, College of Geography and Tourism, Shaanxi Normal University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Ziqi</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Baoji University of Arts and Sciences, Baoji, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Xi'an Jiaotong Unversity Health Science Center, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2016TS055</GrantID>
+                    <Agency>Fundamental Research Funds For the Central Universities</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Med</MedlineTA>
+            <NlmUniqueID>101595310</NlmUniqueID>
+            <ISSNLinking>2045-7634</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CA724</Keyword>
+            <Keyword MajorTopicYN="N">gastric cancer</Keyword>
+            <Keyword MajorTopicYN="N">geographical environment factors</Keyword>
+            <Keyword MajorTopicYN="N">reference values</Keyword>
+            <Keyword MajorTopicYN="N">tumor markers</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199587</ArticleId>
+            <ArticleId IdType="doi">10.1002/cam4.2176</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

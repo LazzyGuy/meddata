@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200335</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0402</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>52</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in chemical biology</Title>
+                <ISOAbbreviation>Curr Opin Chem Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DNA event recorders send past information of cells to the time of observation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>54-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1367-5931(19)30039-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cbpa.2019.05.009</ELocationID>
+            <Abstract>
+                <AbstractText>While current omics and single cell technologies have enabled measurements of high-resolution molecular snapshots of cells at a large scale, these technologies all require destruction of samples and prevent us from analyzing dynamic changes in molecular profiles, phenotypes, and behaviors of individual cells in a complex system. One possible direction to overcome this issue is the development of a cell-embedded 'event recorder' system, whereby molecular and phenotypic information of a cell(s) can be obtained at the time of observation with their past event information stored in 'heritable polymers' of the same cell. This concept has been demonstrated by many synthetic cellular circuits that monitor and transmit a certain set of environmental and intracellular signals into DNA, and have now been further accelerated by recent CRISPR-related technologies. Notably, the discovery of the RT-Cas1-Cas2 system, which acquires sequences of cellular transcripts into a specific host genomic region, has enabled recording of a broader range of molecular profile histories in the DNA tapes of cells, to understand the dynamics of complex biological processes that cannot be addressed by current technologies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ishiguro</LastName>
+                    <ForeName>Soh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo 153-8904, Japan; Institute for Advanced Biosciences, Keio University, Tsuruoka 997-0035, Japan; Graduate School of Media and Governance, Keio University, Fujisawa 252-0882, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mori</LastName>
+                    <ForeName>Hideto</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo 153-8904, Japan; Institute for Advanced Biosciences, Keio University, Tsuruoka 997-0035, Japan; Graduate School of Media and Governance, Keio University, Fujisawa 252-0882, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yachie</LastName>
+                    <ForeName>Nozomu</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo 153-8904, Japan; Institute for Advanced Biosciences, Keio University, Tsuruoka 997-0035, Japan; Graduate School of Media and Governance, Keio University, Fujisawa 252-0882, Japan; Department of Biological Sciences, School of Science, The University of Tokyo, Tokyo 113-0033, Japan; PRESTO, Japan Science and Technology Agency (JST), Tokyo 153-8904, Japan. Electronic address: yachie@synbiol.rcast.u-tokyo.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Chem Biol</MedlineTA>
+            <NlmUniqueID>9811312</NlmUniqueID>
+            <ISSNLinking>1367-5931</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200335</ArticleId>
+            <ArticleId IdType="pii">S1367-5931(19)30039-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cbpa.2019.05.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

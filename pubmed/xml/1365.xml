@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198920</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1463-9084</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical chemistry chemical physics : PCCP</Title>
+                <ISOAbbreviation>Phys Chem Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transport of hyperpolarized samples in dissolution-DNP experiments.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9cp02600b</ELocationID>
+            <Abstract>
+                <AbstractText>Dissolution dynamic nuclear polarization (D-DNP) experiments rely on the transfer of a sample between two high-field magnets. During this transfer, samples might experience passage through regions where the stray fields of the magnets are very weak, can approach zero, and even change their sign. This can lead to unexpected spectral features in spin systems that undergo transitions from weak- to strong-coupling regimes and vice versa, much like in field cycling nuclear magnetic resonance experiments. We herein demonstrate that the spectral features observed in D-DNP experiments can be rationalized, provided the time-dependence of the spin Hamiltonian upon field cycling is sufficiently adiabatic. Under such conditions, a passage through a weak static field can lead to the emergence of a long-lived state (LLS) based on an imbalance between the populations of singlet and triplet states in pairs of nuclei that are strongly coupled during the passage through low field. The LLS entails the appearance of anti-phase multiplet components upon transfer to a high-field magnet for observation of NMR signals.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kiryutin</LastName>
+                    <ForeName>Alexey S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Tomography Center SB RAS, Institutskaya 3A, Novosibirsk, 630090, Russia. ivanov@tomo.nsc.ru and Novosibirsk State University, Pirogova 2, Novosibirsk, 630090, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodin</LastName>
+                    <ForeName>Bogdan A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Tomography Center SB RAS, Institutskaya 3A, Novosibirsk, 630090, Russia. ivanov@tomo.nsc.ru and Novosibirsk State University, Pirogova 2, Novosibirsk, 630090, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yurkovskaya</LastName>
+                    <ForeName>Alexandra V</ForeName>
+                    <Initials>AV</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2465-838X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>International Tomography Center SB RAS, Institutskaya 3A, Novosibirsk, 630090, Russia. ivanov@tomo.nsc.ru and Novosibirsk State University, Pirogova 2, Novosibirsk, 630090, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ivanov</LastName>
+                    <ForeName>Konstantin L</ForeName>
+                    <Initials>KL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5765-3307</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>International Tomography Center SB RAS, Institutskaya 3A, Novosibirsk, 630090, Russia. ivanov@tomo.nsc.ru and Novosibirsk State University, Pirogova 2, Novosibirsk, 630090, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurzbach</LastName>
+                    <ForeName>Dennis</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6455-2136</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>University Vienna, Faculty of Chemistry, Institute of Biological Chemistry, Währinger Straße 38, 1090 Vienna, Austria. dennis.kurzbach@univie.ac.at.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jannin</LastName>
+                    <ForeName>Sami</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Lyon, Centre de RMN à Très Hauts Champs (FRE2034 CNRS/UCBL/ENS Lyon), 5 rue de la Doua, 69100 Villeurbanne, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guarin</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire des biomolécules, LBM, Département de chimie, École normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France. geoffrey.bodenhausen@ens.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abergel</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire des biomolécules, LBM, Département de chimie, École normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France. geoffrey.bodenhausen@ens.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bodenhausen</LastName>
+                    <ForeName>Geoffrey</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8633-6098</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire des biomolécules, LBM, Département de chimie, École normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France. geoffrey.bodenhausen@ens.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Phys Chem Chem Phys</MedlineTA>
+            <NlmUniqueID>100888160</NlmUniqueID>
+            <ISSNLinking>1463-9076</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198920</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9cp02600b</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

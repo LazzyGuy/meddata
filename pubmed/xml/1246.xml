@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199052</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1582-4934</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular and molecular medicine</Title>
+                <ISOAbbreviation>J. Cell. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MicroRNA-551b-3p inhibits tumour growth of human cholangiocarcinoma by targeting Cyclin D1.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jcmm.14312</ELocationID>
+            <Abstract>
+                <AbstractText>MicroRNAs (miRNAs) are powerful regulators in the tumorigenesis of cholangiocarcinoma (CCA). Previous studies report that miR-551b-3p acts as an oncogenic factor in ovarian cancer, but plays a tumour suppressive role in gastric cancer. However, the expression pattern and potential function of miR-551b-3p were still unclear in CCA. Therefore, this study aimed to explore the expression of miR-551b-3p and its role as well as molecular mechanism in CCA. Analysis of TCGA dataset suggested that miR-551b-3p was under-expressed in CCA tissues compared to normal bile duct tissues. Furthermore, our data confirmed the decreased levels of miR-551b-3p in CCA samples and cell lines. Interestingly, TCGA data suggested that low miR-551b-3p level indicated reduced overall survival of CCA patients. Gain- and loss-of-function experiments found that miR-551b-3p inhibited the proliferation, G1-S phase transition and induced apoptosis of CCA cells. In vivo experiments revealed that ectopic expression of miR-551b-3p inhibited tumour growth of CCA in mice. Further investigation demonstrated that miR-551b-3p directly bond to the 3'-UTR of Cyclin D1 (CCND1) mRNA and negatively regulated the abundance of CCND1 in CCA cells. An inverse correlation between miR-551b-3p expression and the level of CCND1 mRNA was detected in CCA tissues from TCGA dataset. Notably, CCND1 knockdown showed similar effects to miR-551b-3p overexpression in HuCCT-1 cells. CCND1 restoration rescued miR-551b-3p-induced inhibition of proliferation, G1 phase arrest and apoptosis in HuCCT-1 cells. In summary, miR-551b-3p inhibits the expression of CCND1 to suppress CCA cell proliferation and induce apoptosis, which may provide a theoretical basis for improving CCA treatment.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &amp; Sons Ltd and Foundation for Cellular and Molecular Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Weiping</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hepatobiliary Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, The First Affiliated Hospital of Xi'an Medical University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>WenZhi</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chang'an District Hospital, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hepatobiliary Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geng</LastName>
+                    <ForeName>Zhimin</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0334-0460</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hepatobiliary Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2013k12-05-07</GrantID>
+                    <Agency>Social Development Science and Technology Research Project of Shaanxi Province</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Mol Med</MedlineTA>
+            <NlmUniqueID>101083777</NlmUniqueID>
+            <ISSNLinking>1582-1838</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cyclin D1</Keyword>
+            <Keyword MajorTopicYN="N">cholangiocarcinoma</Keyword>
+            <Keyword MajorTopicYN="N">microRNA-551b-3p</Keyword>
+            <Keyword MajorTopicYN="N">tumour growth</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199052</ArticleId>
+            <ArticleId IdType="doi">10.1111/jcmm.14312</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

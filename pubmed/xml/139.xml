@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200272</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>141</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant physiology and biochemistry : PPB</Title>
+                <ISOAbbreviation>Plant Physiol. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The elemental composition of halophytes correlates with key morphological adaptations and taxonomic groups.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>259-278</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0981-9428(19)30223-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.plaphy.2019.05.023</ELocationID>
+            <Abstract>
+                <AbstractText>Halophytes are crucial in the light of increasing soil salinization, yet our understanding of their chemical composition and its relationship to key morphological traits such as succulence or salt excretion is limited. This study targets this issue by exploring the relationship between the elemental composition of 108 plant species from saline environments in Iran and their eco-morphological traits and taxonomy. Leaves and/or photosynthetic shoots of individual species and soils were sampled and analyzed for 20 elements in plant samples and 5 major elements plus % gypsum content, pH, and EC in soil samples. Eu-halophytes and leaf- and stem-succulent and salt-recreting plants showed high concentrations of Na, S, and Mg and low concentrations of Ca and K. In contrast, pseudo-halophytes, facultative-halophytes and eury-hygro-halophytes, which often lack succulent shoots, showed low Na, S, and Mg and high Ca and K concentrations in their leaves. Clear patterns were identified among taxonomic families, with Chenopodiaceae and Plumbaginaceae having high Na and Mg and low Ca and K concentrations, Caryophyllaceae having high K, Poaceae having low Na, and Asteraceae, Boraginaceae, and Brassicaceae showing high foliar Ca concentrations. We conclude that the elemental composition of halophytes and pseudo-halophytes is related to salt-tolerance categories, eco-morphological types and respective taxonomic groups.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Masson SAS. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Matinzadeh</LastName>
+                    <ForeName>Zeinab</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Halophytes and C(4) Plants Research Laboratory, Department of Plant Sciences, School of Biology, College of Science, University of Tehran, P.O.Box, 14155-6455, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akhani</LastName>
+                    <ForeName>Hossein</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Halophytes and C(4) Plants Research Laboratory, Department of Plant Sciences, School of Biology, College of Science, University of Tehran, P.O.Box, 14155-6455, Tehran, Iran. Electronic address: Akhani@khayam.ut.ac.ir.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abedi</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Range Management, Faculty of Natural Resources, Tarbiat Modares University, 46417-76489, Noor, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palacio</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Pirenaico de Ecología (IPE-CSIC), Av. Nuestra Señora de la Victoria, 16, 22700, Jaca, Huesca, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Plant Physiol Biochem</MedlineTA>
+            <NlmUniqueID>9882449</NlmUniqueID>
+            <ISSNLinking>0981-9428</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Caryophyllales</Keyword>
+            <Keyword MajorTopicYN="N">Ionome</Keyword>
+            <Keyword MajorTopicYN="N">Lake Urmia</Keyword>
+            <Keyword MajorTopicYN="N">Persian Gulf</Keyword>
+            <Keyword MajorTopicYN="N">Phylogeny</Keyword>
+            <Keyword MajorTopicYN="N">Recreting halophytes</Keyword>
+            <Keyword MajorTopicYN="N">Succulent halophytes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200272</ArticleId>
+            <ArticleId IdType="pii">S0981-9428(19)30223-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.plaphy.2019.05.023</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

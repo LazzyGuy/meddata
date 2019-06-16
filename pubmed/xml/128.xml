@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200284</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2976</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>289</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioresource technology</Title>
+                <ISOAbbreviation>Bioresour. Technol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of mesophilic co-composting conditions on the quality of substrates produced from winery waste activated sludge and grape stalks: Lab-scale and pilot-scale studies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>121622</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0960-8524(19)30852-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biortech.2019.121622</ELocationID>
+            <Abstract>
+                <AbstractText>In this study, different amounts of a mixture of winery waste activated sludge and grape stalks were co-composted for 8 weeks, at lab-scale under different temperatures and aeration rates, and at pilot-scale. None of the experiments showed the occurrence of a thermophilic stage, even when the composting temperature was kept at 34 °C, which might suggest biological suppression by the acclimated mesophilic microorganisms ubiquitous to the winery waste activated sludge. The composted substrates were fully characterized by physicochemical analysis, plant growth tests and germination indexes using parsley (Petroselinum crispum) seedlings and seeds. Surprisingly, despite the higher volume reduction at lab-scale, it was the initial mixture and the mixture composted outdoors which presented the best horticultural qualities, with seedling survival rates of 88.9% and 87.0% and modified germination indexes of 54% and 161%, respectively. These findings shed some light on previous contradictory results and allow the development of new recycling strategies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Semitela</LastName>
+                    <ForeName>Sabrina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química, Universidade de Trás-os-Montes e Alto Douro, Apartado 1013, 5001-801 Vila Real, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pirra</LastName>
+                    <ForeName>António</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química, Universidade de Trás-os-Montes e Alto Douro, Apartado 1013, 5001-801 Vila Real, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Braga</LastName>
+                    <ForeName>Fernando G</ForeName>
+                    <Initials>FG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química, Universidade de Trás-os-Montes e Alto Douro, Apartado 1013, 5001-801 Vila Real, Portugal. Electronic address: fbraga@utad.pt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioresour Technol</MedlineTA>
+            <NlmUniqueID>9889523</NlmUniqueID>
+            <ISSNLinking>0960-8524</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Grape stalks</Keyword>
+            <Keyword MajorTopicYN="N">Lab-scale and pilot-scale</Keyword>
+            <Keyword MajorTopicYN="N">Mesophilic composting</Keyword>
+            <Keyword MajorTopicYN="N">Organic substrates</Keyword>
+            <Keyword MajorTopicYN="N">Winery waste activated sludge</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200284</ArticleId>
+            <ArticleId IdType="pii">S0960-8524(19)30852-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biortech.2019.121622</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

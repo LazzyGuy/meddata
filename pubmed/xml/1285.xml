@@ -1,0 +1,161 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199010</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-2825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical laboratory analysis</Title>
+                <ISOAbbreviation>J. Clin. Lab. Anal.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Neurofilament levels in patients with neurological diseases: A comparison of neurofilament light and heavy chain levels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e22948</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jcla.22948</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Neurofilaments are the major cytoskeletal components of neurons, and cell injury leads to their release into the surrounding area. The aim of this study was to compare the cerebrospinal fluid (CSF) and serum (S) concentrations of neurofilament light chains (NFLs) and phosphorylated neurofilament heavy chains (pNFHs).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Neurofilament concentrations were measured in CSF and S samples from 172 patients using three enzyme-linked immunosorbent assays. Excel, Stata version 13, MedCal version 17.9.7., and NCSS 2007 software were used for the statistical analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There was a statistically significant correlation between the concentrations of CSF NFL and CSF pNFH (r<sub>s</sub>  = 0.748; n = 89; P &lt; 0.001), but Passing-Bablok regression showed systematic deviation between the values obtained using the two assays. This indicates that the assays were not interchangeable. CSF pNFH and S pNFH concentrations showed low correlation. The kappa statistic showed moderate conformity between CSF pNFH and CSF NFL concentrations (κ = 0.556).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The CSF NFL and CSF pNFH assays gave clinically consistent results that reflected the degree of axonal damage, independent of any particular neurological diagnosis. The S pNFH assays had a lower predictive value due to the low correlation coefficient and the kappa index of the CSF pNFH method.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Journal of Clinical Laboratory Analysis Published by Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kušnierová</LastName>
+                    <ForeName>Pavlína</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8835-2155</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry, Institute of Laboratory Diagnostics, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeman</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-6822-2572</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry, Institute of Laboratory Diagnostics, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Neurology, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hradílek</LastName>
+                    <ForeName>Pavel</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Neurology, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Čábal</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Neurology, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zapletalová</LastName>
+                    <ForeName>Olga</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Neurology, University Hospital Ostrava, Ostrava, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>FNOs/2017</GrantID>
+                    <Agency>Ministry of Health, Czech Republic</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Lab Anal</MedlineTA>
+            <NlmUniqueID>8801384</NlmUniqueID>
+            <ISSNLinking>0887-8013</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">axonal damage</Keyword>
+            <Keyword MajorTopicYN="N">cerebrospinal fluid</Keyword>
+            <Keyword MajorTopicYN="N">enzyme-linked immunosorbent assay</Keyword>
+            <Keyword MajorTopicYN="N">neurofilament</Keyword>
+            <Keyword MajorTopicYN="N">neurological disease</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199010</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcla.22948</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

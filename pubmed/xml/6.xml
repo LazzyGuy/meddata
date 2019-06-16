@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200420</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Chronic cough. Cough reflex hypersensitivity syndrome].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>217-231</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29262/ram.v66i2.565</ELocationID>
+            <Abstract>
+                <AbstractText>The cough reflex is a protective mechanism of the airway; it avoids bronchoaspiration and its complications and, when it is altered, it can appear as a hypersensitivity syndrome; cough per se is the most common symptom for which medical consultation is sought. Chronic cough represents a public health problem with a high degree of morbidity; It represents a syndrome by itself, regardless of the underlying condition. Recent evidence suggests an abnormal and altered neurophysiologic process. Recent literature and new therapeutic mechanisms were reviewed. We are in the process of understanding the cough syndrome.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sacre-Hazouri</LastName>
+                    <ForeName>José Antonio</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Privado de Inmunología, Alergia y Vías Respiratorias, Córdoba, Veracruz, México. sacre_1@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sacre</LastName>
+                    <ForeName>Lauralicia</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Tos crónica. Síndrome de hipersensibilidad del reflejo de la tos.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+            <ISSNLinking>0002-5151</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="spa">
+            <AbstractText>El reflejo de la tos es un mecanismo de protección de la vía respiratoria, evita la broncoaspiración y sus complicaciones; cuando está alterado puede manifestarse como un síndrome de hipersensibilidad. La tos per se es el síntoma más común por el que se consulta en la práctica médica. La tos crónica representa un problema de salud pública, con alto grado de morbilidad; representa un síndrome por sí mismo, sin importar la condición subyacente. Evidencia reciente sugiere un proceso neurofisiológico anormal y alterado. Se revisó literatura especializada y acerca de los nuevos mecanismos terapéuticos. Estamos en proceso de comprender el síndrome de la tos.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic cough</Keyword>
+            <Keyword MajorTopicYN="N">Cough</Keyword>
+            <Keyword MajorTopicYN="N">Cough mechanisms</Keyword>
+            <Keyword MajorTopicYN="N">Cough reflex hypersensitivity</Keyword>
+            <Keyword MajorTopicYN="N">Hypersensitivity síndrome</Keyword>
+            <Keyword MajorTopicYN="N">Neuropathic cough</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200420</ArticleId>
+            <ArticleId IdType="doi">10.29262/ram.v66i2.565</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

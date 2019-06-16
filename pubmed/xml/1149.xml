@@ -1,0 +1,168 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199159</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Langmuir : the ACS journal of surfaces and colloids</Title>
+                <ISOAbbreviation>Langmuir</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microfluidic-Assisted Engineering of Quasi-Monodisperse pH-Responsive Polymersomes toward Advanced Platforms for the Intracellular Delivery of Hydrophilic Therapeutics.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.langmuir.9b01009</ELocationID>
+            <Abstract>
+                <AbstractText>The extracellular and subcellular compartments are characterized by specific pH levels that can be modified by pathophysiological states. This scenario encourages the use of environmentally responsive nanomedicines for the treatment of damaged cells. We have engineered doxorubicin (DOX)-loaded pH-responsive polymersomes using poly([ N-(2-hydroxypropyl)]methacrylamide)- b-poly[2-(diisopropylamino)ethyl methacrylate] block copolymers (PHPMA <sub>m</sub>- b-PDPA <sub>n</sub>). We demonstrate that, by taking advantage of the microfluidic technology, quasi-monodisperse assemblies can be created. This feature is of due relevance because highly uniform nanoparticles commonly exhibit more consistent biodistribution and cellular uptake. We also report that the size of the polymer vesicles can be tuned by playing with the inherent mechanical parameters of the microfluidic protocol. This new knowledge can be used to engineer size-specific nanomedicines for enhanced tumor accumulation if the manufacturing is performed with previous knowledge of tumor characteristics (particularly the degree of vascularity and porosity). The pH-dependent DOX release was further investigated evidencing the ability of polymersome to sustain encapsulated hydrophilic molecules when circulating in physiological environment (pH 7.4). This suggests nonrelevant drug leakage during systemic circulation. On the other hand, polymersome disassembly in slightly acid environments takes place enabling fast DOX release, thereby making the colloidal carriers highly cytotoxic. These features encourage the use of such advanced pH-responsive platforms to target damaged cells while preserving healthy environments during systemic circulation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Albuquerque</LastName>
+                    <ForeName>Lindomar J C</ForeName>
+                    <Initials>LJC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1443-1795</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Ciências Naturais e Humanas , Universidade Federal do ABC , Avenida dos Estados 5001 , Santo André 09210-580 , Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sincari</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jäger</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6171-4718</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konefał</LastName>
+                    <ForeName>Rafal</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pánek</LastName>
+                    <ForeName>Jiří</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Černoch</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pavlova</LastName>
+                    <ForeName>Ewa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Štěpánek</LastName>
+                    <ForeName>Petr</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1433-678X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giacomelli</LastName>
+                    <ForeName>Fernando C</ForeName>
+                    <Initials>FC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6872-9354</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Ciências Naturais e Humanas , Universidade Federal do ABC , Avenida dos Estados 5001 , Santo André 09210-580 , Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jäger</LastName>
+                    <ForeName>Eliézer</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9939-2355</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Macromolecular Chemistry , Heyrovského nám. 2 , Prague 6 162 06 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Langmuir</MedlineTA>
+            <NlmUniqueID>9882736</NlmUniqueID>
+            <ISSNLinking>0743-7463</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199159</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.langmuir.9b01009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

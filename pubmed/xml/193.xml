@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200217</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4243</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>91</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular graphics &amp; modelling</Title>
+                <ISOAbbreviation>J. Mol. Graph. Model.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Erythromycin, Cethromycin and Solithromycin display similar binding affinities to the E. coli's ribosome: A molecular simulation study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>80-90</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1093-3263(19)30070-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmgm.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Macrolide antibiotics bind to the exit tunnel of the ribosome and inhibit protein synthesis blocking its translocation. Thus, antibiotics including the known macrolide Erythromycin (ERY) are active against bacteria. However, at present, some bacteria show resistance to drugs, which requires the development of new powerful antibacterial agents. One possible way is to use the ERY structure, but change its side chains, while the size of the lactone ring can remain unchanged or change. In this work we consider Cethromycin (CET) and Solithromycin (SOL), which are ketolides with quinolylallyl group at C6 and aminophenyl at C11, respectively (both of them have the same lactone ring as ERY). Experiments have shown that these ketolides have improved efficacy against pathogens, but their binding affinity to the E. coli's ribosome is almost identical. To clarify this issue, we have studied in detail the binding mechanisms of ERY, CET and SOL using the docking and molecular dynamic simulations. In agreement with the experiments, we showed that these compounds have similar binding affinities. Desosamine and lactone ring groups play a critical role in the binding of ERY to the ribosome. In CET and SOL, the contribution of keto and alkylaryl groups is balanced by cyclic carbamate. We have demonstrated that increased fluctuations in the ribosomal residues at the binding site led to an increase in the entropic term in the free binding energy of ERY compared to SOL and CET. The alkyl-aryl arm of both ketolides strongly interacts with A752 and U2609. In addition, the presence of macrolides in the exit tunnel can alter the conformation of U2585, which is located in the peptidyl transferase center, through non-bonded interaction. Therefore, the side chain of ketolides affects not only the binding site but also other residues possibly leading to a strong effect on the protein synthesis process. We predict that to combat bacterial mutations, it is necessary either to design a bulk and charged group as a cladinose, or to use several groups with different signs of charges. This prediction can be used for the development of new efficient antibiotics.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Hoang Linh</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Computational Science and Technology, Quang Trung Software City, Tan Chanh, Hiep Ward, District 12, Ho Chi Minh City, Viet Nam; Biomedical Engineering Department, University of Technology - VNU HCM, 268 Ly Thuong Kiet Str., Distr. 10, Ho Chi Minh City, Viet Nam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>An</LastName>
+                    <ForeName>Pham Hong</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Computational Science and Technology, Quang Trung Software City, Tan Chanh, Hiep Ward, District 12, Ho Chi Minh City, Viet Nam; Department of Theoretical Physics, VNUHCM-University of Science, Ho Chi Minh City, Viet Nam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thai</LastName>
+                    <ForeName>Nguyen Quoc</ForeName>
+                    <Initials>NQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Computational Science and Technology, Quang Trung Software City, Tan Chanh, Hiep Ward, District 12, Ho Chi Minh City, Viet Nam; Biomedical Engineering Department, University of Technology - VNU HCM, 268 Ly Thuong Kiet Str., Distr. 10, Ho Chi Minh City, Viet Nam; Dong Thap University, 783 Pham Huu Lau Street, Ward 6, Cao Lanh City, Dong Thap, Viet Nam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linh</LastName>
+                    <ForeName>Huynh Quang</ForeName>
+                    <Initials>HQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Engineering Department, University of Technology - VNU HCM, 268 Ly Thuong Kiet Str., Distr. 10, Ho Chi Minh City, Viet Nam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mai Suan</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physics, Polish Acad Sci, Al. Lotnikow 32/46, 02-668, Warsaw, Poland. Electronic address: masli@ifpan.edu.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Mol Graph Model</MedlineTA>
+            <NlmUniqueID>9716237</NlmUniqueID>
+            <ISSNLinking>1093-3263</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200217</ArticleId>
+            <ArticleId IdType="pii">S1093-3263(19)30070-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jmgm.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

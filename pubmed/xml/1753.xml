@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198404</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-1861</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mediators of inflammation</Title>
+                <ISOAbbreviation>Mediators Inflamm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Peptide Analogue of Selectin Ligands Attenuated Atherosclerosis by Inhibiting Monocyte Activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8709583</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/8709583</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Circulating monocytes play a critical role in the pathogenesis of atherosclerosis. Monocyte homing to sites of atherosclerosis is primarily initiated by selectin. Thus, blockade of the interaction of selectins and their ligands holds a significant role in monocyte homing which might be a potential approach to treat atherosclerosis. Here, we investigated the efficacy of a novel peptide analogue of selectin ligands IELLQAR in atherosclerosis.</AbstractText>
+                <AbstractText Label="Methods and Results" NlmCategory="UNASSIGNED">In this study, we firstly measured the effect of the IELLQAR selectin-binding peptide on the inhibition of binding of selectins to monocytes by flow cytometry, which exhibited a dose-dependent inhibitory effect on the binding of the P-, E-, and L-selectins to monocytes, especially the inhibition of P-selectin binding to human peripheral blood monocytes (PBMCs) (half maximal inhibitory concentration (IC<sub>50</sub>~5 <i>μ</i>M)) and THP-1 cells (IC<sub>50</sub>~10 <i>μ</i>M). Furthermore, IELLQAR inhibited P-selectin-induced activation of CD11b on the surface of monocytes and decreased adhesion of monocytes to the endothelium<i>. ApoE<sup>-/-</sup></i> mice with or without IELLQAR (1 or 3 mg/kg) fed a Western-type diet (WTD) or which had disturbed blood flow-induced shear stress underwent partial left carotid artery ligation (PLCA) to induce atherosclerosis. In the WTD- and PLCA-induced atherosclerosis models, atherosclerotic plaque formation and monocyte/macrophage infiltration of the arterial wall both decreased in <i>ApoE<sup>-/-</sup></i> mice treated with the IELLQAR peptide. Our results also revealed that IELLQAR inhibited the differentiation of monocytes into macrophages through P-selectin-dependent activation of the nuclear factor- (NF-) <i>κ</i>B and mammalian target of rapamycin (mTOR) pathways.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Collectively, our results demonstrated that IELLQAR, a peptide analogue of selectin ligands, inhibited selectin binding to monocytes, which led to subsequent attenuation of atherosclerosis via inhibition of monocyte activation. Hence, use of the IELLQAR peptide provides a new approach and represents a promising candidate for the treatment of atherosclerosis in the early stage of disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Zhishuai</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Center/Division of Cardiology, Beijing Friendship Hospital, Capital Medical University, No. 95 Yong'an Road, Beijing City 100053, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, The First Affiliated Hospital of Dalian Medical University, Dalian City 116011, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Shanfeng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, The First Affiliated Hospital of Dalian Medical University, Dalian City 116011, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yubo</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life Sciences and Pharmacy, Dalian University of Technology, Dalian City 116027, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Shujing</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, Dalian Medical University, Dalian City 116044, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jianing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life Sciences and Pharmacy, Dalian University of Technology, Dalian City 116027, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Rongchong</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0002-2607-2112</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Center/Division of Cardiology, Beijing Friendship Hospital, Capital Medical University, No. 95 Yong'an Road, Beijing City 100053, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mediators Inflamm</MedlineTA>
+            <NlmUniqueID>9209001</NlmUniqueID>
+            <ISSNLinking>0962-9351</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198404</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/8709583</ArticleId>
+            <ArticleId IdType="pmc">PMC6526553</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

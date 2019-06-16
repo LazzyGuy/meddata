@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199139</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-510X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inorganic chemistry</Title>
+                <ISOAbbreviation>Inorg Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Redox-Driven Chelation and Kinetic Separation of Select Rare Earths Using a Tripodal Nitroxide Proligand.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.inorgchem.9b00975</ELocationID>
+            <Abstract>
+                <AbstractText>Separation of the rare-earth (RE) elements (Sc, Y, La-Lu) is challenging because of their similar chemical properties, but is necessary for their applications in renewable energy and electronic device technologies. The development of separation processes driven by kinetic factors represents a new area for this field. Herein, we disclose a novel method of separating select rare earths by reacting RE cyclopentadienides with the triradical species tris(2- tert-butylnitroxyl)benzylamine (1). The key proligand 1 was characterized using a variety of techniques including X-ray crystallography, magnetometry, and EPR spectroscopy. When applied to an equimolar mixture of La:Y cyclopentadienide complexes, different rates of chelation of these organometallic precursors by 1 were observed, affording a separation factor of 26 under the reported conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cole</LastName>
+                    <ForeName>Bren E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheisson</LastName>
+                    <ForeName>Thibault</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4359-5115</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higgins</LastName>
+                    <ForeName>Robert F</ForeName>
+                    <Initials>RF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6776-3537</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakamaru-Ogiso</LastName>
+                    <ForeName>Eiko</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Biophysics, Perelman School of Medicine , University of Pennsylvania , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manor</LastName>
+                    <ForeName>Brian C</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carroll</LastName>
+                    <ForeName>Patrick J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schelter</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8143-6206</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>P. Roy and Diana T. Vagelos Laboratories, Department of Chemistry , University of Pennsylvania , 231 South 34th Street , Philadelphia , Pennsylvania 19104 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Inorg Chem</MedlineTA>
+            <NlmUniqueID>0366543</NlmUniqueID>
+            <ISSNLinking>0020-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199139</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.inorgchem.9b00975</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199033</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-9568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The European journal of neuroscience</Title>
+                <ISOAbbreviation>Eur. J. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exchange protein directly activated by cAMP 2 is required for corticotropin-releasing hormone-mediated spine loss.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ejn.14487</ELocationID>
+            <Abstract>
+                <AbstractText>Corticotropin-releasing hormone is produced in response to acute and chronic stress. Previous studies have shown that activation of the corticotropin-releasing hormone receptor 1 (CRHR1) by corticotropin-releasing hormone results in the rapid loss of dendritic spines which correlates with cognitive dysfunction associated with stress. Exchange protein directly activated by cAMP (EPAC2), a guanine nucleotide exchange factor for the small GTPase Rap, plays a critical role in regulating dendritic spine morphology and has been linked with CRHR1 signaling. In this study we have tested whether EPAC2 links corticotropin-releasing hormone with dendritic spine remodeling. In primary rat cortical neurons, we show that CRHR1 is highly enriched in the dendritic spines. Furthermore, we find that EPAC2 and CRHR1 co-localize in cortical neurons and that acute exposure to corticotropin-releasing hormone induces spine loss. To establish whether EPAC2 was required for corticotropin-releasing hormone-mediated spine loss, we knocked-down EPAC2 in cortical neurons using a short hairpin RNA-mediated approach. In the presence of Epac2 knocked-down, corticotropin-releasing hormone was no longer able to induce spine loss. Taken together, our data indicate that EPAC2 is required for the rapid loss of dendritic spines induced by corticotropin-releasing hormone and may ultimately contribute to responses to acute stress. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Zhong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Penzes</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Autism and Neurodevelopment, Northwestern University, Chicago, USA, IL.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srivastava</LastName>
+                    <ForeName>Deepak P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Basic and Clinical Neuroscience, Maurice Wohl Clinical Neuroscience Institute, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, SE5 9RT, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Neurodevelopmental Disorders, King's College London, London, SE1 1UL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Eur J Neurosci</MedlineTA>
+            <NlmUniqueID>8918110</NlmUniqueID>
+            <ISSNLinking>0953-816X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Rap</Keyword>
+            <Keyword MajorTopicYN="N">Stress</Keyword>
+            <Keyword MajorTopicYN="N">cortical neurons</Keyword>
+            <Keyword MajorTopicYN="N">dendritic spine</Keyword>
+            <Keyword MajorTopicYN="N">excitatory synapse</Keyword>
+            <Keyword MajorTopicYN="N">small GTPase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199033</ArticleId>
+            <ArticleId IdType="doi">10.1111/ejn.14487</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

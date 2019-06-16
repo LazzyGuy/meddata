@@ -1,0 +1,200 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198532</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2048-8505</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical kidney journal</Title>
+                <ISOAbbreviation>Clin Kidney J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation and Study of Diabetic Nephropathy with Atrasentan: what was learned about the treatment of diabetic kidney disease with canagliflozin and atrasentan?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>313-321</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ckj/sfz070</ELocationID>
+            <Abstract>
+                <AbstractText>In April 2019, two major Phase 3 randomized clinical trials were published that assessed primary renal outcomes in diabetic kidney disease (DKD) in type 2 diabetes mellitus (T2DM). The Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation (CREDENCE) tested an already available antidiabetic drug, canagliflozin, and the Study of Diabetic Nephropathy with Atrasentan (SONAR) tested a novel molecule, the endothelin-1 receptor blocker atrasentan, both on top of renin-angiotensin system blockade. Both trials demonstrated significant nephroprotection in patients with overt DKD (albuminuria &gt;300 mg/g urinary creatinine) for combined primary endpoints of end-stage kidney disease (ESKD), doubling of serum creatinine or death from renal or cardiovascular causes in CREDENCE {hazard ratio [HR] 0.70 [95% confidence interval (CI) 0.59-0.82]} and ESKD and doubling of serum creatinine in SONAR [HR 0.65 (95% CI 0.49-0.88)]. Canagliflozin also decreased the secondary renal endpoint ESKD, doubling of serum creatinine or renal death [HR 0.66 (95% CI 0.53-0.81)], which was similar in nature and impact to the primary endpoint in SONAR. In addition, canagliflozin decreased a secondary endpoint of cardiovascular death or hospitalization for heart failure [HR 0.69 (95% CI 0.57-0.83)], whereas atrasentan had no significant impact on a secondary cardiovascular composite endpoint or on hospital admissions for heart failure and, despite restrictive exclusion criteria, there was a non-significant trend towards more frequent episodes of heart failure. Based on these results, canagliflozin will likely be approved for the indication of treating DKD in T2DM and the estimated glomerular filtration rate threshold for prescribing it will be lifted, whereas the future and place of atrasentan in the treatment of DKD remain unclear.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fernandez-Fernandez</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz UAM and School of Medicine, UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandez-Prado</LastName>
+                    <ForeName>Raul</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz UAM and School of Medicine, UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Górriz</LastName>
+                    <ForeName>Jose Luis</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Clínico Universitario, Universitat de Valencia-INCLIVA, Valencia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez-Castelao</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bellvitge University Hospital, Hospitalet, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Navarro-González</LastName>
+                    <ForeName>Juan F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de Investigación y Servicio de Nefrología, Hospital Universitario Nuestra Señora de Candelaria, Santa Cruz de Tenerife, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Porrini</LastName>
+                    <ForeName>Esteban</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Tecnologías Biomédicas, Hospital Universitario de Canarias, Universidad de La Laguna, Santa Cruz de Tenerife, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soler</LastName>
+                    <ForeName>María José</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Research Group, Vall d'Hebron Research Institute, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz UAM and School of Medicine, UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>GEENDIAB, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Kidney J</MedlineTA>
+            <NlmUniqueID>101579321</NlmUniqueID>
+            <ISSNLinking>2048-8505</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">albuminuria</Keyword>
+            <Keyword MajorTopicYN="N">atrasentan</Keyword>
+            <Keyword MajorTopicYN="N">canagliflozin</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">diabetic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">endothelin</Keyword>
+            <Keyword MajorTopicYN="N">sodium-glucose cotransporter-2 (SGLT2) inhibitor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198532</ArticleId>
+            <ArticleId IdType="doi">10.1093/ckj/sfz070</ArticleId>
+            <ArticleId IdType="pii">sfz070</ArticleId>
+            <ArticleId IdType="pmc">PMC6543971</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

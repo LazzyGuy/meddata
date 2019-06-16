@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200115</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2589-0042</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>iScience</Title>
+                <ISOAbbreviation>iScience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mitochondrial Stress Response in Neural Stem Cells Exposed to Electronic Cigarettes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>250-269</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2589-0042(19)30171-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.isci.2019.05.034</ELocationID>
+            <Abstract>
+                <AbstractText>Stem cells provide a sensitive model to study exposure to toxicants, such as cigarette smoke. Electronic cigarettes (ECs) are popular nicotine delivery devices, often targeted to youth and pregnant mothers. However, little is known about how chemicals in ECs might affect neural stem cells, and in particular their mitochondria, organelles that maintain cell functionality and health. Here we show that the mechanism underlying EC-induced stem cell toxicity is stress-induced mitochondrial hyperfusion (SIMH), a transient survival response accompanied by increased mitochondrial oxidative stress. We identify SIMH as a survival response to nicotine, now widely available in EC refill fluids and in pure form for do-it-yourself EC products. These observed mitochondrial alterations combined with autophagy dysfunction to clear damaged mitochondria could lead to faulty stem cell populations, accelerate cellular aging, and lead to acquired mitochondriopathies. Any nicotine-containing product may likewise stress stem cells with long-term repercussions for users and passively exposed individuals. VIDEO ABSTRACT.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zahedi</LastName>
+                    <ForeName>Atena</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioengineering Department, University of California, Riverside CA 92521, USA; Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA; UCR Stem Cell Center and Core, University of California, Riverside CA 92521, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phandthong</LastName>
+                    <ForeName>Rattapol</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA; UCR Stem Cell Center and Core, University of California, Riverside CA 92521, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaili</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leung</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omaiye</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA; UCR Stem Cell Center and Core, University of California, Riverside CA 92521, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Talbot</LastName>
+                    <ForeName>Prue</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioengineering Department, University of California, Riverside CA 92521, USA; Department of Molecular, Cell and Systems Biology, University of California, Riverside CA 92521, USA; UCR Stem Cell Center and Core, University of California, Riverside CA 92521, USA. Electronic address: talbot@ucr.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>iScience</MedlineTA>
+            <NlmUniqueID>101724038</NlmUniqueID>
+            <ISSNLinking>2589-0042</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biological Sciences Research Methodologies</Keyword>
+            <Keyword MajorTopicYN="N">Cell Biology</Keyword>
+            <Keyword MajorTopicYN="N">Medicine</Keyword>
+            <Keyword MajorTopicYN="N">Smoking</Keyword>
+            <Keyword MajorTopicYN="N">Stem Cells Research</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200115</ArticleId>
+            <ArticleId IdType="pii">S2589-0042(19)30171-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.isci.2019.05.034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

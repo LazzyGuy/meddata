@@ -1,0 +1,194 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198936</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1550-9109</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sleep</Title>
+                <ISOAbbreviation>Sleep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the sleep disorder of anti-IgLON5 disease.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">zsz133</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/sleep/zsz133</ELocationID>
+            <Abstract>
+                <AbstractText Label="STUDY OBJECTIVE" NlmCategory="OBJECTIVE">To characterize the sleep disorder of anti-IgLON5 disease.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We reviewed 27 video-polysomnographies (V-PSG), 6 multiple sleep latency tests (MSLT), 2 videsomnoscopies with dexmedetomidine, and 10 actigraphies recorded during the disease course of five patients. Due to severe sleep architecture abnormalities, we used a novel modified sleep scoring system combining conventional stages with a descriptive approach in which two additional stages were identified: undifferentiated-NREM (UN-NREM) and poorly structured N2 (P-SN2) sleep that were characterized by abnormal motor activation and absence or sparse elements of conventional NREM sleep.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sleep-related vocalizations, movements, behaviors, and respiratory abnormalities were reported by bed-partners. In all patients, NREM sleep onset and sleep reentering after an awakening occurred as UN-NREM (median: 29.8% of total sleep time [TST]) and P-SN2 sleep (14.5% TST) associated with vocalizations and simple and quasi-purposeful movements. Sleep initiation was normalized in one patient with a high dose of steroids, but NREM sleep abnormalities reappeared in subsequent V-PSG. In all patients, if sleep continued uninterrupted, there was a progressive normalization with normal N2 (11.7% TST) and N3 (22.3% TST) sleep but stridor and obstructive apnea emerged. REM sleep behavior disorder (RBD) occurred in four patients. Sleep initiation was also altered in MSLT and dexmedetomidine-induced sleep. Actigraphy showed a 10-fold increase of nocturnal activity compared with controls. Sleep abnormalities remained stable during the disease.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The sleep disorder of anti-IgLON5 disease presents as a complex sleep pattern characterized by abnormal sleep initiation with undifferentiated NREM sleep, RBD, periods of normal NREM sleep, stridor, and obstructive apnea.</AbstractText>
+                <CopyrightInformation>© Sleep Research Society 2019. Published by Oxford University Press [on behalf of the Sleep Research Society]. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gaig</LastName>
+                    <ForeName>Carles</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurology Service, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Multidisciplinary Sleep Unit, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iranzo</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurology Service, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Multidisciplinary Sleep Unit, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cajochen</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Chronobiology, Psychiatric Hospital of the University of Basel, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vilaseca</LastName>
+                    <ForeName>Isabel</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multidisciplinary Sleep Unit, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ear Nose and Throat, Hospital Clinic, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Embid</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multidisciplinary Sleep Unit, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Diseases, Hospital Clinic, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dalmau</LastName>
+                    <ForeName>Josep</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroimmunology Program, Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graus</LastName>
+                    <ForeName>Francesc</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroimmunology Program, Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santamaria</LastName>
+                    <ForeName>Joan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurology Service, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Multidisciplinary Sleep Unit, Hospital Clínic of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Sleep</MedlineTA>
+            <NlmUniqueID>7809084</NlmUniqueID>
+            <ISSNLinking>0161-8105</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"> anti-IgLON5 disease</Keyword>
+            <Keyword MajorTopicYN="N">NREM parasomnia</Keyword>
+            <Keyword MajorTopicYN="N">REM sleep behavior disorder</Keyword>
+            <Keyword MajorTopicYN="N">obstructive sleep apnea</Keyword>
+            <Keyword MajorTopicYN="N">stridor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198936</ArticleId>
+            <ArticleId IdType="pii">5519031</ArticleId>
+            <ArticleId IdType="doi">10.1093/sleep/zsz133</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

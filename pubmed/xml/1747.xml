@@ -1,0 +1,166 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198410</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1477-9560</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>17</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis journal</Title>
+                <ISOAbbreviation>Thromb J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A brief review on resistance to P2Y<sub>12</sub> receptor antagonism in coronary artery disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12959-019-0197-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Platelet inhibition is important for patients with coronary artery disease. When dual antiplatelet therapy (DAPT) is required, a P2Y<sub>12</sub>-antagonist is usually recommended in addition to standard aspirin therapy. The most used P2Y<sub>12</sub>-antagonists are clopidogrel, prasugrel and ticagrelor. Despite DAPT, some patients experience adverse cardiovascular events, and insufficient platelet inhibition has been suggested as a possible cause. In the present review we have performed a literature search on prevalence, mechanisms and clinical implications of resistance to P2Y<sub>12</sub> inhibitors.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The PubMed database was searched for relevant papers and 11 meta-analyses were included. P2Y<sub>12</sub> resistance is measured by stimulating platelets with ADP ex vivo and the most used assays are vasodilator stimulated phosphoprotein (VASP), Multiplate, VerifyNow (VN) and light transmission aggregometry (LTA).</AbstractText>
+                <AbstractText Label="Discussion/conclusion" NlmCategory="UNASSIGNED">The frequency of high platelet reactivity (HPR) during clopidogrel therapy is predicted to be 30%. Genetic polymorphisms and drug-drug interactions are discussed to explain a significant part of this inter-individual variation. HPR during prasugrel and ticagrelor treatment is estimated to be 3-15% and 0-3%, respectively. This lower frequency is explained by less complicated and more efficient generation of the active metabolite compared to clopidogrel. Meta-analyses do show a positive effect of adjusting standard clopidogrel treatment based on platelet function testing. Despite this, personalized therapy is not recommended because no large-scale RCT have shown any clinical benefit. For patients on prasugrel and ticagrelor, platelet function testing is not recommended due to low occurrence of HPR.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Warlo</LastName>
+                    <ForeName>Ellen M K</ForeName>
+                    <Initials>EMK</Initials>
+                    <Identifier Source="ORCID">0000-0002-4479-379X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Center for Clinical Heart Research, Department of Cardiology, Oslo University Hospital, Pb 4956 Nydalen, 0424 Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0389 8485</Identifier>
+                        <Identifier Source="GRID">grid.55325.34</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Center for Heart Failure Research, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arnesen</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Center for Clinical Heart Research, Department of Cardiology, Oslo University Hospital, Pb 4956 Nydalen, 0424 Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0389 8485</Identifier>
+                        <Identifier Source="GRID">grid.55325.34</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Center for Heart Failure Research, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seljeflot</LastName>
+                    <ForeName>Ingebjørg</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Center for Clinical Heart Research, Department of Cardiology, Oslo University Hospital, Pb 4956 Nydalen, 0424 Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0389 8485</Identifier>
+                        <Identifier Source="GRID">grid.55325.34</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Center for Heart Failure Research, University of Oslo, Oslo, Norway.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 1936 8921</Identifier>
+                        <Identifier Source="GRID">grid.5510.1</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Thromb J</MedlineTA>
+            <NlmUniqueID>101170542</NlmUniqueID>
+            <ISSNLinking>1477-9560</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clopidogrel</Keyword>
+            <Keyword MajorTopicYN="N">P2Y12 receptor antagonists</Keyword>
+            <Keyword MajorTopicYN="N">Prasugrel</Keyword>
+            <Keyword MajorTopicYN="N">Residual platelet reactivity</Keyword>
+            <Keyword MajorTopicYN="N">Ticagrelor</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198410</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12959-019-0197-5</ArticleId>
+            <ArticleId IdType="pii">197</ArticleId>
+            <ArticleId IdType="pmc">PMC6558673</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198164</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-1151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventing chronic disease</Title>
+                <ISOAbbreviation>Prev Chronic Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Socioeconomic Differences in Cigarette Smoking Among Sociodemographic Groups.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5888/pcd16.180553</ELocationID>
+            <Abstract>
+                <AbstractText>We examined variations in cigarette smoking by socioeconomic status (education and poverty status) in relation to population sociodemographic characteristics (age, race/ethnicity, region and sex). We analyzed data from a nationally representative sample of US adults by using combined data from the National Survey on Drug Use and Health (2011-2014). Low socioeconomic status was generally associated with increased cigarette smoking prevalence by age, race/ethnicity, and region, irrespective of sex. The only exceptions were for Asian and Hispanic women, where low educational attainment was not associated with a high prevalence of cigarette smoking, and among Hispanic men and Asian women, where there was no association between poverty status and smoking. Efforts to reach smokers of low socioeconomic status by using proven tobacco control strategies could reduce disparities in cigarette smoking and smoking-related disease and death.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Garrett</LastName>
+                    <ForeName>Bridgette E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, 4770 Buford Highway, Mailstop S107-7, Atlanta, GA 303041. E-mail: bgarrett@cdc.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martell</LastName>
+                    <ForeName>Brandi N</ForeName>
+                    <Initials>BN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caraballo</LastName>
+                    <ForeName>Ralph S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>King</LastName>
+                    <ForeName>Brian A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prev Chronic Dis</MedlineTA>
+            <NlmUniqueID>101205018</NlmUniqueID>
+            <ISSNLinking>1545-1151</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198164</ArticleId>
+            <ArticleId IdType="doi">10.5888/pcd16.180553</ArticleId>
+            <ArticleId IdType="pii">E74</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

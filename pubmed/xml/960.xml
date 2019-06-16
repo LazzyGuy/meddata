@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199369</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mid-infrared long-pass filter for high-power applications based on grating diffraction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3014-3017</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003014</ELocationID>
+            <Abstract>
+                <AbstractText>A gold-coated silicon grating has been developed, enabling efficient spatial separation of broadband mid-infrared (MIR) beams with wavelengths &gt;5  μm from collinearly propagating, broadband, high-power light in the near-infrared (NIR) spectral range (centered at 2 μm). The optic provides spectral filtering at high powers in a thermally robust and chromatic-dispersion-free manner such as that necessary for coherent MIR radiation sources based on parametric frequency downconversion of femtosecond NIR lasers. The suppression of a &gt;20  W average-power, 2 μm driving pulse train by three orders of magnitude, while retaining high reflectivity of the broadband MIR beam, is presented.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gerz</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schweinberger</LastName>
+                    <ForeName>Wolfgang</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butler</LastName>
+                    <ForeName>Thomas Patrick</ForeName>
+                    <Initials>TP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siefke</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heusinger</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amotchkina</LastName>
+                    <ForeName>Tatiana</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pervak</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeitner</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pupeza</LastName>
+                    <ForeName>Ioachim</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199369</ArticleId>
+            <ArticleId IdType="pii">413537</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

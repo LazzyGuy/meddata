@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199919</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-2191</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of pathology</Title>
+                <ISOAbbreviation>Am. J. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pathology Image Analysis Using Segmentation Deep Learning Algorithms.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0002-9440(18)31121-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajpath.2019.05.007</ELocationID>
+            <Abstract>
+                <AbstractText>With the rapid development of image scanning techniques and visualization software, whole slide imaging (WSI) is becoming a routine diagnostic method. Accelerating clinical diagnosis from pathology images and automating image analysis efficiently and accurately remain significant challenges. Recently, deep learning algorithms have shown great promise in pathology image analysis, such as in tumor region identification, metastasis detection and patient prognosis. Many machine learning algorithms, including convolutional neural networks, have been proposed to automatically segment pathology images. Among these algorithms, segmentation deep learning algorithms such as fully-convolutional networks stand out for their accuracy, computational efficiency, and generalizability. Thus, deep learning-based pathology image segmentation has become an important tool in WSI analysis. In this review, we describe the pathology image segmentation process using deep learning algorithms in detail. The goals are to provide quick guidance for implementing deep learning into pathology image analysis, and to provide some potential ways of further improving segmentation performance. Although there have been previous reviews on using machine learning methods in digital pathology image analysis, to our knowledge, this is the first in-depth review of the applications of deep learning algorithms for segmentation in WSI analysis.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Shidan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Quantitative Biomedical Research Center, Department of Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Donghan M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Quantitative Biomedical Research Center, Department of Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rong</LastName>
+                    <ForeName>Ruichen</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Quantitative Biomedical Research Center, Department of Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhan</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Quantitative Biomedical Research Center, Department of Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, TX. Electronic address: xiaowei.zhan@utsouthwestern.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Guanghua</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Quantitative Biomedical Research Center, Department of Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, TX; Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Pathol</MedlineTA>
+            <NlmUniqueID>0370502</NlmUniqueID>
+            <ISSNLinking>0002-9440</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199919</ArticleId>
+            <ArticleId IdType="pii">S0002-9440(18)31121-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ajpath.2019.05.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,230 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199481</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain : a journal of neurology</Title>
+                <ISOAbbreviation>Brain</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Alzheimer's pathology targets distinct memory networks in the ageing brain.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">awz154</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/awz154</ELocationID>
+            <Abstract>
+                <AbstractText>Alzheimer's disease researchers have been intrigued by the selective regional vulnerability of the brain to amyloid-β plaques and tau neurofibrillary tangles. Post-mortem studies indicate that in ageing and Alzheimer's disease tau tangles deposit early in the transentorhinal cortex, a region located in the anterior-temporal lobe that is critical for object memory. In contrast, amyloid-β pathology seems to target a posterior-medial network that subserves spatial memory. In the current study, we tested whether anterior-temporal and posterior-medial brain regions are selectively vulnerable to tau and amyloid-β deposition in the progression from ageing to Alzheimer's disease and whether this is reflected in domain-specific behavioural deficits and neural dysfunction. 11C-PiB PET and 18F-flortaucipir uptake was quantified in a sample of 131 cognitively normal adults (age: 20-93 years; 47 amyloid-β-positive) and 20 amyloid-β-positive patients with mild cognitive impairment or Alzheimer's disease dementia (65-95 years). Tau burden was relatively higher in anterior-temporal regions in normal ageing and this difference was further pronounced in the presence of amyloid-β and cognitive impairment, indicating exacerbation of ageing-related processes in Alzheimer's disease. In contrast, amyloid-β deposition dominated in posterior-medial regions. A subsample of 50 cognitively normal older (26 amyloid-β-positive) and 25 young adults performed an object and scene memory task while functional MRI data were acquired. Group comparisons showed that tau-positive (n = 18) compared to tau-negative (n = 32) older adults showed lower mnemonic discrimination of object relative to scene images [t(48) = -3.2, P = 0.002]. In a multiple regression model including regional measures of both pathologies, higher anterior-temporal flortaucipir (tau) was related to relatively worse object performance (P = 0.010, r = -0.376), whereas higher posterior-medial PiB (amyloid-β) was related to worse scene performance (P = 0.037, r = 0.309). The functional MRI data revealed that tau burden (but not amyloid-β) was associated with increased task activation in both systems and a loss of functional specificity, or dedifferentiation, in posterior-medial regions. The loss of functional specificity was related to worse memory. Our study shows a regional dissociation of Alzheimer's disease pathologies to distinct memory networks. While our data are cross-sectional, they indicate that with ageing, tau deposits mainly in the anterior-temporal system, which results in deficits in mnemonic object discrimination. As Alzheimer's disease develops, amyloid-β deposits preferentially in posterior-medial regions additionally compromising scene discrimination and anterior-temporal tau deposition worsens further. Finally, our findings propose that the progression of tau pathology is linked to aberrant activation and dedifferentiation of specialized memory networks that is detrimental to memory function.</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maass</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>German Center for Neurodegenerative Diseases, Magdeburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berron</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>German Center for Neurodegenerative Diseases, Magdeburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cognitive Neurology and Dementia Research, Otto-von-Guericke University, Magdeburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Memory Research Unit, Department of Clinical Sciences Malmö, Lund University, Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrison</LastName>
+                    <ForeName>Theresa M</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Jenna N</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>La Joie</LastName>
+                    <ForeName>Renaud</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Memory and Aging Center, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>Suzanne</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Lab, Berkeley, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mellinger</LastName>
+                    <ForeName>Taylor</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Memory and Aging Center, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bell</LastName>
+                    <ForeName>Rachel K</ForeName>
+                    <Initials>RK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swinnerton</LastName>
+                    <ForeName>Kaitlin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inglis</LastName>
+                    <ForeName>Ben</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Henry H. Wheeler, Jr. Brain Imaging Center, University of California, Berkeley, Berkeley, CA USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rabinovici</LastName>
+                    <ForeName>Gil D</ForeName>
+                    <Initials>GD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Memory and Aging Center, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Lab, Berkeley, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Düzel</LastName>
+                    <ForeName>Emrah</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>German Center for Neurodegenerative Diseases, Magdeburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cognitive Neurology and Dementia Research, Otto-von-Guericke University, Magdeburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jagust</LastName>
+                    <ForeName>William J</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Lab, Berkeley, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Brain</MedlineTA>
+            <NlmUniqueID>0372537</NlmUniqueID>
+            <ISSNLinking>0006-8950</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">anterior-temporal (AT)</Keyword>
+            <Keyword MajorTopicYN="N">hyperactivation</Keyword>
+            <Keyword MajorTopicYN="N">memory</Keyword>
+            <Keyword MajorTopicYN="N">posterior-medial (PM)</Keyword>
+            <Keyword MajorTopicYN="N">tau</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199481</ArticleId>
+            <ArticleId IdType="pii">5519092</ArticleId>
+            <ArticleId IdType="doi">10.1093/brain/awz154</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,217 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199299</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2369-3762</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR medical education</Title>
+                <ISOAbbreviation>JMIR Med Educ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of an Electronic App on Resident Responses to Simulated In-Flight Medical Emergencies: Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e10955</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/10955</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Health care providers are often called to respond to in-flight medical emergencies, but lack familiarity with expected supplies, interventions, and ground medical control support.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to determine whether a mobile phone app (airRx) improves responses to simulated in-flight medical emergencies.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This was a randomized study of volunteer, nonemergency resident physician participants who managed simulated in-flight medical emergencies with or without the app. Simulations took place in a mock-up cabin in the simulation center. Standardized participants played the patient, family member, and flight attendant roles. Live, nonblinded rating was used with occasional video review for data clarification. Participants participated in two simulated in-flight medical emergencies (shortness of breath and syncope) and were evaluated with checklists and global rating scales (GRS). Checklist item success rates, key critical action times, GRS, and pre-post simulation confidence in managing in-flight medical emergencies were compared.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 29 participants in each arm (app vs control; N=58) of the study. Mean percentages of completed checklist items for the app versus control groups were mean 56.1 (SD 10.3) versus mean 49.4 (SD 7.4) for shortness of breath (P=.001) and mean 58 (SD 8.1) versus mean 49.8 (SD 7.0) for syncope (P&lt;.001). The GRS improved with the app for the syncope case (mean 3.14, SD 0.89 versus control mean 2.6, SD 0.97; P=.003), but not the shortness of breath case (mean 2.90, SD 0.97 versus control mean 2.81, SD 0.80; P=.43). For timed checklist items, the app group contacted ground support faster for both cases, but the control group was faster to complete vitals and basic exam. Both groups indicated higher confidence in their postsimulation surveys, but the app group demonstrated a greater increase in this measure.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Use of the airRx app prompted some actions, but delayed others. Simulated performance and feedback suggest the app is a useful adjunct for managing in-flight medical emergencies.</AbstractText>
+                <CopyrightInformation>©Nur-Ain Nadir, Courtney J Cook, Raymond E Bertino, Marc D Squillante, Cameron Taylor, David Dragoo, Gregory S Podolej, Jessica D Svendsen, Jessica L Fish, Jeremy S McGarvey, William F Bond. Originally published in JMIR Medical Education (http://mededu.jmir.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nadir</LastName>
+                    <ForeName>Nur-Ain</ForeName>
+                    <Initials>NA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2538-3880</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Jump Simulation, OSF Healthcare, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cook</LastName>
+                    <ForeName>Courtney J</ForeName>
+                    <Initials>CJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7359-3076</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertino</LastName>
+                    <ForeName>Raymond E</ForeName>
+                    <Initials>RE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7833-6311</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Squillante</LastName>
+                    <ForeName>Marc D</ForeName>
+                    <Initials>MD</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1731-5805</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Cameron</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0786-419X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dragoo</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1113-6742</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Podolej</LastName>
+                    <ForeName>Gregory S</ForeName>
+                    <Initials>GS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1234-8728</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svendsen</LastName>
+                    <ForeName>Jessica D</ForeName>
+                    <Initials>JD</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9179-1420</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Jump Simulation, OSF Healthcare, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fish</LastName>
+                    <ForeName>Jessica L</ForeName>
+                    <Initials>JL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5565-582X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Jump Simulation, OSF Healthcare, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGarvey</LastName>
+                    <ForeName>Jeremy S</ForeName>
+                    <Initials>JS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2475-1071</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Ministry Analytics, OSF Healthcare, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bond</LastName>
+                    <ForeName>William F</ForeName>
+                    <Initials>WF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6714-7152</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, University of Illinois Peoria, OSF St Francis Medical Center, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Jump Simulation, OSF Healthcare, Peoria, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Med Educ</MedlineTA>
+            <NlmUniqueID>101684518</NlmUniqueID>
+            <ISSNLinking>2369-3762</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">commercial aviation</Keyword>
+            <Keyword MajorTopicYN="N">ground medical control</Keyword>
+            <Keyword MajorTopicYN="N">in-flight medical emergencies</Keyword>
+            <Keyword MajorTopicYN="N">simulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199299</ArticleId>
+            <ArticleId IdType="pii">v5i1e10955</ArticleId>
+            <ArticleId IdType="doi">10.2196/10955</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

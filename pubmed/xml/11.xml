@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200415</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The phylogenetic relationship of Glyciphagidae, Pyroglyphidae, Chortoglyphidae and Acaridae mites families according to the sequence of their main allergens].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>163-177</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29262/ram.v66i2.346</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mites are the main cause of atopy and allergies in the Tropical region. It is necessary to know the phylogenetic relationship of their allergenic proteins in order to determine the best combination of extracts for its use at the clinic.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the phylogenetic relationship between the main allergenic proteins of mites.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Groups 1, 2 and 5 of Glyciphagidae, Pyroglyphidae, Chortoglyphidae and Acaridae families were compared according to the sequence of mRNA and amino acids with the validated sequences of the National Center for Biotechnology Information and through bioinformatic alignment analyses for the construction of the trees, the method of neighbor-joining, with bootstrap support with 500 replications, was used as a measure of reliability and robustness.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">15% to 87% of identity was found in the three groups of allergens; the highest was between Der p2 and Der f2 (86.98%) and, the lowest, between Der f 5 and Gly d 5 (17.87%) Piroglyphidae showed the highest relationship between the species. The longest branching distance was identified in Glicyphagidae, especially in Blomia tropicalis.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Some allergenic proteins have a high identity between the different species of mites, unlike Blomia tropicalis. These results can be taken into consideration when the diagnosis and treatment of allergic diseases is being defined.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>Andrés</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de Antioquia, Grupo de Alergología Clínica y Experimental, Medellín, Colombia. anfesabo2418@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munera</LastName>
+                    <ForeName>Marlon</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardona</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Relación filogenética de ácaros Glyciphagidae, Pyroglyphidae, Chortoglyphidae y Acaridae, según la secuencia de sus alérgenos.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+            <ISSNLinking>0002-5151</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="spa">
+            <AbstractText>Antecedentes: Los ácaros son la principal causa de atopía y alergias en la región del trópico. Es necesario conocer la relación filogenética de sus proteínas alergénicas para determinar la mejor combinación de extractos para su empleo en la clínica. Objetivo: Evaluar la relación filogenética entre las principales proteínas alergénicas de los ácaros. Método: Se compararon los grupos 1, 2 y 5 de las familias Glyciphagidae, Pyroglyphidae, Chortoglyphidae y Acaridae de acuerdo con la secuencia de ARNm y aminoácidos con las secuencias validadas en el National Center for Biotechnology Information y mediante análisis bioinformáticos de alineamiento. Para la construcción de los árboles se utilizó el método de neighbor-joining, con soporte por bootstrap con 500 replicaciones como medida de fiabilidad y robustez. Resultados: Se encontró 15 a 87 % de identidad en los tres grupos de alérgenos; la más alta entre Der p 2 y Der f 2 (86.98 %) y la menor entre Der f 5 y Gly d 5 (17.87 %) Piroglyphidae presentó la mayor relación entre las especies. En Glicyphagidae, especialmente en Blomia tropicalis, se identificó la mayor distancia de ramificación. Conclusión: Algunas proteínas alergénicas tienen alta identidad entre las diferentes especies de ácaros, no así Blomia tropicalis. Estos resultados pueden considerarse al definir el diagnóstico y tratamiento de las enfermedades alérgicas.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Allergen</Keyword>
+            <Keyword MajorTopicYN="N">Allergy</Keyword>
+            <Keyword MajorTopicYN="N">Atopy</Keyword>
+            <Keyword MajorTopicYN="N">Mites</Keyword>
+            <Keyword MajorTopicYN="N">Sensitization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200415</ArticleId>
+            <ArticleId IdType="doi">10.29262/ram.v66i2.346</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

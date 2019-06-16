@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199497</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3468</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FEBS letters</Title>
+                <ISOAbbreviation>FEBS Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional Characterization and Mechanistic Modeling of the Human Cytochrome P450 enzyme CYP4A22.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/1873-3468.13489</ELocationID>
+            <Abstract>
+                <AbstractText>The human cytochrome P450 (CYP) enzyme CYP4A22 is an orphan CYP with unknown function. Here, through functional expression in fission yeast, we show that CYP4A22 catalyzes fatty acid hydroxylation as well as aliphatic or aromatic hydroxylations of luciferin-based probe substrates. Mechanistic molecular modeling of CYP4A22 suggests that its ω-hydroxylation activity is hampered by a more spacious active site compared to CYP4B1. Substrate recognition via side-chains R96 and R233 is indicated by dynamic three-dimensional pharmacophores (dynophores) derived from molecular dynamics simulations. CYP4A22 activity is inhibited by three unspecific CYP inhibitors. A comparison of CYP4A22*1 (the reference standard sequence) with CYP4A22-WT (the most common allele) revealed that for the four substrates tested the WT-enzyme always had lower activity. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Durairaj</LastName>
+                    <ForeName>Pradeepraj</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Science and Technology, Health Sciences Platform, Tianjin University, Tianjin, 30072, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Linbing</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Science and Technology, Health Sciences Platform, Tianjin University, Tianjin, 30072, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Machalz</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmaceutical and Medicinal Chemistry, Computer-Aided Drug Design, Institute of Pharmacy, Freie University Berlin, 14195, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolber</LastName>
+                    <ForeName>Gerhard</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmaceutical and Medicinal Chemistry, Computer-Aided Drug Design, Institute of Pharmacy, Freie University Berlin, 14195, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bureik</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Science and Technology, Health Sciences Platform, Tianjin University, Tianjin, 30072, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS Lett</MedlineTA>
+            <NlmUniqueID>0155157</NlmUniqueID>
+            <ISSNLinking>0014-5793</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+Schizosaccharomyces pombe
+</Keyword>
+            <Keyword MajorTopicYN="N">CYP4A22</Keyword>
+            <Keyword MajorTopicYN="N">fatty acid hydroxylation</Keyword>
+            <Keyword MajorTopicYN="N">fission yeast</Keyword>
+            <Keyword MajorTopicYN="N">polymorphism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199497</ArticleId>
+            <ArticleId IdType="doi">10.1002/1873-3468.13489</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

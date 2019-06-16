@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198512</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2008-7802</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of preventive medicine</Title>
+                <ISOAbbreviation>Int J Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of Vitamin D Status and Metabolic Syndrome Components in Iranian Children.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>77</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijpvm.IJPVM_242_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Recently, it has been found that Vitamin D can affect cardiometabolic risk factors. However, these findings have not been confirmed in younger population. We aimed to assess the associations of serum 25-hydroxyvitamin D (25(OH)D) and metabolic syndrome (MetS) components in Iranian children.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This cross-sectional study was conducted on 240 children aged 6-9 years old. Anthropometric indices (weight, height, waist circumference, and body fat), biochemical parameters (low-density lipoprotein, high-density lipoprotein, triglyceride [TG], fasting blood sugar, and serum 25(OH)D), systolic blood pressure (SBP) and diastolic blood pressure (DBP) blood pressure, and dietary intake and physical activity were measured. Multivariate linear regression analysis was used to assess the association of MetS components and serum 25(OH)D.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Mean age of children was 7.8 ± 1.06 year. Mean serum 25(OH)D concentration was 14.6 ± 10.64 ng/ml, and the prevalence of Vitamin D deficiency (serum 25(OH)D lower than 10 ng/ml) was 41.66%. Dietary intake of Vitamin D was 1.91 ± 1.8 mcg/day. Serum 25(OH)D was inversely associated with TG (β = -0.16; CI: -0.27, -0.04) after adjusting by age, gender, body mass index, physical activity, and some dietary components. Serum 25(OH)D was negatively associated with SBP (β = -0.02; CI: (-0.05, -0.004), and DBP (β = -0.02; CI: -0.05, -0.003); however, it was not significant anymore after adjustment for sodium, potassium, and fiber.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Vitamin D deficiency is alarming among Iranian children. Among the components of MetS, lower serum Vitamin D concentration was only associated with TG that could contribute in onset and progression of cardiometabolic disorders later in life.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghobadi</LastName>
+                    <ForeName>Saeed</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nutrition Research Center, School of Nutrition and Food Sciences, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rostami</LastName>
+                    <ForeName>Zahra Hassanzadeh</ForeName>
+                    <Initials>ZH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Nutrition, School of Nutrition and Food Sciences, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marzijarani</LastName>
+                    <ForeName>Mohammad Salehi</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Faculty of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faghih</LastName>
+                    <ForeName>Shiva</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nutrition Research Center, School of Nutrition and Food Sciences, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Nutrition, School of Nutrition and Food Sciences, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Int J Prev Med</MedlineTA>
+            <NlmUniqueID>101535380</NlmUniqueID>
+            <ISSNLinking>2008-7802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Children</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">metabolic syndrome</Keyword>
+            <Keyword MajorTopicYN="N">triglyceride</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198512</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijpvm.IJPVM_242_17</ArticleId>
+            <ArticleId IdType="pii">IJPVM-10-77</ArticleId>
+            <ArticleId IdType="pmc">PMC6547802</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

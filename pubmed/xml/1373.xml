@@ -1,0 +1,116 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198912</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem. Commun. (Camb.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lowering the charge overpotential of Li<sub>2</sub>S via the inductive effect of phenyl diselenide in Li-S batteries.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c8cc09565e</ELocationID>
+            <Abstract>
+                <AbstractText>We find that phenyl diselenide (PDSe) can lower the charge overpotential of Li2S via an inductive effect. The Se-Se bond of PDSe can break when it is in contact with Li2S. The attraction between Se and Li weakens the Li-S bonds and facilitates the oxidation of Li2S in lithium batteries.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Qianqian</ForeName>
+                    <Initials>Q</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9351-8436</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Chemistry and Molecular Engineering, Zhengzhou University, Zhengzhou 450001, P. R. China. yfu@zzu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Baohua</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4540-0441</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Laboratory for Next Generation Power and Energy Storage Batteries, Engineering Laboratory for Functionalized Carbon Materials, Graduate School at Shenzhen, Tsinghua University, Shenzhen 518055, P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Si</LastName>
+                    <ForeName>Yubing</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3593-5941</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Henan Provincial Key Laboratory of Nanocomposites and Applications, Institute of Nanostructured Functional Materials, Huanghe Science and Technology College, Zhengzhou 450006, P. R. China. yubingsi@infm.hhstu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Yongzhu</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3746-9884</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Chemistry and Molecular Engineering, Zhengzhou University, Zhengzhou 450001, P. R. China. yfu@zzu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198912</ArticleId>
+            <ArticleId IdType="doi">10.1039/c8cc09565e</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

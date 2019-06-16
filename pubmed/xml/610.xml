@@ -1,0 +1,276 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199769</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1613-4516</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of integrative bioinformatics</Title>
+                <ISOAbbreviation>J Integr Bioinform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Systems Biology Graphical Notation: Process Description language Level 1 Version 2.0.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/jib-2019-0022</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/jib.ahead-of-print/jib-2019-0022/jib-2019-0022.xml</ELocationID>
+            <Abstract>
+                <AbstractText>The Systems Biology Graphical Notation (SBGN) is an international community effort that aims to standardise the visualisation of pathways and networks for readers with diverse scientific backgrounds as well as to support an efficient and accurate exchange of biological knowledge between disparate research communities, industry, and other players in systems biology. SBGN comprises the three languages Entity Relationship, Activity Flow, and Process Description (PD) to cover biological and biochemical systems at distinct levels of detail. PD is closest to metabolic and regulatory pathways found in biological literature and textbooks. Its well-defined semantics offer a superior precision in expressing biological knowledge. PD represents mechanistic and temporal dependencies of biological interactions and transformations as a graph. Its different types of nodes include entity pools (e.g. metabolites, proteins, genes and complexes) and processes (e.g. reactions, associations and influences). The edges describe relationships between the nodes (e.g. consumption, production, stimulation and inhibition). This document details Level 1 Version 2.0 of the PD specification, including several improvements, in particular: 1) the addition of the equivalence operator, subunit, and annotation glyphs, 2) modification to the usage of submaps, and 3) updates to clarify the use of various glyphs (i.e. multimer, empty set, and state variable).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rougny</LastName>
+                    <ForeName>Adrien</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2118-035X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Research Institute for Drug Discovery, AIST, Tokyo135-0064, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Computational Bio Big-Data Open Innovation Laboratory (CBBD-OIL), AIST, Tokyo 169-8555, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Touré</LastName>
+                    <ForeName>Vasundra</ForeName>
+                    <Initials>V</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4639-4431</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Norwegian University of Science and Technology (NTNU), Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moodie</LastName>
+                    <ForeName>Stuart</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Eight Pillars Ltd, 19 Redford Walk, EdinburghEH13 0AG,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balaur</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-3671-895X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czauderna</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1788-9593</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Information Technology, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borlinghaus</LastName>
+                    <ForeName>Hanna</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5410-6877</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer and Information Science, University of Konstanz, Konstanz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dogrusoz</LastName>
+                    <ForeName>Ugur</ForeName>
+                    <Initials>U</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7153-0784</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Computer Engineering Department, Bilkent University, Ankara 06800, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>i-Vis Research Lab, Bilkent University, Ankara 06800, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazein</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-7137-4171</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 6 Avenue du Swing, L-4367 Belvaux, Luxembourg.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cell Biophysics, Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dräger</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1240-5553</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens, Center for Bioinformatics Tübingen (ZBIT), 72076 Tübingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>German Center for Infection Research (DZIF), partner site Tübingen, Tübingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blinov</LastName>
+                    <ForeName>Michael L</ForeName>
+                    <Initials>ML</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9363-9705</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Analysis and Modeling, UConn Health, Farmington CT 06030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villéger</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Freelance IT Consultant, Brighton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haw</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2013-7835</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Ontario Institute for Cancer Research, MaRS Centre, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demir</LastName>
+                    <ForeName>Emek</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational Biology Program, Oregon Health and Science University, Portland, Oregon, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Health and Science University, Department of Molecular and Medical Genetics, Portland, Oregon, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mi</LastName>
+                    <ForeName>Huaiyu</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8721-202X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sorokin</LastName>
+                    <ForeName>Anatoly</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0047-0606</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cell Biophysics, Russian Academy of Sciences, 3 Institutskaya Street, Pushchino, Moscow Region, 142290, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreiber</LastName>
+                    <ForeName>Falk</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Information Technology, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer and Information Science, University of Konstanz, Konstanz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luna</LastName>
+                    <ForeName>Augustin</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5709-371X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>cBio Center, Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA 02215, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>J Integr Bioinform</MedlineTA>
+            <NlmUniqueID>101503361</NlmUniqueID>
+            <ISSNLinking>1613-4516</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">SBGN</Keyword>
+            <Keyword MajorTopicYN="N">biological network</Keyword>
+            <Keyword MajorTopicYN="N">circuit diagram</Keyword>
+            <Keyword MajorTopicYN="N">standard</Keyword>
+            <Keyword MajorTopicYN="N">systems biology</Keyword>
+            <Keyword MajorTopicYN="N">visualisation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199769</ArticleId>
+            <ArticleId IdType="doi">10.1515/jib-2019-0022</ArticleId>
+            <ArticleId IdType="pii">/j/jib.ahead-of-print/jib-2019-0022/jib-2019-0022.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

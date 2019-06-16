@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198941</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of experimental botany</Title>
+                <ISOAbbreviation>J. Exp. Bot.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Arabidopsis IPGA1 is a microtubule-associated protein essential for cell expansion during petal morphogenesis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">erz284</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jxb/erz284</ELocationID>
+            <Abstract>
+                <AbstractText>Unlike animal cells, plant cells do not possess centrosomes that serve as microtubule organizing centers; how microtubule arrays are organized throughout plant morphogenesis remains poorly understood. We report here that Arabidopsis INCREASED PETAL GROWTH ANISOTROPY 1 (IPGA1) is a previously uncharacterized microtubule-associated protein that regulates petal growth and shape by affecting cortical microtubule organization. Through a genetic screen, we showed that IPGA1 loss-of-function mutants displayed a phenotype of longer and narrower petals, as well as increased anisotropic cell expansion of the petal epidermis in the late phases of flower development. Map-based cloning studies revealed that IPGA1 encodes a previously uncharacterized protein that colocalizes with and directly binds to microtubules. IPGA1 plays a negative role in the organization of cortical microtubules into parallel arrays oriented perpendicular to the axis of cell elongation, with the ipga1-1 mutant displaying increased microtubule ordering in petal abaxial epidermal cells. The IPGA1family is conserved among land plants and its homologs may have evolved to regulate microtubule organization. Taken together, our findings identify IPGA1 as a novel microtubule-associated protein and provide significant insights into IPGA1-mediated microtubule organization and petal growth anisotropy.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society for Experimental Biology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Yanqiu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Binqinq</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dang</LastName>
+                    <ForeName>Xie</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Lilan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Jinqiu</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>Huibo</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Chentao</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi Key Lab of Sugarcane Biology, College of Agriculture, Guangxi University, Nanning, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, Center for Genomics and Biotechnology, College of Plant Protection, Fujian Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Deshu</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Basic Forestry and Proteomics Research Center, Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, College of Life Science, Fujian  Agriculture and Forestry University, Fuzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, Guangxi Key Lab of Sugarcane Biology, College of Agriculture, Guangxi University, Nanning, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Exp Bot</MedlineTA>
+            <NlmUniqueID>9882906</NlmUniqueID>
+            <ISSNLinking>0022-0957</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Arabidopsis</Keyword>
+            <Keyword MajorTopicYN="N">IPGA1</Keyword>
+            <Keyword MajorTopicYN="N">cortical microtubule</Keyword>
+            <Keyword MajorTopicYN="N">growth anisotropy</Keyword>
+            <Keyword MajorTopicYN="N">microtubule-associated protein</Keyword>
+            <Keyword MajorTopicYN="N">petal</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198941</ArticleId>
+            <ArticleId IdType="pii">5519041</ArticleId>
+            <ArticleId IdType="doi">10.1093/jxb/erz284</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

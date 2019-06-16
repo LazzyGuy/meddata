@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199489</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0929</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicological sciences : an official journal of the Society of Toxicology</Title>
+                <ISOAbbreviation>Toxicol. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multi-omics investigation reveals benzalkonium chloride disinfectants alter sterol and lipid homeostasis in the mouse neonatal brain.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">kfz139</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/toxsci/kfz139</ELocationID>
+            <Abstract>
+                <AbstractText>Lipids are critical for neurodevelopment; therefore, disruption of lipid homeostasis by environmental chemicals is expected to have detrimental effects on this process. Previously, we demonstrated that the benzalkonium chlorides (BACs), a class of commonly used disinfectants, alter cholesterol biosynthesis and lipid homeostasis in neuronal cell cultures in a manner dependent on their alkyl chain length. However, the ability of BACs to reach the neonatal brain and alter sterol and lipid homeostasis during neurodevelopment in vivo has not been characterized. Therefore, the goal of this study was to use targeted and untargeted mass spectrometry and transcriptomics to investigate the effect of BACs on sterol and lipid homeostasis, and to predict the mechanism of toxicity of BACs on neurodevelopmental processes. After maternal dietary exposure to 120 mg BAC/kg body weight/day, we quantified BAC levels in the mouse neonatal brain, demonstrating for the first time that BACs can cross the blood-placental barrier and enter the developing brain. Transcriptomic analysis of neonatal brains using RNA sequencing revealed alterations in canonical pathways related to cholesterol biosynthesis, liver X receptor-retinoid X receptor (LXR/RXR) signaling, and glutamate receptor signaling. Mass spectrometry analysis revealed decreases in total sterol levels and downregulation of triglycerides and diglycerides, which were consistent with the upregulation of genes involved in sterol biosynthesis and uptake as well as inhibition of LXR signaling. In conclusion, these findings demonstrate that BACs target sterol and lipid homeostasis and provide new insights for the possible mechanisms of action of BACs as developmental neurotoxicants.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Herron</LastName>
+                    <ForeName>Josi M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicinal Chemistry, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hines</LastName>
+                    <ForeName>Kelly M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomita</LastName>
+                    <ForeName>Hideaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seguin</LastName>
+                    <ForeName>Ryan P</ForeName>
+                    <Initials>RP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Julia Yue</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicinal Chemistry, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Libin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicinal Chemistry, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Toxicol Sci</MedlineTA>
+            <NlmUniqueID>9805461</NlmUniqueID>
+            <ISSNLinking>1096-0929</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">benzalkonium chloride</Keyword>
+            <Keyword MajorTopicYN="N">in utero exposure</Keyword>
+            <Keyword MajorTopicYN="N">lipids</Keyword>
+            <Keyword MajorTopicYN="N">multi-omics</Keyword>
+            <Keyword MajorTopicYN="N">neurodevelopment</Keyword>
+            <Keyword MajorTopicYN="N">sterols</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199489</ArticleId>
+            <ArticleId IdType="pii">5519129</ArticleId>
+            <ArticleId IdType="doi">10.1093/toxsci/kfz139</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

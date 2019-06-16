@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199740</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factor V Leiden thrombophilia dental considerations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Factor V Leiden thrombophilia, a relatively common inherited type of hypercoagulability resulting from a mutation in the gene for factor V, has received minimal attention in the dental literature. This review examines related demographic information, risk factors, comorbidities, the thrombotic mechanism, clinical features, diagnostic measures, and medical management strategies. In addition, oral and maxillofacial sequelae and management guidelines are provided. If a patient is known to have the mutation, the clinician should review the patient's potential risk factors for development of thrombosis and ascertain whether any coagulation agents are currently being administered. The practitioner should be prepared to manage instances of prolonged bleeding. The dentist also should be aware of an overall increased risk of systemic thromboembolic events, particularly following head and neck trauma. Rarely, the factor V Leiden mutation has been associated with osteonecrosis of the jaw, usually concurrent with intake of sex hormones.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brooks</LastName>
+                    <ForeName>John K</ForeName>
+                    <Initials>JK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elrafei</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ord</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bleeding</Keyword>
+            <Keyword MajorTopicYN="N">coagulation</Keyword>
+            <Keyword MajorTopicYN="N">factor V Leiden</Keyword>
+            <Keyword MajorTopicYN="N">thrombophilia</Keyword>
+            <Keyword MajorTopicYN="N">thrombosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199740</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

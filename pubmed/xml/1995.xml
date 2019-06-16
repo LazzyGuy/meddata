@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198122</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1467-1107</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiology in the young</Title>
+                <ISOAbbreviation>Cardiol Young</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Giant right pulmonary artery aneurysm in a systemic-to-pulmonary artery shunt.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-2</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S1047951119001343</ELocationID>
+            <Abstract>
+                <AbstractText>Aneurysms of the pulmonary arteries and trunk are rare entities. The Waterston shunt is a palliative procedure for children with cyanotic CHD due to obstruction of the pulmonary outflow. Described complications are distortion of the pulmonary artery and pulmonary arterial hypertension. We report a patient with a giant right pulmonary artery aneurysm in relation to a Waterston shunt.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martínez-Quintana</LastName>
+                    <ForeName>Efrén</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1289-7279</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Service,Insular-Materno Infantil University Hospital,Las Palmas de Gran Canaria,Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medina-Gil</LastName>
+                    <ForeName>Jose M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Service,Insular-Materno Infantil University Hospital,Las Palmas de Gran Canaria,Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marrero-Brito</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiology Service,Insular-Materno Infantil University Hospital,Las Palmas de Gran Canaria,Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cardiol Young</MedlineTA>
+            <NlmUniqueID>9200019</NlmUniqueID>
+            <ISSNLinking>1047-9511</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CHD</Keyword>
+            <Keyword MajorTopicYN="N">Pulmonary artery aneurysm</Keyword>
+            <Keyword MajorTopicYN="N">Waterston shunt</Keyword>
+            <Keyword MajorTopicYN="N">cyanosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198122</ArticleId>
+            <ArticleId IdType="pii">S1047951119001343</ArticleId>
+            <ArticleId IdType="doi">10.1017/S1047951119001343</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

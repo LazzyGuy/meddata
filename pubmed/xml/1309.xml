@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198983</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1791-244X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular medicine</Title>
+                <ISOAbbreviation>Int. J. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Construction of prognostic risk prediction model of oral squamous cell carcinoma based on co-methylated genes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3892/ijmm.2019.4243</ELocationID>
+            <Abstract>
+                <AbstractText>This study aimed to identify DNA methylation markers in oral squamous cell carcinoma (OSCC) and to construct a prognostic prediction model of OSCC. For this purpose, the methylation data of patients with OSCC downloaded from The Cancer Genome Atlas were considered as a training dataset. The methylation profiles of GSE37745 for OSCC samples were downloaded from Gene Expression Omnibus and considered as validation dataset. Differentially methylated genes (DMGs) were screened from the TCGA training dataset, followed by co‑methylation analysis using weighted correlation network analysis (WGCNA). Subsequently, the methylation and gene expression levels of DMGs involved in key modules were extracted for correlation analysis. Prognosis‑related methylated genes were screened using the univariate Cox regression analysis. Finally, the risk prediction model was constructed and validated through GSE52793. The results revealed that a total of 948 DMGs with CpGs were screened out. Co‑methylation gene analysis obtained 2 (brown and turquoise) modules involving 380 DMGs. Correlation analysis revealed that the methylation levels of 132 genes negatively correlated with the gene expression levels. By combining with the clinical survival prognosis of samples, 5 optimized prognostic genes [centromere protein V (CENPV), Tubby bipartite transcription factor (TUB), synaptotagmin like 2 (SYTL2), occludin (OCLN) and CAS1 domain containing 1 (CASD1)] were selected for constructing a risk prediction model. It was consistent in the training dataset and GSE52793 that low‑risk samples had a better survival prognosis. On the whole, this study indicates that the constructed risk prediction model based on CENPV, SYTL2, OCLN, CASD1, and TUB may have the potential to be used for predicting the survival prognosis of patients with OSCC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Qiang</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Stomatolgy, Changhai Hospital, Second Military Medical University, Shanghai 200433, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Stomatolgy, Changhai Hospital, Second Military Medical University, Shanghai 200433, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Jianyong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Stomatolgy, Changhai Hospital, Second Military Medical University, Shanghai 200433, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Int J Mol Med</MedlineTA>
+            <NlmUniqueID>9810955</NlmUniqueID>
+            <ISSNLinking>1107-3756</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198983</ArticleId>
+            <ArticleId IdType="doi">10.3892/ijmm.2019.4243</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

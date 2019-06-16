@@ -1,0 +1,161 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199329</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mobile Health Adoption in Mental Health: User Experience of a Mobile Health App for Patients With an Eating Disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12920</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12920</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite the worldwide growth in mobile health (mHealth) tools and the possible benefits for both patients and health care providers, the overall adoption levels of mHealth tools by health professionals remain relatively low.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed (1) to investigate attitudes of health care providers and mHealth experts toward mHealth tools in the health context in general, and this study aimed (2) to test the acceptability and feasibility of a specific mHealth tool for patients with an eating disorder (ED), called TCApp, among patients and ED specialists.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To this purpose, we conducted an explorative qualitative study with 4 in-depth group discussions with several groups of stakeholders: our first focus group was conducted with 11 experts on mHealth from the Catalan Association of Health Entities; the second focus group included 10 health care professionals from the Spanish College of Doctors of Barcelona; the third focus group involved 9 patients with an ED who had used the TCApp over a 12-week period, and the fourth and last focus group involved 8 ED specialists who had monitored such ED patients on the Web.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The focus groups showed that health care providers and mHealth experts reported barriers for mHealth adoption more often than facilitators, indicating that mHealth techniques are difficult to obtain and use. Most barriers were attributed to external factors relating to the human or organizational environment (ie, lack of time because of workload, lack of direct interest on a legislative or political level) rather than being attributed to internal factors relating to individual obstacles. The results of the mHealth intervention study indicate that the TCApp was considered as easy to use and useful, although patients and the ED specialists monitoring them on the Web reported different adoption problems, such as the inability to personalize the app, a lack of motivational and interactive components, or difficulties in adhering to the study protocol.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In general, this paper indicates that both health professionals and patients foresee difficulties that need to be addressed before comprehensive adoption and usage of mHealth techniques can be effectively implemented. Such findings are in line with previous studies, suggesting that although they acknowledge their possible benefits and cost-effectiveness, health care providers are quite resistant and conservative about integrating mHealth technologies in their daily practice.</AbstractText>
+                <CopyrightInformation>©Dimitra Anastasiadou, Frans Folkvord, Eduardo Serrano-Troncoso, Francisco Lupiañez-Villanueva. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 31.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Anastasiadou</LastName>
+                    <ForeName>Dimitra</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7544-523X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information and Communication Sciences, Universitat Oberta de Catalunya, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Open Evidence Research, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Folkvord</LastName>
+                    <ForeName>Frans</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7602-3792</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Open Evidence Research, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Humanities and Digital Sciences, Tilburg University, Tilburg, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serrano-Troncoso</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4935-7348</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Child and Adolescent Psychiatry and Psychology Department, Hospital Sant Joan de Déu of Barcelona, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Children and Adolescent Mental Health Research Group, Institut de Recerca Sant Joan de Déu, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lupiañez-Villanueva</LastName>
+                    <ForeName>Francisco</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5361-7678</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information and Communication Sciences, Universitat Oberta de Catalunya, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Open Evidence Research, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">eating disorders</Keyword>
+            <Keyword MajorTopicYN="N">focus groups</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">mental health</Keyword>
+            <Keyword MajorTopicYN="N">mobile applications</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199329</ArticleId>
+            <ArticleId IdType="pii">v7i6e12920</ArticleId>
+            <ArticleId IdType="doi">10.2196/12920</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

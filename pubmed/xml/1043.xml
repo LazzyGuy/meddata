@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199286</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1305-3612</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Diagnostic and interventional radiology (Ankara, Turkey)</Title>
+                <ISOAbbreviation>Diagn Interv Radiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The interaction between irreversible electroporation therapy (IRE) and embolization material using a validated vegetal model: an experimental study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5152/dir.2019.18361</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Irreversible electroporation (IRE) is a nonthermal tumor ablation technique that induces cell apoptosis while preserving extracellular architecture. Surgical clips and embolic agents may lie adjacent to, or within, the target lesion. It is unknown to date if IRE causes degradation to the embolic agents or surgical clips that may have adverse effects to patients. We aimed to examine the effects of the IRE on the morphology of various embolic agents and the effects of these agents to the ablation field using a previously validated vegetal model.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Metallic surgical clips and various metallic and nonmetallic embolic agents were inserted within the center of the tuber ablation field. Additionally, clips were inserted on the edge and outside the ablation field. One tuber was ablated as a control. Ablation settings were based on previous published experiments. Tubers were imaged with magnetic resonance imaging (MRI) 18-24 hours after ablation and the ablated field dimensions were measured. Nonmetallic embolic agents were examined microscopically by the pathologist.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Nonmetallic agents did not affect the ablation pattern. Metallic implants, however, caused arcing of the ablation margins. There was no macroscopic or microscopic degradation to the agents after IRE.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The ablation zone arced in the presence of surgical clips at the edge or outside the ablation margins; therefore, nearby critical structures may be susceptible to the effects of IRE. Furthermore, there was no physical degradation of the embolic agents or surgical clips, and this may have importance when considering IRE ablation of previously embolized lesions in vivo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The Alfred Hospital, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLean</LastName>
+                    <ForeName>Catriona</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, The Alfred Hospital, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Sunshine Hospital, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goh</LastName>
+                    <ForeName>Gerard S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The Alfred Hospital, Victoria, Australia; Department of Surgery, Monash University, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Turkey</Country>
+            <MedlineTA>Diagn Interv Radiol</MedlineTA>
+            <NlmUniqueID>101241152</NlmUniqueID>
+            <ISSNLinking>1305-3825</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199286</ArticleId>
+            <ArticleId IdType="doi">10.5152/dir.10.5152/dir.2019.18361</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

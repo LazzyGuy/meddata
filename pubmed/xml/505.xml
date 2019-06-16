@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199885</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ouabain-regulated phosphoproteome reveals molecular mechanisms for Na<sup>+</sup>, K<sup>+</sup>-ATPase control of cell adhesion, proliferation, and survival.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>fj201900445R</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.201900445R</ELocationID>
+            <Abstract>
+                <AbstractText>The ion pump Na<sup>+</sup>, K<sup>+</sup>-ATPase (NKA) is a receptor for the cardiotonic steroid ouabain. Subsaturating concentration of ouabain triggers intracellular calcium oscillations, stimulates cell proliferation and adhesion, and protects from apoptosis. However, it is controversial whether ouabain-bound NKA is considered a signal transducer. To address this question, we performed a global analysis of protein phosphorylation in COS-7 cells, identifying 2580 regulated phosphorylation events on 1242 proteins upon 10- and 20-min treatment with ouabain. Regulated phosphorylated proteins include the inositol triphosphate receptor and stromal interaction molecule, which are essential for initiating calcium oscillations. Hierarchical clustering revealed that ouabain triggers a structured phosphorylation response that occurs in a well-defined, time-dependent manner and affects specific cellular processes, including cell proliferation and cell-cell junctions. We additionally identify regulation of the phosphorylation of several calcium and calmodulin-dependent protein kinases (CAMKs), including 2 sites of CAMK type II-γ (CAMK2G), a protein known to regulate apoptosis. To verify the significance of this result, CAMK2G was knocked down in primary kidney cells. CAMK2G knockdown impaired ouabain-dependent protection from apoptosis upon treatment with high glucose or serum deprivation. In conclusion, we establish NKA as the coordinator of a broad, tightly regulated phosphorylation response in cells and define CAMK2G as a downstream effector of NKA.-Panizza, E., Zhang, L., Fontana, J. M., Hamada, K., Svensson, D., Akkuratov, E. E., Scott, L., Mikoshiba, K., Brismar, H., Lehtiö, J., Aperia, A. Ouabain-regulated phosphoproteome reveals molecular mechanisms for Na<sup>+</sup>, K<sup>+</sup>-ATPase control of cell adhesion, proliferation, and survival.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panizza</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Science for Life Laboratory, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Liang</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Solna, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fontana</LastName>
+                    <ForeName>Jacopo Maria</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Physics, Science for Life Laboratory, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamada</LastName>
+                    <ForeName>Kozo</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Developmental Neurobiology, Brain Science Institute, Riken, Saitama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svensson</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Solna, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akkuratov</LastName>
+                    <ForeName>Evgeny E</ForeName>
+                    <Initials>EE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Physics, Science for Life Laboratory, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Lena</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Solna, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikoshiba</LastName>
+                    <ForeName>Katsuhiko</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Developmental Neurobiology, Brain Science Institute, Riken, Saitama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brismar</LastName>
+                    <ForeName>Hjalmar</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Solna, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Physics, Science for Life Laboratory, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lehtiö</LastName>
+                    <ForeName>Janne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Science for Life Laboratory, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aperia</LastName>
+                    <ForeName>Anita</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Solna, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">calcium and calmodulin–dependent protein kinase</Keyword>
+            <Keyword MajorTopicYN="N">inositol triphosphate receptor</Keyword>
+            <Keyword MajorTopicYN="N">kidney</Keyword>
+            <Keyword MajorTopicYN="N">phosphoproteomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199885</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.201900445R</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

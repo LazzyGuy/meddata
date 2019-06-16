@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200422</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[From research to practice: clinical phases for drug development].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>246-253</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29262/ram.v66i2.625</ELocationID>
+            <Abstract>
+                <AbstractText>Clinical trials become very relevant in the development of new drugs when their pharmacokinetics, pharmacodynamics, efficiency, safety and possible adverse effects are being assessed. So new drugs are available for their daily use in patients, a model has been proposed for more than four decades; This model consists in the realization of sequential research studies, which were called clinical phases I, II, III and IV, which begin once the drugs' effects have been verified in cellular and animal models (preclinical phase). In this article, the general characteristics of each of the clinical phases are synthesized but, apart from that, the modifications that have been done over the years are described with the purpose of making new drugs available in a quicker way.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zurita-Cruz</LastName>
+                    <ForeName>Jessie Nallely</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Mexicano del Seguro Social, Centro Médico Nacional Siglo XXI, Hospital de Pediatría, Ciudad de México, México. villasis@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbosa-Cortés</LastName>
+                    <ForeName>Lourdes</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villasís-Keever</LastName>
+                    <ForeName>Miguel Ángel</ForeName>
+                    <Initials>MÁ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>De la investigación a la práctica: fases clínicas para el desarrollo de fármacos.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+            <ISSNLinking>0002-5151</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="spa">
+            <AbstractText>Los ensayos clínicos toman gran relevancia en el desarrollo de nuevos fármacos al evaluar la farmacocinética, farmacodinamia, eficacia, seguridad y sus posibles efectos adversos. Para que un nuevo fármaco esté disponible para su uso cotidiano en pacientes, desde hace más de cuatro décadas se propuso un modelo que consiste en la realización de estudios de investigación secuenciales que se denominaron fases clínicas I, II, III y IV, las cuales se inician una vez que se han comprobado los efectos del fármaco en modelos celulares y animales (fase preclínica). En este artículo se sintetizan las características generales de cada una de las fases clínicas, pero además se describen las modificaciones que se han realizado en el trascurso de los años, a fin de disponer rápidamente de nuevos fármacos.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clinical research</Keyword>
+            <Keyword MajorTopicYN="N">Clinical trials</Keyword>
+            <Keyword MajorTopicYN="N">Drug design</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200422</ArticleId>
+            <ArticleId IdType="doi">10.29262/ram.v66i2.625</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199272</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2162-2388</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on neural networks and learning systems</Title>
+                <ISOAbbreviation>IEEE Trans Neural Netw Learn Syst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Neural Networks-Based Distributed Adaptive Control of Nonlinear Multiagent Systems.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TNNLS.2019.2915376</ELocationID>
+            <Abstract>
+                <AbstractText>The cooperative control problem of nonlinear multiagent systems is studied in this paper. The followers in the communication network are subject to unmodeled dynamics. A fully distributed neural-networks-based adaptive control strategy is designed to guarantee that all the followers are asymptotically synchronized to the leader, and the synchronization errors are within a prescribed level, where some global information, such as minimum and maximum singular value of graph adjacency matrix, is not necessarily to be known. Based on the Lyapunov stability theory and algebraic graph theory, the stability analysis of the resulting closed-loop system is provided. Finally, an numerical example illustrates the effectiveness and potential of the proposed new design techniques.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Qikun</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Junwu</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Shuoyu</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Neural Netw Learn Syst</MedlineTA>
+            <NlmUniqueID>101616214</NlmUniqueID>
+            <ISSNLinking>2162-237X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199272</ArticleId>
+            <ArticleId IdType="doi">10.1109/TNNLS.2019.2915376</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

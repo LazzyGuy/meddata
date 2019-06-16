@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200180</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Physically-based urban stormwater quality modelling: An efficient approach for calibration and sensitivity analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>462-471</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30789-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Physically-based urban stormwater quality modelling is helpful for increasing the understanding of spatial-temporal dynamics of urban pollution, and for designing innovative management technologies. However, because of the high computational cost, calibration and validation of physically-based models is still challenging. In this context, this study aims to develop a new meta-model based framework for efficient calibration and sensitivity analysis of complex and computationally intensive physically-based models. The proposed approach is applied to the FullSWOF-HR model. According to the average rainfall intensity, 21 rainfall events are categorized into three groups, such as 9 light rains, 6 moderate rains and 6 heavy rains. After upscaling the original high-resolution model, 77 parameter nodes are selected by using the adaptive stochastic collocation method with sparse grids algorithm on the lower-resolution surrogate. 77 simulation runs are then performed with the original model for three representative rainfall events, respectively. The interpolating polynomials of the original models are hence generated. Once the meta-model is constructed, we performed the sensitivity analysis with the variance-based Sobol's method, the results of which are consistent with our previous studies. Calibration process of the meta-model is based on the Markov chain Monte Carlo method. The optimized parameters are verified with the original model and then validated for different rainfall events. These promising results show that the proposed meta-model based approach can efficiently perform sensitivity analysis and parameter optimization for complex physical stormwater quality models, and hence will be very helpful for spreading the detailed water quantity and quality modelling for urban water management issues.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LEESU, MA 102, École des Ponts ParisTech, 6-8 Avenue Blaise Pascal, 77455, Champs-sur-Marne, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Qinzhuo</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KFUPM, Department of Petroleum Engineering, Dhahran, Saudi Arabia. Electronic address: qinzhuo.liao@kfupm.edu.sa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonhomme</LastName>
+                    <ForeName>Celine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LEESU, MA 102, École des Ponts ParisTech, 6-8 Avenue Blaise Pascal, 77455, Champs-sur-Marne, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chebbo</LastName>
+                    <ForeName>Ghassan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LEESU, MA 102, École des Ponts ParisTech, 6-8 Avenue Blaise Pascal, 77455, Champs-sur-Marne, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adaptive stochastic collocation method</Keyword>
+            <Keyword MajorTopicYN="N">Calibration</Keyword>
+            <Keyword MajorTopicYN="N">Markov chain Monte Carlo</Keyword>
+            <Keyword MajorTopicYN="N">Physically-based stormwater quality modelling</Keyword>
+            <Keyword MajorTopicYN="N">Sensitivity analysis</Keyword>
+            <Keyword MajorTopicYN="N">Verification and validation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200180</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30789-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

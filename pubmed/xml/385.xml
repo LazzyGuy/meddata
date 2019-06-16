@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200020</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8657</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of structural biology</Title>
+                <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A surrogate structural platform informed by ancestral reconstruction and resurrection of a putative CBM hybrid illuminates the neofunctionalization of a pectate lyase.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1047-8477(19)30132-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jsb.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Yersinia enterocolitica is a pectinolytic zoonotic foodborne pathogen, the genome of which contains pectin-binding proteins and several different classes of pectinases, including polysaccharide lyases (PLs) and an exopolygalacturonase. These proteins operate within a coordinated pathway to completely saccharify homogalacturonan (HG). Polysaccharide lyase family 2 (PL2) is divided into two major subfamilies that are broadly-associated with contrasting 'endolytic' (PL2A) or 'exolytic' (PL2B) activities on HG. In the Y. enterocolitica genome, the PL2A gene is adjacent to an independent carbohydrate binding module from family 32 (YeCBM32) known to specifically bind HG and possess a N-terminal secretion tag. Independent CBMs are rare in nature and, most commonly, are fused to enzymes in order to potentiate catalysis. The unconventional gene architecture of YePL2A and YeCBM32, therefore, may represent an ancestral relic of a fission event that decoupled PL2A from its cognate CBM. To provide further insight into the evolution of this pectinolytic locus and the molecular basis of HG depolymerisation within Y. enterocolitica, we have resurrected a YePL2A-YeCBM32 chimera and demonstrated that the extant PL2A digests HG more efficiently. In addition, we have engineered a tryptophan from the active site of the exolytic YePL2B into YePL2A (YePL2A-K291W) and demonstrated, using X-ray crystallography of substrate complexes, that it is a structural determinant of exo-activity within the PL2 family. In this manner, surrogate structural platforms may assist in the study of phylogenetic relationships informed by the extant and resurrected sequences, and can be used to overcome challenging structural problems within carbohydrate active enzyme families.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Darryl R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Agriculture and Agri-Food Canada, Lethbridge Research and Development Centre, Lethbridge, Alberta, T1J 4B1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLean</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Agriculture and Agri-Food Canada, Lethbridge Research and Development Centre, Lethbridge, Alberta, T1J 4B1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hobbs</LastName>
+                    <ForeName>Joanne K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Microbiology, University of Victoria, PO Box 3055 STN CSC, Victoria, British Columbia, V8W 3P6, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wade Abbott</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Agriculture and Agri-Food Canada, Lethbridge Research and Development Centre, Lethbridge, Alberta, T1J 4B1, Canada. Electronic address: wade.abbott@canada.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Struct Biol</MedlineTA>
+            <NlmUniqueID>9011206</NlmUniqueID>
+            <ISSNLinking>1047-8477</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ancestral Sequence Reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">Carbohydrate</Keyword>
+            <Keyword MajorTopicYN="N">Carbohydrate Active Enzyme</Keyword>
+            <Keyword MajorTopicYN="N">Endolysis</Keyword>
+            <Keyword MajorTopicYN="N">Exolysis</Keyword>
+            <Keyword MajorTopicYN="N">Polysaccharide Lyase</Keyword>
+            <Keyword MajorTopicYN="N">Tryptophan</Keyword>
+            <Keyword MajorTopicYN="N">X-ray Crystallography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200020</ArticleId>
+            <ArticleId IdType="pii">S1047-8477(19)30132-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jsb.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

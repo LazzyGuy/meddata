@@ -1,0 +1,152 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198228</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0167-9317</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>195</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microelectronic engineering</Title>
+                <ISOAbbreviation>Microelectron Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Focused ion beam nanomachining of tapered optical fibers for patterned light delivery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mee.2018.03.023</ELocationID>
+            <Abstract>
+                <AbstractText>With the advent of optogenetic techniques, a major need for precise and versatile light-delivery techniques has arisen from the neuroscience community. Driven by this demand, research on innovative illuminating devices has opened previously inaccessible experimental paths. However, tailoring light delivery to functionally and anatomically diverse brain structures still remains a challenging task. We progressed in this endeavor by micro-structuring metal-coated tapered optical fibers and exploiting the resulting mode-division multiplexing/demultiplexing properties. To do this, a non-conventional Focused Ion Beam (FIB) milling method was developed in order to pattern the non-planar surface of the taper around the full 360°, by equipping the FIB chamber with a micromanipulation system. This led us to develop three novel typologies of micro-structured illuminating tools: <i>(a)</i> a tapered fiber that emits light from a narrow slot of adjustable length; <i>(b)</i> a tapered fiber that emits light from four independently addressable optical windows; <i>(c)</i> a tapered fiber that emits light from an annular aperture with 360° symmetry. The result is a versatile technology enabling reconfigurable light-delivery that can be tailored to specific experimental needs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pisano</LastName>
+                    <ForeName>Filippo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pisanello</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sileo</LastName>
+                    <ForeName>Leonardo</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qualtieri</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabatini</LastName>
+                    <ForeName>Bernardo L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Ingegneria dell'Innovazione, Università del Salento, 73100 Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Vittorio</LastName>
+                    <ForeName>Massimo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurobiology, Howard Hughes Medical Institute, Harvard Medical School, 02115, MA, Boston, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pisanello</LastName>
+                    <ForeName>Ferruccio</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, 73010, Arnesano, Lecce, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Microelectron Eng</MedlineTA>
+            <NlmUniqueID>101552621</NlmUniqueID>
+            <ISSNLinking>0167-9317</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Focused ion beam</Keyword>
+            <Keyword MajorTopicYN="N">Milling</Keyword>
+            <Keyword MajorTopicYN="N">Nanomachining</Keyword>
+            <Keyword MajorTopicYN="N">Optical fibers</Keyword>
+            <Keyword MajorTopicYN="N">Optogenetics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198228</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mee.2018.03.023</ArticleId>
+            <ArticleId IdType="pmc">PMC6565430</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+

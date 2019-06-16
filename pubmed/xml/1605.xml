@@ -1,0 +1,152 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198590</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2075-0528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sultan Qaboos University medical journal</Title>
+                <ISOAbbreviation>Sultan Qaboos Univ Med J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of Home-to-Centre Distance on Bone Marrow Transplantation Outcomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e15-e18</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18295/squmj.2019.19.01.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objectives" NlmCategory="UNASSIGNED">Haematopoietic stem cell transplantation (HSCT) in Oman started in 1994 at Sultan Qaboos University Hospital (SQUH), Muscat, Oman. Previous studies have suggested that longer driving time to the transplant centre (DTC) independently correlates with worse overall survival (OS). Therefore, this study aimed to examine the impact of DTC on OS and acute graft-versus-host disease (aGvHD).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This retrospective study included all patients who underwent HSCT between February 2006 and December 2016 at SQUH. The DTC was determined using Google Maps (Google LLC., Mountain View, California, USA). The probability of OS was estimated using a Kaplan-Meier estimator and the impact of DTC on OS was compared using a Cox model.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 170 patients were included in this study of which 52% were male and 28% were from the Al Batinah region. The mean age was 14.2 ± 12.2 years. The mean haemoglobin, platelet and white blood cell counts before the HSCT were 10.3 ± 1.7 g/dL, 207 ± 131 × 10<sup>9</sup>/L and 5.1 ± 5.9 × 10<sup>9</sup>/L, respectively. The median DTC for those with aGvHD was 84 minutes, which is similar to patients without aGvHD (<i>P</i> = 0.918). The hazard ratio for DTC as a predictor of OS was 1.0 (<i>P</i> = 0.901).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">In this single centre study, DTC did not impact aGvHD or OS in patients post-HSCT. The study was limited by its retrospective design and the small sample size. It is recommended that these results be confirmed in a prospective study.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Al Naabi</LastName>
+                    <ForeName>Malak</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al Khabori</LastName>
+                    <ForeName>Murtadha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, Sultan Qaboos University, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Huneini</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, Sultan Qaboos University, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Rawas</LastName>
+                    <ForeName>Abdulhakeem</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Child Health, Sultan Qaboos University Hosptial, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dennison</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, Sultan Qaboos University Hosptial, Muscat, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Oman</Country>
+            <MedlineTA>Sultan Qaboos Univ Med J</MedlineTA>
+            <NlmUniqueID>101519915</NlmUniqueID>
+            <ISSNLinking>2075-051X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Graft Versus Host Disease</Keyword>
+            <Keyword MajorTopicYN="N">Hematopoietic Stem Cell Transplantation</Keyword>
+            <Keyword MajorTopicYN="N">Oman</Keyword>
+            <Keyword MajorTopicYN="N">Survival Analysis</Keyword>
+            <Keyword MajorTopicYN="N">Travel</Keyword>
+        </KeywordList>
+        <CoiStatement>CONFLICT OF INTEREST The authors declare no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198590</ArticleId>
+            <ArticleId IdType="doi">10.18295/squmj.2019.19.01.004</ArticleId>
+            <ArticleId IdType="pii">squmj1902-e15-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6544071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

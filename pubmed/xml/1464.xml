@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198796</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2322-2522</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bulletin of emergency and trauma</Title>
+                <ISOAbbreviation>Bull Emerg Trauma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Size Estimation of Under-Reported Suicides and Suicide Attempts Using Network Scale up Method.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>99-104</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29252/beat-070202.</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To estimate (under reporting) UR of SDS (Suicide deaths) and SAS (suicide attempts) in Kermanshah Province which is among provinces with high suicide rate in Iran.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">For estimating the size of UR suicide death registers, all cases of SAS and suicide deaths were retrieved from forensic medicine and health centers. Then, using network scale up method, a sample of 500 cases, aged 18 to 65 years, were randomly selected from the general population on the basis of age - sex proportion. To find the 95% confidence interval, bootstrap technique was used.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED"> The average coverage of SDS was 58.4%, the lowest and highest coverage rate of SDS were attributed to self-immolation (34.2%) and hanging (81.2%), respectively. The coverage rate of SAS for self-immolation and deliberate self-poisoning were 82.4% and 77.2%, respectively. Size estimation of SAS by NSU method revealed that deliberate self-poisoning with medication (61.7%), poisoning with toxins and chemicals (20.6%), and self-immolation (7.7%) were the most frequent methods of SAS.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Given the low coverage of suicide registers, all causes of death, especially deaths classified as accident or deaths with undetermined category, are required to be accurately registered. Investigations of causes of death, correction of wrong codes, as well as interviews with survivors to give them assurance can reduce the rate of suicide denial and result in increased accuracy of death register coverage.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moradinazar</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Environmental Determinants of Health (ECEDH), Public Health School, Kermanshah University of Medical Sciences, Kermanshah, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Modeling in Health Research Center, Institute for Future Studies in Health, Kerman University of Medical Science, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najafi</LastName>
+                    <ForeName>Farid</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Environmental Determinants of Health (ECEDH), Public Health School, Kermanshah University of Medical Sciences, Kermanshah, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baneshi</LastName>
+                    <ForeName>Mohammad Reza</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Modeling in Health Research Center, Institute for Future Studies in Health, Kerman University of Medical Science, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haghdoost</LastName>
+                    <ForeName>Ali Akbar</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Modeling in Health Research Center, Institute for Future Studies in Health, Kerman University of Medical Science, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Bull Emerg Trauma</MedlineTA>
+            <NlmUniqueID>101614018</NlmUniqueID>
+            <ISSNLinking>2322-2522</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Network scale up</Keyword>
+            <Keyword MajorTopicYN="N">Size estimation</Keyword>
+            <Keyword MajorTopicYN="N">Suicide</Keyword>
+            <Keyword MajorTopicYN="N">Under reporting</Keyword>
+        </KeywordList>
+        <CoiStatement>Authors have no conflicting interests to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198796</ArticleId>
+            <ArticleId IdType="doi">10.29252/beat-070202.</ArticleId>
+            <ArticleId IdType="pmc">PMC6555204</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

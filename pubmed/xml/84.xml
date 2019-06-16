@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200330</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>213</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Aquatic toxicology (Amsterdam, Netherlands)</Title>
+                <ISOAbbreviation>Aquat. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolite profiling of Breviolum minutum in response to acidification.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>105215</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0166-445X(19)30270-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.aquatox.2019.05.017</ELocationID>
+            <Abstract>
+                <AbstractText>Coral reefs are in significant decline globally due to climate change and environmental pollution. The ocean is becoming more acidic due to rising atmospheric pCO<sub>2</sub>, and ocean acidification is considered a major threat to coral reefs. However, little is known about the exact mechanism by which acidification impacts coral symbiosis. As an important component of the symbiotic association, to explore the responses of symbionts could greatly enhance our understanding of this issue. The present work aimed to identify metabolomic changes of Breviolum minutum in acidification (low pH) condition, and investigate the underlying mechanisms responsible. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) was applied to determine metabolite profiles after exposure to ambient and acidic conditions. We analysed the resulting metabolite data, and acidification appeared to have little effect on photosynthetic parameters, but it inhibited growth. Marked alterations in metabolite pools were observed in response to acidification that may be important in acclimation to climate change. Acidification may affect the biosynthesis of amino acids and proteins, and thereby inhibit the growth of B. minutum. Metabolites identified using this approach provide targets for future analyses aimed at understanding the responses of Symbiodiniaceae to environmental disturbance.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Jiaoyun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Marine Resource Utilization in South China Sea, College of Oceanology, Hainan University, Haikou 570228, Hainan, China; College of Life Sciences, Guangxi Normal University, Guilin 541004, Guangxi, China. Electronic address: jiangjiaoyun007@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Yandu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Marine Resource Utilization in South China Sea, College of Oceanology, Hainan University, Haikou 570228, Hainan, China. Electronic address: ydlu@hainu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Aquat Toxicol</MedlineTA>
+            <NlmUniqueID>8500246</NlmUniqueID>
+            <ISSNLinking>0166-445X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acclimation</Keyword>
+            <Keyword MajorTopicYN="N">Acidification</Keyword>
+            <Keyword MajorTopicYN="N">Breviolum minutum</Keyword>
+            <Keyword MajorTopicYN="N">LC-MS</Keyword>
+            <Keyword MajorTopicYN="N">Metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">Photophysiology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200330</ArticleId>
+            <ArticleId IdType="pii">S0166-445X(19)30270-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.aquatox.2019.05.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

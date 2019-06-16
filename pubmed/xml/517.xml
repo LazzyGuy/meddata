@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199872</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1362-4962</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nucleic acids research</Title>
+                <ISOAbbreviation>Nucleic Acids Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dynamic ensemble of HIV-1 RRE stem IIB reveals non-native conformations that disrupt the Rev-binding site.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">gkz498</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/nar/gkz498</ELocationID>
+            <Abstract>
+                <AbstractText>The HIV-1 Rev response element (RRE) RNA element mediates the nuclear export of intron containing viral RNAs by forming an oligomeric complex with the viral protein Rev. Stem IIB and nearby stem II three-way junction nucleate oligomerization through cooperative binding of two Rev molecules. Conformational flexibility at this RRE region has been shown to be important for Rev binding. However, the nature of the flexibility has remained elusive. Here, using NMR relaxation dispersion, including a new strategy for directly observing transient conformational states in large RNAs, we find that stem IIB alone or when part of the larger RREII three-way junction robustly exists in dynamic equilibrium with non-native excited state (ES) conformations that have a combined population of ∼20%. The ESs disrupt the Rev-binding site by changing local secondary structure, and their stabilization via point substitution mutations decreases the binding affinity to the Rev arginine-rich motif (ARM) by 15- to 80-fold. The ensemble clarifies the conformational flexibility observed in stem IIB, reveals long-range conformational coupling between stem IIB and the three-way junction that may play roles in cooperative Rev binding, and also identifies non-native RRE conformational states as new targets for the development of anti-HIV therapeutics.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic Acids Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chu</LastName>
+                    <ForeName>Chia-Chieh</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Duke University School of Medicine, Durham, NC 27710, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plangger</LastName>
+                    <ForeName>Raphael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Organic Chemistry and Center for Molecular Biosciences (CMBI), Universität Innsbruck, 6020 Innsbruck, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreutz</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Organic Chemistry and Center for Molecular Biosciences (CMBI), Universität Innsbruck, 6020 Innsbruck, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Hashimi</LastName>
+                    <ForeName>Hashim M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Duke University School of Medicine, Durham, NC 27710, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Duke University, Durham, NC 27708, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nucleic Acids Res</MedlineTA>
+            <NlmUniqueID>0411011</NlmUniqueID>
+            <ISSNLinking>0305-1048</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199872</ArticleId>
+            <ArticleId IdType="pii">5519168</ArticleId>
+            <ArticleId IdType="doi">10.1093/nar/gkz498</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

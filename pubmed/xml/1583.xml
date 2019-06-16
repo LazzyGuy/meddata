@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198628</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gene expression in <i>Tribolium castaneum</i> life stages: Identifying a species-specific target for pest control applications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6946</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6946</ELocationID>
+            <Abstract>
+                <AbstractText>The red flour beetle, <i>Tribolium castaneum</i>, is a major agricultural pest of post-harvest products and stored grain. Control of <i>T. castaneum</i> in stored products and grain is primarily by fumigants and sprays, but insecticide resistance is a major problem, and new control strategies are needed. <i>T. castaneum</i> is a genetic model for coleopterans, and the reference genome can be used for discovery of candidate gene targets for molecular-based control, such as RNA interference. Gene targets need to be pest specific, and ideally, they are expressed at low levels for successful control. Therefore, we sequenced the transcriptome of four major life stages of <i>T. castaneum</i>, sorted data into groups based on high or low expression levels, and compared relative gene expression among all life stages. We narrowed our candidate gene list to a cuticle protein gene (CPG) for further analysis. We found that the CPG sequence was unique to <i>T. castaneum</i> and expressed only in the larval stage. RNA interference targeting CPG in newly-emerged larvae caused a significant (<i>p</i> &lt; 0.05) decrease in CPG expression (1,491-fold) compared to control larvae and 64% mortality over 18 d. RNA-Seq of survivors after 18 d identified changes in the expression of other genes as well, including 52 long noncoding RNAs. Expression of three additional cuticle protein genes were increased and two chitinase genes were decreased in response to injection of CPG dsRNA. The data demonstrate that RNA-Seq can identify genes important for insect survival and thus may be used to develop novel biologically-based insect control products.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Perkin</LastName>
+                    <ForeName>Lindsey C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southern Plains Agricultural Research Center, USDA, Agricultural Research Service, College Station, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oppert</LastName>
+                    <ForeName>Brenda</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Grain and Animal Health Research, USDA, Agricultural Research Service, Manhattan, KS, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cuticle protein</Keyword>
+            <Keyword MajorTopicYN="N">Gene expression</Keyword>
+            <Keyword MajorTopicYN="N">Insect life stages</Keyword>
+            <Keyword MajorTopicYN="N">Insect transcriptome</Keyword>
+            <Keyword MajorTopicYN="N">Pest management genes</Keyword>
+            <Keyword MajorTopicYN="N">RNA interference</Keyword>
+            <Keyword MajorTopicYN="N">Tribolium castaneum</Keyword>
+        </KeywordList>
+        <CoiStatement>Brenda Oppert is an Academic Editor for PeerJ.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198628</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6946</ArticleId>
+            <ArticleId IdType="pii">6946</ArticleId>
+            <ArticleId IdType="pmc">PMC6535216</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

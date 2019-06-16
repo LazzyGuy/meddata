@@ -1,0 +1,135 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199905</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0007</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental eye research</Title>
+                <ISOAbbreviation>Exp. Eye Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Endogenous and synthetic cannabinoids induce the downregulation of cannabinoid CB1 receptor in retina.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>107694</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0014-4835(19)30121-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.exer.2019.107694</ELocationID>
+            <Abstract>
+                <AbstractText>Endogenous and synthetic cannabinoids have been shown to provide neuroprotection to retinal neurons in acute animal models of retinopathy. Chronic exposure to cannabinoid receptor (CB1R) agonists has been reported to induce downregulation of the CB1R in brain and behavioral tolerance. The aim of this study was to investigate the effect of subchronic/chronic cannabinoid administration on CB1R downregulation in normal rat retina, its downstream prosurvival signaling and subsequent effect on retinal neuroprotection against AMPA excitotoxicity. Sprague-Dawley rats were administered intraperitoneally with vehicle (Control), the endogenous N-arachidonoyl ethanolamine (AEA), and the synthetic cannabinoids R-(+)-Methanandamide (MethAEA) and HU-210 daily (25, 50,100 μg/kg) for four or fourteen days (4d/14d, subchronic/chronic administration, respectively). HU210 was also administered acutely as follows, vehicle injection for 13 days and a single dose of HU-210 on the 14th day. Immunohistochemistry studies and Western blot analysis were employed to assess CB1R expression in control and AMPA treated retinas and cannabinoid induced changes in Akt and ERK1/2 phosphorylation (ph). Real time PCR was employed to examine the effect of MethAEA (50 mg/kg,4d) on CB1R mRNA expression. AEA, MethAEA and HU-210 attenuated CB1R expression in a dose-dependent manner (25,50,100 μg/kg), after subchronic and chronic administration. No effect was observed at the lower dose of 25 μg/kg. MethAEA (50 mg/kg,4d) attenuated CB1R mRNA expression. AM251 (CB1 antagonist/inverse agonist, 0.5 mg/kg, 4d), administered prior to HU-210 (50 μg/kg, 4d) inhibited CB1R downregulation. Chronic/subchronic treatments (50 μg/kg) of HU-210 and MethAEA reduced levels of ph-Akt and ph-Akt/ph-ERK1/2, respectively. AEA had no effect on ph-Akt nor ph-ERK1/2. All three cannabinoids (50 μg/kg,4d) failed to protect brain nitric oxide synthetase (bNOS) expressing amacrine cells against AMPA excitotoxicity, in agreement with the downregulation of CB1 receptor. At the lower doses of 12.5 and 25 μg/kg, HU-210 protected bNOS-expressing amacrine cells. This study provides novel information regarding agonist-induced CB1R downregulation in rat retina after subchronic/chronic cannabinoid treatment, and its effect on downstream prosurvival signaling and neuroprotection.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Papadogkonaki</LastName>
+                    <ForeName>Sofia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, School of Medicine, University of Crete and Foundation for Research and Technology, Heraklion, Crete, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theodorakis</LastName>
+                    <ForeName>Κostas</ForeName>
+                    <Initials>Κ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Basic Science, School of Medicine, University of Crete and Foundation for Research and Technology, Heraklion, Crete, Greece; Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology, Heraklion, Crete, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thermos</LastName>
+                    <ForeName>Kyriaki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, School of Medicine, University of Crete and Foundation for Research and Technology, Heraklion, Crete, Greece. Electronic address: thermos@uoc.gr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Exp Eye Res</MedlineTA>
+            <NlmUniqueID>0370707</NlmUniqueID>
+            <ISSNLinking>0014-4835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anandaminde</Keyword>
+            <Keyword MajorTopicYN="N">CB1 receptor</Keyword>
+            <Keyword MajorTopicYN="N">Downregulation</Keyword>
+            <Keyword MajorTopicYN="N">Endocannabinoid system</Keyword>
+            <Keyword MajorTopicYN="N">HU-210</Keyword>
+            <Keyword MajorTopicYN="N">MEK/ERK1/2</Keyword>
+            <Keyword MajorTopicYN="N">PI3K/Akt</Keyword>
+            <Keyword MajorTopicYN="N">R-(+)-methanandamide</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199905</ArticleId>
+            <ArticleId IdType="pii">S0014-4835(19)30121-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.exer.2019.107694</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

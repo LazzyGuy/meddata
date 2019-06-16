@@ -1,0 +1,231 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199786</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7885</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS biology</Title>
+                <ISOAbbreviation>PLoS Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cytosine-5 RNA methylation links protein synthesis to cell metabolism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e3000297</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pbio.3000297</ELocationID>
+            <Abstract>
+                <AbstractText>Posttranscriptional modifications in transfer RNA (tRNA) are often critical for normal development because they adapt protein synthesis rates to a dynamically changing microenvironment. However, the precise cellular mechanisms linking the extrinsic stimulus to the intrinsic RNA modification pathways remain largely unclear. Here, we identified the cytosine-5 RNA methyltransferase NSUN2 as a sensor for external stress stimuli. Exposure to oxidative stress efficiently repressed NSUN2, causing a reduction of methylation at specific tRNA sites. Using metabolic profiling, we showed that loss of tRNA methylation captured cells in a distinct catabolic state. Mechanistically, loss of NSUN2 altered the biogenesis of tRNA-derived noncoding fragments (tRFs) in response to stress, leading to impaired regulation of protein synthesis. The intracellular accumulation of a specific subset of tRFs correlated with the dynamic repression of global protein synthesis. Finally, NSUN2-driven RNA methylation was functionally required to adapt cell cycle progression to the early stress response. In summary, we revealed that changes in tRNA methylation profiles were sufficient to specify cellular metabolic states and efficiently adapt protein synthesis rates to cell stress.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gkatza</LastName>
+                    <ForeName>Nikoletta A</ForeName>
+                    <Initials>NA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6360-7940</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castro</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harvey</LastName>
+                    <ForeName>Robert F</ForeName>
+                    <Initials>RF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Council Toxicology Unit, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heiß</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6770-9511</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popis</LastName>
+                    <ForeName>Martyna C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blanco</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7352-9392</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Cell Signaling and Metabolism Lab, Proteomics Unit CIC bioGUNE, Derio, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Mechanisms Program, Centro de Investigación del Cáncer and Instituto de Biología Molecular y Celular del Cáncer, Consejo Superior de Investigaciones Científicas (CSIC)-University of Salamanca, Salamanca, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bornelöv</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9276-9981</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sajini</LastName>
+                    <ForeName>Abdulrahim A</ForeName>
+                    <Initials>AA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8600-3899</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gleeson</LastName>
+                    <ForeName>Joseph G</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, San Diego School of Medicine, University of California, La Jolla, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffin</LastName>
+                    <ForeName>Julian L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>West</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1535-7737</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kellner</LastName>
+                    <ForeName>Stefanie</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3224-7502</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willis</LastName>
+                    <ForeName>Anne E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Council Toxicology Unit, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dietmann</LastName>
+                    <ForeName>Sabine</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frye</LastName>
+                    <ForeName>Michaela</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5636-6840</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>German Cancer Center (Deutsches Krebsforschungszntrum), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Biol</MedlineTA>
+            <NlmUniqueID>101183755</NlmUniqueID>
+            <ISSNLinking>1544-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>I have read the journal's policy and the authors of this manuscript have the following competing interests: MF is consulting for Storm Therapeutics.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199786</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pbio.3000297</ArticleId>
+            <ArticleId IdType="pii">PBIOLOGY-D-18-00102</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,258 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200355</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-1413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Comprehensive Cancer Network : JNCCN</Title>
+                <ISOAbbreviation>J Natl Compr Canc Netw</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Multidisciplinary Toxicity Team for Cancer Immunotherapy-Related Adverse Events.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>712-720</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.6004/jnccn.2018.7268</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">jnccn18249</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Immune checkpoint inhibitors (ICIs) may cause immune-related adverse events (irAEs). Methods to obtain real-time multidisciplinary input for irAEs that require subspecialist care are unknown. This study aimed to determine whether a virtual multidisciplinary immune-related toxicity (IR-tox) team of oncology and medicine subspecialists would be feasible to implement, be used by oncology providers, and identify patients for whom multidisciplinary input is sought.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Patients treated with ICIs and referred to the IR-tox team in August 2017 through March 2018 were identified. Feasibility was defined as receipt of electronic referrals and provision of recommendations within 24 hours of referral. Use was defined as the proportion of referring providers who used the team's recommendations, which was determined through a postpilot survey. Demographics and tumor, treatment, and referral data were collected. Patient features and irAE associations were analyzed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The IR-tox team was found to be feasible and used: 117 referrals from 102 patients were received in 8 months, all providers received recommendations within 24 hours, 100% of surveyed providers used the recommendations, and 74% changed patient management based on IR-tox team recommendations. Referrals were for suspected irAEs (n=106; 91%) and suitability to treat with ICIs (n=11; 10%). In referred patients, median age was 64 years, 54% were men, 13% had prior autoimmunity, and 46% received ICI combinations versus monotherapy (54%). The most commonly referred toxicities were pneumonitis (23%), arthritis (16%), and dermatitis (15%); 15% of patients had multisystem toxicities. Multiple referrals were more common in those treated with combination ICIs (odds ratio [OR], 6.0; P=.035) or with multisystem toxicities (OR, 8.1; P=.005). The IR-tox team provided a new multidisciplinary forum to assist providers in diagnosing and managing complex irAEs. This model identifies educational and service needs, and patients with irAEs for whom multidisciplinary care is most sought.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A virtual multidisciplinary toxicity team for irAEs was a feasible and used service, and facilitated toxicity identification and management.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Naidoo</LastName>
+                    <ForeName>Jarushka</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jiajia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lipson</LastName>
+                    <ForeName>Evan J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forde</LastName>
+                    <ForeName>Patrick M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suresh</LastName>
+                    <ForeName>Karthik</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Medicine, Division of Pulmonary and Critical Care Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moseley</LastName>
+                    <ForeName>Kendall F</ForeName>
+                    <Initials>KF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>cDepartment of Medicine, Division of Endocrinology, Diabetes &amp; Metabolism.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehta</LastName>
+                    <ForeName>Seema</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>dDepartment of Medicine, Division of Infectious Diseases.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kwatra</LastName>
+                    <ForeName>Shawn G</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>eDepartment of Medicine, Division of Dermatology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parian</LastName>
+                    <ForeName>Alyssa M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>fDepartment of Medicine, Division of Gastroenterology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Amy K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>fDepartment of Medicine, Division of Gastroenterology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Probasco</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>gDepartment of Medicine, Division of Neurology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rouf</LastName>
+                    <ForeName>Rosanne</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>hDepartment of Medicine, Division of Cardiology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thorne</LastName>
+                    <ForeName>Jennifer E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iDepartment of Medicine, Division of Ophthalmology.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>jDepartment of Epidemiology, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shanbhag</LastName>
+                    <ForeName>Satish</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riemer</LastName>
+                    <ForeName>Joanne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Ami A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>kDepartment of Medicine, Division of Rheumatology, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pardoll</LastName>
+                    <ForeName>Drew M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bingham</LastName>
+                    <ForeName>Clifton O</ForeName>
+                    <Initials>CO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>kDepartment of Medicine, Division of Rheumatology, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brahmer</LastName>
+                    <ForeName>Julie R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aBloomberg-Kimmel Institute for Cancer Immunotherapy, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cappelli</LastName>
+                    <ForeName>Laura C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>kDepartment of Medicine, Division of Rheumatology, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Compr Canc Netw</MedlineTA>
+            <NlmUniqueID>101162515</NlmUniqueID>
+            <ISSNLinking>1540-1405</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200355</ArticleId>
+            <ArticleId IdType="doi">10.6004/jnccn.2018.7268</ArticleId>
+            <ArticleId IdType="pii">jnccn18249</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,91 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198899</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-2533</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of ophthalmology</Title>
+                <ISOAbbreviation>Rom J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Central corneal thickness changes following manual small incision cataract surgery versus phacoemulsification for white cataract.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>61-67</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText><b>Aim:</b> To assess the central corneal thickness (CCT) and endothelial cell loss after manual small-incision cataract surgery and phacoemulsification in patients with white cataract. <b>Material and methods:</b> This is a comparative, prospective, non-randomized study on 42 patients with white cataract, who underwent cataract surgery. The patients were divided into manual small-incision cataract surgery (21 eyes, MSICS group) and phacoemulsification cataract surgery group (21 eyes, phaco group). The endothelial cell density (ECD), central cornea thickness (CCT), and corrected distance visual acuity (CDVA) were evaluated at 1 day, 1 week, 4 weeks, and 3 months postoperatively. The results of 20 cases of nuclear sclerosis grade II-III (LOCS III) who underwent phacoemulsification by the same surgeon were also compared. Propensity scoring was used to adjust for confounding by selection bias. <b>Results:</b> The CCT increased after surgery in both groups. The thickness was greater in the phaco group on first day postoperatively (73 µ increase in MSICS group and 138 µ in phaco group, p=0.008) and it returned to preoperative levels 1 month postoperatively. The endothelial cell loss was lower in the MSICS group at 3 months postoperatively (11.8% in MSICS group and 15.8% in phaco group, p=0.111). The CDVA was not different in both groups at 1 week and 4 weeks postoperatively (p&gt;0.05). <b>Conclusions:</b> Manual small-incision cataract surgery for white cataract provided less central corneal thickness changes compared to conventional phacoemulsification. <b>Abbreviations:</b> CCT = central corneal thickness; ECD = endothelial cell density; CDVA = corrected distance visual acuity; APT = absolute phacoemulsification time; EPT = effective phacoemulsification time; MSICS = Manual small-incision cataract surgery in white cataract; Phaco II = Phacoemulsification in white cataract; Phaco I = phacoemulsification in NS 2 + Cataract; Phaco = Phacoemulsification in white cataract; APACRS = Asia-Pacific Association of Cataract and Refractive Surgeons.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kongsap</LastName>
+                    <ForeName>Pipat</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Prapokklao Hospital, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Rom J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101677459</NlmUniqueID>
+            <ISSNLinking>2457-4325</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">central corneal thickness</Keyword>
+            <Keyword MajorTopicYN="N">endothelial cell loss</Keyword>
+            <Keyword MajorTopicYN="N">manual small incision cataract surgery</Keyword>
+            <Keyword MajorTopicYN="N">phacoemulsification</Keyword>
+            <Keyword MajorTopicYN="N">white cataract</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198899</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

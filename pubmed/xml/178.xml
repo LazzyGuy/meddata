@@ -1,0 +1,209 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200233</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1734-1140</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>71</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacological reports : PR</Title>
+                <ISOAbbreviation>Pharmacol Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Agomelatine and tianeptine antidepressant activity in mice behavioral despair tests is enhanced by DMPX, a selective adenosine A<sub>2A</sub> receptor antagonist, but not DPCPX, a selective adenosine A<sub>1</sub> receptor antagonist.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>676-681</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1734-1140(18)30611-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pharep.2019.03.007</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Adenosine, an endogenous nucleoside, modulates the release of monoamines, e.g., noradrenaline, serotonin, and dopamine in the brain. Both nonselective and selective stimulation of adenosine receptors produce symptoms of depression in some animal models. Therefore, the main objective of our study was to assess the influence of a selective adenosine A<sub>1</sub> receptor antagonist (DPCPX) and a selective adenosine A<sub>2A</sub> receptor antagonist (DMPX) on the activity of agomelatine and tianeptine.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The forced swim test (FST) and tail suspension test (TST) were performed to assess the effects of DPCPX and DMPX on the antidepressant-like activity of agomelatine and tianeptine. Drug serum and brain levels were analyzed using HPLC.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Co-administration of agomelatine (20 mg/kg) or tianeptine (15 mg/kg) with DMPX (3 mg/kg), but not with DPCPX (1 mg/kg), significantly reduced the immobility time both in the FST and TST in mice. These effects were not associated with an enhancement in animals' spontaneous locomotor activity. The observed changes in the mouse behavior after concomitant injection of DMPX and the tested antidepressant agents were associated with elevated brain concentration of agomelatine and tianeptine.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our study shows a synergistic action of the selective A<sub>2A</sub> receptor antagonist and the studied antidepressant drugs, and a lack of such interaction in the case of the selective A<sub>1</sub> receptor antagonist. The interaction between DMPX and agomelatine/tianeptine at least partly occurs in the pharmacokinetic phase. A combination of a selective A<sub>2A</sub> receptor antagonist and an antidepressant may be a new strategy for treating depression.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Institute of Pharmacology, Polish Academy of Sciences. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Szopa</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland. Electronic address: aleksandra.szopa@umlub.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bogatko</LastName>
+                    <ForeName>Karolina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serefko</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wyska</LastName>
+                    <ForeName>Elżbieta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacokinetics and Physical Pharmacy, Collegium Medicum, Jagiellonian University, Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wośko</LastName>
+                    <ForeName>Sylwia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Świąder</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doboszewska</LastName>
+                    <ForeName>Urszula</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Physiology, Institute of Biology and Biochemistry, Faculty of Biology and Biotechnology, Maria Curie-Skłodowska University, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wlaź</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathophysiology, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wróbel</LastName>
+                    <ForeName>Andrzej</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Second Department of Gynecology, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wlaź</LastName>
+                    <ForeName>Piotr</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Physiology, Institute of Biology and Biochemistry, Faculty of Biology and Biotechnology, Maria Curie-Skłodowska University, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudka</LastName>
+                    <ForeName>Jarosław</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Toxicology, Medical University of Lublin, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poleszak</LastName>
+                    <ForeName>Ewa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Pharmacy, Medical University of Lublin, Lublin, Poland. Electronic address: ewa.poleszak@umlub.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Pharmacol Rep</MedlineTA>
+            <NlmUniqueID>101234999</NlmUniqueID>
+            <ISSNLinking>1734-1140</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antidepressant</Keyword>
+            <Keyword MajorTopicYN="N">DMPX</Keyword>
+            <Keyword MajorTopicYN="N">DPCPX</Keyword>
+            <Keyword MajorTopicYN="N">Locomotor activity test</Keyword>
+            <Keyword MajorTopicYN="N">Mice behavioral despair test</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200233</ArticleId>
+            <ArticleId IdType="pii">S1734-1140(18)30611-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pharep.2019.03.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

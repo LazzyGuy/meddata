@@ -1,0 +1,305 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199224</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-2099</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of general virology</Title>
+                <ISOAbbreviation>J. Gen. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of glecaprevir and pibrentasvir treatment for genotype 1b hepatitis C virus drug resistance-associated variants in humanized mice.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/jgv.0.001268</ELocationID>
+            <Abstract>
+                <AbstractText>Combination therapy with glecaprevir (GLE) and pibrentasvir (PIB) has high efficacy for pan-genotypic hepatitis C virus (HCV)-infected patients. However, the efficacy for patients who acquired potent NS5A inhibitor resistance-associated variants (RAVs) as a result of failure to respond to previous direct-acting antiviral (DAA) therapies is unclear. We investigated the efficacy of GLE/PIB treatment for genotype 1b HCV strains containing RAVs using subgenomic replicon systems and human hepatocyte transplanted mice. Mice were injected with serum samples obtained from a DAA-naïve patient or daclatasvir plus asunaprevir (DCV/ASV) treatment failures including NS5A-L31M/Y93H, -P58S/A92K or -P32 deletion (P32del) RAVs, then treated with GLE/PIB. HCV was eliminated by GLE/PIB treatment in mice with wild-type and NS5A-L31M/Y93H but relapsed in mice with NS5A-P58S/A92K, followed by emergence of additional NS5A mutations after cessation of the treatment. In NS5A-P32del-infected mice, serum HCV RNA remained positive during the GLE/PIB treatment. NS5A-P58S/A92K showed 1.5-fold resistance to PIB relative to wild-type based on analysis using HCV subgenomic replicon systems. When mice were administered various proportions of HCV wild-type and P32del strains and treated with GLE/PIB, serum HCV RNA remained positive in mice with high frequencies of P32del. In these mice, the P32del was undetectable by deep sequencing before GLE/PIB treatment, but P32del strains relapsed after cessation of the GLE/PIB treatment. GLE/PIB is effective for wild-type and NS5A-L31M/Y93H HCV strains, but the effect seems to be low for P58S/A92K and NS5A-P32del RAVs. Although NS5A-P32del was not detected, the mutation may be present at low frequency in DCV/ASV treatment failures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Osawa</LastName>
+                    <ForeName>Mitsutaka</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchida</LastName>
+                    <ForeName>Takuro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imamura</LastName>
+                    <ForeName>Michio</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Teraoka</LastName>
+                    <ForeName>Yuji</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujino</LastName>
+                    <ForeName>Hatsue</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakahara</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ono</LastName>
+                    <ForeName>Atsushi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murakami</LastName>
+                    <ForeName>Eisuke</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kawaoka</LastName>
+                    <ForeName>Tomokazu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miki</LastName>
+                    <ForeName>Daiki</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsuge</LastName>
+                    <ForeName>Masataka</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Natural Science Center for Basic Research and Development, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hiramatsu</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abe-Chayama</LastName>
+                    <ForeName>Hiromi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Center for Medical Specialist Graduate Education and Research, Institute of Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayes</LastName>
+                    <ForeName>C Nelson</ForeName>
+                    <Initials>CN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makokha</LastName>
+                    <ForeName>Grace Naswa</ForeName>
+                    <Initials>GN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aikata</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishida</LastName>
+                    <ForeName>Yuji</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5PhoenixBio Co., Ltd., Higashihiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tateno</LastName>
+                    <ForeName>Chise</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5PhoenixBio Co., Ltd., Higashihiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyayama</LastName>
+                    <ForeName>Yohei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>6Laboratory of Tumor Viruses, Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hijikata</LastName>
+                    <ForeName>Makoto</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>6Laboratory of Tumor Viruses, Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chayama</LastName>
+                    <ForeName>Kazuaki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Gastroenterology and Metabolism, Institute of Biomedical &amp; Health Science, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Research Center for Hepatology and Gastroenterology, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Gen Virol</MedlineTA>
+            <NlmUniqueID>0077340</NlmUniqueID>
+            <ISSNLinking>0022-1317</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199224</ArticleId>
+            <ArticleId IdType="doi">10.1099/jgv.0.001268</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

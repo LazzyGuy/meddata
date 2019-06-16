@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199621</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1948-7193</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS chemical neuroscience</Title>
+                <ISOAbbreviation>ACS Chem Neurosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel Dimethyltyrosine-Tetrahydroisoquinoline Peptidomimetics with Aromatic Tetrahydroisoquinoline Substitutions Show In Vitro Kappa and Mu Opioid Receptor Agonism.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acschemneuro.9b00250</ELocationID>
+            <Abstract>
+                <AbstractText>The dimethyltyrosine-tetrahydroisoquinoline (Dmt-Tiq) scaffold was originally developed in the production of selective delta opioid receptor (DOR) antagonists. Installation of a 7-benzyl pendant on the tetrahydroisoquinoline core of this classic opioid scaffold introduced kappa opioid receptor (KOR) agonism. Further modification of this pendant resulted in retention of KOR agonism and the addition of mu opioid receptor (MOR) partial agonism, a bifunctional profile with potential to be used in the treatment of cocaine addiction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Montgomery</LastName>
+                    <ForeName>Deanna</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anand</LastName>
+                    <ForeName>Jessica P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griggs</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandez</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartman</LastName>
+                    <ForeName>Joshua G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanchez-Santiago</LastName>
+                    <ForeName>Ashley A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pogozheva</LastName>
+                    <ForeName>Irina D</ForeName>
+                    <Initials>ID</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Traynor</LastName>
+                    <ForeName>John R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosberg</LastName>
+                    <ForeName>Henry I</ForeName>
+                    <Initials>HI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Chem Neurosci</MedlineTA>
+            <NlmUniqueID>101525337</NlmUniqueID>
+            <ISSNLinking>1948-7193</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199621</ArticleId>
+            <ArticleId IdType="doi">10.1021/acschemneuro.9b00250</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

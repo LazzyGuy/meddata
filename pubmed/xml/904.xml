@@ -1,0 +1,113 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199426</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1680-0745</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Nov/Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular journal of Africa</Title>
+                <ISOAbbreviation>Cardiovasc J Afr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevalence and sociodemographic correlates of cardiovascular risk factors among patients with hypertension in South African primary care.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>344-351</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5830/CVJA-2018-038</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the prevalence and sociodemographic correlates of cardiovascular risk factors among patients with hypertension at Johan Heyns Community Health Centre, Sedibeng district, South Africa.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 328 participants were systematically sampled. A researcher-administered questionnaire collected information on: socio-demography, presence of diabetes, family history of hypercholesterolaemia, family history of fatal cardiovascular (CV) events, and engagement in physical activities. Other measurements included: blood pressure (BP), weight, height, abdominal circumference and electrocardiography (ECG). Data analysis included descriptive statistics, chi-squared test and regression analysis. Main outcome measures included the proportions of participants with each CV risk and their significant sociodemographic determinants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Participants' mean age was 57.7 years. Most participants were black (86.0%), female (79%) and pensioners (43.6%). The mean BP was 139/84 mmHg, and 60.7% had their BP controlled to targets. There was an average of 3.7 CV risk factors per participant and the prevalence of CV risk factors was: abdominal obesity (80.8%), physical inactivity (73.2%), diabetes (30.2%), alcohol use (28.0%), hypercholesterolaemia (26.5%), smoking (11.9%), past family history of fatal CV event (14.9%), and left ventricular hypertrophy (5.2%). Sociodemographic factors significantly associated with each CV risk factor were: obesity and being female (p = 0.00); alcohol use and young age (p = 0.00); smoking, being male and race other than black (p = 0.00 and p = 0.00, respectively); physical inactivity, being a pensioner and male (p = 0.02 and p = 0.02, respectively); diabetes and being male (p = 0.03); hypercholesterolaemia and race other than black (p = 0.03); family history of hypercholesterolaemia and race other than black (p = 0.00); and family history of fatal CV event and race other than black (p = 0.00).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">There is a high burden of CV risk factors among patients with hypertension in South African primary care, signifying a substantial risk of cardiovascular disease (CVD) in this setting. Interventions aimed at CVD risk reduction need to take cognisance of the sociodemographic correlates of CV risk factors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ngango</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Family Medicine, Department of Family Medicine, University of the Witwatersrand, Johannesburg, South Africa. Email: drngango@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omole</LastName>
+                    <ForeName>O B</ForeName>
+                    <Initials>OB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Family Medicine, Department of Family Medicine, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>South Africa</Country>
+            <MedlineTA>Cardiovasc J Afr</MedlineTA>
+            <NlmUniqueID>101313864</NlmUniqueID>
+            <ISSNLinking>1015-9657</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"> cardiovascular risk factors</Keyword>
+            <Keyword MajorTopicYN="N"> hypertension</Keyword>
+            <Keyword MajorTopicYN="N"> prevalence</Keyword>
+            <Keyword MajorTopicYN="N"> primary care</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199426</ArticleId>
+            <ArticleId IdType="doi">10.5830/CVJA-2018-038</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

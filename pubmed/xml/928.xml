@@ -1,0 +1,101 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199401</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Retrieving the coherent artifact in frequency-resolved optical gating.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3142-3145</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003142</ELocationID>
+            <Abstract>
+                <AbstractText>When confronted with a pulse train whose intensity and/or phase versus time varies from pulse to pulse, multi-shot pulse-measurement techniques usually exhibit a coherent artifact (CA), which substantially complicates the interpretation of the measurement. In frequency-resolved optical gating (FROG), such instabilities are indicated by discrepancies between the measured and retrieved FROG traces. Here we consider the simultaneous retrieval of the CA and the average pulse characteristics from a single FROG trace in the limit of significant fluctuations. We use a modified generalized projections algorithm. Two electric fields are simultaneously retrieved, while the data constraint is updated as the algorithm progresses using only the assumption that the trace can be modeled as the sum of two spectrograms, one corresponding to the pulse and the other corresponding to the CA. An additional flat-spectral-phase constraint is added to one of the fields to ensure that it only reacts to the presence of the CA. Using this novel retrieval method, the complete retrieval of the characteristics of pulses in an unstable train from FROG traces is demonstrated.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Escoto</LastName>
+                    <ForeName>Esmerando</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jafari</LastName>
+                    <ForeName>Rana</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trebino</LastName>
+                    <ForeName>Rick</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steinmeyer</LastName>
+                    <ForeName>Günter</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199401</ArticleId>
+            <ArticleId IdType="pii">413652</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003142</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

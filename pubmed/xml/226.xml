@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200181</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fluoride removal from natural volcanic underground water by an electrocoagulation process: Parametric and cost evaluations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>472-483</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30775-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.05.147</ELocationID>
+            <Abstract>
+                <AbstractText>Excessive fluoride content in groundwater can cause serious risks to human health, and sources of groundwater intended for human consumption should be treated to reduce fluoride concentrations down to acceptable levels. In the particular case of the island of Tenerife (Canary Islands, Spain), the water supply comes mainly from aquifers of volcanic origin with a high content of fluorides that make them unacceptable for human consumption without prior conditioning treatment. The treatments that generate a high rejection of water are not acceptable because water is a scarce natural resource of high value. An electrocoagulation process was investigated as a method to treat natural groundwater from volcanic soils containing a hazardously high fluoride content. The operating parameters of an electrocoagulation reactor model with parallel plate aluminum electrodes were optimized for batch and continuous flow operations. In the case of the batch operation, acidification of the water improved the removal efficiency of fluoride, which was the highest at pH 3. However, operation at the natural pH of the water achieved elimination efficiencies between 82 and 92%, depending on the applied current density. An optimum current density of 5 mA/cm<sup>2</sup> was found in terms of maximum removal efficiency, and the kinetics of fluoride removal conformed to pseudo-second-order kinetics. In the continuous-flow operation, with the optimal residence time of 10 min and a separation of 0.5 cm between the electrodes, it was observed that the current density that would be applied would depend on the initial concentration of fluoride in the raw water. Thus, an initial fluoride concentration of 6.02 mg/L required a current density &gt;7.5 mA/cm<sup>2</sup> to comply with the legal guidelines in the product water, while for an initial concentration of 8.98 mg/L, the optimal current density was 10 mA/cm<sup>2</sup>. Under these operating conditions, the electrocoagulation process was able to reduce the fluoride concentration of natural groundwater to below 1.5 mg/L according to WHO guidelines with an operating cost between 0.20 and 0.26 €/m<sup>3</sup> of treated water.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mena</LastName>
+                    <ForeName>V F</ForeName>
+                    <Initials>VF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Betancor-Abreu</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delgado</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering and Pharmaceutical Technology, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Souto</LastName>
+                    <ForeName>R M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain; Institute of Materials and Nanotechnology, Universidad de La Laguna, P.O. Box 456, E-38200, La Laguna (Tenerife), Spain. Electronic address: rsouto@ull.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santana</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Process Engineering, Universidad de Las Palmas de Gran Canaria, Campus Universitario de Tafira, E-35017, Las Palmas de Gran Canaria (Gran Canaria), Spain. Electronic address: juan.santana@ulpgc.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aluminum electrodes</Keyword>
+            <Keyword MajorTopicYN="N">Electrocoagulation process</Keyword>
+            <Keyword MajorTopicYN="N">Fluoride removal</Keyword>
+            <Keyword MajorTopicYN="N">Water treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200181</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30775-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.05.147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

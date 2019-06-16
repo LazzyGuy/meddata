@@ -1,0 +1,251 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199603</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2324-9269</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular genetics &amp; genomic medicine</Title>
+                <ISOAbbreviation>Mol Genet Genomic Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pathogenic missense mutation pattern of forkhead box genes in neurodevelopmental disorders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e789</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/mgg3.789</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Forkhead box (FOX) proteins are a family of transcription factors. Mutations of three FOX genes, including FOXP1, FOXP2, and FOXG1, have been reported in neurodevelopmental disorders (NDDs). However, due to the lack of site-specific statistical significance, the pathogenicity of missense mutations of these genes is difficult to determine.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">DNA and RNA were extracted from peripheral blood lymphocytes. The mutation was detected by single-molecule molecular inversion probe-based targeted sequencing, and the variant was validated by Sanger sequencing. Real-time quantitative PCR and western blot were performed to assay the expression of the mRNA and protein. To assess the pattern of disorder-related missense mutations of NDD-related FOX genes, we manually curated de novo and inherited missense or inframeshift variants within FOXP1, FOXP2, and FOXG1 that co-segregated with phenotypes in NDDs. All variants were annotated by ANNOVAR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We detected a novel de novo missense mutation (NM_001244815: c.G1444A, p.E482K) of FOXP1 in a patient with intellectual disability and severe speech delay. Real-time PCR and western blot revealed a dramatic reduction of mRNA and protein expression in patient-derived lymphocytes, indicating a loss-of-function mechanism. We observed that the majority of the de novo or transmitted missense variants were located in the FOX domains, and 95% were classified as pathogenic mutations. However, 10 variants were located outside of the FOX domain and were classified as likely pathogenic or variants of uncertain significance.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our study shows the pathogenicity of missense and inframeshift variants of NDD-related FOX genes, which is important for clinical diagnosis and genetic counseling. Functional analysis is needed to determine the pathogenicity of the variants with uncertain clinical significance.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Molecular Genetics &amp; Genomic Medicine published by Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Meilin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yazhe</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Children Psychology and Behavior, The Third Affiliated Hospital of Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Huidan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quan</LastName>
+                    <ForeName>Yingting</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bai</LastName>
+                    <ForeName>Ting</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Kuokuo</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duan</LastName>
+                    <ForeName>Guiqin</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Children Psychology and Behavior, The Third Affiliated Hospital of Zhengzhou University, Zhengzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Child Psychobehavioural Rehabilitation Department, Shenzhen Baoan Maternal and Child Health Hospital, Shenzhen, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Zhengmao</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Kun</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8090-6002</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Medical Information Research, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Center for Excellence in Brain Science and Intelligences Technology (CEBSIT), Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1570-2545</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Genetics &amp; Hunan Provincial Key Laboratory of Medical Genetics, School of Life Sciences, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NM_001244815</AccessionNumber>
+                        <AccessionNumber>NM_001244814.1</AccessionNumber>
+                        <AccessionNumber>NM_014491.3</AccessionNumber>
+                        <AccessionNumber>NM_005249.4</AccessionNumber>
+                        <AccessionNumber>AF146696.1</AccessionNumber>
+                        <AccessionNumber>KJ903607.1</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>A2017544</GrantID>
+                    <Agency>2017 Medical Scientific Research Foundation of Guangdong Province</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>31671114</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>81330027</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Genet Genomic Med</MedlineTA>
+            <NlmUniqueID>101603758</NlmUniqueID>
+            <ISSNLinking>2324-9269</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+FOXG1
+</Keyword>
+            <Keyword MajorTopicYN="N">
+FOXP1
+</Keyword>
+            <Keyword MajorTopicYN="N">
+FOXP2
+</Keyword>
+            <Keyword MajorTopicYN="N">de novo</Keyword>
+            <Keyword MajorTopicYN="N">forkhead box domain</Keyword>
+            <Keyword MajorTopicYN="N">missense variant</Keyword>
+            <Keyword MajorTopicYN="N">neurodevelopmental disorders</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199603</ArticleId>
+            <ArticleId IdType="doi">10.1002/mgg3.789</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198170</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0301-0430</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nephrology</Title>
+                <ISOAbbreviation>Clin. Nephrol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><i>COL4A5</i> mutation causes Alport syndrome with focal segmental glomerulosclerosis lesion: Case report and literature review .</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5414/CN109737</ELocationID>
+            <Abstract>
+                <AbstractText><i>COL4A5</i> gene mutations are known as the cause of Alport syndrome (AS), which typically manifests with hematuria, progressive renal failure, sensorineural hearing loss, and ocular abnormalities. Here we report a case of a 20-year-old male patient presenting with nephrotic syndrome who was diagnosed as having AS with focal segmental glomerulosclerosis (FSGS) lesion after the renal biopsy was performed. In this patient, the link between AS and FSGS lesion is complicated. Whole-exome sequencing was performed to identify its causal genetic variants, and the results revealed that AS with FSGS lesion is caused by mutation of the <i>COL4A5</i> gene. <i>COL4A5</i> gene mutations have phenotypic heterogeneity and thus, we suggest that genetic testing should be considered in such patients for accurate diagnosis and appropriate treatment. .</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuo</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zou</LastName>
+                    <ForeName>Yurong</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Guisen</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Kun</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Nephrol</MedlineTA>
+            <NlmUniqueID>0364441</NlmUniqueID>
+            <ISSNLinking>0301-0430</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198170</ArticleId>
+            <ArticleId IdType="pii">CN109737</ArticleId>
+            <ArticleId IdType="doi">10.5414/CN109737</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

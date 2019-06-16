@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198319</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-4879</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacy &amp; bioallied sciences</Title>
+                <ISOAbbreviation>J Pharm Bioallied Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Embracing Personalized Medicine in Dentistry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S92-S96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/JPBS.JPBS_297_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="Aim" NlmCategory="UNASSIGNED">The aim of this systematic review was to evaluate the number of articles in the area of personalized medicine specific to dentistry.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Electronic search using three databases was performed using PubMed, Embase, and Scopus search.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Results suggest that there is a definite need for more awareness and research pertaining to this specific area.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">With this background, the authors have written a comprehensive review on applications of personalized medicine in various branches of dentistry.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reddy</LastName>
+                    <ForeName>Manchala Sesha</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontics, College of Dentistry, Gulf Medical University, Ajman, UAE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shetty</LastName>
+                    <ForeName>Shishir Ram</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Medicine and Radiology, College of Dentistry, Gulf Medical University, Ajman, UAE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vannala</LastName>
+                    <ForeName>Venkataramana</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, College of Dentistry, Gulf Medical University, Ajman, UAE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Pharm Bioallied Sci</MedlineTA>
+            <NlmUniqueID>101537209</NlmUniqueID>
+            <ISSNLinking>0975-7406</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dentistry</Keyword>
+            <Keyword MajorTopicYN="N">oral cancer</Keyword>
+            <Keyword MajorTopicYN="N">orthodontics</Keyword>
+            <Keyword MajorTopicYN="N">periodontics</Keyword>
+            <Keyword MajorTopicYN="N">personalized medicine</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198319</ArticleId>
+            <ArticleId IdType="doi">10.4103/JPBS.JPBS_297_18</ArticleId>
+            <ArticleId IdType="pii">JPBS-11-92</ArticleId>
+            <ArticleId IdType="pmc">PMC6555331</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

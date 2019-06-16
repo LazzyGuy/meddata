@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200290</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-8423</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical image analysis</Title>
+                <ISOAbbreviation>Med Image Anal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Explainable cardiac pathology classification on cine MRI with motion characterization by semi-supervised learning of apparent flow.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>80-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1361-8415(19)30051-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.media.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>We propose a method to classify cardiac pathology based on a novel approach to extract image derived features to characterize the shape and motion of the heart. An original semi-supervised learning procedure, which makes efficient use of a large amount of non-segmented images and a small amount of images segmented manually by experts, is developed to generate pixel-wise apparent flow between two time points of a 2D+t cine MRI image sequence. Combining the apparent flow maps and cardiac segmentation masks, we obtain a local apparent flow corresponding to the 2D motion of myocardium and ventricular cavities. This leads to the generation of time series of the radius and thickness of myocardial segments to represent cardiac motion. These time series of motion features are reliable and explainable characteristics of pathological cardiac motion. Furthermore, they are combined with shape-related features to classify cardiac pathologies. Using only nine feature values as input, we propose an explainable, simple and flexible model for pathology classification. On ACDC training set and testing set, the model achieves 95% and 94% respectively as classification accuracy. Its performance is hence comparable to that of the state-of-the-art. Comparison with various other models is performed to outline some advantages of our model.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Qiao</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Côte d'Azur, Inria, 2004 Route des Lucioles, 06902 Sophia Antipolis, France. Electronic address: qiao.zheng@inria.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delingette</LastName>
+                    <ForeName>Hervé</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Côte d'Azur, Inria, 2004 Route des Lucioles, 06902 Sophia Antipolis, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayache</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université Côte d'Azur, Inria, 2004 Route des Lucioles, 06902 Sophia Antipolis, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Med Image Anal</MedlineTA>
+            <NlmUniqueID>9713490</NlmUniqueID>
+            <ISSNLinking>1361-8415</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apparent flow</Keyword>
+            <Keyword MajorTopicYN="N">Cardiac pathology</Keyword>
+            <Keyword MajorTopicYN="N">Cine MRI</Keyword>
+            <Keyword MajorTopicYN="N">Classification</Keyword>
+            <Keyword MajorTopicYN="N">Deep learning</Keyword>
+            <Keyword MajorTopicYN="N">Motion</Keyword>
+            <Keyword MajorTopicYN="N">Neural network</Keyword>
+            <Keyword MajorTopicYN="N">Semi-supervised learning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200290</ArticleId>
+            <ArticleId IdType="pii">S1361-8415(19)30051-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.media.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

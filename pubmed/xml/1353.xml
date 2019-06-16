@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198932</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1756-2651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biochemistry</Title>
+                <ISOAbbreviation>J. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phosphorylation of repressive histone code readers by casein kinase 2 plays diverse roles in heterochromatin regulation.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">mvz045</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jb/mvz045</ELocationID>
+            <Abstract>
+                <AbstractText>Heterochromatin is a condensed and transcriptionally silent chromatin structure and that plays important roles in epigenetic regulation of the genome. Two types of heterochromatin exist: constitutive heterochromatin is primarily associated with trimethylation of histone H3 at lysine 9 (H3K9me3), and facultative heterochromatin with trimethylation of H3 at lysine 27 (H3K27me3). The methylated histones are bound by the chromodomain (CD) of histone code &quot;reader&quot; proteins: HP1 family proteins for H3K9me3 and Polycomb family proteins for H3K27me3. Each repressive reader associates with various &quot;effector&quot; proteins that provide the functional basis of heterochromatin. Heterochromatin regulation is primarily achieved by controlling histone modifications. However, recent studies have revealed that the repressive readers are phosphorylated, like other regulatory proteins, suggesting that phosphorylation also participates in heterochromatin regulation. Detailed studies have shown that phosphorylation of readers affects the binding specificities of CDs for methylated histone H3, as well as the binding of effector proteins. Thus, phosphorylation adds another layer to heterochromatin regulation. Interestingly, casein kinase 2 (CK2), a strong and predominant kinase within the cell, is responsible for phosphorylation of repressive readers. In this commentary, I summarize the regulation of repressive readers by CK2-dependent phosphorylation and discuss the functional meaning of this modification.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Japanese Biochemical Society. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Murakami</LastName>
+                    <ForeName>Yota</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Biochem</MedlineTA>
+            <NlmUniqueID>0376600</NlmUniqueID>
+            <ISSNLinking>0021-924X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">casein kinase 2</Keyword>
+            <Keyword MajorTopicYN="N">chromodomain</Keyword>
+            <Keyword MajorTopicYN="N">heterochromatin</Keyword>
+            <Keyword MajorTopicYN="N">histone code reader</Keyword>
+            <Keyword MajorTopicYN="N">phosphorylation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198932</ArticleId>
+            <ArticleId IdType="pii">5518924</ArticleId>
+            <ArticleId IdType="doi">10.1093/jb/mvz045</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

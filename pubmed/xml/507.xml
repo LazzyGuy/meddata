@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199883</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-4602</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomacromolecules</Title>
+                <ISOAbbreviation>Biomacromolecules</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of Various Glycopolymers Bearing Sialyllactose and the Effect of Their Molecular Mobility on Interaction with the Influenza Virus.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.biomac.9b00515</ELocationID>
+            <Abstract>
+                <AbstractText>Synthetic glyco-ligands are promising candidates for effective nano-medicines against pathogens. Glycopolymers bearing sialyl-oligosaccharides interact with hemagglutinin present on the surface of influenza viruses. In designing new glycopolymers that further enhance the interaction with viruses, both static and dynamic properties of the glycopolymers should be considered. In this report, we evaluated the correlation between dynamic properties of glycopolymers and their interaction with the influenza virus. Glycopolymers with pendant sialyllactoses and various linker structures were synthesized, and their molecular mobility was determined by proton spin-spin relaxation time measurements. The molecular mobility of the glycounits increased as the length of the linker structures increased. Interestingly, glycopolymers with the medium length linker structure exhibited the strongest interaction with the influenza virus, suggesting that optimal molecular mobility is required for maximizing multivalent interactions with the target.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nagao</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsubara</LastName>
+                    <ForeName>Teruhiko</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoshino</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sato</LastName>
+                    <ForeName>Toshinori</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miura</LastName>
+                    <ForeName>Yoshiko</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biomacromolecules</MedlineTA>
+            <NlmUniqueID>100892849</NlmUniqueID>
+            <ISSNLinking>1525-7797</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199883</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.biomac.9b00515</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

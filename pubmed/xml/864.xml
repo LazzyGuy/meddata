@@ -1,0 +1,251 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199475</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain : a journal of neurology</Title>
+                <ISOAbbreviation>Brain</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>White matter hyperintensities: relationship to amyloid and tau burden.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">awz162</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/awz162</ELocationID>
+            <Abstract>
+                <AbstractText>Although white matter hyperintensities have traditionally been viewed as a marker of vascular disease, recent pathology studies have found an association between white matter hyperintensities and Alzheimer's disease pathologies. The objectives of this study were to investigate the topographic patterns of white matter hyperintensities associated with Alzheimer's disease biomarkers measured using PET. From the population-based Mayo Clinic Study of Aging, 434 participants without dementia (55% male) with FLAIR and gradient recall echo MRI, tau-PET (AV-1451) and amyloid-PET scans were identified. A subset had cerebral microbleeds detected on T2* gradient recall echo scans. White matter hyperintensities were semi-automatically segmented using FLAIR MRI in participant space and normalized to a custom template. We used statistical parametric mapping 12-based, voxel-wise, multiple-regression analyses to detect white matter hyperintense regions associated with Alzheimer's biomarkers (global amyloid from amyloid-PET and meta-regions of interest tau uptake from tau-PET) after adjusting for age, sex and hypertension. For amyloid associations, we additionally adjusted for tau and vice versa. Topographic patterns of amyloid-associated white matter hyperintensities included periventricular white matter hyperintensities (frontal and parietal lobes). White matter hyperintense volumes in the detected topographic pattern correlated strongly with lobar cerebral microbleeds (P &lt; 0.001, age and sex adjusted Cohen's d = 0.703). In contrast, there were no white matter hyperintense regions significantly associated with increased tau burden using voxel-based analysis or region-specific analysis. Among non-demented elderly, amyloid load correlated with a topographic pattern of white matter hyperintensities. Further, the amyloid-associated, white matter hyperintense regions strongly correlated with lobar cerebral microbleeds suggesting that cerebral amyloid angiopathy contributes to the relationship between amyloid and white matter hyperintensities. The study did not support an association between increased tau burden and white matter hyperintense burden.</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Graff-Radford</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arenaza-Urquijo</LastName>
+                    <ForeName>Eider M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knopman</LastName>
+                    <ForeName>David S</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwarz</LastName>
+                    <ForeName>Christopher G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Robert D</ForeName>
+                    <Initials>RD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rabinstein</LastName>
+                    <ForeName>Alejandro A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gunter</LastName>
+                    <ForeName>Jeffrey L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Senjem</LastName>
+                    <ForeName>Matthew L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Przybelski</LastName>
+                    <ForeName>Scott A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lesnick</LastName>
+                    <ForeName>Timothy</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Chadwick</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mielke</LastName>
+                    <ForeName>Michelle M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lowe</LastName>
+                    <ForeName>Val J</ForeName>
+                    <Initials>VJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petersen</LastName>
+                    <ForeName>Ronald C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kremers</LastName>
+                    <ForeName>Walter K</ForeName>
+                    <Initials>WK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kantarci</LastName>
+                    <ForeName>Kejal</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jack</LastName>
+                    <ForeName>Clifford R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vemuri</LastName>
+                    <ForeName>Prashanthi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Brain</MedlineTA>
+            <NlmUniqueID>0372537</NlmUniqueID>
+            <ISSNLinking>0006-8950</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cerebral amyloid angiopathy</Keyword>
+            <Keyword MajorTopicYN="N">cerebral microbleeds</Keyword>
+            <Keyword MajorTopicYN="N">tau burden</Keyword>
+            <Keyword MajorTopicYN="N">white matter hyperintensities</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199475</ArticleId>
+            <ArticleId IdType="pii">5519094</ArticleId>
+            <ArticleId IdType="doi">10.1093/brain/awz162</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

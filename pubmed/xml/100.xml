@@ -1,0 +1,182 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200314</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regionalizing eco-toxicity characterization factors for copper soil emissions considering edaphic information for Northern Spain and Portuguese vineyards.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>986-994</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32429-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.05.376</ELocationID>
+            <Abstract>
+                <AbstractText>The management of vineyards depends on the use of plant protection agents. Regardless of the numerous environmental impacts that these pesticides generate during their production, their dosage as pest control agents in vineyards causes an important toxic effect that must be monitored. Copper-based inorganic pesticides are the most widely used agents to control fungal diseases in humid wine-growing regions. It is, however, significant that the environmental analysis of their use through the Life Cycle Assessment (LCA) methodology does not provide detailed information on the potential toxicity of this type of pesticides. Hence, most studies report average values for copper characterization factors (CFs), excluding local soil characteristics. The objective of the study was the spatial characterization of the ecotoxicity factors of copper soil emissions as a function of the chemical characteristics of vineyard soils located in Portugal and Galicia (NW Spain). A multiple linear regression model was applied to calculate the comparative toxic potential. Subsequently, CFs for copper were calculated based on spatial differentiation considering the variable properties of the soil within each wine appellation. The CFs obtained for the area evaluated ranged from 141 to 5937 PAF·m<sup>3</sup>·day/kg<sub>Cu emitted</sub>, for fibric histosols (HSf) and dystic cambisols (CMd), respectively. Moreover, the average values obtained for Galician and Portuguese soils were 1145 and 2274 PAF·m<sup>3</sup>·day/kg<sub>Cu emitted</sub>, respectively. The results obtained illustrate the high variability of CF values as a function of the chemical characteristics of each type of soil. For example, Cu soil mobility was linked to organic carbon content and pH. Finally, to validate the representativeness of the calculated CFs, these were applied to the results of 12 literature life cycle inventories of grape production in the area evaluated, revealing that impact scores associated with Cu emissions can considerably vary when spatially-differentiated CFs are implemented.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Villanueva-Rey</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Institute of Technology, Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Galicia, Spain; Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal; Peruvian LCA Network - PELCAN, Department of Engineering, Pontificia Universidad Católica del Perú, 1801 Avenida Universitaria, San Miguel, Lima 15088, Peru; EnergyLab, Fonte das Abelleiras s/n, Campus Universidad de Vigo, 36310 Vigo, Spain. Electronic address: pedro.villanueva@energylab.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Rowe</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Peruvian LCA Network - PELCAN, Department of Engineering, Pontificia Universidad Católica del Perú, 1801 Avenida Universitaria, San Miguel, Lima 15088, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quinteiro</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rafael</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonçalves</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moreira</LastName>
+                    <ForeName>M T</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Institute of Technology, Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Galicia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feijoo</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Institute of Technology, Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Galicia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arroja</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dias</LastName>
+                    <ForeName>A C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Comparative toxic potential</Keyword>
+            <Keyword MajorTopicYN="N">Grape production</Keyword>
+            <Keyword MajorTopicYN="N">Life cycle assessment</Keyword>
+            <Keyword MajorTopicYN="N">Metal mobility</Keyword>
+            <Keyword MajorTopicYN="N">Terrestrial eco-toxicity</Keyword>
+            <Keyword MajorTopicYN="N">Wine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200314</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32429-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.05.376</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

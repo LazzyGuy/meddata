@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200380</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for a conditioning effect of inhalational anesthetics on angiographic vasospasm after aneurysmal subarachnoid hemorrhage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.JNS183512</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.JNS183512</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Delayed cerebral ischemia (DCI) after aneurysmal subarachnoid hemorrhage (SAH) is characterized by large-artery vasospasm, distal autoregulatory dysfunction, cortical spreading depression, and microvessel thrombi. Large-artery vasospasm has been identified as an independent predictor of poor outcome in numerous studies. Recently, several animal studies have identified a strong protective role for inhalational anesthetics against secondary brain injury after SAH including DCI-a phenomenon referred to as anesthetic conditioning. The aim of the present study was to assess the potential role of inhalational anesthetics against cerebral vasospasm and DCI in patients suffering from an SAH.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">After IRB approval, data were collected retrospectively for all SAH patients admitted to the authors' hospital between January 1, 2010, and December 31, 2013, who received general anesthesia with either inhalational anesthetics only (sevoflurane or desflurane) or combined inhalational (sevoflurane or desflurane) and intravenous (propofol) anesthetics during aneurysm treatment. The primary outcomes were development of angiographic vasospasm and development of DCI during hospitalization. Univariate and logistic regression analyses were performed to identify independent predictors of these endpoints.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The cohort included 157 SAH patients whose mean age was 56 ± 14 (± SD). An inhalational anesthetic-only technique was employed in 119 patients (76%), while a combination of inhalational and intravenous anesthetics was employed in 34 patients (22%). As expected, patients in the inhalational anesthetic-only group were exposed to significantly more inhalational agent than patients in the combination anesthetic group (p &lt; 0.05). Multivariate logistic regression analysis identified inhalational anesthetic-only technique (OR 0.35, 95% CI 0.14-0.89), Hunt and Hess grade (OR 1.51, 95% CI 1.03-2.22), and diabetes (OR 0.19, 95% CI 0.06-0.55) as significant predictors of angiographic vasospasm. In contradistinction, the inhalational anesthetic-only technique had no significant impact on the incidence of DCI or functional outcome at discharge, though greater exposure to desflurane (as measured by end-tidal concentration) was associated with a lower incidence of DCI.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data represent the first evidence in humans that inhalational anesthetics may exert a conditioning protective effect against angiographic vasospasm in SAH patients. Future studies will be needed to determine whether optimized inhalational anesthetic paradigms produce definitive protection against angiographic vasospasm; whether they protect against other events leading to secondary brain injury after SAH, including microvascular thrombi, autoregulatory dysfunction, blood-brain barrier breakdown, neuroinflammation, and neuronal cell death; and, if so, whether this protection ultimately improves patient outcome.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Athiraman</LastName>
+                    <ForeName>Umeshkumar</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Anesthesiology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aum</LastName>
+                    <ForeName>Diane</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurological Surgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vellimana</LastName>
+                    <ForeName>Ananth K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurological Surgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osbun</LastName>
+                    <ForeName>Joshua W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurological Surgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dhar</LastName>
+                    <ForeName>Rajat</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Neurology, Washington University, St. Louis, Missouri.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tempelhoff</LastName>
+                    <ForeName>Rene</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Anesthesiology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zipfel</LastName>
+                    <ForeName>Gregory J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Neurological Surgery, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ASA = American Society of Anesthesiologists</Keyword>
+            <Keyword MajorTopicYN="N">BBB = blood-brain barrier</Keyword>
+            <Keyword MajorTopicYN="N">BMI = body mass index</Keyword>
+            <Keyword MajorTopicYN="N">COPD = chronic obstructive pulmonary disease</Keyword>
+            <Keyword MajorTopicYN="N">DCI</Keyword>
+            <Keyword MajorTopicYN="N">DCI = delayed cerebral ischemia</Keyword>
+            <Keyword MajorTopicYN="N">EBI = early brain injury</Keyword>
+            <Keyword MajorTopicYN="N">LOS = length of stay</Keyword>
+            <Keyword MajorTopicYN="N">SAH = subarachnoid hemorrhage</Keyword>
+            <Keyword MajorTopicYN="N">TCD = transcranial Doppler</Keyword>
+            <Keyword MajorTopicYN="N">aneurysmal subarachnoid hemorrhage</Keyword>
+            <Keyword MajorTopicYN="N">angiographic vasospasm</Keyword>
+            <Keyword MajorTopicYN="N">delayed cerebral ischemia</Keyword>
+            <Keyword MajorTopicYN="N">inhalational anesthetics</Keyword>
+            <Keyword MajorTopicYN="N">mRS = modified Rankin Scale</Keyword>
+            <Keyword MajorTopicYN="N">vascular disorders</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200380</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.JNS183512</ArticleId>
+            <ArticleId IdType="pii">2019.3.JNS183512</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

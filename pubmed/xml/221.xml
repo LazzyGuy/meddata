@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200186</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-033X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>58</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in structural biology</Title>
+                <ISOAbbreviation>Curr. Opin. Struct. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cryo-EM of amyloid fibrils and cellular aggregates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>34-42</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0959-440X(18)30209-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.sbi.2019.05.003</ELocationID>
+            <Abstract>
+                <AbstractText>Neurodegenerative and other protein misfolding diseases are associated with the aggregation of a protein, which may be mutated in genetic forms of disease, or the wild type form in late onset sporadic disease. A wide variety of proteins and peptides can be involved, with aggregation originating from a natively folded or a natively unstructured species. Large deposits of amyloid fibrils are typically associated with cell death in late stage pathology. In this review, we illustrate the contributions of cryo-EM and related methods to the structure determination of amyloid fibrils extracted post mortem from patient brains or formed in vitro. We also discuss cell models of protein aggregation and the contributions of electron tomography to understanding the cellular context of aggregation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fitzpatrick</LastName>
+                    <ForeName>Anthony Wp</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, 3227 Broadway, Quad 4C, New York, NY 10027, USA. Electronic address: awpfitzpatrick@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saibil</LastName>
+                    <ForeName>Helen R</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Structural and Molecular Biology, Birkbeck College London, Malet St, London WC1E 7HX, UK. Electronic address: h.saibil@mail.cryst.bbk.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Struct Biol</MedlineTA>
+            <NlmUniqueID>9107784</NlmUniqueID>
+            <ISSNLinking>0959-440X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200186</ArticleId>
+            <ArticleId IdType="pii">S0959-440X(18)30209-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.sbi.2019.05.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

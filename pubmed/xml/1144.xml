@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199164</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1547-6510</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical reviews in analytical chemistry</Title>
+                <ISOAbbreviation>Crit Rev Anal Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of Molecularly Imprinted Polymers for Bisphenols Extraction from Food Samples - A Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/10408347.2019.1626698</ELocationID>
+            <Abstract>
+                <AbstractText>Bisphenols are the most-known endocrine disrupting compounds. Due to the possible migration of these compounds from plastics used as food packaging, the food may become contaminated. During past years, molecularly imprinted polymers (MIPs) were excessively being used as sorbents for bisphenols preconcentration from food samples. This review intended to comprehensively discuss and evaluate the recent applications of MIPs in determination of bisphenols in food samples. The fundamentals of MIPs devoted to preconcentration of bisphenols are outlined. Recent studies were discussed in terms of food sample preparation, determination methods, MIP synthesis, and extraction procedure aspects. The significant aspects of applications of the molecular imprinting polymers in food chemistry are evaluated focusing majorly on literature appeared in the last years.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kubiak</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3434-1842</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Faculty of Chemistry , University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biesaga</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-6839-6740</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Faculty of Chemistry , University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Crit Rev Anal Chem</MedlineTA>
+            <NlmUniqueID>9004784</NlmUniqueID>
+            <ISSNLinking>1040-8347</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bisphenols</Keyword>
+            <Keyword MajorTopicYN="N">extraction</Keyword>
+            <Keyword MajorTopicYN="N">food samples</Keyword>
+            <Keyword MajorTopicYN="N">molecularly imprinted polymers (MIP)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199164</ArticleId>
+            <ArticleId IdType="doi">10.1080/10408347.2019.1626698</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

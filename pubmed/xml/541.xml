@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199847</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lower-dose prescriptions in the post-marketing situation and the influencing factors thereon.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0218534</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0218534</ELocationID>
+            <Abstract>
+                <AbstractText>The dosage of pharmaceuticals is determined through the process of clinical development and approval review based on clinical trial results; however, the information obtained from clinical trials before approval is limited. Some pharmaceutical products are used at doses lower than those approved for post-marketing use. The aim of this study was to reveal the actual state of lower-dose prescriptions for post-marketing clinical use of pharmaceuticals. We investigated the factors related to the deviation based on therapeutic area, detailed statement of the approved dosage, clinical data package, and post-marketing requirement. Among the new molecular entities approved in Japan between January 2005 and December 2014, we identified products that are orally administered and have the same daily dose for different indications, if any. For these products, we collected information on the actual daily dose from the medical information databases of Medical Data Vision Co., LTD. and JammNet Co., LTD. Products whose dose was lower than the approved dose (maintenance dose excluding the initial dose) in ≥ 30% prescriptions in 2015 were defined here as &quot;lower-dose prescription drugs.&quot; We identified 27 lower-dose prescription drugs out of 113 products investigated. The results of the multivariate analysis revealed that factors related to the Anatomical Therapeutic Chemical classification and the detailed statement of the approved dosage significantly influenced the occurrence of lower-dose prescription, whereas the factors related to clinical data package and post-marketing requirements did not. These results suggest the limitation in determining an optimal dosage for the actual clinical use of a drug based on the information obtained from clinical trials conducted before approval, emphasizing the importance of reexamining the optimal dosage that is applicable to a greater number of patients after marketing, if necessary. We believe that the utilization of real-world data could be of help in this regard.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ogata</LastName>
+                    <ForeName>Akiko</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine (Pharmaceutical Medicine), Graduate School of Pharmaceutical Sciences, Kitasato University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaneko</LastName>
+                    <ForeName>Masayuki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine (Pharmaceutical Medicine), Graduate School of Pharmaceutical Sciences, Kitasato University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narukawa</LastName>
+                    <ForeName>Mamoru</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine (Pharmaceutical Medicine), Graduate School of Pharmaceutical Sciences, Kitasato University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Akiko Ogata is an employee of the Pharmaceuticals and Medical Devices Agency, Japan. This does not alter our adherence to PLOS ONE policies on sharing data and materials.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199847</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0218534</ArticleId>
+            <ArticleId IdType="pii">PONE-D-18-36819</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

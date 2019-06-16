@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199650</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5118</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of agricultural and food chemistry</Title>
+                <ISOAbbreviation>J. Agric. Food Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel biological agent Cytosinpeptidemycin inhibited the pathogenesis of tobacco mosaic virus by inducing host resistance and stress response.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jafc.9b02662</ELocationID>
+            <Abstract>
+                <AbstractText>Cytosinpeptidemycin (CytPM) is a microbial pesticide that displayed broad-spectrum antiviral activity against various plant viruses. However, the molecular mechanism underlying antiviral activity of CytPM is poorly understood. In this study, the results demonstrated that CytPM could effectively delay the systemic infection of tobacco mosaic virus (TMV) in Nicotiana benthamiana and significantly inhibit the viral accumulation in tobacco BY-2 protoplasts. Results of RNA-seq indicated that 210 and 120 differential expressed genes (DEGs) were significantly up- and down-regulated after CytPM treatment in BY-2 protoplasts, respectively. In addition, KEGG analysis indicated that various DEGs were involved in endoplasmic reticulum (ER) protein processing, suggesting a possible correlation between ER homeostasis and virus resistance. RT-qPCR was performed to validate the gene expression of crucial DEGs related with defense, stress responses, signaling transduction and phytohormone, which were consistent with results of RNA-seq. Our works provided valuable insights into antiviral mechanism of CytPM that induced host resistance to viral infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>An</LastName>
+                    <ForeName>Mengnan</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiuxiang</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Guanzhong</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Zihao</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yuanhua</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Agric Food Chem</MedlineTA>
+            <NlmUniqueID>0374755</NlmUniqueID>
+            <ISSNLinking>0021-8561</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199650</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jafc.9b02662</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

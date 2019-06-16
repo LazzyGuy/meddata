@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199291</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Optional Web-Based Videoconferencing Added to Office-Based Care for Women Receiving Psychotherapy During the Postpartum Period: Pilot Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13172</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13172</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Depression and anxiety during the postpartum period are common, with psychotherapy often being the preferred method of treatment. However, psychological, physical, and social barriers prevent women from receiving appropriate and timely psychotherapy. The option of receiving psychotherapy through videoconferencing (VC) during the postpartum period presents an opportunity for more accessible and flexible care.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to assess the feasibility, acceptability, and preliminary effectiveness of optional VC added to usual office-based psychotherapy, with a psychotherapist during the postpartum period.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a pilot randomized controlled trial with 1:1 randomization to office-based care (treatment as usual; TAU) or office-based care with the option of VC (treatment as usual plus videoconferencing; TAU-VC) for psychotherapy during the postpartum period. We assessed the ability to recruit and retain postpartum women into the study from an urban perinatal mental health program offering postpartum psychotherapy, and we evaluated the uptake, acceptability, and satisfaction with VC as an addition to in-person psychotherapy. We also compared therapy attendance using therapist logs and symptoms between treatment groups. Symptoms were assessed at baseline and 3 months postrandomization with the Edinburgh Postnatal Depression Scale, Generalized Anxiety Disorder 7-item, and Parental Stress Scale. Furthermore, 3-month scores were compared between groups with intention-to-treat linear mixed-effects models controlling for baseline score.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We enrolled 38 participants into the study, with 19 participants in each treatment group. Attendance data were available for all participants, with follow-up symptom measures available for 25 out of 38 participants (66%). Among the 19 TAU-VC participants, 14 participants (74%) utilized VC at least once. Most participants were highly satisfied with the VC option, and they reported average savings of Can $26 and 2.5 hours in travel and childcare expenses and time per appointment. There were no significant differences between the 2 groups for psychotherapy attendance or symptoms.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The option of VC appears to be an acceptable method of receiving psychotherapy for postpartum women, with benefits described in costs and time savings. On the basis of this small pilot sample, there were no significant differences in outcomes between office-based care with or without the option of VC. This study has demonstrated the feasibility of such a program in an urban center, which suggests that a larger study would be beneficial to provide evidence that is more conclusive.</AbstractText>
+                <CopyrightInformation>©Rebecca Yang, Simone N Vigod, Jennifer M Hensel. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 20.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3181-7799</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Women's College Hospital Institute for Health System Solutions and Virtual Care, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigod</LastName>
+                    <ForeName>Simone N</ForeName>
+                    <Initials>SN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2736-9639</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Women's College Hospital Institute for Health System Solutions and Virtual Care, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Women's College Research Institute, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Policy, Management, and Evaluation, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hensel</LastName>
+                    <ForeName>Jennifer M</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4194-6049</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Women's College Hospital Institute for Health System Solutions and Virtual Care, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Women's College Research Institute, Women's College Hospital, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Manitoba, Winnipeg, MB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">mental health</Keyword>
+            <Keyword MajorTopicYN="N">postpartum period</Keyword>
+            <Keyword MajorTopicYN="N">psychotherapy</Keyword>
+            <Keyword MajorTopicYN="N">videoconferencing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199291</ArticleId>
+            <ArticleId IdType="pii">v21i6e13172</ArticleId>
+            <ArticleId IdType="doi">10.2196/13172</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

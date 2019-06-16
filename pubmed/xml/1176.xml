@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199132</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5118</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of agricultural and food chemistry</Title>
+                <ISOAbbreviation>J. Agric. Food Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Systematic Optimization of Limonene Production in Engineered Escherichia coli.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jafc.9b01427</ELocationID>
+            <Abstract>
+                <AbstractText>Limonene, a cyclic monoterpene, is widely used in food and cosmetics industries as well as in agriculture. In the work described herein, employing a systematic optimization strategy, we constructed an efficient platform for producing limonene via the heterologous mevalonate pathway in Escherichia coli. By site-directed mutation of EfMvaS and tuning the initial translation of EfMvaE and EfMvaSA110G through ribosome binding site engineering, the upstream module for overproducing mevalonate was obtained. Expression of MmMK with ScPMK, ScPMD, and ScIDI under FAB80 promoter resulted in an efficient midstream module to produce 181.73 mg/L of limonene. Subsequently, coexpression of SlNPPS and MsLS in the downstream module led to a great improvement of limonene production to 694.61 mg/L. Finally, metabolically engineered strain ELIM78 produced 1.29 g/L of limonene in 84 h by fed-batch fermentation in a shake-flask. This is the first report on limonene biosynthesis in E. coli using neryl pyrophosphate synthase, which has promising potential for producing other monoterpenes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Jihua</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7626-5812</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), School of Chemical Engineering and Technology , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Si</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1548-9502</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), School of Chemical Engineering and Technology , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Jiayu</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), School of Chemical Engineering and Technology , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiao</LastName>
+                    <ForeName>Jianjun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), School of Chemical Engineering and Technology , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>SynBio Research Platform, Collaborative Innovation Centre of Chemical Science and Engineering (Tianjin) , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Guang-Rong</ForeName>
+                    <Initials>GR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6881-9042</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), School of Chemical Engineering and Technology , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>SynBio Research Platform, Collaborative Innovation Centre of Chemical Science and Engineering (Tianjin) , Tianjin University , Yaguan Road 135 , Jinnan District, Tianjin 300350 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Agric Food Chem</MedlineTA>
+            <NlmUniqueID>0374755</NlmUniqueID>
+            <ISSNLinking>0021-8561</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"/>
+            <Keyword MajorTopicYN="N">MVA pathway</Keyword>
+            <Keyword MajorTopicYN="N">limonene</Keyword>
+            <Keyword MajorTopicYN="N">metabolic engineering</Keyword>
+            <Keyword MajorTopicYN="N">neryl diphosphate synthase</Keyword>
+            <Keyword MajorTopicYN="N">synthetic biology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199132</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jafc.9b01427</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

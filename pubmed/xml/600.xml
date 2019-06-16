@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199781</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1865-7125</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift fur Naturforschung. C, Journal of biosciences</Title>
+                <ISOAbbreviation>Z. Naturforsch., C, J. Biosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolomic discrimination of the edible mushrooms Kuehneromyces mutabilis and Hypholoma capnoides (Strophariaceae, Agaricales) by NMR spectroscopy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/znc-2018-0214</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/znc.ahead-of-print/znc-2018-0214/znc-2018-0214.xml</ELocationID>
+            <Abstract>
+                <AbstractText>Two edible, cultivable mushroom species of the family Strophariaceae, Kuehneromyces mutabilis (sheathed woodtuft) and Hypholoma capnoides (conifer tuft), were studied using proton nuclear magnetic resonance metabolomic approach. The variation in the metabolites of the two species and their metabolic behaviour regarding caps and stipes and different collection sites were analysed by multivariate analysis methods. Altogether 169 cap and stipe samples of the mushrooms were investigated. The clearest difference between the species was in the sugar composition, which was more diverse in H. capnoides. When mushroom samples collected from different locations were compared, more variance was found in H. capnoides, whereas K. mutabilis appeared more homogeneous as a species. As far as the caps and stipes were concerned, in both species the amount of α-α-trehalose was clearly higher in the stipes, and the caps contained a larger proportion of the amino acids and organic acids.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alanne</LastName>
+                    <ForeName>Aino-Liisa</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Instrument Centre, Department of Chemistry, University of Turku, FI-20014 Turku, Finland, Phone: +358 50 966 4721, Fax: +358 29 450 5040.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Issakainen</LastName>
+                    <ForeName>Jouni</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbarium, Biodiversity Unit, University of Turku, FI-20014 Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pihlaja</LastName>
+                    <ForeName>Kati</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbarium, Biodiversity Unit, University of Turku, FI-20014 Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jokioja</LastName>
+                    <ForeName>Johanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Instrument Centre, Department of Chemistry, University of Turku, FI-20014 Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sinkkonen</LastName>
+                    <ForeName>Jari</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Instrument Centre, Department of Chemistry, University of Turku, FI-20014 Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Z Naturforsch C</MedlineTA>
+            <NlmUniqueID>8912155</NlmUniqueID>
+            <ISSNLinking>0341-0382</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hypholoma capnoides</Keyword>
+            <Keyword MajorTopicYN="N">Kuehneromyces mutabilis</Keyword>
+            <Keyword MajorTopicYN="N">NMR metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">cultivable mushrooms</Keyword>
+            <Keyword MajorTopicYN="N">multivariate analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199781</ArticleId>
+            <ArticleId IdType="doi">10.1515/znc-2018-0214</ArticleId>
+            <ArticleId IdType="pii">/j/znc.ahead-of-print/znc-2018-0214/znc-2018-0214.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

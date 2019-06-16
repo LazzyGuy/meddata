@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198563</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2052-3211</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmaceutical policy and practice</Title>
+                <ISOAbbreviation>J Pharm Policy Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pharmacovigilance systems in resource-limited settings: an evaluative case study of Sierra Leone.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s40545-019-0173-2</ELocationID>
+            <Abstract>
+                <AbstractText>Few low and middle-income countries (LMIC) have fully operational pharmacovigilance structures, systems and legal framework to collect and collate safety data and evaluate the risks and benefits by active and passive approaches. However, in a LMIC such as Sierra Leone, the capacity to manage the risks by taking appropriate preventative actions to help inform therapeutic decisions, promote rational use of medicines, guide risk management and communications is gradually growing but yet to be fully optimized. This study sought to assess the current status of pharmacovigilance in Sierra Leone since it became the 87th member of the World Health Organisation International Drug Monitoring Programme. This study evaluated the pharmacovigilance system in Sierra Leone through a comprehensive and system-based approach that covered the national medicines regulatory authority, health facilities and public health programmes. A descriptive cross-sectional study design was employed. Using a convenience sampling method, 14 respondents from the national medicines regulatory authority, six health facilities and six public health programmes were interviewed. Data were collected using a validated metric instrument: Indicator-Based Pharmacovigilance Assessment Tool. A scoring system was used for the quantification of assessment results with a score greater than 60% indicating that an organization has structural and policy frameworks to collect and collate safety data in a national database and evaluate the risks and benefits by both active and passive approaches. The study findings showed that the national medicines regulatory authority scored 79% and thus met the standard requirements of pharmacovigilance. On the other hand, the health facilities and public health programmes scored less than 60% indicating the need to fully operationalise pharmacovigilance frameworks at these levels. The study further demonstrated that the national medicine regulatory authority which hosts the national pharmacovigilance centre had functional pharmacovigilance structures and processes with potential to providing leadership in the implementation of pharmacovigilance in Sierra Leone.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abiri</LastName>
+                    <ForeName>Onome T</ForeName>
+                    <Initials>OT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Pharmacology, Faculty of Basic Medical Sciences, College of Medicine and Allied Health Sciences, University of Sierra Leone, Freetown, Sierra Leone.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2290 9707</Identifier>
+                        <Identifier Source="GRID">grid.442296.f</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmacy Board of Sierra Leone, Freetown, Sierra Leone.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Wiltshire C N</ForeName>
+                    <Initials>WCN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Clinical Pharmacy and Therapeutics, Faculty of Pharmaceutical Sciences, College of Medicine and Allied Health Sciences, University of Sierra Leone, Freetown, Sierra Leone.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2290 9707</Identifier>
+                        <Identifier Source="GRID">grid.442296.f</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmacy Board of Sierra Leone, Freetown, Sierra Leone.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Pharm Policy Pract</MedlineTA>
+            <NlmUniqueID>101627192</NlmUniqueID>
+            <ISSNLinking>2052-3211</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Health facilities</Keyword>
+            <Keyword MajorTopicYN="N">Indicators</Keyword>
+            <Keyword MajorTopicYN="N">Pharmacovigilance systems</Keyword>
+            <Keyword MajorTopicYN="N">Public health programmes</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198563</ArticleId>
+            <ArticleId IdType="doi">10.1186/s40545-019-0173-2</ArticleId>
+            <ArticleId IdType="pii">173</ArticleId>
+            <ArticleId IdType="pmc">PMC6558671</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

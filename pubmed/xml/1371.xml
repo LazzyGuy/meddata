@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198914</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem. Commun. (Camb.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unique supramolecular complex of diclofenac: structural robustness, crystal-to-crystal solvent exchange, and mechanochemical synthesis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9cc03946e</ELocationID>
+            <Abstract>
+                <AbstractText>We describe an unexpected, cyclic supramolecular complex that results from self-assembly of the nonsteroidal anti-inflammatory drug, diclofenac and 4,4'-azopyridine. The cycles self-assemble into 1D columns occupied by solvent, which can be removed at elevated temperatures (&gt;100 °C) while retaining crystallinity. The complex exhibits solvent exchange ability that occurs through crystal-to-crystal transformations. Finally, the complex can be synthesized using mechanochemistry. Materials exhibiting the structural framework and robustness described here could be applied to removal of hazardous materials or undesirable solvents.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Qixuan</ForeName>
+                    <Initials>Q</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8763-2726</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Texas Tech University, 1204 Boston Avenue, Lubbock, Texas 79409, USA. kristin.hutchins@ttu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rood</LastName>
+                    <ForeName>Samantha L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Texas Tech University, 1204 Boston Avenue, Lubbock, Texas 79409, USA. kristin.hutchins@ttu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Unruh</LastName>
+                    <ForeName>Daniel K</ForeName>
+                    <Initials>DK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2594-5786</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Texas Tech University, 1204 Boston Avenue, Lubbock, Texas 79409, USA. kristin.hutchins@ttu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hutchins</LastName>
+                    <ForeName>Kristin M</ForeName>
+                    <Initials>KM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8792-2830</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Texas Tech University, 1204 Boston Avenue, Lubbock, Texas 79409, USA. kristin.hutchins@ttu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198914</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9cc03946e</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

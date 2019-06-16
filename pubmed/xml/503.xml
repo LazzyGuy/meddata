@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199887</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rescuing cones and daylight vision in retinitis pigmentosa mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>fj201900414R</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.201900414R</ELocationID>
+            <Abstract>
+                <AbstractText>Hallmark of retinitis pigmentosa (RP) is the primary, genetic degeneration of rods followed by secondary loss of cones, caused by still elusive biologic mechanisms. We previously shown that exposure of rd10 mutant mice, modeling autosomal recessive RP, to environmental enrichment (EE), with enhanced motor, sensorial and social stimuli, results into a sensible delay of retinal degeneration and vision loss. Searching for effectors of EE-mediated retinal protection, we performed transcriptome analysis of the retina of rd10 enriched and control mice and found that gene expression at the peaks of rod and cone degeneration is characterized by a strong inflammatory/immune response, which is however measurably lower in enrichment conditions. Treating rd10 mice with dexamethasone during the period of maximum photoreceptors death lowered retinal inflammation and caused a sensible preservation of cones and cone-mediated vision. Our findings indicate a link between retinal inflammation and bystander cone degeneration, reinforcing the notion that cone vision in RP can be preserved using anti-inflammatory approaches.-Guadagni, V., Biagioni, M., Novelli, E., Aretini, P., Mazzanti, C. M., Strettoi, E. Rescuing cones and daylight vision in retinitis pigmentosa mice.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Guadagni</LastName>
+                    <ForeName>Viviana</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Consiglio Nazionale delle Ricerche (CNR) Institute of Neuroscience, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Biagioni</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Consiglio Nazionale delle Ricerche (CNR) Institute of Neuroscience, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Novelli</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Consiglio Nazionale delle Ricerche (CNR) Institute of Neuroscience, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aretini</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genomics and Transcriptomics, Fondazione Pisana per la Scienza, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzanti</LastName>
+                    <ForeName>Chiara Maria</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genomics and Transcriptomics, Fondazione Pisana per la Scienza, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strettoi</LastName>
+                    <ForeName>Enrica</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Consiglio Nazionale delle Ricerche (CNR) Institute of Neuroscience, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bystander effect</Keyword>
+            <Keyword MajorTopicYN="N">cytokines</Keyword>
+            <Keyword MajorTopicYN="N">environmental enrichment</Keyword>
+            <Keyword MajorTopicYN="N">microglia</Keyword>
+            <Keyword MajorTopicYN="N">rod</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199887</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.201900414R</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

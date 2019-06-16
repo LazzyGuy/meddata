@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199927</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-6840</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General and comparative endocrinology</Title>
+                <ISOAbbreviation>Gen. Comp. Endocrinol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Validation of water-borne cortisol and corticosterone in tadpoles: Recovery rate from an acute stressor, repeatability, and evaluating rearing methods.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0016-6480(18)30696-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ygcen.2019.06.007</ELocationID>
+            <Abstract>
+                <AbstractText>Amphibian populations are declining globally, so understanding how individuals respond to anthropogenic and environmental stressors may aid conservation efforts. Using a non-invasive water-borne hormone assay, we measured the release rates of two glucocorticoid hormones, corticosterone and cortisol, in Rio Grande Leopard frog, Rana berlandieri, tadpoles. We validated this method pharmacologically and biologically using an adrenocorticotropic hormone (ACTH) challenge, exposure to exogenous corticosterone, and an agitation test. We calculated the repeatability of hormone release rates, the recovery time from an acute stressor, and explored rearing methods for tadpoles. Tadpole corticosterone release rates increased following an ACTH challenge, exposure to exogenous corticosterone, and agitation, validating the use of water-borne hormone methods in this species. After exposure to an acute stressor via agitation, corticosterone release rates began to decline after 2h and were lowest after 6h, suggesting a relatively rapid recovery from an acute stressor. Tadpoles reared in groups had higher corticosterone release rates than tadpoles reared individually, and lost mass by Day 7, while tadpoles reared individually did not show a stress response, therefore either rearing method is viable, but have differing physiological costs for tadpoles. Repeatability of corticosterone release rates was moderate to high in R. berlandieri tadpoles, indicating that this species can show a response to selection and potentially respond to rapid environmental change. Our results show that the water-borne hormone assay is a viable way to measure glucocorticoids in this species and is useful in the field of conservation physiology for rare and endangered species.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Forsburg</LastName>
+                    <ForeName>Zachery R</ForeName>
+                    <Initials>ZR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States. Electronic address: zrf5@txstate.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goff</LastName>
+                    <ForeName>Cory B</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perkins</LastName>
+                    <ForeName>Hannah R</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robicheaux</LastName>
+                    <ForeName>Joseph A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almond</LastName>
+                    <ForeName>Grayson F</ForeName>
+                    <Initials>GF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabor</LastName>
+                    <ForeName>Caitlin R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas State University, 601 University Drive, San Marcos, TX 78666 United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Comp Endocrinol</MedlineTA>
+            <NlmUniqueID>0370735</NlmUniqueID>
+            <ISSNLinking>0016-6480</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACTH</Keyword>
+            <Keyword MajorTopicYN="N">amphibian</Keyword>
+            <Keyword MajorTopicYN="N">conservation physiology</Keyword>
+            <Keyword MajorTopicYN="N">non-invasive endocrinology</Keyword>
+            <Keyword MajorTopicYN="N">stress</Keyword>
+            <Keyword MajorTopicYN="N">water-borne hormones</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199927</ArticleId>
+            <ArticleId IdType="pii">S0016-6480(18)30696-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ygcen.2019.06.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

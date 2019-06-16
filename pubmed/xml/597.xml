@@ -1,0 +1,209 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199784</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7404</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS genetics</Title>
+                <ISOAbbreviation>PLoS Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic and functional data identifying Cd101 as a type 1 diabetes (T1D) susceptibility gene in nonobese diabetic (NOD) mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1008178</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pgen.1008178</ELocationID>
+            <Abstract>
+                <AbstractText>Type 1 diabetes (T1D) is a chronic multi-factorial disorder characterized by the immune-mediated destruction of insulin-producing pancreatic beta cells. Variations at a large number of genes influence susceptibility to spontaneous autoimmune T1D in non-obese diabetic (NOD) mice, one of the most frequently studied animal models for human disease. The genetic analysis of these mice allowed the identification of many insulin-dependent diabetes (Idd) loci and candidate genes, one of them being Cd101. CD101 is a heavily glycosylated transmembrane molecule which exhibits negative-costimulatory functions and promotes regulatory T (Treg) function. It is abundantly expressed on subsets of lymphoid and myeloid cells, particularly within the gastrointestinal tract. We have recently reported that the genotype-dependent expression of CD101 correlates with a decreased susceptibility to T1D in NOD.B6 Idd10 congenic mice compared to parental NOD controls. Here we show that the knockout of CD101 within the introgressed B6-derived Idd10 region increased T1D frequency to that of the NOD strain. This loss of protection from T1D was paralleled by decreased Gr1-expressing myeloid cells and FoxP3+ Tregs and an enhanced accumulation of CD4-positive over CD8-positive T lymphocytes in pancreatic tissues. As compared to CD101+/+ NOD.B6 Idd10 donors, adoptive T cell transfers from CD101-/- NOD.B6 Idd10 mice increased T1D frequency in lymphopenic NOD scid and NOD.B6 Idd10 scid recipients. Increased T1D frequency correlated with a more rapid expansion of the transferred CD101-/- T cells and a lower proportion of recipient Gr1-expressing myeloid cells in the pancreatic lymph nodes. Fewer of the Gr1+ cells in the recipients receiving CD101-/- T cells expressed CD101 and the cells had lower levels of IL-10 and TGF-β mRNA. Thus, our results connect the Cd101 haplotype-dependent protection from T1D to an anti-diabetogenic function of CD101-expressing Tregs and Gr1-positive myeloid cells and confirm the identity of Cd101 as Idd10.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mattner</LastName>
+                    <ForeName>Jochen</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2254-6664</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander Universität Erlangen-Nürnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohammed</LastName>
+                    <ForeName>Javid P</ForeName>
+                    <Initials>JP</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9993-7407</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fusakio</LastName>
+                    <ForeName>Michael E</ForeName>
+                    <Initials>ME</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7233-0162</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giessler</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander Universität Erlangen-Nürnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hackstein</LastName>
+                    <ForeName>Carl-Philipp</ForeName>
+                    <Initials>CP</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0821-5204</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander Universität Erlangen-Nürnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Opoka</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8879-0099</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Immunobiology, Cincinnati Children's Hospital, Cincinnati, OH, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wrage</LastName>
+                    <ForeName>Marius</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander Universität Erlangen-Nürnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schey</LastName>
+                    <ForeName>Regina</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander Universität Erlangen-Nürnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust/MRC Building, Cambridge Institute for Medical Research, NIHR Cambridge Biomedical Research Centre, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fraser</LastName>
+                    <ForeName>Heather I</ForeName>
+                    <Initials>HI</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8013-2729</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust/MRC Building, Cambridge Institute for Medical Research, NIHR Cambridge Biomedical Research Centre, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rainbow</LastName>
+                    <ForeName>Daniel B</ForeName>
+                    <Initials>DB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4931-3289</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust/MRC Building, Cambridge Institute for Medical Research, NIHR Cambridge Biomedical Research Centre, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust Centre for Human Genetics, Nuffield Department of Medicine, National Institute for Health Research (NIHR) Oxford Biomedical Research Centre, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wicker</LastName>
+                    <ForeName>Linda S</ForeName>
+                    <Initials>LS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7771-0324</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust/MRC Building, Cambridge Institute for Medical Research, NIHR Cambridge Biomedical Research Centre, University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>JDRF/Wellcome Trust Diabetes and Inflammation Laboratory, Wellcome Trust Centre for Human Genetics, Nuffield Department of Medicine, National Institute for Health Research (NIHR) Oxford Biomedical Research Centre, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Genet</MedlineTA>
+            <NlmUniqueID>101239074</NlmUniqueID>
+            <ISSNLinking>1553-7390</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199784</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1008178</ArticleId>
+            <ArticleId IdType="pii">PGENETICS-D-18-02146</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

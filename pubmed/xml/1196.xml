@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199112</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2379-3694</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS sensors</Title>
+                <ISOAbbreviation>ACS Sens</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nanoscale FET-Based Transduction toward Sensitive Extended-Gate Biosensors.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acssensors.9b00731</ELocationID>
+            <Abstract>
+                <AbstractText>Owing to their simple and low-cost architecture, extended-gate biosensors based on the combination of a disposable sensing part and a reusable transducer have been widely utilized for the label-free electrical detection of chemical and biological species. Previous studies have demonstrated that sensitive and selective detection of ions and biomolecules can be achieved by controlled modification of the sensing part with an ion-selective membrane and receptors of interest. However, no systematic studies have been performed on the impact of the transducer on sensing performance. In this paper, we introduce the concept of a nanoscale field-effect transistor (FET) as a reusable and sensitive transducer for extended-gate biosensors. The capacitive effect from the external sensing part can degrade the sensing performance, but the nanoscale FET can reduce this effect. The nanoscale FET with a gate-all-around (GAA) structure exhibits a higher pH sensitivity than a commercially available FET, which is widely used in conventional extended-gate biosensors. A sensitivity reduction is observed for the commercial FET, whereas the pH sensitivity is insensitive to the area of the sensing region in the nanoscale FET, thus allowing the scaling of the detection area. Our analysis based on a capacitive model suggests that the high pH sensitivity in the compact sensing area originates from the small input capacitance of the nanoscale FET transducer. Moreover, a decrease in the nanowire width of the GAA FET leads to an improvement in the pH sensitivity. The extended-gate approach with the nanoscale FET-based transduction can pave the way for a highly sensitive analysis of chemical and biological species with a small sample volume.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kwon</LastName>
+                    <ForeName>Jae</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronic Engineering , Kwangwoon University , Seoul 01897 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Byung-Hyun</ForeName>
+                    <Initials>BH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering , KAIST , Daejeon 34141 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Seong-Yeon</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering , KAIST , Daejeon 34141 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jun-Young</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering , KAIST , Daejeon 34141 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bae</LastName>
+                    <ForeName>Hagyoul</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering , KAIST , Daejeon 34141 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Yang-Kyu</ForeName>
+                    <Initials>YK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5480-7027</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering , KAIST , Daejeon 34141 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Jae-Hyuk</ForeName>
+                    <Initials>JH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7490-000X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronic Engineering , Kwangwoon University , Seoul 01897 , Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Sens</MedlineTA>
+            <NlmUniqueID>101669031</NlmUniqueID>
+            <ISSNLinking>2379-3694</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Field-effect transistor</Keyword>
+            <Keyword MajorTopicYN="N">chemical and biological sensor</Keyword>
+            <Keyword MajorTopicYN="N">extended gate</Keyword>
+            <Keyword MajorTopicYN="N">nanoscale transducer</Keyword>
+            <Keyword MajorTopicYN="N">pH sensor</Keyword>
+            <Keyword MajorTopicYN="N">small volume analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199112</ArticleId>
+            <ArticleId IdType="doi">10.1021/acssensors.9b00731</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

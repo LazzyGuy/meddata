@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198562</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2052-2975</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>30</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>New microbes and new infections</Title>
+                <ISOAbbreviation>New Microbes New Infect</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome sequence and description of <i>Alterileibacterium massiliense</i> gen. nov., sp. nov., a new bacterium isolated from human ileum of a patient with Crohn's disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100533</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nmni.2019.100533</ELocationID>
+            <Abstract>
+                <AbstractText><i>Alterileibacterium massiliense</i> gen. nov. sp. nov. strain Marseille-P3115<sup>T</sup> (= CSURP-3115; DSM 103486), formerly proposed as <i>Ileibacterium massiliense,</i> is a new genus of bacteria isolated from the ileum of a human patient with Crohn's disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boxberger</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Aix Marseille University, IRD, AP-HM, MEФI, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IHU-Méditerranée Infection, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anani</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IHU-Méditerranée Infection, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Aix Marseille University, IRD, AP-HM, SSA, VITROME, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>La Scola</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Aix Marseille University, IRD, AP-HM, MEФI, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IHU-Méditerranée Infection, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>New Microbes New Infect</MedlineTA>
+            <NlmUniqueID>101624750</NlmUniqueID>
+            <ISSNLinking>2052-2975</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alterileibacterium massiliense</Keyword>
+            <Keyword MajorTopicYN="N">Culturomics</Keyword>
+            <Keyword MajorTopicYN="N">Taxono-genomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198562</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nmni.2019.100533</ArticleId>
+            <ArticleId IdType="pii">S2052-2975(19)30029-0</ArticleId>
+            <ArticleId IdType="pii">100533</ArticleId>
+            <ArticleId IdType="pmc">PMC6556832</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

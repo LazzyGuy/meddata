@@ -1,0 +1,179 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200114</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2589-0042</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>iScience</Title>
+                <ISOAbbreviation>iScience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tracking the Leader: Gaze Behavior in Group Interactions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>242-249</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2589-0042(19)30172-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.isci.2019.05.035</ELocationID>
+            <Abstract>
+                <AbstractText>Can social gaze behavior reveal the leader during real-world group interactions? To answer this question, we developed a novel tripartite approach combining (1) computer vision methods for remote gaze estimation, (2) a detailed taxonomy to encode the implicit semantics of multi-party gaze features, and (3) machine learning methods to establish dependencies between leadership and visual behaviors. We found that social gaze behavior distinctively identified group leaders. Crucially, the relationship between leadership and gaze behavior generalized across democratic and autocratic leadership styles under conditions of low and high time-pressure, suggesting that gaze can serve as a general marker of leadership. These findings provide the first direct evidence that group visual patterns can reveal leadership across different social behaviors and validate a new promising method for monitoring natural group interactions.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Capozzi</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, McGill University, Montreal, QC H3A 1B1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beyan</LastName>
+                    <ForeName>Cigdem</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pattern Analysis and Computer Vision, (PAVIS), Istituto Italiano di Tecnologia, Genova 16152, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pierro</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Social and Developmental Psychology, University of Rome &quot;La Sapienza&quot;, Rome 00185, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koul</LastName>
+                    <ForeName>Atesh</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cognition, Motion and Neuroscience Unit, (C'MoN), Istituto Italiano di Tecnologia, Center for Human Technologies, Via Enrico Melen 83, 16152 Genova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murino</LastName>
+                    <ForeName>Vittorio</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pattern Analysis and Computer Vision, (PAVIS), Istituto Italiano di Tecnologia, Genova 16152, Italy; Department of Computer Science, University of Verona, Verona 37134, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Livi</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Social and Developmental Psychology, University of Rome &quot;La Sapienza&quot;, Rome 00185, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bayliss</LastName>
+                    <ForeName>Andrew P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, University of East Anglia, Norwich, Norfolk NR4 7TJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ristic</LastName>
+                    <ForeName>Jelena</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, McGill University, Montreal, QC H3A 1B1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Becchio</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cognition, Motion and Neuroscience Unit, (C'MoN), Istituto Italiano di Tecnologia, Center for Human Technologies, Via Enrico Melen 83, 16152 Genova, Italy; Department of Psychology, University of Torino, Torino 10123, Italy. Electronic address: cristina.becchio@iit.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>iScience</MedlineTA>
+            <NlmUniqueID>101724038</NlmUniqueID>
+            <ISSNLinking>2589-0042</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Behavioral Neuroscience</Keyword>
+            <Keyword MajorTopicYN="N">Neuroscience</Keyword>
+            <Keyword MajorTopicYN="N">Social Interaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200114</ArticleId>
+            <ArticleId IdType="pii">S2589-0042(19)30172-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.isci.2019.05.035</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

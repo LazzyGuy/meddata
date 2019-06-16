@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199695</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-8100</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Omics : a journal of integrative biology</Title>
+                <ISOAbbreviation>OMICS</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A New Approach to Measure Adherence to Medicines Using Biomarkers and Sensors.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/omi.2019.0092</ELocationID>
+            <Abstract>
+                <AbstractText>Approximately one in two patients with a chronic disease does not take their medicines as prescribed. Poor adherence is a worldwide epidemic and a major source of variability in pharmacokinetics (PK) and pharmacodynamics. Without addressing adherence, precision medicine is unlikely to come to fruition. In drug development, poor adherence confounds the estimates for efficacy and safety of drug candidates. Accurate and high-resolution measurement of adherence is a first step toward effective interventions against poor adherence. We describe a new cross-technology platform to measure adherence. The approach involves, first, building PK models to explain dose-exposure relationships. The model incorporates PK biomarkers by genotyping or phenotyping of drug metabolism, transport and other drug clearance pathways. Importantly, dose-exposure data for model building are obtained in healthy volunteer and/or patient cohorts who are ascertained for full adherence, using edible ingestion sensors (IS) that digitize orally administered medicines. Second, the built model is harnessed to back calculate the dose actually ingested by patients, given the empirically observed drug exposure, PK biomarker, demographic, and other patient data. The proposed platform is envisioned to result in development of both drug and drug-specific companion software for adherence measurement. In terms of feasibility, the new approach overlaps with current drug development timelines spanning the Phase 1 to 4 clinical trial continuum, and thus, could conceivably be implemented without requiring significant changes to the time sensitive clinical trial processes. For the IS-powered tools, the proposed platform creates a new space for applications in clinical trials to ensure adherence.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Özdemir</LastName>
+                    <ForeName>Vural</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Senior Advisor, Responsible Innovation and Technology Governance, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Endrenyi</LastName>
+                    <ForeName>Laszlo</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Pharmacology and Toxicology, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>OMICS</MedlineTA>
+            <NlmUniqueID>101131135</NlmUniqueID>
+            <ISSNLinking>1536-2310</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adherence</Keyword>
+            <Keyword MajorTopicYN="N">biomarkers</Keyword>
+            <Keyword MajorTopicYN="N">digital health</Keyword>
+            <Keyword MajorTopicYN="N">pharmacogenomics</Keyword>
+            <Keyword MajorTopicYN="N">pharmacokinetics</Keyword>
+            <Keyword MajorTopicYN="N">sensors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199695</ArticleId>
+            <ArticleId IdType="doi">10.1089/omi.2019.0092</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199968</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-9995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Urology</Title>
+                <ISOAbbreviation>Urology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Survival Benefit Persists with Delayed Initiation of Adjuvant Chemotherapy following Radical Cystectomy for Locally Advanced Bladder Cancer.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0090-4295(19)30522-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2019.05.038</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine if delaying the initiation of adjuvant chemotherapy following radical cystectomy for locally advanced bladder cancer worsens overall survival.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This is a retrospective cohort study utilizing the National Cancer Database from 2006-2013. We included treatment-naïve patients who underwent radical cystectomy for muscle-invasive bladder cancer found to have locally advanced disease (pT3-T4 and/or pN+). Patients received no chemotherapy or multi-agent adjuvant chemotherapy between 30 and 180 days following surgery. We used a multivariable Cox Regression to assess for differences in overall survival according to when patients initiated adjuvant chemotherapy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 3,590 patients: 2,581 received no chemotherapy and 1,009 received multi-agent adjuvant chemotherapy. Adjuvant chemotherapy began 31-60 days post-surgery in 538 patients, 61-90 days in 321 patients, and 91-180 days in 150 patients. Relative to patients who did not receive chemotherapy, adjuvant chemotherapy decreased mortality when started 31-60 days (hazard ratio [HR], 0.60; 95% Confidence Interval [CI], 0.52-0.69; P &lt; 0.001), 61-90 days (HR, 0.62; 95% CI, 0.53-0.74; P &lt; 0.001), and 91-180 days following radical cystectomy (HR, 0.69; 95% CI, 0.55-0.87; P = 0.002).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Adjuvant chemotherapy offers a survival benefit when started up to six months after radical cystectomy in patients with high-risk disease who did not receive neoadjuvant chemotherapy. Patients who require delayed initiation of adjuvant chemotherapy can still benefit from treatment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Corbett</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perelman School of Medicine at the University of Pennsylvania, Philadelphia PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Leilei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mamtani</LastName>
+                    <ForeName>Ronac</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Hematology and Oncology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malkowicz</LastName>
+                    <ForeName>S Bruce</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guzzo</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia PA. Electronic address: Thomas.Guzzo@uphs.upenn.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Urology</MedlineTA>
+            <NlmUniqueID>0366151</NlmUniqueID>
+            <ISSNLinking>0090-4295</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chemotherapy, Adjuvant</Keyword>
+            <Keyword MajorTopicYN="N">Cystectomy</Keyword>
+            <Keyword MajorTopicYN="N">Urinary Bladder Neoplasms</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199968</ArticleId>
+            <ArticleId IdType="pii">S0090-4295(19)30522-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.urology.2019.05.038</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

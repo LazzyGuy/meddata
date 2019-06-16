@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199281</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2275</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on cybernetics</Title>
+                <ISOAbbreviation>IEEE Trans Cybern</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Group Reidentification with Multigrained Matching and Integration.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TCYB.2019.2917713</ELocationID>
+            <Abstract>
+                <AbstractText>The task of reidentifying groups of people under different camera views is an important yet less-studied problem. Group reidentification (Re-ID) is a very challenging task since it is not only adversely affected by common issues in traditional single-object Re-ID problems, such as viewpoint and human pose variations, but also suffers from changes in group layout and group membership. In this paper, we propose a novel concept of group granularity by characterizing a group image by multigrained objects: individual people and subgroups of two and three people within a group. To achieve robust group Re-ID, we first introduce multigrained representations which can be extracted via the development of two separate schemes, that is, one with handcrafted descriptors and another with deep neural networks. The proposed representation seeks to characterize both appearance and spatial relations of multigrained objects, and is further equipped with importance weights which capture variations in intragroup dynamics. Optimal group-wise matching is facilitated by a multiorder matching process which, in turn, dynamically updates the importance weights in iterative fashion. We evaluated three multicamera group datasets containing complex scenarios and large dynamics, with experimental results demonstrating the effectiveness of our approach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Weiyao</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yuxi</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>See</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zou</LastName>
+                    <ForeName>Junni</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Hongkai</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jingdong</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mei</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Cybern</MedlineTA>
+            <NlmUniqueID>101609393</NlmUniqueID>
+            <ISSNLinking>2168-2267</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199281</ArticleId>
+            <ArticleId IdType="doi">10.1109/TCYB.2019.2917713</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

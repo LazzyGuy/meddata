@@ -1,0 +1,116 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199202</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0031-949X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Phytopathology</Title>
+                <ISOAbbreviation>Phytopathology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genotyping-by-Sequencing Reveals Fine-Scale Population Differentiation in Populations of Pseudoperonospora humuli.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1094/PHYTO-12-18-0485-R</ELocationID>
+            <Abstract>
+                <AbstractText>Pseudoperonospora humuli is the causal agent of downy mildew of hop, one of the most important diseases of this plant and a limiting factor for production of susceptible cultivars in certain environments. The degree of genetic diversity and population differentiation within and among P. humuli populations at multiple spatial scales was quantified using genotyping-by-sequencing to test the hypothesis that populations of P. humuli have limited genetic diversity but differentiated at the scale of individual hop yards. Hierarchical sampling was conducted to collect isolates from three hop yards in Oregon, plants within these yards, and infected shoots within heavily diseased plants. Additional isolates also were collected broadly from other geographic regions and from the two previously described clades of the sister species, P. cubensis. Genotyping of these 240 isolates produced a final quality-filtered data set of 216 isolates possessing 25,227 variants. Plots of G'ST values indicated that the majority of variants had G'ST values near 0 and were scattered randomly across contig positions. However, there was a subset of variants that were highly differentiated (G'ST &gt; 0.3) and reproducible when genotyped independently. Within P. humuli, there was evidence of genetic differentiation at level of hop yards and plants within yards; 19.8% of the genetic variance was associated with differences among yards and 20.3% of the variance was associated with plants within the yard. Isolates of P. humuli were well differentiated from two isolates of P. cubensis representative of the two clades of this organism. There was strong evidence of linkage disequilibrium in variant loci, consistent with nonrandom assortment of alleles expected from inbreeding and/or asexual recombination. Mantel tests found evidence that genetic distance between isolates collected from heavily diseased plants within a hop yard was associated with physical distance of the plants the isolates were collected from. The sum of the data presented here indicates that populations of P. humuli are consistent with a clonal or highly inbred genetic structure with a small, yet significant differentiation of populations among yards and plants within yards. Fine-scale genetic differentiation at the yard and plant scales may point to persistence of founder genotypes associated with planting due to chronic, systemic infection of hop plants by P. humuli. More broadly, genotyping-by-sequencing appears to have sufficient resolution to identify rare variants that differentiate sub-populations within organisms with limited genetic variability.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gent</LastName>
+                    <ForeName>David H</ForeName>
+                    <Initials>DH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA-ARS, Botany and Plant Pathology , 3450 SW Campus Way , Corvallis, Oregon, United States , 97331 ; gentd@onid.orst.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adair</LastName>
+                    <ForeName>Nanci</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>US Departement of Agriculture , Agricultural Research Service, Corvallis, Oregon, United States ; nanci.adair@usda.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knaus</LastName>
+                    <ForeName>Brian J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA ARS Horticultural Crops Research Laboratory, 97330, Oregon, United States ; brian.knaus@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grünwald</LastName>
+                    <ForeName>Niklaus J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA ARS, Horticultural Crops Research Laboratory , 3420 NW Orchard Ave , Corvallis, Oregon, United States , 97330 ; grunwaln@science.oregonstate.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phytopathology</MedlineTA>
+            <NlmUniqueID>9427222</NlmUniqueID>
+            <ISSNLinking>0031-949X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ecology and epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Population biology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199202</ArticleId>
+            <ArticleId IdType="doi">10.1094/PHYTO-12-18-0485-R</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

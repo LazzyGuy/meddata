@@ -1,0 +1,197 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200302</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multi-spectroscopic measurements, molecular modeling and density functional theory calculations for interactions of 2,7-dibromocarbazole and 3,6-dibromocarbazole with serum albumin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1039-1048</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32554-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>2,7-Dibromocarbazole (2,7-DBCB) and 3,6-dibromocarbazole (3,6-DBCB) are emerging environmental pollutants, being potentially high risks to human health. In this study, interactions of the two compounds with human serum albumin (HSA) and bovine serum albumin (BSA) were investigated by molecular modeling, density functional theory calculations (DFT) and multispectral techniques. The static quenching interaction deduced in the fluorescence quenching experiment is confirmed by the time-resolved analyses. The interactions of the two compounds with HSA/BSA induce molecular microenvironment and conformation changes, as assessed by synchronous and 3D fluorescence spectra, together with a destruction of polypeptide carbonyl hydrogen bond network by circular dichroism and Fourier transform infrared analyses. The thermodynamic analysis indicated that the spontaneous interaction was hydrogen bonding and hydrophobic forces. The binding constant Ka at 298 K was 3.54 × 10<sup>5</sup> M<sup>-1</sup> in HSA-2,7-DBCB, 6.63 × 10<sup>5</sup> M<sup>-1</sup> in HSA-3,6-DBCB, 1.32 × 10<sup>5</sup> M<sup>-1</sup> in BSA-2,7-DBCB and 2.17 × 10<sup>5</sup> M<sup>-1</sup> in BSA-3,6-DBCB. These results indicates that 3,6-DBCB binds HSA/BSA more strongly than 2,7-DBCB, which was estimated with DFT calculations. Site marker competition experiments coupled with molecular modeling studies confirmed that both compounds bind HSA/BSA at site I (subdomain IIA). The results suggest that interactions between 2,7-DBCB and 3,6-DBCB with HSA and BSA may affect the normal physiological activities in human and animals.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lijun</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiaoqin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Yanan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xina</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Meiqing</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Shisuo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xue</LastName>
+                    <ForeName>Jiaying</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hua</LastName>
+                    <ForeName>Rimao</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Agri-food Safety of Anhui Province, College of Resources and Environment, Anhui Agricultural University, No, 130 Changjiang West Road, Hefei 230036, China. Electronic address: wangyi1987@cau.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Qing X</ForeName>
+                    <Initials>QX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biosciences and Bioengineering, University of Hawaii at Manoa, 1955 East-West Road, Honolulu, HI 96822, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Albumin</Keyword>
+            <Keyword MajorTopicYN="N">Density functional theory calculations</Keyword>
+            <Keyword MajorTopicYN="N">Dibromocarbazole</Keyword>
+            <Keyword MajorTopicYN="N">Molecular modeling</Keyword>
+            <Keyword MajorTopicYN="N">Multispectral technique</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200302</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32554-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

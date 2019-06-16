@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199436</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-360X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of public health</Title>
+                <ISOAbbreviation>Eur J Public Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The impact of social prescribing services on service users: a systematic review of the evidence.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">ckz078</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/eurpub/ckz078</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Social prescribing initiatives are widely implemented in the UK National Health Service to integrate health and social care. Social prescribing is a service in primary care that links patients with non-medical needs to sources of support provided by the community and voluntary sector to help improve their health and wellbeing. Such programmes usually include navigators, who work with referred patients and issue onward referrals to sources of non-medical support. This systematic review aimed to assess the evidence of service user outcomes of social prescribing programmes based on primary care and involving navigators.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We searched 11 databases, the grey literature, and the reference lists of relevant studies to identify the available evidence on the impact of social prescribing on service users. Searches were limited to literature written in English. No date restrictions were applied, and searches were conducted to June 2018. Findings were synthesized narratively, employing thematic analysis. The Mixed Methods Appraisal Tool Version 2011 was used to evaluate the methodological quality of included studies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixteen studies met the inclusion criteria. The evidence base is mixed, some studies found improvements in health and wellbeing, health-related behaviours, self-concepts, feelings, social contacts and day-to-day functioning post-social prescribing, whereas others have not. The review also shows that the evaluation methodologies utilized were variable in quality.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In order to assess the success of social prescribing services, more high quality and comparable evaluations need to be conducted in the future.International Prospective Register of Systematic Reviews number: CRD42017079664.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the European Public Health Association. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pescheny</LastName>
+                    <ForeName>Julia V</ForeName>
+                    <Initials>JV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Research, University of Bedfordshire, Luton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Randhawa</LastName>
+                    <ForeName>Gurch</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Research, University of Bedfordshire, Luton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pappas</LastName>
+                    <ForeName>Yannis</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Research, University of Bedfordshire, Luton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Public Health</MedlineTA>
+            <NlmUniqueID>9204966</NlmUniqueID>
+            <ISSNLinking>1101-1262</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199436</ArticleId>
+            <ArticleId IdType="pii">5519001</ArticleId>
+            <ArticleId IdType="doi">10.1093/eurpub/ckz078</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

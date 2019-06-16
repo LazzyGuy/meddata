@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199757</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1862-278X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomedizinische Technik. Biomedical engineering</Title>
+                <ISOAbbreviation>Biomed Tech (Berl)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fetal cardiotocography monitoring using Legendre neural networks.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/bmt-2018-0074</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/bmte.ahead-of-print/bmt-2018-0074/bmt-2018-0074.xml</ELocationID>
+            <Abstract>
+                <AbstractText>A new technique for electronic fetal monitoring (EFM) using an efficient structure of neural networks based on the Legendre series is presented in this paper. Such a structure is achieved by training a Legendre series-based neural network (LNN) to classify the different fetal states based on recorded cardiotocographic (CTG) data sets given by others. These data sets consist of measurements of fetal heart rate (FHR) and uterine contraction (UC). The applied LNN utilizes a Legendre series expansion for the input vectors and, hence, has the capability to produce explicit equations describing multi-input multi-output systems. Simulations of the proposed technique in EFM demonstrate its high efficiency. Training the LNN requires a few number of iterations (5-10 epochs). The applied technique makes the classification of the fetal state available through equations combining the trained LNN weights and the current measured CTG record. A comparison of performance between the proposed LNN and other popular neural network techniques such as the Volterra neural network (VNN) in EFM is provided. The comparison shows that, the LNN outperforms the VNN in case of less computational requirements and fast convergence with a lower mean square error.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alsayyari</LastName>
+                    <ForeName>Abdulaziz</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computer Engineering Department, Shaqra University, Dawadmi 11911, Ar Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Biomed Tech (Berl)</MedlineTA>
+            <NlmUniqueID>1262533</NlmUniqueID>
+            <ISSNLinking>0013-5585</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Legendre neural networks</Keyword>
+            <Keyword MajorTopicYN="N">biomedical engineering</Keyword>
+            <Keyword MajorTopicYN="N">cardiotocography</Keyword>
+            <Keyword MajorTopicYN="N">electronic fetal monitoring</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199757</ArticleId>
+            <ArticleId IdType="doi">10.1515/bmt-2018-0074</ArticleId>
+            <ArticleId IdType="pii">/j/bmte.ahead-of-print/bmt-2018-0074/bmt-2018-0074.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

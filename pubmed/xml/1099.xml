@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199220</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-5644</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical microbiology</Title>
+                <ISOAbbreviation>J. Med. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of the effect of smoking on the buccal microbiome using next-generation sequencing technology.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/jmm.0.001003</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This study aimed to investigate the effect of smoking on the buccal microbiome and to analyse the descriptive ability of each of the seven hypervariable regions in their 16S rRNA genes.</AbstractText>
+                <AbstractText Label="METHODOLOGY" NlmCategory="METHODS">Microbiome compositions of 40 buccal swab samples collected from smokers (n =20) and non-smokers (n =20) were determined using 16S rRNA sequencing. Seven different 16S rRNA hypervariable regions (V2, V3, V4, V6-7, V8 and V9) in each sample were amplified using the Ion Torrent 16S Metagenomics kit and were sequenced on the Ion S5 instrument.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Seven hypervariable regions in the 16S rRNA gene were successfully sequenced for all samples tested. The data obtained with the V2 region was found to be informative but the consensus data generated according to a number of operational taxonomic unit reads gathered from all seven hypervariable regions gave the most accurate result. At the phylum level, no statistically significant difference was found between smokers and non-smokers whereas relative abundances of Veillonella atypica, Streptococcus australis, Prevotella melaninogenica, Prevotella salivae and Rothia mucilaginosa showed significant increases in the smoker group (P-adj=0.05). Alpha diversity results did not show a significant difference between the two groups; however, beta diversity analysis indicated that samples of smoker and non-smoker groups had a tendency to be clustered within themselves.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The results of the current study indicate that smoking is a factor influencing buccal microbiome composition. In addition, sequencing of all seven hypervariable regions yielded more accurate results than those with any of the single variable regions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Karabudak</LastName>
+                    <ForeName>Sema</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Ankara Yildirim Beyazit University, Central Research and Application Center, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ari</LastName>
+                    <ForeName>Oguz</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Ankara Yildirim Beyazit University, Central Research and Application Center, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Durmaz</LastName>
+                    <ForeName>Bengul</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Yuksek Ihtisas University, Faculty of Medicine, Department of Clinical Microbiology, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dal</LastName>
+                    <ForeName>Tuba</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Ankara Yildirim Beyazit University, Faculty of Medicine, Department of Clinical Microbiology, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Basyigit</LastName>
+                    <ForeName>Tugcan</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Ankara Yildirim Beyazit University, Faculty of Medicine, Department of Clinical Microbiology, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalcioglu</LastName>
+                    <ForeName>Mahmut Tayyar</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Istanbul Medeniyet University, Faculty of Medicine, Department of Otolaryngology, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Durmaz</LastName>
+                    <ForeName>Riza</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Ankara Yildirim Beyazit University, Faculty of Medicine, Department of Clinical Microbiology, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1Ankara Yildirim Beyazit University, Central Research and Application Center, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Med Microbiol</MedlineTA>
+            <NlmUniqueID>0224131</NlmUniqueID>
+            <ISSNLinking>0022-2615</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199220</ArticleId>
+            <ArticleId IdType="doi">10.1099/jmm.0.001003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200091</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7972</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience letters</Title>
+                <ISOAbbreviation>Neurosci. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>NMDA receptor and Nitric Oxide Synthase activity in the Central Amygdala is involved in the Acquisition and Consolidation of Conditioned Odor Aversion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>134327</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3940(19)30426-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neulet.2019.134327</ELocationID>
+            <Abstract>
+                <AbstractText>Rats readily learn to avoid a tasteless odorized solution if they experience visceral malaise after consuming it. This phenomenon is referred to as conditioned odor aversion (COA). Several studies have shown that COA depends on the functional integrity of the amygdala, with most studies focusing on the basolateral nucleus. On the other hand, the role of the central amygdala (CeA) which is known to be involved in the consolidation of conditioned taste aversion (CTA) remains to be established. To address this issue, we evaluated the effect of inhibiting NMDA receptor activity in this structure on COA memory formation. Intra-CeA infusions of non-competitive NMDA receptor inhibitor MK-801 prevented memory formation both when administered before and up to 15 minutes after COA conditioning, while no effect of this drug was observed when given before long-term memory test. We next evaluated the role of one of the main downstream effectors of brain NMDA receptor signaling, nitric oxide synthase (NOS), known to play a key role in a wide variety learning tasks including some types of olfactory conditioning. Similar results were obtained with inhibition of either NOS or neuron-specific NOS; which proved to be required both during and after COA training, though for a shorter time span than NMDA receptors. Also, neither isoform showed to be required to memory retrieval. These results suggest that the US signaling during acquisition and the initial consolidation step of COA depends on glutamate-NO system activation in the CeA.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>González-Sánchez</LastName>
+                    <ForeName>Héctor</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Faculty of Medicine, National Autonomous University Mexico, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tovar-Díaz</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Faculty of Medicine, National Autonomous University Mexico, Mexico City, Mexico; Faculty of Medicine and Psychology, Autonomous University of Baja California, Tijuana, BC, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morin</LastName>
+                    <ForeName>Jean-Pascal</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Faculty of Medicine, National Autonomous University Mexico, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roldán-Roldán</LastName>
+                    <ForeName>Gabriel</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Faculty of Medicine, National Autonomous University Mexico, Mexico City, Mexico. Electronic address: gabrielr.roldan@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Neurosci Lett</MedlineTA>
+            <NlmUniqueID>7600130</NlmUniqueID>
+            <ISSNLinking>0304-3940</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Central amygdala</Keyword>
+            <Keyword MajorTopicYN="N">Conditioned odor aversion</Keyword>
+            <Keyword MajorTopicYN="N">Lithium Chloride</Keyword>
+            <Keyword MajorTopicYN="N">NMDA receptors</Keyword>
+            <Keyword MajorTopicYN="N">Nitric Oxide Synthase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200091</ArticleId>
+            <ArticleId IdType="pii">S0304-3940(19)30426-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neulet.2019.134327</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

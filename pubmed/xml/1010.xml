@@ -1,0 +1,150 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199319</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Guided Self-Help Works: Randomized Waitlist Controlled Trial of Pacifica, a Mobile App Integrating Cognitive Behavioral Therapy and Mindfulness for Stress, Anxiety, and Depression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12556</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12556</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite substantial improvements in technology and the increased demand for technology-enabled behavioral health tools among consumers, little progress has been made in easing the burden of mental illness. This may be because of the inherent challenges of conducting traditional clinical trials in a rapidly evolving technology landscape.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study sought to validate the effectiveness of Pacifica, a popular commercially available app for the self-management of mild-to-moderate stress, anxiety, and depression.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 500 adults with mild-to-moderate anxiety or depression were recruited from in-app onboarding to participate in a randomized waitlist controlled trial of Pacifica. We conducted an all-virtual study, recruiting, screening, and randomizing participants through a Web-based participant portal. Study participants used the app for 1 month, with no level of use required, closely mimicking real-world app usage. Participants in the waitlist group were given access to the app after 1 month. Measurements included self-reported symptoms of stress, anxiety, depression, and self-efficacy. We performed an intent-to-treat analysis to examine the interactive effects of time and condition.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found significant interactions between time and group. Participants in the active condition demonstrated significantly greater decreases in depression, anxiety, and stress and increases in self-efficacy. Although we did not find a relationship between overall engagement with the app and symptom improvement, participants who completed relatively more thought record exercises sustained improvements in their symptoms through the 2-month follow-up to a greater degree than those who completed fewer. In addition, we found that participants who reported concomitantly taking psychiatric medications during the trial benefitted less from the app, as measured by the symptoms of anxiety and stress.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT03333707; https://clinicaltrials.gov/ct2/show/NCT03333707 (Archived by WebCite at http://www.webcitation.org/78YE07ADB).</AbstractText>
+                <CopyrightInformation>©Christine Moberg, Andrea Niles, Dale Beermann. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 08.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moberg</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3508-9784</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pacifica Labs, Inc, Minneapolis, MN, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niles</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0363-5442</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>University of California-San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beermann</LastName>
+                    <ForeName>Dale</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4174-0932</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pacifica Labs, Inc, Minneapolis, MN, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03333707</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">anxiety</Keyword>
+            <Keyword MajorTopicYN="N">cognitive behavioral therapy</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">smartphone app</Keyword>
+            <Keyword MajorTopicYN="N">stress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199319</ArticleId>
+            <ArticleId IdType="pii">v21i6e12556</ArticleId>
+            <ArticleId IdType="doi">10.2196/12556</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

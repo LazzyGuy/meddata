@@ -1,0 +1,176 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199586</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-7634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer medicine</Title>
+                <ISOAbbreviation>Cancer Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Risk stratification of ER-positive breast cancer patients: A multi-institutional validation and outcome study of the Rochester Modified Magee algorithm (RoMMa) and prediction of an Oncotype DX<sup>®</sup> recurrence score &lt;26.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.2323</ELocationID>
+            <Abstract>
+                <AbstractText>The skyrocketing cost of health-care demands that we question when to use multigene assay testing in the planning of treatment for breast cancer patients. A previously published algorithmic model gave recommendations for which cases to send out for Oncotype DX<sup>®</sup> (ODX) testing. This study is a multi-institutional validation of that algorithmic model in 620 additional estrogen receptor positive breast cancer cases, with outcome data on 310 cases, named in this study as the Rochester Modified Magee algorithm (RoMMa). RoMMa correctly predicted 85% (140/164) and 100% (17/17) of cases to have a low- or high-risk ODX recurrence score, respectively, consistent with the original publication. Applying our own risk stratification criteria, in patients who received appropriate hormonal therapy, only one of the 45 (2.0%) patients classified as low risk by our original algorithm have been associated with a breast cancer recurrence over 5-10 years of follow-up. Eight of 116 (7.0%) patients classified as low risk by ODX have been associated with a breast cancer recurrence with up to 11 years of follow-up. In addition, 524 of 537 (98%) cases from our total population (n = 903) with an average modified Magee score ≤18 had an ODX recurrence score &lt;26. Patients with an average modified Magee score ≤18 or &gt;30 may not need to be sent out for ODX testing. By avoiding these cases sending out for ODX testing, the potential cost savings to the health-care system in 2018 are estimated to have been over $100,000,000.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Turner</LastName>
+                    <ForeName>Bradley M</ForeName>
+                    <Initials>BM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-3103-0179</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gimenez-Sanders</LastName>
+                    <ForeName>Mary Ann</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Louisville, Louisville, Kentucky.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soukiazian</LastName>
+                    <ForeName>Armen</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Rochester, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breaux</LastName>
+                    <ForeName>Andrea C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Louisville, Louisville, Kentucky.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skinner</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Rochester Medical Center, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shayne</LastName>
+                    <ForeName>Michelle</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, University of Rochester, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soukiazian</LastName>
+                    <ForeName>Nyrie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drexel University College of Medicine Graduate School of Biomedical and Professional Studies, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ling</LastName>
+                    <ForeName>Marilyn</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Rochester, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hicks</LastName>
+                    <ForeName>David G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester Medical Center, Rochester, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Med</MedlineTA>
+            <NlmUniqueID>101595310</NlmUniqueID>
+            <ISSNLinking>2045-7634</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ER+ breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">Oncotype DX®</Keyword>
+            <Keyword MajorTopicYN="N">RoMMa</Keyword>
+            <Keyword MajorTopicYN="N">algorithm</Keyword>
+            <Keyword MajorTopicYN="N">recurrence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199586</ArticleId>
+            <ArticleId IdType="doi">10.1002/cam4.2323</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

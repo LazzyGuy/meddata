@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199994</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-355X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of radiation oncology, biology, physics</Title>
+                <ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Four-year outcomes from a prospective phase II clinical trial of moderately hypofractionated proton therapy for localized prostate cancer.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0360-3016(19)30827-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2019.05.069</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Moderately hypofractionated radiation therapy represents an effective treatment for localized prostate cancer (PC). While large randomized trials have shown the efficacy of photon-based hypofractionated therapy, hypofractionated proton therapy (HFPT) has not been extensively studied. This study was performed to determine the clinical and patient-reported outcomes for patients with PC treated with HFPT.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Between 2010 and 2017, 184 men were enrolled on a trial of 70Gy in 28 fractions of HFPT for low to intermediate-risk PC. Acute and late toxicity was evaluated using CTCAEv4.0. Patient reported outcomes were measured by International Prostate Symptom Score (IPSS), International Index of Erectile Function (IIEF-5) Questionnaire, and Expanded Prostate Cancer Index Composite (EPIC) scores.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Median follow-up was 49.2 months. Enrolled patients had low-risk [LR] (n = 18), favorable intermediate-risk [FIR] (n = 78), and unfavorable intermediate-risk [UIR] (n = 88) PC. Four-year rates of BCF free survival were 93.5% (95% C.I. 89-98%), 94.4% (89-100%), 92.5% (86-100%), and 93.8% (88-100%) in the overall group and the LR, FIR, and UIR cohorts, respectively (logrank p&gt;0.4). The incidence of acute grade 2 or higher gastrointestinal (GI) and urologic toxicities were 3.8% and 12.5%, respectively. The 4-year incidence of late grade 2 or higher urologic and GI toxicity was 7.6% (4-13%) and 13.6% (9-20%), respectively. One late grade 3 GI toxicity was reported. All late toxicities were transient. Patient reported IPSS, IIEF, and EPIC scores had no significant long term changes following completion of HFPT.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">HFPT is associated with low rates of toxicity and does not appear to negatively impact 4-year patient reported urinary and bowel health. Further comparative analyses are warranted to better understand differences between proton and photon HFRT.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Grewal</LastName>
+                    <ForeName>Amardeep S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schonewolf</LastName>
+                    <ForeName>Caitlin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Min</LastName>
+                    <ForeName>Eun Jeong</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, Pennsylvania, 8th Floor, Blockley Hall , 423 Guardian Drive, Philadelphia, PA 19104-6021.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chao</LastName>
+                    <ForeName>Hann-Hsiang</ForeName>
+                    <Initials>HH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Both</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University Medical Center of Groningen, University of Groningen, Groningen, The Netherlands, UMCG (Fonteinstraat 18), Hanzeplein 1, 9713 GZ Groningen.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lam</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzoni</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bekelman</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christodouleas</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vapiwala</LastName>
+                    <ForeName>Neha</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania TRC2 West, 3400 Civic Center Boulevard, Philadelphia, PA 19104. Electronic address: neha.vapiwala@uphs.upenn.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+            <NlmUniqueID>7603616</NlmUniqueID>
+            <ISSNLinking>0360-3016</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199994</ArticleId>
+            <ArticleId IdType="pii">S0360-3016(19)30827-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijrobp.2019.05.069</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

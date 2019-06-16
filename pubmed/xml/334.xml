@@ -1,0 +1,186 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200071</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Promiscuous T cell epitopes boosts specific IgM immune response against a P0 peptide antigen from sea lice in different teleost species.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1050-4648(19)30665-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fsi.2019.06.018</ELocationID>
+            <Abstract>
+                <AbstractText>The development of vaccines employing conserved protein antigens, for instance ribosomal protein P0, has as disadvantage the high degree of identity between pathogen and host proteins due to possible induction of tolerance or auto antibodies in the host organism. To overcome this drawback, peptide-based vaccines have been designed with a proved high efficacy. The use of defined peptides as antigens has the problem that they are generally poor immunogenic unless coupled to a carrier protein. Several studies have established the potential for promiscuous T cell epitopes incorporated into chimeric peptides to enhance the immunogenicity in mammals. On the contrary, studies about the role of these epitopes on teleost immune system are scarce. Therefore, the main objective of our present study was to evaluate the potential of promiscuous T cell epitopes to boost specific IgM immune response in teleost fish against a peptide antigen. With this aim, we used a peptide of 35 amino acids from the ribosomal P0 protein of Lepeophtheirus salmonis, an important parasite in salmon aquaculture. We fused this peptide to the C-terminal of T cell epitopes from tetanus toxin and measles virus and produced the chimeric protein in Escherichia coli. Following vaccination, IgM antibody production was monitored in different immunization schemes in Tilapia, African catfish and Atlantic salmon. The results demonstrated for first time that the addition of T cell epitopes at the N-terminal of a target peptide increased IgM specific response in different teleost species, revealing the potential of this approach to develop peptide-based vaccines for aquaculture. The results are also of great importance in the context of vaccine development against sea lice using ribosomal protein P0 as antigen taking into account the key role of P0 in protein synthesis and other essential physiological processes.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leal</LastName>
+                    <ForeName>Yeny</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velazquez</LastName>
+                    <ForeName>Janet</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hernandez</LastName>
+                    <ForeName>Liz</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swain</LastName>
+                    <ForeName>Jaya Kumari</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NOFIMA, Tromso, Norway; Fish Immunology and Vaccinology Research Group, Norwegian College of Fishery Science, UiT the Arctic University of Norway, Tromso, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez</LastName>
+                    <ForeName>Alianet Rodríguez</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martínez</LastName>
+                    <ForeName>Rebeca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramos</LastName>
+                    <ForeName>Yassel</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physico-Chemistry Department, CIGB, Havana, Cuba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Estrada</LastName>
+                    <ForeName>Mario Pablo</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba. Electronic address: mario.pablo@cigb.edu.cu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpio</LastName>
+                    <ForeName>Yamila</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Division, Center for Genetic Engineering and Biotechnology, Havana, Cuba. Electronic address: yamila.carpio@cigb.edu.cu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Epitopes</Keyword>
+            <Keyword MajorTopicYN="N">Immunoglobulin M</Keyword>
+            <Keyword MajorTopicYN="N">Lepeophtheirus salmonis</Keyword>
+            <Keyword MajorTopicYN="N">Peptide</Keyword>
+            <Keyword MajorTopicYN="N">Teleost</Keyword>
+            <Keyword MajorTopicYN="N">Vaccine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200071</ArticleId>
+            <ArticleId IdType="pii">S1050-4648(19)30665-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2019.06.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

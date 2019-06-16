@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199715</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-7465</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of interferon &amp; cytokine research : the official journal of the International Society for Interferon and Cytokine Research</Title>
+                <ISOAbbreviation>J. Interferon Cytokine Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Type-Specific Crosstalk Modulates Interferon Signaling in Intestinal Epithelial Cells.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/jir.2019.0040</ELocationID>
+            <Abstract>
+                <AbstractText>Intestinal epithelial cells (IECs) are the primary target of enteric viruses. Their infection by viruses leads to the upregulation of both type I and type III interferons (IFNs). These IFNs then act in an autocrine and paracrine manner to protect IECs from viral propagation. To date, whether both IFNs use similar signaling pathways and whether these 2 cytokines can act synergistically to protect against viral infection remain unclear. Using human IECs depleted of either the type I or type III IFN receptor, we found that both signal transduction pathways are interconnected and influence each other at the level of interferon-stimulated gene (ISG) expression and efficiency of antiviral protection. Precisely, in human IECs, the presence of a functional type III IFN receptor negatively regulates type I IFN signaling and activity, whereas the presence of type I IFN receptor positively reinforces type III IFN signaling and function. We propose that this complex crosstalk allows for a preferential type III IFN-mediated protection of human intestinal cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pervolaraki</LastName>
+                    <ForeName>Kalliopi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Schaller Research Group at CellNetworks, Department of Infectious Diseases, Virology, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2 Research Group &quot;Cellular Polarity and Viral Infection&quot; (F140), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Cuncai</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Schaller Research Group at CellNetworks, Department of Infectious Diseases, Virology, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albrecht</LastName>
+                    <ForeName>Dorothee</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Research Group &quot;Cellular Polarity and Viral Infection&quot; (F140), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boulant</LastName>
+                    <ForeName>Steeve</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Schaller Research Group at CellNetworks, Department of Infectious Diseases, Virology, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2 Research Group &quot;Cellular Polarity and Viral Infection&quot; (F140), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanifer</LastName>
+                    <ForeName>Megan L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Schaller Research Group at CellNetworks, Department of Infectious Diseases, Virology, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Interferon Cytokine Res</MedlineTA>
+            <NlmUniqueID>9507088</NlmUniqueID>
+            <ISSNLinking>1079-9907</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antiviral immunity</Keyword>
+            <Keyword MajorTopicYN="N">intestinal epithelial cells</Keyword>
+            <Keyword MajorTopicYN="N">type I interferon receptor</Keyword>
+            <Keyword MajorTopicYN="N">type III interferon receptor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199715</ArticleId>
+            <ArticleId IdType="doi">10.1089/jir.2019.0040</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

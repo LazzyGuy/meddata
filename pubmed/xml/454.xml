@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199942</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1638-6183</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimie</Title>
+                <ISOAbbreviation>Biochimie</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induction of endothelial dysfunction by oxidized low-density lipoproteins via downregulation of Erk-5/Mef2c/Klf2 signaling: Amelioration by fisetin.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0300-9084(19)30172-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biochi.2019.06.007</ELocationID>
+            <Abstract>
+                <AbstractText>Extra-cellular signal regulated kinase-5 (Erk-5), a transcriptional activator and regulator of endothelial cells (ECs) homeostasis, has been implicated in shear stress-induced endothelial dysfunction (ED), however its role in oxidized low-density lipoprotein (oxLDL)- induced ED during metabolic stress is not known. Herein, regulation and function of Erk-5 in oxLDL-induced EC death, inflammation and dysfunction has been investigated. Primary Human Umbilical Vein Endothelial Cells (pHUVECs) were stimulated with oxLDL. MTT and Trypan blue exclusion assays to assess cell viability, RT-qPCR and Western blotting assays to determine expression of endothelial and inflammatory markers and ED mediators at mRNA and protein levels, respectively were performed. Monocyte adhesion assay was performed to examine monocytes adherence to oxLDL-stimulated pHUVECs. The exposure of oxLDL induced a dose- and time-dependent decrease in pHUVECs viability, which concurred with decreased Erk-5 expression. Further, oxLDL (100 μg/ml) decreased the expression of endothelial markers eNOS and vWF, and increased the expression of ICAM-1, at both mRNA and protein levels. SiRNA-mediated silencing of Erk-5 or its inhibition showed that changes in eNOS, vWF and ICAM-1 expression could be mediated through Erk-5. Furthermore, oxLDL decreased the levels of Erk-5's upstream regulator MEK5 and downstream regulators Mef2c and KLF2, which were similar to their expressions in Erk-5 silenced cells. Fisetin, a phytochemical and bioflavonoid, could reduce the effect of oxLDL in ECs by upregulating the expression of endothelial markers including Erk-5, and downregulating the expression of inflammation markers. These results suggest that Erk-5 could be a critical regulator of oxLDL-induced EC death, inflammation and dysfunction via downregulation of Erk-5/Mef2c-KLF2 signaling pathway, which can be ameliorated by a bioflavonoid, fisetin.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Rohit</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolic Disorders and Inflammatory Pathologies Laboratory, School of Life Sciences, Central University of Gujarat, Gandhinagar, Gujarat, 382030, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varghese</LastName>
+                    <ForeName>Johnna F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolic Disorders and Inflammatory Pathologies Laboratory, School of Life Sciences, Central University of Gujarat, Gandhinagar, Gujarat, 382030, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Rana P</ForeName>
+                    <Initials>RP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, Jawaharlal Nehru University, New Delhi, 110067, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yadav</LastName>
+                    <ForeName>Umesh C S</ForeName>
+                    <Initials>UCS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolic Disorders and Inflammatory Pathologies Laboratory, School of Life Sciences, Central University of Gujarat, Gandhinagar, Gujarat, 382030, India. Electronic address: umeshyadav@cug.ac.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Biochimie</MedlineTA>
+            <NlmUniqueID>1264604</NlmUniqueID>
+            <ISSNLinking>0300-9084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="N">Endothelial Dysfunction</Keyword>
+            <Keyword MajorTopicYN="N">Erk-5 signaling</Keyword>
+            <Keyword MajorTopicYN="N">Fisetin</Keyword>
+            <Keyword MajorTopicYN="N">oxidized-LDL</Keyword>
+            <Keyword MajorTopicYN="N">pHUVECs</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199942</ArticleId>
+            <ArticleId IdType="pii">S0300-9084(19)30172-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biochi.2019.06.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

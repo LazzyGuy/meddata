@@ -1,0 +1,183 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199045</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-3231</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Liver international : official journal of the International Association for the Study of the Liver</Title>
+                <ISOAbbreviation>Liver Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Total liver phosphatidylcholine content associates with non-alcoholic steatohepatitis and glycine N-methyltransferase expression.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/liv.14174</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND &amp; AIMS" NlmCategory="OBJECTIVE">Alterations in liver phosphatidylcholine (PC) metabolism have been implicated in the pathogenesis of non-alcoholic fatty liver disease (NAFLD). Although genetic variation in the phosphatidylethanolamine N-methyltransferase (PEMT) enzyme synthesizing PC has been associated with disease, the functional mechanism linking PC metabolism to the pathogenesis of non-alcoholic steatohepatitis (NASH) remains unclear.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Serum PC levels and liver PC contents were measured using proton nuclear magnetic resonance (NMR) spectroscopy in 169 obese individuals [age 46.6 ± 10 (mean ± SD) years, BMI 43.3 ± 6 kg/m<sup>2</sup> , 53 men and 116 women] with histological assessment of NAFLD; 106 of these had a distinct liver phenotype. All subjects were genotyped for PEMT rs7946 and liver mRNA expression of PEMT and glycine N-methyltransferase (GNMT) was analyzed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Liver PC content was lower in those with NASH (P=1.8x10<sup>-6</sup> ) while serum PC levels did not differ between individuals with NASH and normal liver (P=0.591). Interestingly, serum and liver PC did not correlate (r<sub>s</sub> =-0.047, P=0.557). Serum PC and serum cholesterol levels correlated strongly (r<sub>s</sub> =0.866, P=7.1x10<sup>-49</sup> ), while liver PC content did not correlate with serum cholesterol (r<sub>s</sub> =0.065, P=0.413). Neither PEMT V175M genotype nor PEMT expression explained the association between liver PC content and NASH. Instead, liver GNMT mRNA expression was decreased in those with NASH (P=3.8x10<sup>-4</sup> ) and correlated with liver PC content (r<sub>s</sub> =0.265, P=0.001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Decreased liver PC content in individuals with the NASH is independent of PEMT V175M genotype and could be partly linked to decreased GNMT expression. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Männistö</LastName>
+                    <ForeName>Ville</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Medicine, University of Eastern Finland and Kuopio University Hospital, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaminska</LastName>
+                    <ForeName>Dorota</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kärjä</LastName>
+                    <ForeName>Vesa</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Eastern Finland and Kuopio University Hospital, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tiainen</LastName>
+                    <ForeName>Mika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NMR Metabolomics Laboratory, School of Pharmacy, University of Eastern Finland, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nightingale Health, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Mello</LastName>
+                    <ForeName>Vanessa D</ForeName>
+                    <Initials>VD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanhineva</LastName>
+                    <ForeName>Kati</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>LC-MS Metabolomics Center, Biocenter Kuopio, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soininen</LastName>
+                    <ForeName>Pasi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NMR Metabolomics Laboratory, School of Pharmacy, University of Eastern Finland, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nightingale Health, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ala-Korpela</LastName>
+                    <ForeName>Mika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NMR Metabolomics Laboratory, School of Pharmacy, University of Eastern Finland, Kuopio, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Systems Epidemiology, Baker Heart and Diabetes Institute, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Computational Medicine, Faculty of Medicine, University of Oulu and Biocenter Oulu, Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Population Health Science, Bristol Medical School, University of Bristol, Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Council Integrative Epidemiology Unit, at the University of Bristol, Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, School of Public Health and Preventive Medicine, Faculty of Medicine, Nursing and Health Sciences, The Alfred Hospital, Monash University, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pihlajamäki</LastName>
+                    <ForeName>Jussi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Nutrition and Obesity Center, Kuopio University Hospital, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Liver Int</MedlineTA>
+            <NlmUniqueID>101160857</NlmUniqueID>
+            <ISSNLinking>1478-3223</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199045</ArticleId>
+            <ArticleId IdType="doi">10.1111/liv.14174</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

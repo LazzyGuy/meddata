@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198596</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2075-0528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sultan Qaboos University medical journal</Title>
+                <ISOAbbreviation>Sultan Qaboos Univ Med J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Authors' Selection of Target Journals and Their Attitudes to Emerging Journals: A survey from two developing regions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e51-e57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18295/squmj.2019.19.01.010</ELocationID>
+            <Abstract>
+                <AbstractText Label="Objectives" NlmCategory="UNASSIGNED">This study aimed to assess the factors that influence authors' decision when choosing a journal for publication and to assess authors' attitudes and practices regarding emerging journals.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This cross-sectional questionnaire-based study was conducted between April and July 2017 at Dubai Medical College, Dubai, United Arab Emirates, on a convenience sample of 2,764 healthcare professionals.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 250 responses were received (response rate: 9%) and 152 valid respondents were included in this study (5.6%), of which the majority were male (61.2%) and aged 41-60 years (68%) from the Middle East and Africa. Most respondents (88.8%) had medical and/or dental qualifications and the majority were in senior clinical (55%) and academic (71.5%) positions. More than half of the respondents (62.5%) had published at least one article in the previous five years. Results showed that journal impact factor (JIF), indexation status, free submission and being international were important among respondents. Based on the respondents that shared their encounters with emerging journals (n = 114), 62 respondents (54.4%) regularly read certain emerging journals, 51 (44.7%) had been a peer-reviewer, 48 (42.1%) had cited content from an emerging journal at least once and 45 (39.5%) had published in emerging journals. Only 18 respondents (14.2%) were not convinced with the need for emerging journals and believed that all researchers should compete for publication in the same international journals.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Selection of target journals is driven mainly by JIF, indexation status, free submission and a journal's international status. A diverse range of opinions and attitudes regarding emerging journals were observed in this study.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beshyah</LastName>
+                    <ForeName>Salem A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dubai Medical College, Dubai, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Oman</Country>
+            <MedlineTA>Sultan Qaboos Univ Med J</MedlineTA>
+            <NlmUniqueID>101519915</NlmUniqueID>
+            <ISSNLinking>2075-051X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Attitude</Keyword>
+            <Keyword MajorTopicYN="N">Editorial Policy</Keyword>
+            <Keyword MajorTopicYN="N">Indexing</Keyword>
+            <Keyword MajorTopicYN="N">Journal Impact Factor</Keyword>
+            <Keyword MajorTopicYN="N">Open Access Publishing</Keyword>
+            <Keyword MajorTopicYN="N">Peer Review</Keyword>
+            <Keyword MajorTopicYN="N">Publications</Keyword>
+            <Keyword MajorTopicYN="N">United Arab Emirates</Keyword>
+        </KeywordList>
+        <CoiStatement>Conflict of Interest The author declares no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198596</ArticleId>
+            <ArticleId IdType="doi">10.18295/squmj.2019.19.01.010</ArticleId>
+            <ArticleId IdType="pii">squmj1902-e51-57</ArticleId>
+            <ArticleId IdType="pmc">PMC6544072</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

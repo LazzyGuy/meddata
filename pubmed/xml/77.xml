@@ -1,0 +1,200 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200337</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-1705</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>74</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International immunopharmacology</Title>
+                <ISOAbbreviation>Int. Immunopharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hydrogen gas inhalation enhances alveolar macrophage phagocytosis in an ovalbumin-induced asthma model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>105646</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-5769(18)31363-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.intimp.2019.05.031</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Maintaining an airway clear of bacteria, foreign particles and apoptotic cells by alveolar macrophages is very essential for lung homeostasis. In asthma, the phagocytic capacity of alveolar macrophages is significantly reduced, which is thought to be associated with increased oxidative stress. Hydrogen (H<sub>2</sub>) has been shown to exert potent antioxidant and anti-inflammatory effects, yet its effects on phagocytosis of alveolar macrophages are unknown. This study is aimed to evaluate the beneficial effects of hydrogen gas inhalation on alveolar macrophage phagocytosis in an ovalbumin (OVA)-induced murine asthma model.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Female C57BL/6 mice were intraperitoneally sensitized with OVA before they were subject to airway challenge with aerosolized OVA. Hydrogen gas was delivered to the mice through inhalation twice a day (2 h once) for 7 consecutive days. Phagocytic function of alveolar macrophages isolated from bronchoalveolar lavage fluid was assessed by fluorescence-labeled Escherichia coli as well as flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Alveolar macrophages isolated from OVA-induced asthmatic mice showed decreased phagocytic capacity to Escherichia coli when compared with those of control mice. Defective phagocytosis in asthmatic mice was reversed by hydrogen gas inhalation. Hydrogen gas inhalation significantly alleviated OVA-induced airway hyperresponsiveness, inflammation and goblet cell hyperplasia, diminished T<sub>H</sub>2 response and decreased IL-4 as well as IgE levels, reduced malondialdehyde (MDA) production and increased superoxide dismutase (SOD) activity. Concomitantly, hydrogen gas inhalation inhibited NF-κB activation and markedly activated Nrf2 pathway in OVA-induced asthmatic mice.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our findings demonstrated that hydrogen gas inhalation enhanced alveolar macrophage phagocytosis in OVA-induced asthmatic mice, which may be associated with the antioxidant effects of hydrogen gas and the activation of the Nrf2 pathway.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Peikai</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Clinical Immunology, Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China; Department of Respiratory Medicine, Huizhou Municipal Central Hospital, Huizhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Shushan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Clinical Immunology, Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Weihua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Clinical Immunology, Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Penghui</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Clinical Immunology, Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Shuyu</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Second Affiliated Hospital of Guangzhou Medical University, The State Key Laboratory of Respiratory Disease, Guangdong Provincial Key Laboratory of Allergy &amp; Clinical Immunology, Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tao</LastName>
+                    <ForeName>Ailin</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Second Affiliated Hospital of Guangzhou Medical University, The State Key Laboratory of Respiratory Disease, Guangdong Provincial Key Laboratory of Allergy &amp; Clinical Immunology, Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hongyu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Firestone Institute for Respiratory Health, The Research Institute of St. Joe's Hamilton, St. Joseph's Healthcare; Division of Respirology, Department of Medicine, McMaster University, Hamilton, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Zhenyu</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Respiratory Diseases, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Rongchang</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Respiratory Diseases, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Second Affiliated Hospital of Guangzhou Medical University, The State Key Laboratory of Respiratory Disease, Guangdong Provincial Key Laboratory of Allergy &amp; Clinical Immunology, Guangzhou Medical University, Guangzhou, China. Electronic address: jieyan@gzhmu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Qingling</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Clinical Immunology, Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China. Electronic address: zqling68@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Immunopharmacol</MedlineTA>
+            <NlmUniqueID>100965259</NlmUniqueID>
+            <ISSNLinking>1567-5769</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alveolar macrophage</Keyword>
+            <Keyword MajorTopicYN="N">Antioxidant</Keyword>
+            <Keyword MajorTopicYN="N">Asthma</Keyword>
+            <Keyword MajorTopicYN="N">Hydrogen gas</Keyword>
+            <Keyword MajorTopicYN="N">Phagocytosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200337</ArticleId>
+            <ArticleId IdType="pii">S1567-5769(18)31363-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.intimp.2019.05.031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

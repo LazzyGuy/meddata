@@ -1,0 +1,211 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199666</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-4970</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of respiratory and critical care medicine</Title>
+                <ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The S52F FOXF1 Mutation Inhibits STAT3 Signaling and Causes Alveolar Capillary Dysplasia.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1164/rccm.201810-1897OC</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Alveolar Capillary Dysplasia with Misalignment of Pulmonary Veins (ACDMPV) is a lethal congenital disorder causing respiratory failure and pulmonary hypertension shortly after birth. There are no effective treatments for ACDMPV other than lung transplant, and new therapeutic approaches are urgently needed. While ACDMPV is linked to mutations in the FOXF1 gene, molecular mechanisms through which FOXF1 mutations cause ACDMPV are unknown.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Identify molecular mechanisms by which S52F FOXF1 mutations cause ACDMPV.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We generated a clinically relevant mouse model of ACDMPV by introducing the S52F FOXF1 mutation into the mouse Foxf1 gene locus using CRISPR/Cas9 technology. Immunohistochemistry, whole lung imaging and biochemical methods were used to examine vasculature in Foxf1WT/S52F lungs and identify molecular mechanisms regulated by FOXF1.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">FOXF1 mutations were identified in 28 subjects with ACDMPV. Foxf1WT/S52F knock-in mice recapitulated histopathological findings in ACDMPV infants. The S52F FOXF1 mutation disrupted STAT3-FOXF1 protein-protein interactions and inhibited transcription of Stat3, a critical transcriptional regulator of angiogenesis. STAT3 signaling and endothelial proliferation were reduced in Foxf1WT/S52F mice and human ACDMPV lungs. S52F FOXF1 mutant protein did not bind chromatin and was transcriptionally inactive. Furthermore, we have developed a novel formulation of highly-efficient nanoparticles and demonstrated that nanoparticle delivery of STAT3 cDNA into the neonatal circulation restored endothelial proliferation and stimulated lung angiogenesis in Foxf1WT/S52F mice.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">FOXF1 acts through STAT3 to stimulate neonatal lung angiogenesis. Nanoparticle delivery of STAT3 is a promising strategy to treat ACDMPV associated with decreased STAT3 signaling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pradhan</LastName>
+                    <ForeName>Arun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunn</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ustiyan</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CCHMC, Pulmonary Biology, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolte</LastName>
+                    <ForeName>Craig</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Guolun</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whitsett</LastName>
+                    <ForeName>Jeffrey A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Perinatal Institute and Section of Neonatology, Perinatal and Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yufang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Porollo</LastName>
+                    <ForeName>Alexey</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Yueh-Chiang</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Baylor College of Medicine, 3989, Houston, Texas, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szafranski</LastName>
+                    <ForeName>Przemyslaw</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Baylor College of Medicine, Dept of Molecular &amp; Human Genetics, Houston , Texas, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Donglu</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Cincinnati Medical Center, 24267, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stankiewicz</LastName>
+                    <ForeName>Paweł</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Baylor College of Medicine, Department of Molecular &amp; Human Genetics, Houston , Texas, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalin</LastName>
+                    <ForeName>Tanya V</ForeName>
+                    <Initials>TV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, 2518, Cincinnati, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalinichenko</LastName>
+                    <ForeName>Vladimir V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, Pediatrics, Division of Pulmonary Biology, Cincinnati, Ohio, United States ; vladimir.kalinichenko@cchmc.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+            <NlmUniqueID>9421642</NlmUniqueID>
+            <ISSNLinking>1073-449X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACDMPV</Keyword>
+            <Keyword MajorTopicYN="N">Alveolar Capillary Dysplasia with Misalignment of Pulmonary Veins</Keyword>
+            <Keyword MajorTopicYN="N">FOXF1 Transcription Factor</Keyword>
+            <Keyword MajorTopicYN="N">Neonatal Pulmonary Angiogenesis</Keyword>
+            <Keyword MajorTopicYN="N">STAT3</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199666</ArticleId>
+            <ArticleId IdType="doi">10.1164/rccm.201810-1897OC</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

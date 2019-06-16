@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200245</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-376X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1124</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+                <ISOAbbreviation>J. Chromatogr. B Analyt. Technol. Biomed. Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Innovative HPTLC method for simultaneous determination of ternary mixture of certain DMARDs in real samples of rheumatoid arthritis patients: an application of quality by design approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>135-145</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1570-0232(18)31550-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jchromb.2019.05.038</ELocationID>
+            <Abstract>
+                <AbstractText>A uniquely developed high performance thin-layer chromatographic (HPTLC) method coupled with UV detection was applied using quality by design approach (QbD) for simultaneous determination of methotrexate (MTX), sulfasalazine (SSZ) and hydroxychloroquine (HCQ) in serum and urine samples of rheumatoid arthritis patients. MTX, SSZ with HCQ are the most common disease-modifying antirheumatic drugs (DMARDs) combination used for the treatment of rheumatoid arthritis. This ternary mixture with montelukast (MK) added as internal standard, were separated by using a mixture of ethyl acetate: methanol: 25% ammonia, (8: 2: 3, v/v/v) as a mobile phase system. The separation was achieved on HPTLC precoated silica gel plate 60 F<sub>254</sub> and the detection was carried out at 306 nm for MTX and at 340 nm for both SSZ and HCQ. The design was planned to obtain the most optimum retardation factors (R<sub>f</sub>) with best resolution. The R<sub>f</sub> values for MTX, SSZ, MK and HCQ were of 0.31 ± 0.03, 0.62 ± 0.02, 0.71 ± 0.02 and 0.83 ± 0.03; respectively. The interactive response optimizer achieved the most favorable conditions with acceptable composite desirability of 0.9703. Linear relationship with good correlation coefficients (r = 0.9990-0.9994) were also obtained with detection and quantification limits of 13.94-260.64 and 46.84-1810.01(ng/ml); respectively. The suggested method was established in accordance with the guidelines of Food and Drug Administration (FDA). The established QbD-HPTLC method achieved simple, sensitive and selective quantification of the studied drugs in serum and urine samples in the presence of their metabolites with no interferences. This method can be extended effectively for therapeutic drug monitoring and pharmacokinetics studies of these drugs.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Koussi</LastName>
+                    <ForeName>Wesam M</ForeName>
+                    <Initials>WM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Sohag University, Sohag 82524, Egypt. Electronic address: wesamelkosi@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atia</LastName>
+                    <ForeName>Noha N</ForeName>
+                    <Initials>NN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Assiut University, Assiut 71526, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saleh</LastName>
+                    <ForeName>Gamal A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Assiut University, Assiut 71526, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammam</LastName>
+                    <ForeName>Nevin</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Medicine, Rheumatology and Rehabilitation, Faculty of Medicine, Assiut University, Assiut 71526, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+            <NlmUniqueID>101139554</NlmUniqueID>
+            <ISSNLinking>1570-0232</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HPTLC</Keyword>
+            <Keyword MajorTopicYN="N">Hydroxychloroquine</Keyword>
+            <Keyword MajorTopicYN="N">Methotrexate</Keyword>
+            <Keyword MajorTopicYN="N">Quality by design</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Sulfasalazine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200245</ArticleId>
+            <ArticleId IdType="pii">S1570-0232(18)31550-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jchromb.2019.05.038</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

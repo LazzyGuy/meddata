@@ -1,0 +1,112 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199702</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-7600</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medicinal food</Title>
+                <ISOAbbreviation>J Med Food</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><i>In Vitro</i> Anticollagenase and Antielastase Activities of Essential Oil of <i>Helichrysum italicum</i> subsp. <i>italicum</i> (Roth) G. Don.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/jmf.2019.0054</ELocationID>
+            <Abstract>
+                <AbstractText>The chemical composition of the essential oil of flowering aerial parts of <i>Helichrysum italicum</i> subsp. <i>italicum</i> cultivated in central Italy, Marche region, was analyzed by means of gas chromatography-mass spectrometry. Seventy-eight components, accounting for 98.71% of the whole essential oil composition, were identified and quantified. Neryl acetate showed the largest relative abundance in the composition, accounting for 15.75% of the oil, followed by <i>α</i>-pinene (8.21%); 4,6,9-trimethyl-8-decene-3,5-dione, (Italidione I), (7.34%); <i>ar</i>-curcumene and <i>β</i>-selinene (5.37%); <i>γ</i>-curcumene (4.83%); nerol (4.75%); <i>α</i>-selinene (4.68%); limonene (4.55%); linalool (4.42%), and 2,4,6,9-tetramethyl-8-decene-3,5-dione (Italidione II), (4.26%). The oil inhibited <i>in vitro</i> collagenase and elastase activities, with IC<sub>50</sub> values of 36.99 ± 1.52 and 135.43 ± 6.32 <i>μ</i>g/mL, respectively. Neryl acetate, nerol, and linalool, distinctive compounds of the oil obtained from this plant, tested alone or in mixture, at the same percentages shown in the essential oil, exhibited no activity against the two enzymes. On the contrary, <i>α</i>-pinene and limonene, tested alone and in mixture, showed inhibitory activity on both collagenase and elastase.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fraternale</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Biomolecular Sciences, Plant Biology Section, University of Urbino Carlo Bo, Urbino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flamini</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Pharmacy, University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ascrizzi</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Pharmacy, University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Food</MedlineTA>
+            <NlmUniqueID>9812512</NlmUniqueID>
+            <ISSNLinking>1096-620X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GC–MS</Keyword>
+            <Keyword MajorTopicYN="N">Helichrysum italicum  italicum</Keyword>
+            <Keyword MajorTopicYN="N">antiaging activity</Keyword>
+            <Keyword MajorTopicYN="N">collagenase inhibition</Keyword>
+            <Keyword MajorTopicYN="N">elastase inhibition</Keyword>
+            <Keyword MajorTopicYN="N">essential oil</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199702</ArticleId>
+            <ArticleId IdType="doi">10.1089/jmf.2019.0054</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,210 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200029</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1876-2867</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Academic pediatrics</Title>
+                <ISOAbbreviation>Acad Pediatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Funding Sources and Perceived Financial Insecurity in Pediatric Subspecialty Fellowship Programs.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1876-2859(19)30293-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.acap.2019.06.006</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Shortages of pediatric subspecialists exist in many fields with insufficient recruitment of new fellows. The current system of funding graduate medical education is inadequate. We examined funding sources for trainee salary and educational expenses in pediatric fellowship programs, effects of funding constraints and program characteristics associated with financial insecurity as reported by fellowship program directors (FPD).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a national survey of FPD between November 1, 2016 and February 9, 2017. We used multivariable logistic regression to examine the association between perceived financial insecurity, program characteristics and funding sources for fellow salary.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We obtained data from 519 FPD, representing 14 different pediatric subspecialties. FPD reported that funding limitations restricted program size and educational resources in 22% and 36% of programs, respectively. Nineteen percent of FPD perceived funding of their program to be insecure. Programs with 7 or more fellows (OR 0.50 [95% CI 0.27-0.90], p =0.03) or hospital or GME/CHGME funding (OR 0.58 [95% CI 0.35-0.96], p=0.04) were less likely to be perceived as insecure. Conversely, programs with extramural (OR 1.74 [95% CI 1.07-2.81], p=0.03) or division funding (OR 1.70 [95% CI 1.02-2.82], p=0.04) or in subspecialties with more than 25% unfilled positions or programs (OR 1.86 [95% CI 1.11-3.09], p=0.02) were more likely to be perceived as insecure.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Perceived financial insecurity of fellowship programs was strongly associated with program size, funding source and unfilled positions, limiting recruitment and resources. Stable funding of fellowship programs is critical to maintain an adequate pediatric subspecialty workforce.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>Pnina</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yale University School of Medicine, 333 Cedar Street, New Haven, Connecticut, 06520. Electronic address: pnina.weiss@yale.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myers</LastName>
+                    <ForeName>Angela L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Mercy Kansas City, 2401 Gillham Rd, Kansas City, Missouri, 64108. Electronic address: amyers@cmh.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGann</LastName>
+                    <ForeName>Kathleen A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Duke University Medical Center, Box 2808, Durham, North Carolina, 27710. Electronic address: kathleen.mcgann@duke.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mason</LastName>
+                    <ForeName>Katherine E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Warren Alpert Medical School at Brown University, Potter 115, Providence, Rhode Island, 02912. Electronic address: katherine.mason@lifespan.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kesselheim</LastName>
+                    <ForeName>Jennifer C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard Medical School, 450 Brookline Avenue, Dana 1107, Boston, Massachusetts, 02215. Electronic address: jennifer.kesselheim@childrens.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleming</LastName>
+                    <ForeName>Geoffrey</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vanderbilt University School of Medicine, 5112 DOT, 2200 Children's Way, Nashville, Tennessee, 37232. Electronic address: geoffrey.fleming@vanderbilt.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barron</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Warren Alpert Medical School at Brown University, Potter 115, Providence, Rhode Island, 02912. Electronic address: cbarron1@lifespan.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klasner</LastName>
+                    <ForeName>Ann</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Alabama at Birmingham, Birmingham, 1600 7th Ave South, Alabama, 35233. Electronic address: aklasner@peds.uab.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heyman</LastName>
+                    <ForeName>Melvin B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California at San Francisco, 550- 16th St, San Francisco, California, 94158. Electronic address: mel.heyman@ucsf.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>Doria L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Michigan, Ann Arbor, Michigan, 48104. Electronic address: dlweiss@umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauer</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York, 402 East 67th St, New York, 10065. Electronic address: elm2035@med.cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerber</LastName>
+                    <ForeName>Linda M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, 402 East 67th St, New York, New York, 10065. Electronic address: lig2002@med.cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abramson</LastName>
+                    <ForeName>Erika L</ForeName>
+                    <Initials>EL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, 525 E68th St, New York, New York, 10065. Electronic address: err9009@med.cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Acad Pediatr</MedlineTA>
+            <NlmUniqueID>101499145</NlmUniqueID>
+            <ISSNLinking>1876-2859</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Pediatric fellowships</Keyword>
+            <Keyword MajorTopicYN="N">funding</Keyword>
+            <Keyword MajorTopicYN="N">graduate medical education funding</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200029</ArticleId>
+            <ArticleId IdType="pii">S1876-2859(19)30293-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.acap.2019.06.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,187 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199782</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-4589</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Aging</Title>
+                <ISOAbbreviation>Aging (Albany NY)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nectandrin B-mediated activation of the AMPK pathway prevents cellular senescence in human diploid fibroblasts by reducing intracellular ROS levels.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/aging.102013</ELocationID>
+            <Abstract>
+                <AbstractText>Nectandrin B (NecB) is a bioactive lignan compound isolated from <i>Myristica fragrans</i> (nutmeg), which functions as an activator of AMP-activated protein kinase (AMPK). Because we recently found that treatment with NecB increased the cell viability of old human diploid fibroblasts (HDFs), the underlying molecular mechanism was investigated. NecB treatment in old HDFs reduced the activity staining of senescence-associated β-galactosidase and the levels of senescence markers, such as the Ser<sup>15</sup> phosphorylated p53, caveolin-1, p21<sup>waf1</sup>, p16<sup>ink4a</sup>, p27<sup>kip1</sup>, and cyclin D1. NecB treatment increased that in S phase, indicating a enhancement of cell cycle entry. Interestingly, NecB treatment ameliorated age-dependent activation of AMPK in old HDFs. Moreover, NecB reversed the age-dependent expression and/or activity changes of certain sirtuins (SIRT1-5), and cell survival/death-related proteins. The transcriptional activity of Yin-Yang 1 and the expression of downstream proteins were elevated in NecB-treated old HDFs. In addition, NecB treatment exerted a radical scavenging effect <i>in vitro</i>, reduced cellular ROS levels, and increased antioxidant enzymes in old HDFs. Moreover, NecB-mediated activation of the AMPK pathway reduced intracellular ROS levels. These results suggest that NecB-induced protection against cellular senescence is mediated by ROS-scavenging through activation of AMPK. NecB might be useful in ameliorating age-related diseases and extending human lifespan.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Jang</LastName>
+                    <ForeName>Hyun-Jin</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drug &amp; Disease Target Group, Division of Bioconvergence Analysis, Korea Basic Science Institute, Daejeon 305-333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Sungkyunkwan University, Suwon 16419, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Kyeong Eun</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drug &amp; Disease Target Group, Division of Bioconvergence Analysis, Korea Basic Science Institute, Daejeon 305-333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Won Keun</ForeName>
+                    <Initials>WK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Korea Bioactive Natural Material Bank, College of Pharmacy, Seoul National University, Seoul 08826, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Song-I</ForeName>
+                    <Initials>SI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences and Technology, GAIHST, Gachon University, Incheon 21999, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>In-Hu</ForeName>
+                    <Initials>IH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroscience Research Institute, Korea University College of Medicine, Seoul 136-705, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ban</LastName>
+                    <ForeName>Kyung-Tae</ForeName>
+                    <Initials>KT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>East-West Cancer Center, Daejeon University, Daejeon, 302-120, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoo</LastName>
+                    <ForeName>Hwa-Seung</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>East-West Cancer Center, Daejeon University, Daejeon, 302-120, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Jong-Soon</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drug &amp; Disease Target Group, Division of Bioconvergence Analysis, Korea Basic Science Institute, Daejeon 305-333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeo</LastName>
+                    <ForeName>Eui-Ju</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences and Technology, GAIHST, Gachon University, Incheon 21999, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, College of Medicine, Gachon University, Incheon 21999, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jang</LastName>
+                    <ForeName>Ik-Soon</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Drug &amp; Disease Target Group, Division of Bioconvergence Analysis, Korea Basic Science Institute, Daejeon 305-333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Analytical Science, University of Science and Technology, Daejeon 34113, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Aging (Albany NY)</MedlineTA>
+            <NlmUniqueID>101508617</NlmUniqueID>
+            <ISSNLinking>1945-4589</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AMP-activated protein kinase</Keyword>
+            <Keyword MajorTopicYN="N">Nectandrin B</Keyword>
+            <Keyword MajorTopicYN="N">cellular senescence</Keyword>
+            <Keyword MajorTopicYN="N">human diploid fibroblasts</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199782</ArticleId>
+            <ArticleId IdType="pii">102013</ArticleId>
+            <ArticleId IdType="doi">10.18632/aging.102013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

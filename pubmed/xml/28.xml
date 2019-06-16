@@ -1,0 +1,102 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200396</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2567-6911</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary and comparative orthopaedics and traumatology : V.C.O.T</Title>
+                <ISOAbbreviation>Vet Comp Orthop Traumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Articulated Joint Distraction in a Cadaveric Model of the Canine Elbow.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0039-1691819</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE"> The aim of this study was to determine if articulated joint distraction in the canine elbow can effectively maintain a distraction gap between the articular surfaces of the canine elbow under a weight-bearing load.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS"> An articulated external skeletal fixator with turnbuckles was applied to seven canine cadaveric elbow specimens. Specimens were potted and mechanically tested at 135° of flexion, while joint contact pressure was recorded at three locations within the elbow. Joint distraction was sequentially increased, and loads of 5 N, 90 N and 180 N were incrementally applied. This process was repeated until no pressure was recorded at each of the three locations within the elbow under 180 N of applied load.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS"> To achieve 0 N of joint contact force with 180 N of axial load, the average amount of distraction needed was 2.3 ± 0.71 mm (range, 1.8-3.6 mm) at the distal turnbuckles and 1.67 ± 1.10 mm (range, 1.8-2.7 mm) at the proximal turnbuckles.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS"> Results suggest that joint distraction can effectively decrease articular pressure within the canine elbow joint. A maximum of 3.6 mm of distraction between the fixator turnbuckles was necessary to eliminate joint contact for the construct tested. Clinical investigation is necessary to establish if articulated elbow joint distraction is a safe and effective for the treatment of canine elbow osteoarthritis.</AbstractText>
+                <CopyrightInformation>Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Garofolo</LastName>
+                    <ForeName>Stephen Q</ForeName>
+                    <Initials>SQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, University of Minnesota College of Veterinary Medicine, Saint Paul, MN, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Conzemius</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                    <Identifier Source="ORCID">0000-0001-6513-1413</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, University of Minnesota College of Veterinary Medicine, Saint Paul, MN, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Vet Comp Orthop Traumatol</MedlineTA>
+            <NlmUniqueID>8906319</NlmUniqueID>
+            <ISSNLinking>0932-0814</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200396</ArticleId>
+            <ArticleId IdType="doi">10.1055/s-0039-1691819</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

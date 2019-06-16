@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200411</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-2084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia laboratornaia diagnostika</Title>
+                <ISOAbbreviation>Klin. Lab. Diagn.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The results of the diagnosis of giardiasis in children with the use of the method of microscopy, enzyme immunoassay, polymerase chain reaction.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>376-379</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18821/0869-2084-2019-64-6-376-379</ELocationID>
+            <Abstract>
+                <AbstractText>Giardiasis in children remains an urgent problem, the importance of which is determined by the endemicity for many countries and regions, polymorphism of the clinic, which causes difficulties in clinical diagnosis of this pathology. The report presents the results of the diagnostic significance of methods of laboratory diagnostics giardiase: microscopy of native and stained with Lugol solution preparation fecal enzyme-linked immunoassay (ELISA) for the presence of antibodies of class IgM and IgG antibodies to the antigens of Giardia in the serum and antigen of G. Lamblia in feces, polymerase chain reaction (PCR) - detection of Giardia DNA in feces obtained during the examination of 160 patients with giardiasis children aged 3 to 14 years. The results of our study suggest that the most informative methods of diagnosis of giardiasis in children is coproscopy (specificity - 96.2%, sensitivity - 98.1%), PCR coprofiltrate. (specificity - 85%, sensitivity 82.5%), determination of antigen in feces by ELISA (specificity - 87,5%, sensitivity - 60%). With high specificity of the blood ELISA method (90%), the sensitivity of the method is only 27.5%. It should be recognized that the «gold standard» diagnosis of giardiasis remains microscopy of native and stained with a solution of Lugol preparation of feces with a three - time study at intervals of 2-3 days.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kimirilova</LastName>
+                    <ForeName>O G</ForeName>
+                    <Initials>OG</Initials>
+                    <Identifier Source="ORCID">0000-0003-4066-2431</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Astrakhan State Medical University, 414000, Astrakhan, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kharchenko</LastName>
+                    <ForeName>G A</ForeName>
+                    <Initials>GA</Initials>
+                    <Identifier Source="ORCID">0000-0001-7764-0995</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Astrakhan State Medical University, 414000, Astrakhan, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Lab Diagn</MedlineTA>
+            <NlmUniqueID>9432021</NlmUniqueID>
+            <ISSNLinking>0869-2084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">EFA</Keyword>
+            <Keyword MajorTopicYN="N">PCR of feces</Keyword>
+            <Keyword MajorTopicYN="N">blood</Keyword>
+            <Keyword MajorTopicYN="N">children</Keyword>
+            <Keyword MajorTopicYN="N">giardias</Keyword>
+            <Keyword MajorTopicYN="N">microscopy of feces</Keyword>
+            <Keyword MajorTopicYN="N">stool EFA</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200411</ArticleId>
+            <ArticleId IdType="doi">10.18821/0869-2084-2019-64-6-376-379</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

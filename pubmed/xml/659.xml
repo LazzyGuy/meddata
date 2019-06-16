@@ -1,0 +1,103 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199706</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2202</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current eye research</Title>
+                <ISOAbbreviation>Curr. Eye Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-30a regulates S100A12-induced retinal microglial activation and inflammation by targeting NLRP3.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/02713683.2019.1632350</ELocationID>
+            <Abstract>
+                <AbstractText><b>Purpose</b>: Our previous study has identified that plasma levels of S100A12 are closely associated with presence and severity of diabetic retinopathy (DR). In this work, we explored whether S100A12 can contribute to retinal microglial activation and inflammatory changes of DR via a microRNA-dependent mechanism. <b>Material and Methods</b>: Streptozotocin (STZ)-induced DR model was developed. Retinal microglia of rats was activated through intravitreal injection of S100A12. Differential expression of miRNAs on retinal microglia treated with S100A12 or DMEM/F-12 alone was determined using microarray analysis. Luciferase reporter assays were performed, which explored the regulation of a putative target of miR-30a. <b>Results</b>: S100A12 was increased approximately fivefold in the retina of 16-week diabetic rats compared with nondiabetic retinas. Furthermore, the levels of NLRP3, ASC, caspase-1, IL-1β, and IL-18 were significant increased in the retina of rats treated with intravitreal injection of S100A12. Moreover, S100A12 induced an increase expression of NLRP3, ASC, caspase-1, IL-1β, and IL-18 in a dose- and time-dependent manner in retinal microglia. S100A12 was a proinflammatory trigger in diabetes-induced retinal microglial activation by activating NLRP3 in vivo and in vitro. In addition, S100A12 induced retinal microglial activation via a miR-30a-dependent mechanism. Mechanistically, S100A12 inhibited miR-30a expression, which was controlled by HDAC, and miR-30a downregulated NLRP3 expression by directly targeting its 3'-UTR. <b>Conclusions</b>: S100A12 plays an important role in the pathogenesis of DR by activating retinal microglia via a miR-30a-dependent mechanism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Ning</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Ophthalmology , Beijing Friendship Hospital, Capital Medical University , Beijing , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yanling</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Ophthalmology , Beijing Friendship Hospital, Capital Medical University , Beijing , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Eye Res</MedlineTA>
+            <NlmUniqueID>8104312</NlmUniqueID>
+            <ISSNLinking>0271-3683</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Diabetic retinopathy</Keyword>
+            <Keyword MajorTopicYN="N">NLRP3</Keyword>
+            <Keyword MajorTopicYN="N">S100A12</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">microRNA</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199706</ArticleId>
+            <ArticleId IdType="doi">10.1080/02713683.2019.1632350</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198259</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative Evaluation of Dexamethasone and Dexmedetomidine as Adjuvants for Bupivacaine in Ultrasound-Guided Infraorbital Nerve Block for Cleft Lip Repair: A Prospective, Randomized, Double-Blind Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>354-358</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_14_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">To compare dexamethasone (DA) to dexmedetomidine (DE) as adjuvants for bupivacaine during infraorbital nerve block (IONB) in a randomized clinical trial.</AbstractText>
+                <AbstractText Label="Patients and Methods" NlmCategory="UNASSIGNED">One hundred patients were randomized into two equal groups. By the guidance of ultrasound, the IONB was performed bilaterally in all patients, using 1 mL of the solution on each side. In DA group, 1 mL of 0.5% bupivacaine was added to 0.1 mg.kg-1 DA and diluted to 2 mL in DE group; 1 mL of 0.5% bupivacaine was added to 0.5 μg.kg<sup>-1</sup> DE and diluted to 2 mL. The primary outcome was time to first rescue analgesic. The secondary outcomes included face legs activity cry consolability (FLACC) score rating during the first 24 h, hemodynamic variables, the incidence of postoperative vomiting, sedation score, and parent satisfaction.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">During the first 24 h postoperatively, the DE group showed a significantly lower FLACC score and a longer time to first analgesic request compared to DA group. Sedation and parent satisfaction scores were significantly higher while heart rate and mean blood pressure were significantly lower in DE group compared to DA group. There were no differences in other secondary outcomes.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The use of DE as an adjuvant to bupivacaine in IONB for cleft lip repair resulted in lower pain score and more prolonged duration of analgesia compared to DA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Emam</LastName>
+                    <ForeName>El-Sayed M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Motlb</LastName>
+                    <ForeName>Enas A Abd</ForeName>
+                    <Initials>EAA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cleft lip repair</Keyword>
+            <Keyword MajorTopicYN="N">dexamethasone</Keyword>
+            <Keyword MajorTopicYN="N">dexmedetomidine</Keyword>
+            <Keyword MajorTopicYN="N">infraorbital nerve block</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198259</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_14_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-354</ArticleId>
+            <ArticleId IdType="pmc">PMC6545967</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

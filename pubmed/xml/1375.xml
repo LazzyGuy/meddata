@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198910</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the ... International World-Wide Web Conference. International WWW Conference</Title>
+                <ISOAbbreviation>Proc Int World Wide Web Conf</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Distributed Tensor Decomposition for Large Scale Health Analytics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>659-669</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1145/3308558.3313548</ELocationID>
+            <Abstract>
+                <AbstractText>In the past few decades, there has been rapid growth in quantity and variety of healthcare data. These large sets of data are usually high dimensional (e.g. patients, their diagnoses, and medications to treat their diagnoses) and cannot be adequately represented as matrices. Thus, many existing algorithms can not analyze them. To accommodate these high dimensional data, tensor factorization, which can be viewed as a higher-order extension of methods like PCA, has attracted much attention and emerged as a promising solution. However, tensor factorization is a computationally expensive task, and existing methods developed to factor large tensors are not flexible enough for real-world situations. To address this scaling problem more efficiently, we introduce SGranite, a distributed, scalable, and sparse tensor factorization method fit through stochastic gradient descent. SGranite offers three contributions: (1) Scalability: it employs a block partitioning and parallel processing design and thus scales to large tensors, (2) Accuracy: we show that our method can achieve results faster without sacrificing the quality of the tensor decomposition, and (3) FlexibleConstraints: we show our approach can encompass various kinds of constraints including l2 norm, l1 norm, and logistic regularization. We demonstrate SGranite's capabilities in two real-world use cases. In the first, we use Google searches for flu-like symptoms to characterize and predict influenza patterns. In the second, we use SGranite to extract clinically interesting sets (i.e., phenotypes) of patients from electronic health records. Through these case studies, we show SGranite has the potential to be used to rapidly characterize, predict, and manage a large multimodal datasets, thereby promising a novel, data-driven solution that can benefit very large segments of the population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Huan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henderson</LastName>
+                    <ForeName>Jette</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CognitiveScale, Austin, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ho</LastName>
+                    <ForeName>Joyce C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Proc Int World Wide Web Conf</MedlineTA>
+            <NlmUniqueID>101649720</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apache Spark</Keyword>
+            <Keyword MajorTopicYN="N">Distributed Algorithm</Keyword>
+            <Keyword MajorTopicYN="N">Health Analytics</Keyword>
+            <Keyword MajorTopicYN="N">Tensor Decomposition</Keyword>
+            <Keyword MajorTopicYN="N">User-Generated Content</Keyword>
+            <Keyword MajorTopicYN="N">Web Mining</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198910</ArticleId>
+            <ArticleId IdType="doi">10.1145/3308558.3313548</ArticleId>
+            <ArticleId IdType="pmc">PMC6563812</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+

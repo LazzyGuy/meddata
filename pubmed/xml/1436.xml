@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198831</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-3409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Data in brief</Title>
+                <ISOAbbreviation>Data Brief</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>mRNA expression data in breast cancers before and after consumption of walnut by women.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104050</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dib.2019.104050</ELocationID>
+            <Abstract>
+                <AbstractText>This article contains supporting data for the research paper entitled: <i>'</i>Dietary walnut altered gene expressions related to tumor growth, survival, and metastasis in breast cancer patients: a pilot clinical trial' [1] Hardman et al., 2019. Included are tables for all mapped genes and all unmapped loci identifications that were significantly changed in breast cancers by consumption of walnut for about 2 weeks. All gene networks that were identified by Ingenuity Pathway Analyses as modified are shown in table 3. Files containing the raw reads, along with a shell script describing the complete data analysis pipeline, were deposited to the Gene Expression Omnibus (GEO) at the National Center for Biotechnology Information (NCBI) and can be obtained via accession number GSE111073. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111073.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Elaine Hardman</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joan C. Edwards School of Medicine, Marshall University, Department of Biomedical Sciences, 1600 Medical Center Dr., Huntington, WV, 25701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Primerano</LastName>
+                    <ForeName>Donald A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joan C. Edwards School of Medicine, Marshall University, Department of Biomedical Sciences, 1600 Medical Center Dr., Huntington, WV, 25701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Legenza</LastName>
+                    <ForeName>Mary T</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edwards Comprehensive Cancer Center, 1400 Hal Greer Drive, Huntington, WV, 25701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>St. Mary's Cancer Center, 2900 1st Avenue, Huntington, WV, 25702, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joan C. Edwards School of Medicine, Marshall University, Department of Biomedical Sciences, 1600 Medical Center Dr., Huntington, WV, 25701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Denvir</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joan C. Edwards School of Medicine, Marshall University, Department of Biomedical Sciences, 1600 Medical Center Dr., Huntington, WV, 25701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Data Brief</MedlineTA>
+            <NlmUniqueID>101654995</NlmUniqueID>
+            <ISSNLinking>2352-3409</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">Walnut consumption</Keyword>
+            <Keyword MajorTopicYN="N">mRNA expression</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198831</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dib.2019.104050</ArticleId>
+            <ArticleId IdType="pii">S2352-3409(19)30403-2</ArticleId>
+            <ArticleId IdType="pii">104050</ArticleId>
+            <ArticleId IdType="pmc">PMC6557731</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

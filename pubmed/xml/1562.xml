@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198649</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessing the performance of a suite of machine learning models for daily river water temperature prediction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7065</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7065</ELocationID>
+            <Abstract>
+                <AbstractText>In this study, different versions of feedforward neural network (FFNN), Gaussian process regression (GPR), and decision tree (DT) models were developed to estimate daily river water temperature using air temperature (<i>T<sub>a</sub></i> ), flow discharge (<i>Q</i>), and the day of year (<i>DOY</i>) as predictors. The proposed models were assessed using observed data from eight river stations, and modelling results were compared with the air2stream model. Model performances were evaluated using four indicators in this study: the coefficient of correlation (R), the Willmott index of agreement (d), the root mean squared error (RMSE), and the mean absolute error (MAE). Results indicated that the three machine learning models had similar performance when only <i>T<sub>a</sub></i> was used as the predictor. When the day of year was included as model input, the performances of the three machine learning models dramatically improved. Including flow discharge instead of day of year, as an additional predictor, provided a lower gain in model accuracy, thereby showing the relatively minor role of flow discharge in river water temperature prediction. However, an increase in the relative importance of flow discharge was noticed for stations with high altitude catchments (Rhône, Dischmabach and Cedar) which are influenced by cold water releases from hydropower or snow melting, suggesting the dependence of the role of flow discharge on the hydrological characteristics of such rivers. The air2stream model outperformed the three machine learning models for most of the studied rivers except for the cases where including flow discharge as a predictor provided the highest benefits. The DT model outperformed the FFNN and GPR models in the calibration phase, however in the validation phase, its performance slightly decreased. In general, the FFNN model performed slightly better than GPR model. In summary, the overall modelling results showed that the three machine learning models performed well for river water temperature modelling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Senlin</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering, Nanjing Hydraulic Research Institute, Nanjing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyarko</LastName>
+                    <ForeName>Emmanuel Karlo</ForeName>
+                    <Initials>EK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Electrical Engineering, Computer Science and Information Technology Osijek, University J.J. Strossmayer in Osijek, Osijek, Croatia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadzima-Nyarko</LastName>
+                    <ForeName>Marijana</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Civil Engineering Osijek, University J.J. Strossmayer in Osijek, Osijek, Croatia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heddam</LastName>
+                    <ForeName>Salim</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Science, Agronomy Department, Hydraulics Division, Laboratory of Research in Biodiversity Interaction Ecosystem and Biotechnology, University 20 Août 1955, Skikda, Algeria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Shiqiang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering, Nanjing Hydraulic Research Institute, Nanjing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Air temperature</Keyword>
+            <Keyword MajorTopicYN="N">Artificial neural network</Keyword>
+            <Keyword MajorTopicYN="N">Decision tree</Keyword>
+            <Keyword MajorTopicYN="N">Flow discharge</Keyword>
+            <Keyword MajorTopicYN="N">Gaussian process regression</Keyword>
+            <Keyword MajorTopicYN="N">River water temperature</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198649</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7065</ArticleId>
+            <ArticleId IdType="pii">7065</ArticleId>
+            <ArticleId IdType="pmc">PMC6555394</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199635</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5118</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of agricultural and food chemistry</Title>
+                <ISOAbbreviation>J. Agric. Food Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of phospholipid-tocopherol combinations and enzyme modified lecithin on the oxidative stability of bulk oil.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jafc.9b02520</ELocationID>
+            <Abstract>
+                <AbstractText>Phosphatidylethanolamine (PE) and phosphatidylserine (PS) have been shown to increase the antioxidant activity of α-tocopherol. This study investigated the ability of PE or PS to increase the antioxidant activity of different tocopherols homologs in bulk oil. In addition, the ability of a phospholipase D modified lecithin (high in PE) to increase the activity of α-tocopherol was determined. Results showed that PE was much more effective than PS at increasing the activity of the tocopherol homologs. The combination of mixed tocopherols with PE presented the greatest increase in antioxidant activity with hydroperoxides and hexanal lag phases increasing 54 and 53 days compared to the mixed tocopherols alone. Phospholipase D modified lecithin increased the antioxidant activity of α-tocopherol in stripped bulk oil as well as a commercially refined oil with no added tocopherols. The study indicates that PE is a powerful tool to increase the antioxidant activity of tocopherols in bulk oil and that modification of lecithin to increase PE concentration could be a commercially viable option to functionalize lecithin so that its ability to inhibit lipid oxidation increases in bulk oils.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Na</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shanbhag</LastName>
+                    <ForeName>Anuj</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Angkuratipakorn</LastName>
+                    <ForeName>Thamonwan</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Decker</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Agric Food Chem</MedlineTA>
+            <NlmUniqueID>0374755</NlmUniqueID>
+            <ISSNLinking>0021-8561</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199635</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jafc.9b02520</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,124 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199895</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2968</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical pharmacology</Title>
+                <ISOAbbreviation>Biochem. Pharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The physiological effects of caffeine on synaptic transmission and plasticity in the mouse hippocampus selectively depend on adenosine A<sub>1</sub> and A<sub>2A</sub> receptors.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0006-2952(19)30227-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bcp.2019.06.008</ELocationID>
+            <Abstract>
+                <AbstractText>Caffeine is the most consumed psychoactive drug worldwide and its intake in moderate amounts prevents neurodegenerative disorders. However, the molecular targets of caffeine to modulate activity in brain circuits are ill-defined. By electrophysiologically recording synaptic transmission and plasticity in Schaffer fibers-CA1 pyramid synapses of mouse hippocampal slices, we characterized the impact of caffeine using a concentration reached in the brain parenchyma upon moderate caffeine consumption. Caffeine (50 µM) facilitated synaptic transmission by 40%, while decreasing paired-pulse facilitation, and also decreased by 35% the amplitude of long-term potentiation (LTP). Clearance of extracellular adenosine with adenosine deaminase (2 U/mL) blunted all the effects of caffeine on synaptic transmission and plasticity. The A<sub>1</sub>R antagonist DPCPX (100 nM) only eliminated caffeine-induced facilitation of synaptic transmission while not affecting caffeine-induced depression of LTP; conversely, the genetic (using A<sub>2A</sub>R knockout mice) or the pharmacological blockade (with SCH58261, 50 nM) of A<sub>2A</sub>R eliminated the effect of caffeine on LTP while not affecting caffeine-induced facilitation of synaptic transmission. Finally, blockade of GABA<sub>A</sub> or of ryanodine receptors with bicuculline (10 μM) or dantrolene (10 μM), respectively, did not affect the ability of caffeine to alter synaptic transmission or plasticity. These results show that the effects of caffeine on synaptic transmission and plasticity in the hippocampus are selectively mediated by antagonizing adenosine receptors, where A<sub>1</sub>R are responsible for the impact of caffeine on synaptic transmission and A<sub>2A</sub>R regulate the impact of caffeine on LTP.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lopes</LastName>
+                    <ForeName>João P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNC - Center for Neuroscience and Cell Biology, University of Coimbra, 3004-517 Coimbra, Portugal. Electronic address: jplopes@ci.uc.pt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pliássova</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNC - Center for Neuroscience and Cell Biology, University of Coimbra, 3004-517 Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunha</LastName>
+                    <ForeName>Rodrigo A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNC - Center for Neuroscience and Cell Biology, University of Coimbra, 3004-517 Coimbra, Portugal; Faculty of Medicine, University of Coimbra, 3004-504 Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Pharmacol</MedlineTA>
+            <NlmUniqueID>0101032</NlmUniqueID>
+            <ISSNLinking>0006-2952</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adenosine receptors</Keyword>
+            <Keyword MajorTopicYN="N">Caffeine</Keyword>
+            <Keyword MajorTopicYN="N">Hippocampus</Keyword>
+            <Keyword MajorTopicYN="N">Long-term potentiation</Keyword>
+            <Keyword MajorTopicYN="N">Neuromodulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199895</ArticleId>
+            <ArticleId IdType="pii">S0006-2952(19)30227-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bcp.2019.06.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199562</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1600-6143</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons</Title>
+                <ISOAbbreviation>Am. J. Transplant.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Importance of incorporating standardized, verifiable, objective metrics of OPO performance into discussions about organ allocation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ajt.15492</ELocationID>
+            <Abstract>
+                <AbstractText>Identifying and supporting specific organ procurement organizations (OPOs) with the greatest opportunity to increase donation rates could significantly increase the number of organs available for transplant. Accomplishing this is complicated by current SRTR/CMS metrics of donation rates and OPO performance that rely on eligible deaths. These data are self-reported, unverifiable, and have been shown to underestimate potential organ donors. We examine the limitations of current OPO performance/donation metrics to inform discussions related to strategies to increase donation. We propose changing to a simple, verifiable, and uniformly applied donation metric. This would allow the transplant community to: 1) better understand inherent differences in donor availability based on geography, and 2) identify underperforming areas that would benefit from systems improvement agreements to increase donation rates. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goldberg</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Biostatistics, and Informatics, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karp</LastName>
+                    <ForeName>Seth</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hepatobiliary Surgery and Liver Transplantation, Vanderbilt University Medical Center, Nashville, Tennessee.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Malay B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Transplantation, Department of Surgery, University of Kentucky Medical Center, Lexington, Kentucky.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubay</LastName>
+                    <ForeName>Derek</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Transplant Surgery, Department of Surgery, Medical University of South Carolina, Charleston, South Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lynch</LastName>
+                    <ForeName>Raymond</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Transplantation, Department of Surgery, Emory University School of Medicine, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Transplant</MedlineTA>
+            <NlmUniqueID>100968638</NlmUniqueID>
+            <ISSNLinking>1600-6135</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199562</ArticleId>
+            <ArticleId IdType="doi">10.1111/ajt.15492</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199507</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of cancer</Title>
+                <ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Temporal and Spatial Effects and Survival Outcomes Associated with Concordance between Tissue and Blood KRAS Alterations in the Pan-Cancer Setting.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/ijc.32510</ELocationID>
+            <Abstract>
+                <AbstractText>We investigated the impact of time interval, primary versus metastatic biopsy site, variant allele fraction (VAF), and histology on concordance of KRAS alterations in tissue versus circulating tumor DNA (ctDNA), and association of concordance with survival. Blood and tissue were evaluated by next-generation sequencing (NGS) in 433 patients with diverse cancers. Altogether, 101 patients (23.3%) had KRAS alterations: 56, ctDNA (12.9%); 81, tissue (18.7%); and 36, both (8.3%). The overall blood and tissue concordance rate for KRAS alterations was 85%, but was mainly driven by the large negative/negative subset. Therefore, specificity of one test for the other was high (88.1-94.3%), while sensitivity was not high (44.4-64.3%) and was lower still in patients with &gt;6 versus ≤2 months between blood and tissue sampling (31.0-40.9% versus 51.2-84.0%) (P=0.14 time interval-dependent sensitivity of blood for tissue; P=0.003, tissue for blood). Positive concordance rate for KRAS alterations was 57.1% versus 27.4% (colorectal versus non-colorectal cancer) (P=0.01), but site of biopsy (primary versus metastatic) and VAF (%ctDNA) was not impactful. The presence of KRAS alterations in both tests was independently associated with shorter survival from diagnosis (hazard ratio, 1.72; 95% confidence interval, 1.04-2.86) and from recurrent/metastatic disease (1.70; 1.03-2.81). Positive concordance of KRAS alterations between ctDNA and tissue was negatively affected by a longer time period between blood and tissue sampling and was higher in colorectal cancer than in other malignancies. The presence of KRAS alterations in both tests was an independent prognostic factor for poor survival. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mardinian</LastName>
+                    <ForeName>Kristina</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5462-700X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Personalized Cancer Therapy and Division of Hematology and Oncology, University of California San Diego Moores Cancer Center, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okamura</LastName>
+                    <ForeName>Ryosuke</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Personalized Cancer Therapy and Division of Hematology and Oncology, University of California San Diego Moores Cancer Center, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>Shumei</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-1193-1815</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Personalized Cancer Therapy and Division of Hematology and Oncology, University of California San Diego Moores Cancer Center, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurzrock</LastName>
+                    <ForeName>Razelle</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4110-1214</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Personalized Cancer Therapy and Division of Hematology and Oncology, University of California San Diego Moores Cancer Center, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Cancer</MedlineTA>
+            <NlmUniqueID>0042124</NlmUniqueID>
+            <ISSNLinking>0020-7136</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">KRAS</Keyword>
+            <Keyword MajorTopicYN="N">circulating tumor DNA</Keyword>
+            <Keyword MajorTopicYN="N">next-generation sequencing</Keyword>
+            <Keyword MajorTopicYN="N">survival</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199507</ArticleId>
+            <ArticleId IdType="doi">10.1002/ijc.32510</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

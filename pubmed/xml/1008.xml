@@ -1,0 +1,194 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199321</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2292-9495</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR human factors</Title>
+                <ISOAbbreviation>JMIR Hum Factors</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of a Clinical Interface for a Novel Newborn Resuscitation Device: Human Factors Approach to Understanding Cognitive User Requirements.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12055</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12055</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A novel medical device has been developed to address an unmet need of standardizing and facilitating heart rate recording during neonatal resuscitation. In a time-critical emergency resuscitation, where failure can mean death of an infant, it is vital that clinicians are provided with information in a timely, precise, and clear manner to capacitate appropriate decision making. This new technology provides a hands-free, wireless heart rate monitoring solution that easily fits the clinical pathway and procedure for neonatal resuscitation.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to understand the requirements of the interface design for a new device by using a human factors approach. This approach combined a traditional user-centered design approach with an applied cognitive task analysis to understand the tasks involved, the cognitive requirements, and the potential for error during a neonatal resuscitation scenario.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Fourteen clinical staff were involved in producing the final design requirements. Two pediatric doctors supported the development of a visual representation of the activities associated with neonatal resuscitation. This design was used to develop a scenario-based workshop. Two workshops were carried out in parallel and involved three pediatric doctors, three neonatal nurses, two advance neonatal practitioners, and four midwives. Both groups came together at the end to reflect on the findings from the separate sessions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The outputs of this study have provided a comprehensive description of information requirements during neonatal resuscitation and enabled product developers to understand the preferred requirements of the user interface design for the device. The study raised three key areas for the designers to consider, which had not previously been highlighted: (1) interface layout and information priority, as heart rate should be central and occupy two-thirds of the screen; (2) size and portability, to enable positioning of the product local to the baby's head and allow visibility from all angles; and (3) auditory feedback, to support visual information on heart rate rhythm and reliability of the trace with an early alert for intervention while avoiding parental distress.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study demonstrates the application of human factors and the applied cognitive task analysis method, which identified previously unidentified user requirements. This methodology provides a useful approach to aid development of the clinical interface for medical devices.</AbstractText>
+                <CopyrightInformation>©Laura Pickup, Alexandra Lang, Lara Shipley, Caroline Henry, James Carpenter, Damon McCartney, Matthew Butler, Barrie Hayes-Gill, Don Sharkey. Originally published in JMIR Human Factors (http://humanfactors.jmir.org), 08.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Pickup</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8484-3851</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>LP Human Factors Ltd, Taunton, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Lang</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7332-9443</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Trent Simulation and Clinical Skills Centre, Nottingham Universities Hospitals NHS Trust, Queen's Medical Centre, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Shipley</LastName>
+                    <ForeName>Lara</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8538-9531</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Child Health, Obstetrics and Gynaecology, School of Medicine &amp; Health Sciences, University of Nottingham, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1192-9985</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Child Health, Obstetrics and Gynaecology, School of Medicine &amp; Health Sciences, University of Nottingham, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpenter</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2544-8093</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>SurePulse Medical Limited, Medicity, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCartney</LastName>
+                    <ForeName>Damon</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8970-050X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>SurePulse Medical Limited, Medicity, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butler</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7818-217X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>SurePulse Medical Limited, Medicity, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayes-Gill</LastName>
+                    <ForeName>Barrie</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4237-7001</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Optics and Photonics Research Group, Department of Electrical and Electronic Engineering, University of Nottingham, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharkey</LastName>
+                    <ForeName>Don</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4989-8697</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Child Health, Obstetrics and Gynaecology, School of Medicine &amp; Health Sciences, University of Nottingham, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Hum Factors</MedlineTA>
+            <NlmUniqueID>101666561</NlmUniqueID>
+            <ISSNLinking>2292-9495</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">applied cognitive task analysis</Keyword>
+            <Keyword MajorTopicYN="N">human factors</Keyword>
+            <Keyword MajorTopicYN="N">medical device</Keyword>
+            <Keyword MajorTopicYN="N">neonatal resuscitation</Keyword>
+            <Keyword MajorTopicYN="N">user-centred design</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199321</ArticleId>
+            <ArticleId IdType="pii">v6i2e12055</ArticleId>
+            <ArticleId IdType="doi">10.2196/12055</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

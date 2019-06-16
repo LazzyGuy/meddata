@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200008</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental and comparative immunology</Title>
+                <ISOAbbreviation>Dev. Comp. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The case for oxidative stress molecule involvement in the tick-pathogen interactions-an omics approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103409</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0145-305X(19)30035-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dci.2019.103409</ELocationID>
+            <Abstract>
+                <AbstractText>The blood-feeding behavior of ticks has resulted in them becoming one of the most important vectors of disease-causing pathogens. Ticks possess a well-developed innate immune system to counter invading pathogens. However, the coevolution of ticks with tick-borne pathogens has adapted these pathogens to the tick's physiology and immune response through several mechanisms including transcriptional regulation. The recent development in tick and tick-borne disease research greatly involved the &quot;omics&quot; approach. The omics approach takes a look en masse at the different genes, proteins, metabolomes, and the microbiome of the ticks that could be differentiated during pathogen infection. Data from this approach revealed that oxidative stress-related molecules in ticks are differentiated and possibly being exploited by the pathogens to evade the tick's immune response. In this study, we review and discuss transcriptomic and proteomic data for some oxidative stress molecules differentially expressed during pathogen infection. We also discuss metabolomics and microbiome data as well as functional genomics in order to provide insight into the tick-pathogen interaction.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hernandez</LastName>
+                    <ForeName>Emmanuel Pacia</ForeName>
+                    <Initials>EP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Infectious Diseases, Joint Faculty of Veterinary Medicine, Kagoshima University, 1-21-24 Korimoto, Kagoshima, 890-0056, Japan; Department of Pathological and Preventive Veterinary Science, The United Graduate School of Veterinary Science, Yamaguchi University, Yoshida, Yamaguchi, 753-8515, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Talactac</LastName>
+                    <ForeName>Melbourne Rio</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Infectious Diseases, Joint Faculty of Veterinary Medicine, Kagoshima University, 1-21-24 Korimoto, Kagoshima, 890-0056, Japan; Department of Clinical and Population Health, College of Veterinary Medicine and Biomedical Sciences, Cavite State University, Cavite, 4122, Philippines.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujisaki</LastName>
+                    <ForeName>Kozo</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Agricultural and Food Research Organization, 3-1-5 Kannondai, Tsukuba, Ibaraki, 305-0856, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Infectious Diseases, Joint Faculty of Veterinary Medicine, Kagoshima University, 1-21-24 Korimoto, Kagoshima, 890-0056, Japan; Department of Pathological and Preventive Veterinary Science, The United Graduate School of Veterinary Science, Yamaguchi University, Yoshida, Yamaguchi, 753-8515, Japan. Electronic address: k6199431@kadai.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Comp Immunol</MedlineTA>
+            <NlmUniqueID>7708205</NlmUniqueID>
+            <ISSNLinking>0145-305X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Immunity</Keyword>
+            <Keyword MajorTopicYN="N">Metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">Microbiome</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">Proteomics</Keyword>
+            <Keyword MajorTopicYN="N">Tick</Keyword>
+            <Keyword MajorTopicYN="N">Tick cells</Keyword>
+            <Keyword MajorTopicYN="N">Transcriptomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200008</ArticleId>
+            <ArticleId IdType="pii">S0145-305X(19)30035-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dci.2019.103409</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

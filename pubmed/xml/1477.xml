@@ -1,0 +1,184 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198782</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2314-6141</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BioMed research international</Title>
+                <ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Study on the Potential Biomarkers of Maternal Urine Metabolomics for Fetus with Congenital Heart Diseases Based on Modified Gas Chromatograph-Mass Spectrometer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1905416</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/1905416</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">There has been significant research on the genetic and environmental factors of congenital heart defects (CHDs), but few causes of teratogenicity, especially teratogenic mechanisms, can be clearly identified. Metabolomics has a potential advantage in researching the relationship between external factors and CHD.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To find and identify the urinary potential biomarkers of pregnancy (including in the second and third trimesters) for fetuses with CHD based on modified gas chromatograph-mass spectrometer (GC-MS), which could reveal the possibility of high-risk factors for CHD and lay the foundation for early intervention, treatment, and prevention.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Using a case-control design, we measured the urinary potential biomarkers of maternal urine metabolomics based on GC-MS in a population-based sample of women whose infants were diagnosed with CHD (70 case subjects) or were healthy (70 control subjects). SIMCA-P 13.0 software, principal component analysis (PCA), orthogonal partial least squares-discriminant analysis (OPLS-DA), Wilcoxon-Mann-Whitney test, and logistics regression were used to find significant potential biomarkers.</AbstractText>
+                <AbstractText Label="Result" NlmCategory="UNASSIGNED">The 3D score graph of the OPLS-DA showed that the CHD and control groups were fully separated. The fitting parameters were R<sup>2</sup>x=0.78 and R<sup>2</sup>y=0.69, and the forecast rate was Q<sup>2</sup>=0.61, indicating a high forecast ability. According to the ranking of VIPs from the OPLS-DA models, we found 34 potential metabolic markers with a VIP &gt; 1, and after two pairwise rank sum tests, we found 20 significant potential biomarkers, which were further used in multifactor logistic regressions. Significant substances, including 4-hydroxybenzeneacetic acid (<i>OR</i>=4.74, 95% CI: 1.06-21.06), 5-trimethylsilyloxy-n-valeric acid (<i>OR</i>=15.78, 95% CI: 2.33-106.67), propanedioic acid (<i>OR</i>=5.37, 95% CI: 1.87-15.45), hydracrylic acid (<i>OR</i>=6.23, 95% CI: 1.07-36.21), and uric acid (<i>OR</i>=5.23, 95% CI: 1.23-22.32), were associated with CHD.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The major potential biomarkers in maternal urine associated with CHD were 4-hydroxybenzeneacetic acid, 5-trimethylsilyloxy-n-valeric acid, propanedioic acid, hydracrylic acid, and uric acid, respectively. These results indicated that the short chain fatty acids (SCFAs) and aromatic amino acid metabolism may be relevant with CHD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Donghua</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0001-6901-7044</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Management, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Yingchun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ultrasonography, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Xiyue</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Rehabilitation, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lou</LastName>
+                    <ForeName>Mingxing</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Rehabilitation, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Zhiyu</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Management, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Aihua</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Management, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Management, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kong</LastName>
+                    <ForeName>Fanjuan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information Management, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yichao</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-6140-4338</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Rehabilitation, Maternal and Child Health Hospital of Hunan Province, 58 Xiangchun Road, Changsha, Hunan 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">0000-0001-6178-7108</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Birth Defect for Research and Prevention (Hunan Provincial Maternal and Child Health Care Hospital), Hunan 410008, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biomed Res Int</MedlineTA>
+            <NlmUniqueID>101600173</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198782</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/1905416</ArticleId>
+            <ArticleId IdType="pmc">PMC6526572</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

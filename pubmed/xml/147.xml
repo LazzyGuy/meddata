@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200264</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3557</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>222</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy</Title>
+                <ISOAbbreviation>Spectrochim Acta A Mol Biomol Spectrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simultaneous detection of atmospheric CO and CH<sub>4</sub> based on TDLAS using a single 2.3 μm DFB laser.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117118</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1386-1425(19)30499-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.saa.2019.05.023</ELocationID>
+            <Abstract>
+                <AbstractText>A laser-based spectrometer with a physical size of 60× 30 ×25 cm<sup>3</sup> has been developed to continuously monitor CO and CH<sub>4</sub> in atmosphere based on tunable diode laser absorption spectroscopy (TDLAS). Two neighboring lines of CO and CH<sub>4</sub> around 2.3 μm were selected as candidates for simultaneous measurement by a single diode distributed feedback (DFB) laser. A special Herriott-type multipass absorption cell, with a 72 m optical path length, was designed and used to enhance the absorption signals of sample gases. Normalized wavelength modulation spectroscopy was applied to improve the sensitivity and robustness of the spectrometer and it was implemented on a home-made electronic system based on field programmable gate array (FPGA). Meanwhile, the electronic system controlled the temperature and current of DFB laser with the precision of 0.01 °C and 40 ppm. The 2nd-harmonic signals normalized by the corresponding 1st-harmonic signals for both CO and CH<sub>4</sub> are of high linear response to their concentrations in the range of 0.046-4.6 ppm and 0.487-48.7 ppm, respectively. According to the Allan variance, respective minimum detection limits for CO and CH<sub>4</sub> are 0.73 ppb and 36 ppb at 122 s and 137 s. As an application example, the spectrometer has been validated through real-time and in-situ measurement of atmospheric CO and CH<sub>4</sub> for 48 h.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shao</LastName>
+                    <ForeName>Ligang</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China; State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Fei</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiu</LastName>
+                    <ForeName>Xuanbing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Qiusheng</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China; State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Jilin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chuanliang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Applied Science, Taiyuan University of Science and Technology, Taiyuan 030024, China; State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, China. Electronic address: clli@tyust.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Weixiong</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China. Electronic address: wxzhao@aiofm.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Spectrochim Acta A Mol Biomol Spectrosc</MedlineTA>
+            <NlmUniqueID>9602533</NlmUniqueID>
+            <ISSNLinking>1386-1425</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atmospheric monitoring</Keyword>
+            <Keyword MajorTopicYN="N">CH(4)</Keyword>
+            <Keyword MajorTopicYN="N">CO</Keyword>
+            <Keyword MajorTopicYN="N">TDLAS</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200264</ArticleId>
+            <ArticleId IdType="pii">S1386-1425(19)30499-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.saa.2019.05.023</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

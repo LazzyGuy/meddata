@@ -1,0 +1,165 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199699</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2472-6311</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>SLAS technology</Title>
+                <ISOAbbreviation>SLAS Technol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantification of In Vivo Target Engagement Using Microfluidic Activity-Based Protein Profiling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2472630319852303</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/2472630319852303</ELocationID>
+            <Abstract>
+                <AbstractText>Accurate measurement of drug-target interactions in vivo is critical for both preclinical development and translation to clinical studies, yet many assays rely on indirect measures such as biomarkers associated with target activity. Activity-based protein profiling (ABPP) is a direct method of quantifying enzyme activity using active site-targeted small-molecule covalent probes that selectively label active but not inhibitor-bound enzymes. Probe-labeled enzymes in complex proteomes are separated by polyacrylamide gel electrophoresis and quantified by fluorescence imaging. To accelerate workflows and avoid imaging artifacts that make conventional gels challenging to quantify, we adapted protocols for a commercial LabChip GXII microfluidic instrument to permit electrophoretic separation of probe-labeled proteins in tissue lysates and plasma, and quantification of fluorescence (probe/protein labeling ratio of 1:1). Electrophoretic separation on chips occurred in 40 s per sample, and instrument software automatically identified and quantified peaks, resulting in an overall time savings of 3-5 h per 96-well sample plate. Calculated percent inhibition was not significantly different between the two formats. Chip performance was consistent between chips and sample replicates. Conventional gel imaging was more sensitive but required five times higher sample volume than microfluidic chips. Microfluidic chips produced results comparable to those of gels but with much lower sample consumption, facilitating assay miniaturization for scarce biological samples. The time savings afforded by microfluidic electrophoresis and automatic quantification has allowed us to incorporate microfluidic ABPP early in the drug discovery workflow, enabling routine assessments of tissue distribution and engagement of targets and off-targets in vivo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reardon</LastName>
+                    <ForeName>Holly T</ForeName>
+                    <Initials>HT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbst</LastName>
+                    <ForeName>Rachel A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Cassandra L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbst</LastName>
+                    <ForeName>Dylan M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ngo</LastName>
+                    <ForeName>Nhi</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cisar</LastName>
+                    <ForeName>Justin S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2 Janssen Research &amp; Development, Spring House, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>Olivia D</ForeName>
+                    <Initials>OD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niphakis</LastName>
+                    <ForeName>Micah J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Neill</LastName>
+                    <ForeName>Gary P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Abide Therapeutics, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>SLAS Technol</MedlineTA>
+            <NlmUniqueID>101697564</NlmUniqueID>
+            <ISSNLinking>2472-6303</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ABPP</Keyword>
+            <Keyword MajorTopicYN="N">LabChip</Keyword>
+            <Keyword MajorTopicYN="N">MGLL</Keyword>
+            <Keyword MajorTopicYN="N">monoacylglycerol lipase</Keyword>
+            <Keyword MajorTopicYN="N">protein chip</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199699</ArticleId>
+            <ArticleId IdType="doi">10.1177/2472630319852303</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

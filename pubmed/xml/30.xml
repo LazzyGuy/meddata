@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200392</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-8785</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of perinatology</Title>
+                <ISOAbbreviation>Am J Perinatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Impact of Fetal Anomalies on Contemporary Labor Patterns.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0039-1691765</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE"> To compare labor patterns in pregnancies affected by fetal anomalies to low-risk singletons.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS"> Labor data from the Consortium on Safe Labor, a multicenter retrospective study from 19 U.S. hospitals, including 98,674 low-risk singletons compared with 6,343 pregnancies with fetal anomalies were analyzed. Repeated-measures analysis constructed mean labor curves by parity, gestational age, and presence of fetal anomaly in women who reached full dilation. Interval-censored regression analysis adjusted for covariables was used to determine the median traverse times for labor progression.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS"> Labor curves for all groups indicated slower labor progress for patients with fetal anomalies. The most significant trends in median traverse times were observed in the preterm nulliparous and term multiparous groups. The median traverse times from 4 cm to complete dilation in the preterm nulliparous control versus anomaly groups were 5.0 and 5.4 hours (<i>p</i> &lt; 0.0001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS"> Labor proceeds at a slower rate in pregnancies affected by anomalies.</AbstractText>
+                <CopyrightInformation>Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>McCormick</LastName>
+                    <ForeName>Anna C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, Medical College of Wisconsin, Milwaukee, Wisconsin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>McIntosh</LastName>
+                    <ForeName>Jennifer J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, Medical College of Wisconsin, Milwaukee, Wisconsin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Gao</LastName>
+                    <ForeName>Weihua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, Medical College of Wisconsin, Milwaukee, Wisconsin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Hibbard</LastName>
+                    <ForeName>Judith U</ForeName>
+                    <Initials>JU</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, Medical College of Wisconsin, Milwaukee, Wisconsin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Cruz</LastName>
+                    <ForeName>Meredith O</ForeName>
+                    <Initials>MO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, Medical College of Wisconsin, Milwaukee, Wisconsin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Perinatol</MedlineTA>
+            <NlmUniqueID>8405212</NlmUniqueID>
+            <ISSNLinking>0735-1631</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200392</ArticleId>
+            <ArticleId IdType="doi">10.1055/s-0039-1691765</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

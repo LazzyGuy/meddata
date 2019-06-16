@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199934</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5177</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacology, biochemistry, and behavior</Title>
+                <ISOAbbreviation>Pharmacol. Biochem. Behav.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Behavioral cross-sensitization between cocaine and ethanol is accompanied by parallel changes in the activity of AMPK system.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0091-3057(19)30006-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pbb.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>Behavioral sensitization is thought to be relevant to the psychopathology of drug addiction. A previous study from our research group demonstrated cross-sensitization between cocaine and ethanol. Although these findings suggest a common mechanism of action between these two drugs, little is known about the molecular or cellular aspects of this commonality. The AMPK pathway functions as an intracellular energy sensor and plays a critical role in maintaining cellular energy homeostasis. Thus, the present study examined AMPK signaling following reciprocal cross-sensitization between cocaine and ethanol in the rat prefrontal cortex and dorsal striatum. Male Sprague-Dawley rats were repeatedly treated with either cocaine (15 mg/kg, 5 times) or ethanol (0.5 g/kg, 15 times) and then challenged reciprocally with the other drug. When sensitized to either cocaine or ethanol, the phosphorylation in response to additional challenges with the same drug was enhanced, indicating the development of sensitization. However, responses to the cocaine challenge were enhanced in the ethanol-sensitized state, whereas the responses to the ethanol challenge were not apparently enhanced in the cocaine-sensitized state. This was likely due to the ceiling effect of cocaine sensitization, which suggested that cocaine had more robust effects than ethanol. Although the same changes were found for two upstream kinases of AMPK (LKB1 and CaMK4), TAK1 responded differently and was not affected by acute challenges from either cocaine or ethanol. In the prefrontal cortex, there was an increase in activity, whereas there was a decrease in activity in the dorsal striatum. This difference might be due to dopamine D<sub>1</sub> receptor dominance in the prefrontal cortex and D<sub>2</sub> receptor dominance in the dorsal striatum. Taken together, these results suggest that both cocaine and ethanol may share overlapping molecular pathways in the process of behavioral sensitization. However, the action of cocaine was stronger than that of ethanol.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Shijie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Behavioral Medicine, Medical Research Center, Seoul National University, Seoul, Republic of Korea; Biomedical Research Institute, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Ung Gu</ForeName>
+                    <Initials>UG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Behavioral Medicine, Medical Research Center, Seoul National University, Seoul, Republic of Korea; Department of Psychiatry and Behavioral Science, Seoul National University College of Medicine, Seoul, Republic of Korea. Electronic address: kangug@snu.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharmacol Biochem Behav</MedlineTA>
+            <NlmUniqueID>0367050</NlmUniqueID>
+            <ISSNLinking>0091-3057</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AMPK</Keyword>
+            <Keyword MajorTopicYN="N">Behavioral sensitization</Keyword>
+            <Keyword MajorTopicYN="N">Cocaine</Keyword>
+            <Keyword MajorTopicYN="N">Cross-sensitization</Keyword>
+            <Keyword MajorTopicYN="N">Ethanol</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199934</ArticleId>
+            <ArticleId IdType="pii">S0091-3057(19)30006-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pbb.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

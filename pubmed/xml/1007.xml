@@ -1,0 +1,161 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199322</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Tangibility of Personalized 3D-Printed Feedback May Enhance Youths' Physical Activity Awareness, Goal Setting, and Motivation: Intervention Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12067</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12067</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In the United Kingdom, most youth fail to achieve the government guideline of 60 min of moderate to vigorous physical activity (MVPA) daily. Reasons that are frequently cited for the underachievement of this guideline include (1) a lack of awareness of personal physical activity levels (PALs) and (2) a lack of understanding of what activities and different intensities contribute to daily targets of physical activity (PA). Technological advances have enabled novel ways of representing PA data through personalized tangible three-dimensional (3D) models.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study was to investigate the efficacy of 3D-printed models to enhance youth awareness and understanding of and motivation to engage in PA.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 39 primary school children (22 boys; mean age 7.9 [SD 0.3] years) and 58 secondary school adolescents (37 boys; mean age 13.8 [SD 0.3] years) participated in a 7-week fading intervention, whereby participants were given 3D-printed models of their previous week's objectively assessed PALs at 4 time points. Following the receipt of their 3D model, each participant completed a short semistructured video interview (children, 4.5 [SD 1.2] min; adolescents, 2.2 [SD 0.6] min) to assess their PA awareness, understanding, and motivation. Data were transcribed verbatim and thematically analyzed to enable key emergent themes to be further explored and identified.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Analyses revealed that the 3D models enhanced the youths' awareness of and ability to recall and self-evaluate their PA behaviors. By the end of the study, the youths, irrespective of age, were able to correctly identify and relate to the government's PA guideline represented on the models, despite their inability to articulate the government's guideline through time and intensity. Following the fourth 3D model, 72% (71/97) of the youths used the models as a goal-setting strategy, further highlighting such models as a motivational tool to promote PA.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results suggest that 3D-printed models of PA enhanced the youths' awareness of their PA levels and provided a motivational tool for goal setting, potentially offering a unique strategy for future PA promotion.</AbstractText>
+                <CopyrightInformation>©Sam Graeme Morgan Crossley, Melitta Anne McNarry, Parisa Eslambolchilar, Zoe Knowles, Kelly Alexandra Mackintosh. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 31.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Crossley</LastName>
+                    <ForeName>Sam Graeme Morgan</ForeName>
+                    <Initials>SGM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2792-919X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Sport and Exercise Sciences, Applied Sports Technology Exercise and Medicine Research Centre, Swansea University, Swansea, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>McNarry</LastName>
+                    <ForeName>Melitta Anne</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0813-7477</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Sport and Exercise Sciences, Applied Sports Technology Exercise and Medicine Research Centre, Swansea University, Swansea, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Eslambolchilar</LastName>
+                    <ForeName>Parisa</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4610-1643</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Computer Science and Informatics, Human Factors Technology Research Priority Area, Cardiff University, Cardiff, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Knowles</LastName>
+                    <ForeName>Zoe</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1129-2275</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Sport and Exercise Sciences, Physical Activity Exchange, Liverpool John Moores University, Liverpool, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Mackintosh</LastName>
+                    <ForeName>Kelly Alexandra</ForeName>
+                    <Initials>KA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0355-6357</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Sport and Exercise Sciences, Applied Sports Technology Exercise and Medicine Research Centre, Swansea University, Swansea, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">accelerometry</Keyword>
+            <Keyword MajorTopicYN="N">adolescent</Keyword>
+            <Keyword MajorTopicYN="N">behavior change</Keyword>
+            <Keyword MajorTopicYN="N">child</Keyword>
+            <Keyword MajorTopicYN="N">feedback</Keyword>
+            <Keyword MajorTopicYN="N">health education</Keyword>
+            <Keyword MajorTopicYN="N">schools</Keyword>
+            <Keyword MajorTopicYN="N">self-monitoring</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199322</ArticleId>
+            <ArticleId IdType="pii">v21i6e12067</ArticleId>
+            <ArticleId IdType="doi">10.2196/12067</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,139 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199924</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-6840</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General and comparative endocrinology</Title>
+                <ISOAbbreviation>Gen. Comp. Endocrinol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional characterization of an invertebrate gonadotropin-releasing hormone receptor in the Yesso scallop Mizuhopecten yessoensis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0016-6480(19)30171-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ygcen.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>The neuropeptide control of bivalve reproduction with particular reference to gonadotropin-releasing hormone (invGnRH) is a frontier yet to be investigated. Bivalves are unique because they have two forms of the invGnRH peptide; however, there has been no functional characterization of the peptide-receptor pair. Therefore, the identification of a cognate receptor is a preliminary step toward exploring the biological roles of invGnRHs in bivalves. In this study, we functionally characterize an invGnRH receptor (invGnRHR) of a bivalve, the Yesso scallop Mizuhopecten yessoensis. In the receptor assay, HEK293 cells were transfected to transiently express the M. yessoensis invGnRHR (my-invGnRHR), which was found to be localized on the plasma membrane, confirming that my-invGnRHR, similar to other G-protein-coupled receptors, functions as a membrane receptor. Using both forms of invGnRH as ligands in a function-receptor assay, my-invGnRH11aa-NH<sub>2</sub> stimulated intracellular Ca<sup>2+</sup> mobilization but not cyclic AMP production, whereas my-invGnRH12aa-OH did not induce increase in Ca<sup>2+</sup> levels. Therefore, we concluded that my-invGnRHR is an endogenous receptor specific to my-invGnRH11aa-NH<sub>2</sub> which is hypothesized to be the mature peptide. To the best of our knowledge, this is the first study reporting the functional characterization of a bivalve invGnRHR.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nagasawa</LastName>
+                    <ForeName>Kazue</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Aquacultural Biology, Graduate School of Agricultural Science, Tohoku University, 468-1 Aoba, Aramaki, Aoba-ku, Sendai, Miyagi, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsubara</LastName>
+                    <ForeName>Shin</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioorganic Research Institute, Suntory Foundation for Life Sciences, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Satake</LastName>
+                    <ForeName>Honoo</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioorganic Research Institute, Suntory Foundation for Life Sciences, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osada</LastName>
+                    <ForeName>Makoto</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Aquacultural Biology, Graduate School of Agricultural Science, Tohoku University, 468-1 Aoba, Aramaki, Aoba-ku, Sendai, Miyagi, Japan. Electronic address: makoto.osada.a8@tohoku.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Comp Endocrinol</MedlineTA>
+            <NlmUniqueID>0370735</NlmUniqueID>
+            <ISSNLinking>0016-6480</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACP</Keyword>
+            <Keyword MajorTopicYN="N">AKH</Keyword>
+            <Keyword MajorTopicYN="N">CRZ</Keyword>
+            <Keyword MajorTopicYN="N">GnRH</Keyword>
+            <Keyword MajorTopicYN="N">Mollusc</Keyword>
+            <Keyword MajorTopicYN="N">receptor assay</Keyword>
+            <Keyword MajorTopicYN="N">second messenger</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199924</ArticleId>
+            <ArticleId IdType="pii">S0016-6480(19)30171-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ygcen.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

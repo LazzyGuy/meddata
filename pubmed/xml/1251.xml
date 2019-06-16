@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199047</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2184</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell proliferation</Title>
+                <ISOAbbreviation>Cell Prolif.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Matrix metalloproteinases: Expression, regulation and role in the immunopathology of tuberculosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12649</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/cpr.12649</ELocationID>
+            <Abstract>
+                <AbstractText>Mycobacterium tuberculosis (Mtb) leads to approximately 1.5 million human deaths every year. In pulmonary tuberculosis (TB), Mtb must drive host tissue destruction to cause pulmonary cavitation and dissemination in the tissues. Matrix metalloproteinases (MMPs) are endopeptidases capable of degrading all components of pulmonary extracellular matrix (ECM). It is well established that Mtb infection leads to upregulation of MMPs and also causes disturbance in the balance between MMPs and tissue inhibitors of metalloproteinases (TIMPs), thus altering the extracellular matrix deposition. In TB, secretion of MMPs is mainly regulated by NF-κB, p38 and MAPK signalling pathways. In addition, recent studies have demonstrated the immunomodulatory roles of MMPs in Mtb pathogenesis. Researchers have proposed a new regimen of improved TB treatment by inhibition of MMP activity to hinder matrix destruction and to minimize the TB-associated morbidity and mortality. The proposed regimen involves adjunctive use of MMP inhibitors such as doxycycline, marimastat and other related drugs along with front-line anti-TB drugs to reduce granuloma formation and bacterial load. These findings implicate the possible addition of economical and well-tolerated MMP inhibitors to current multidrug regimens as an attractive mean to increase the drug potency. Here, we will summarize the recent advancements regarding expression of MMPs in TB, their immunomodulatory role, as well as their potential as therapeutic targets to control the deadly disease.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cell Proliferation Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sabir</LastName>
+                    <ForeName>Naveed</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-7276-6513</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture, National Animal Transmissible Spongiform Encephalopathy Laboratory, College of Veterinary Medicine, China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hussain</LastName>
+                    <ForeName>Tariq</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture, National Animal Transmissible Spongiform Encephalopathy Laboratory, College of Veterinary Medicine, China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mangi</LastName>
+                    <ForeName>Mazhar Hussain</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture, National Animal Transmissible Spongiform Encephalopathy Laboratory, College of Veterinary Medicine, China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Deming</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture, National Animal Transmissible Spongiform Encephalopathy Laboratory, College of Veterinary Medicine, China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Xiangmei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture, National Animal Transmissible Spongiform Encephalopathy Laboratory, College of Veterinary Medicine, China Agricultural University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>No. CARS-36</GrantID>
+                    <Agency>China Agriculture Research System</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>Project No. 2013DFG32500</GrantID>
+                    <Agency>MoSTRCUK International Cooperation Project</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>Project No. 2017YFD0500901</GrantID>
+                    <Agency>National Key Research and Development Program</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>Project No. GDW20151100036, GDW20161100071</GrantID>
+                    <Agency>High-end Foreign Experts Recruitment Program</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID> Project No. 31572487, 31873005 </GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Prolif</MedlineTA>
+            <NlmUniqueID>9105195</NlmUniqueID>
+            <ISSNLinking>0960-7722</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+Mtb
+</Keyword>
+            <Keyword MajorTopicYN="N">Host-directed therapy</Keyword>
+            <Keyword MajorTopicYN="N">Immunopathology</Keyword>
+            <Keyword MajorTopicYN="N">MMPs</Keyword>
+            <Keyword MajorTopicYN="N">Signalling pathways</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199047</ArticleId>
+            <ArticleId IdType="doi">10.1111/cpr.12649</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

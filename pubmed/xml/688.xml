@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199674</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2152-4998</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cellular reprogramming</Title>
+                <ISOAbbreviation>Cell Reprogram</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selection of Reference miRNAs for Relative Quantification in Buffalo (<i>Bubalus bubalis</i>) Blastocysts Produced by Hand-Made Cloning and <i>In Vitro</i> Fertilization.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/cell.2019.0022</ELocationID>
+            <Abstract>
+                <AbstractText>Very low birth rate and a high incidence of abnormalities in offspring born from cloned embryos, which have limited the application of cloning technology on a wide scale, are believed to be because of incomplete or aberrant nuclear reprogramming. MicroRNAs (miRNAs) are involved in regulating a wide range of biological processes including reprogramming and embryonic development. Selection of suitable reference miRNAs is critical for normalization of data for accurate relative quantification of miRNAs by quantitative real-time polymerase chain reaction (qRT-PCR), which is currently the most widely used technique for quantifying miRNAs. This study was aimed at identification of reference miRNAs suitable for normalization of qRT-PCR data from blastocyst-stage buffalo embryos produced by handmade cloning and <i>in vitro</i> fertilization (IVF). RNA isolated from cloned and IVF blastocysts was subjected to next-generation sequencing based on which, 12 highly and most consistently expressed miRNAs, which included miR-92a, miR-423, miR-151, Let-7a, miR-103a, miR-93, miR-16b, miR-25, miR-30e, miR-101, miR-127, and miR-197, were selected as candidates for identification of suitable reference miRNAs using three statistical algorithms namely geNorm, NormFinder, and BestKeeper. Based on consensus of the three algorithms, the combination of miRNAs found to be suitable as reference miRNAs were miR-127 and miR-103 for IVF blastocysts; miR-92a and miR-103 for cloned blastocysts, and miR-103, miR-423, and miR-93 across both IVF and cloned blastocysts. The data of this study can be very useful in miRNA expression analysis of blastocyst-stage cloned and IVF embryos.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lagah</LastName>
+                    <ForeName>Swati Viviyan</ForeName>
+                    <Initials>SV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2 Agricultural, Food and Nutritional Science, University of Alberta, Edmonton, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sood</LastName>
+                    <ForeName>Tanushri Jerath</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palta</LastName>
+                    <ForeName>Prabhat</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mukesh</LastName>
+                    <ForeName>Manishi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 ICAR-National Bureau of Animal Genetic Resources, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chauhan</LastName>
+                    <ForeName>Manmohan Singh</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manik</LastName>
+                    <ForeName>Radhey Shyam</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Manoj Kumar</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singla</LastName>
+                    <ForeName>Suresh Kumar</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Animal Biotechnology Centre, ICAR-National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell Reprogram</MedlineTA>
+            <NlmUniqueID>101528176</NlmUniqueID>
+            <ISSNLinking>2152-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IVF</Keyword>
+            <Keyword MajorTopicYN="N">blastocysts</Keyword>
+            <Keyword MajorTopicYN="N">cloning</Keyword>
+            <Keyword MajorTopicYN="N">miRNAs</Keyword>
+            <Keyword MajorTopicYN="N">qPCR</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199674</ArticleId>
+            <ArticleId IdType="doi">10.1089/cell.2019.0022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

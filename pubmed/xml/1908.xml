@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198215</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-4668</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vestnik otorinolaringologii</Title>
+                <ISOAbbreviation>Vestn. Otorinolaringol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Secondary prevention of chronic tonsillitis exacerbations by bacteriophage medications].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>46-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17116/otorino20198402146</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic tonsillitis is one of the most common diseases to modern people, which treatment requires a preventative care course approach. The general purpose of the present research could be framed as follows: to estimate clinical efficiency of bacteriophage medications, in the case of 'Ostophag' mixture for preventative care. Study population consisted eighty people. Participants were divided into two groups (forty patients in each) both diagnosed compensated and decompensated forms of chronic tonsillitis with pathogenic microflora in the lacunae of the palatine tonsils. In the first group we built monotherapy on bacteriophage medications use, whereas in the second one monotherapy was founded on antiseptic implication. The results of the present investigation showed high efficiency of bacteriophage medications a means of chronic tonsillitis salvage care.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pavlova</LastName>
+                    <ForeName>G V</ForeName>
+                    <Initials>GV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Izhevsk State Medical Academy, Izhevsk, Russia, 426056.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martiusheva</LastName>
+                    <ForeName>V I</ForeName>
+                    <Initials>VI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>City Clinical Hospital #2, Izhevsk, Russia, 426008.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Vtorichnaia profilaktika obostreniĭ khronicheskogo tonzillita bakteriofagal'nymi sredstvami.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Vestn Otorinolaringol</MedlineTA>
+            <NlmUniqueID>0416577</NlmUniqueID>
+            <ISSNLinking>0042-4668</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Хронический тонзиллит является одним из самых распространенных заболеваний, которое требует проведения курсов профилактического лечения. Цель работы - оценка клинической эффективности препарата бактериофагов на примере лекарственного средства Отофаг при профилактическом лечении больных с хроническим тонзиллитом. В исследовании приняли участие 80 человек. В обе группы вошли по 40 пациентов как с компенсированной, так и с декомпенсированной формами хронического тонзиллита с наличием патогенной микрофлоры в лакунах небных миндалин. В 1-й группе в качестве монотерапии использовали препараты на основе бактериофагов. Во 2-й группе в качестве монотерапии использовали растворы антисептиков. Результаты исследования говорят о большей эффективности применения препаратов бактериофагов в консервативной терапии хронического тонзиллита.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bacteriophages</Keyword>
+            <Keyword MajorTopicYN="N">chronic tonsillitis</Keyword>
+            <Keyword MajorTopicYN="N">salvage care</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198215</ArticleId>
+            <ArticleId IdType="doi">10.17116/otorino20198402146</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

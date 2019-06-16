@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200400</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-1651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>223</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift fur Geburtshilfe und Neonatologie</Title>
+                <ISOAbbreviation>Z Geburtshilfe Neonatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Maternal Tumor Disease as a Reason for Repeated Test Failure in Cell-Free DNA Screening].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>179-183</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0850-0650</ELocationID>
+            <Abstract>
+                <AbstractText>Noninvasive prenatal testing (NIPT) is a screening test for fetal chromosome disorders. Recent studies show an incidental detection of maternal malignancies in NIPT diagnostics, where the simultaneous presence of multiple aneuploidies is described as an NIPT &quot;anomaly&quot;. In this case, the diagnosis of a maternal tumor disease was made due to a repeat NIPT failure (no call).</AbstractText>
+                <CopyrightInformation>© Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Karge</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Frauenheilkunde, Klinikum rechts der Isar, Technische Universität München, München.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Graupner</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Frauenheilkunde, Klinikum rechts der Isar, Technische Universität München, München.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Abel</LastName>
+                    <ForeName>Kathrin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Frauenheilkunde, Klinikum rechts der Isar, Technische Universität München, München.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Kuschel</LastName>
+                    <ForeName>Bettina</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik und Poliklinik für Frauenheilkunde, Klinikum rechts der Isar, Technische Universität München, München.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Mütterliches Malignom in der Schwangerschaft als Ursache eines wiederholten Testversagens im nicht-invasiven Pränataltest.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Z Geburtshilfe Neonatol</MedlineTA>
+            <NlmUniqueID>9508901</NlmUniqueID>
+            <ISSNLinking>0948-2393</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="ger">
+            <AbstractText>Der nicht-invasive Pränataltest (NIPT) ist ein Screening-Test für fetale Chromosomenstörungen. Aktuelle Studien zeigen eine inzidentelle Detektion mütterlicher Malignome im Rahmen der NIPT-Diagnostik, wobei als NIPT-„Anomalie“ das simultane Vorliegen multipler Aneuploidien beschrieben wird. In diesem Fall konnte aufgrund eines wiederholten Testversagens („no call“) im NIPT die Diagnose einer maternalen Tumorerkrankung gestellt werden.</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Die Autoren geben an, dass kein Interessenkonflikt besteht.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200400</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0850-0650</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,116 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200038</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1615-5947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of vascular surgery</Title>
+                <ISOAbbreviation>Ann Vasc Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A comparative study regarding deep and superficial veins for venous outflow in forearm loop arteriovenous grafts.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0890-5096(19)30376-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.avsg.2019.03.022</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare the access patency rates of forearm loop arteriovenous grafts (AVGs) using deep veins and superficial veins for venous outflow.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The medical records of patients on dialysis were retrospectively reviewed to identify the individual risk factors and the outcomes of forearm loop AVGs according to their outflow types.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 170 cases were enrolled in this study. Of these, 103 cases (60.6%) used deep veins for outflow. More patients using deep vein outflow had their venous anastomosis above the elbow (p=0.000). Patients with venous anastomosis above the elbow were more likely to be female (p=0.049) and have a lower albumin level (p=0.025). The primary patency rates for superficial vein outflow and deep view outflow were 35.5% and 29.4% at 12 months and 18.9% and 4.9% at 24 months, respectively. There was a statistically significant difference between the two groups (p=0.013). The assisted primary patency rates for superficial venous outflow and deep vein outflow were 85.5% and 79.5% at 12 months and 73.2% and 59.6% at 24 months, respectively (p=0.139). Primary and assisted primary patency rates did not differ according to the crossing of the elbow.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The primary patency rate of AVGs using deep veins for outflow was inferior compared to AVGs using superficial veins. But the assisted primary patency rate showed no difference. The use of a deep vein for outflow in the forearm loop AVG is a safe strategy for patients with exhausted superficial veins.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Moonsang</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Chungnam National University College of Medicine, Daejeon, Korea. Electronic address: amsgs@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Ann Vasc Surg</MedlineTA>
+            <NlmUniqueID>8703941</NlmUniqueID>
+            <ISSNLinking>0890-5096</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">arteriovenous graft</Keyword>
+            <Keyword MajorTopicYN="N">brachial vein</Keyword>
+            <Keyword MajorTopicYN="N">deep vein</Keyword>
+            <Keyword MajorTopicYN="N">outflow</Keyword>
+            <Keyword MajorTopicYN="N">superficial vein</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200038</ArticleId>
+            <ArticleId IdType="pii">S0890-5096(19)30376-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.avsg.2019.03.022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

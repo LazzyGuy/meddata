@@ -1,0 +1,118 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199694</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2161-7856</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Games for health journal</Title>
+                <ISOAbbreviation>Games Health J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acute Effects of Aerobic Exercise and Active Videogames on Cognitive Flexibility, Reaction Time, and Perceived Exertion in Older Adults.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/g4h.2018.0143</ELocationID>
+            <Abstract>
+                <AbstractText><b>
+                        <i>Objective:</i>
+                    </b> The aim of this study was to analyze the acute effects of aerobic exercise (AE), active videogames (AVG), and AE+AVG on cognitive flexibility, choice reaction time (CRT), and postexercise rate of perceived exertion (RPE) in a sample composed of 49 older adults, 11 men and 38 women (age <i>M =</i> 67.7 ± 4.7 years). <b>
+                        <i>Materials and Methods:</i>
+                    </b> An incomplete intrasubject factorial design was followed. Participants were randomly divided into three experimental groups, and each one performed two of three different sessions (A, B, or C). In session A, participants rode on a cycle ergometer for 30 minutes (AE). In session B, they rode on a cycle ergometer for 30 minutes while playing an AVG (AE+AVG). In session C, they only played an AVG. Data were analyzed with a repeated-measures general linear model. <b>
+                        <i>Results:</i>
+                    </b> Intrasubject pre-post-analysis showed that the three sessions improved CRT, although motor reaction time did not improve significantly with AE. On the contrary, intrasubjects' postanalysis showed better results of AVG compared with AE (lower % of nonperseverative errors) and AE+AVG (less failures to maintain set, although the number of correct responses decreased). AE+AVG showed benefits in RPE compared with AE. <b>
+                        <i>Conclusions:</i>
+                    </b> The practice of AE and/or AVG acutely improves CRT in older adults, but only AVG improved some variables of cognitive flexibility. Moreover, postexercise RPE was higher after AE in comparison with other conditions (AVG, AE+AVG).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>López-García</LastName>
+                    <ForeName>Jesús</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Group in Prevention and Health in Exercise and Sport, Department of Physical Education and Sport, University of Valencia, Valencia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colado</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Group in Prevention and Health in Exercise and Sport, Department of Physical Education and Sport, University of Valencia, Valencia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guzmán</LastName>
+                    <ForeName>José F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Group in Prevention and Health in Exercise and Sport, Department of Physical Education and Sport, University of Valencia, Valencia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Games Health J</MedlineTA>
+            <NlmUniqueID>101583709</NlmUniqueID>
+            <ISSNLinking>2161-783X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cognitive health</Keyword>
+            <Keyword MajorTopicYN="N">Disease prevention</Keyword>
+            <Keyword MajorTopicYN="N">Exergames</Keyword>
+            <Keyword MajorTopicYN="N">Mental health</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199694</ArticleId>
+            <ArticleId IdType="doi">10.1089/g4h.2018.0143</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

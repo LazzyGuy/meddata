@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199756</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1862-278X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomedizinische Technik. Biomedical engineering</Title>
+                <ISOAbbreviation>Biomed Tech (Berl)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ESLMT: a new clustering method for biomedical document retrieval.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/bmt-2018-0068</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/bmte.ahead-of-print/bmt-2018-0068/bmt-2018-0068.xml</ELocationID>
+            <Abstract>
+                <AbstractText>MEDLINE is a rapidly growing database; to utilize this resource, practitioners and biomedical researchers have dealt with tedious and time-consuming tasks such as discovering, searching, reading and evaluating of biomedical documents. However, making a label for a group of biomedical documents is expensive and needs a complicated operation. Otherwise, compound words, polysemous and synonymous problems can influence the search in MEDLINE. Therefore, designing an efficient way of sharing knowledge and information organization is essential so that information retrieval systems can provide ideal outcomes. For this purpose, different strategies are used in the retrieval of biomedical documents (RBD). However, still a number of unrelated results for the users' query are obtained in the RBD process. Studies have shown that well-defined clusters in the retrieval system exhibit a more efficient performance in contrast to the document-based retrieval. Accordingly, the present study proposes the Expanding Statistical Language Modeling and Thesaurus (ESLMT) for clustering and retrieving biomedical documents. The results showed that Clustering with ESLM Similarity and Thesaurus (CESLMST) in all those criteria in this study have a higher value than the other compared methods. The results indicated that the mean average precision (MAP) has improved in the Clusters' Retrieval Derived from ESLM Similarity-Query (CRDESLMS-QET) method in comparison to the previous methods with the Text REtrieval Conference (TREC) data set.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Keyvanpour</LastName>
+                    <ForeName>MohammadReza</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Engineering, Alzahra University, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serpush</LastName>
+                    <ForeName>Fatemeh</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Computer and Information Technology Engineering, Qazvin Branch, Islamic Azad University, Unit 1, No 7391658369, Dr Karim Vaez zadeh Alley, Navab Safavi St., Abadeh, Fars, Qazvin, Iran, Phone: +9192138053.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Biomed Tech (Berl)</MedlineTA>
+            <NlmUniqueID>1262533</NlmUniqueID>
+            <ISSNLinking>0013-5585</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MEDLINE</Keyword>
+            <Keyword MajorTopicYN="N">MeSH thesaurus</Keyword>
+            <Keyword MajorTopicYN="N">biomedical document retrieval</Keyword>
+            <Keyword MajorTopicYN="N">clustering</Keyword>
+            <Keyword MajorTopicYN="N">statistical language modeling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199756</ArticleId>
+            <ArticleId IdType="doi">10.1515/bmt-2018-0068</ArticleId>
+            <ArticleId IdType="pii">/j/bmte.ahead-of-print/bmt-2018-0068/bmt-2018-0068.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

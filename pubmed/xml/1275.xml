@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199021</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-4095</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advanced materials (Deerfield Beach, Fla.)</Title>
+                <ISOAbbreviation>Adv. Mater. Weinheim</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nanotransducers for Near-Infrared Photoregulation in Biomedicine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1901607</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/adma.201901607</ELocationID>
+            <Abstract>
+                <AbstractText>Photoregulation, which utilizes light to remotely control biological events, provides a precise way to decipher biology and innovate in medicine; however, its potential is limited by the shallow tissue penetration and/or phototoxicity of ultraviolet (UV)/visible light that are required to match the optical responses of endogenous photosensitive substances. Thereby, biologically friendly near-infrared (NIR) light with improved tissue penetration is desired for photoregulation. Since there are a few endogenous biomolecules absorbing or emitting light in the NIR region, the development of molecular transducers is essential to convert NIR light into the cues for regulation of biological events. In this regard, optical nanomaterials able to convert NIR light into UV/visible light, heat, or free radicals are suitable for this task. Here, the recent developments of optical nanotransducers for NIR-light-mediated photoregulation in medicine are summarized. The emerging applications, including photoregulation of neural activity, gene expression, and visual systems, as well as photochemical tissue bonding, are highlighted, along with the design principles of nanotransducers. Moreover, the current challenges and perspectives in this field are discussed.</AbstractText>
+                <CopyrightInformation>© 2019 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jingchao</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Biomedical Engineering, Nanyang Technological University, Singapore, 637457, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duan</LastName>
+                    <ForeName>Hongwei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Biomedical Engineering, Nanyang Technological University, Singapore, 637457, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pu</LastName>
+                    <ForeName>Kanyi</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8064-6009</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Biomedical Engineering, Nanyang Technological University, Singapore, 637457, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>M4081627</GrantID>
+                    <Agency>Nanyang Technological University</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RG133/15 M4011559</GrantID>
+                    <Agency>Singapore Ministry of Education</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>MOE2016-T2-1-098</GrantID>
+                    <Agency>Singapore Ministry of Education</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Adv Mater</MedlineTA>
+            <NlmUniqueID>9885358</NlmUniqueID>
+            <ISSNLinking>0935-9648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biomedicine</Keyword>
+            <Keyword MajorTopicYN="N">nanoparticles</Keyword>
+            <Keyword MajorTopicYN="N">nanotransducers</Keyword>
+            <Keyword MajorTopicYN="N">near-infrared light</Keyword>
+            <Keyword MajorTopicYN="N">photoregulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199021</ArticleId>
+            <ArticleId IdType="doi">10.1002/adma.201901607</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

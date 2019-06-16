@@ -1,0 +1,148 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198971</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-1719</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology and evolution</Title>
+                <ISOAbbreviation>Mol. Biol. Evol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recombination-aware phylogenomics reveals the structured genomic landscape of hybridizing cat species.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">msz139</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/molbev/msz139</ELocationID>
+            <Abstract>
+                <AbstractText>Current phylogenomic approaches implicitly assume that the predominant phylogenetic signal within a genome reflects the true evolutionary history of organisms, without assessing the confounding effects of post-speciation gene flow that can produce a mosaic of phylogenetic signals that interact with recombinational variation. Here we tested the validity of this assumption with a phylogenomic analysis of 27 species of the cat family, assessing local effects of recombination rate on species tree inference and divergence time estimation across their genomes. We found that the prevailing phylogenetic signal within the autosomes is not always representative of the most probable speciation history, due to ancient hybridization throughout felid evolution. Instead, phylogenetic signal was concentrated within regions of low recombination, and notably enriched within large X-chromosome recombination cold spots that exhibited recurrent patterns of strong genetic differentiation and selective sweeps across mammalian orders. By contrast, regions of high recombination were enriched for signatures of ancient gene flow, and these sequences inflated crown-lineage divergence times by ∼40%. We conclude that existing phylogenomic approaches to infer the Tree of Life may be highly misleading without considering the genomic architecture of phylogenetic signal relative to recombination rate and its interplay with historical hybridization.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society for Molecular Biology and Evolution.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Veterinary Integrative Biosciences, Texas A&amp;M University, College Station, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueiró</LastName>
+                    <ForeName>Henrique V</ForeName>
+                    <Initials>HV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PUCRS, Escola de Ciências, Laboratory of Genomics and Molecular Biology, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INCT-EECBio, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eizirik</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PUCRS, Escola de Ciências, Laboratory of Genomics and Molecular Biology, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INCT-EECBio, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murphy</LastName>
+                    <ForeName>William J</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Veterinary Integrative Biosciences, Texas A&amp;M University, College Station, TX.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Biol Evol</MedlineTA>
+            <NlmUniqueID>8501455</NlmUniqueID>
+            <ISSNLinking>0737-4038</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Felidae</Keyword>
+            <Keyword MajorTopicYN="N">X chromosome</Keyword>
+            <Keyword MajorTopicYN="N">hybridization</Keyword>
+            <Keyword MajorTopicYN="N">phylogenomics</Keyword>
+            <Keyword MajorTopicYN="N">recombination</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198971</ArticleId>
+            <ArticleId IdType="pii">5518928</ArticleId>
+            <ArticleId IdType="doi">10.1093/molbev/msz139</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

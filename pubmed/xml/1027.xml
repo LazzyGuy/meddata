@@ -1,0 +1,212 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199302</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deep Learning Approaches to Detect Atrial Fibrillation Using Photoplethysmographic Signals: Algorithms Development Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12770</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12770</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Wearable devices have evolved as screening tools for atrial fibrillation (AF). A photoplethysmographic (PPG) AF detection algorithm was developed and applied to a convenient smartphone-based device with good accuracy. However, patients with paroxysmal AF frequently exhibit premature atrial complexes (PACs), which result in poor unmanned AF detection, mainly because of rule-based or handcrafted machine learning techniques that are limited in terms of diagnostic accuracy and reliability.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to develop deep learning (DL) classifiers using PPG data to detect AF from the sinus rhythm (SR) in the presence of PACs after successful cardioversion.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We examined 75 patients with AF who underwent successful elective direct-current cardioversion (DCC). Electrocardiogram and pulse oximetry data over a 15-min period were obtained before and after DCC and labeled as AF or SR. A 1-dimensional convolutional neural network (1D-CNN) and recurrent neural network (RNN) were chosen as the 2 DL architectures. The PAC indicator estimated the burden of PACs on the PPG dataset. We defined a metric called the confidence level (CL) of AF or SR diagnosis and compared the CLs of true and false diagnoses. We also compared the diagnostic performance of 1D-CNN and RNN with previously developed AF detectors (support vector machine with root-mean-square of successive difference of RR intervals and Shannon entropy, autocorrelation, and ensemble by combining 2 previous methods) using 10 5-fold cross-validation processes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among the 14,298 training samples containing PPG data, 7157 samples were obtained during the post-DCC period. The PAC indicator estimated 29.79% (2132/7157) of post-DCC samples had PACs. The diagnostic accuracy of AF versus SR was 99.32% (70,925/71,410) versus 95.85% (68,602/71,570) in 1D-CNN and 98.27% (70,176/71,410) versus 96.04% (68,736/71,570) in RNN methods. The area under receiver operating characteristic curves of the 2 DL classifiers was 0.998 (95% CI 0.995-1.000) for 1D-CNN and 0.996 (95% CI 0.993-0.998) for RNN, which were significantly higher than other AF detectors (P&lt;.001). If we assumed that the dataset could emulate a sufficient number of patients in training, both DL classifiers improved their diagnostic performances even further especially for the samples with a high burden of PACs. The average CLs for true versus false classification were 98.56% versus 78.75% for 1D-CNN and 98.37% versus 82.57% for RNN (P&lt;.001 for all cases).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">New DL classifiers could detect AF using PPG monitoring signals with high diagnostic accuracy even with frequent PACs and could outperform previously developed AF detectors. Although diagnostic performance decreased as the burden of PACs increased, performance improved when samples from more patients were trained. Moreover, the reliability of the diagnosis could be indicated by the CL. Wearable devices sensing PPG signals with DL classifiers should be validated as tools to screen for AF.</AbstractText>
+                <CopyrightInformation>©Soonil Kwon, Joonki Hong, Eue-Keun Choi, Euijae Lee, David Earl Hostallero, Wan Ju Kang, Byunghwan Lee, Eui-Rim Jeong, Bon-Kwon Koo, Seil Oh, Yung Yi. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 06.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Kwon</LastName>
+                    <ForeName>Soonil</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4791-6855</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Joonki</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8378-3332</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering, KAIST, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Eue-Keun</ForeName>
+                    <Initials>EK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0411-6372</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Euijae</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8735-5474</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hostallero</LastName>
+                    <ForeName>David Earl</ForeName>
+                    <Initials>DE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1611-8332</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering, KAIST, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Wan Ju</ForeName>
+                    <Initials>WJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8078-819X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering, KAIST, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Byunghwan</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1930-6926</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Sky Labs Inc, Seongnam, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeong</LastName>
+                    <ForeName>Eui-Rim</ForeName>
+                    <Initials>ER</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8708-6235</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Information and Communication Engineering, Hanbat National University, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koo</LastName>
+                    <ForeName>Bon-Kwon</ForeName>
+                    <Initials>BK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8188-3348</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Seil</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2504-9615</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Yung</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6955-3135</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering, KAIST, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">atrial fibrillation</Keyword>
+            <Keyword MajorTopicYN="N">deep learning</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">photoplethysmography</Keyword>
+            <Keyword MajorTopicYN="N">pulse oximetry</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199302</ArticleId>
+            <ArticleId IdType="pii">v7i6e12770</ArticleId>
+            <ArticleId IdType="doi">10.2196/12770</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

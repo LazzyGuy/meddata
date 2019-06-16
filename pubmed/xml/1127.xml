@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199186</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-1539</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Heart and circulatory physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol. Heart Circ. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Macrophages and T cells in atherosclerosis: a translational perspective.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/ajpheart.00206.2019</ELocationID>
+            <Abstract>
+                <AbstractText>Atherosclerosis is now considered chronic maladaptive inflammatory disease. The hallmark feature both in human and murine disease are atherosclerotic plaques. Macrophages and various T-cell lineages play a crucial role in atherosclerotic plaque establishment and disease progression. Humans and mice share many of the same processes that occur within atherogenesis. The various similarities enable considerable insight into disease mechanisms and those which contribute to cardiovascular complications. The <i>apolipoprotein E</i> and <i>low-density lipoprotein receptor</i> null mice have served as the foundation for further immunological pathway manipulation to identify pro- and anti-atherogenic pathways in attempt to reveal more novel therapeutic targets. In this review, we provide a translational perspective and discuss the roles of macrophages and various T cell lineages in contrasting pro-atherosclerotic and atheroprotective settings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bartlett</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ludewick</LastName>
+                    <ForeName>Herbert P</ForeName>
+                    <Initials>HP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UWA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misra</LastName>
+                    <ForeName>Ashish</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heart Research Institute, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UWA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dwivedi</LastName>
+                    <ForeName>Girish</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, University of Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Heart Circ Physiol</MedlineTA>
+            <NlmUniqueID>100901228</NlmUniqueID>
+            <ISSNLinking>0363-6135</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atherogenesis</Keyword>
+            <Keyword MajorTopicYN="N">Atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="N">Immunity</Keyword>
+            <Keyword MajorTopicYN="N">Macrophages</Keyword>
+            <Keyword MajorTopicYN="N">T cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199186</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.00206.2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200049</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1615-5947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of vascular surgery</Title>
+                <ISOAbbreviation>Ann Vasc Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of Early Cannulation Grafts on Quality and Cost of Care for ESRD Patients.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0890-5096(19)30391-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.avsg.2019.03.031</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The annual cost of care associated with end stage renal dialysis (ESRD) per patient on hemodialysis (HD) is approaching $100,000, with nearly $42 billion in national spend per year. Early cannulation arteriovenous grafts (ECAVGs) help decrease the use of central venous catheters (CVCs), thus potentially decreasing the cost of care. However, a formal financial analysis has not been completed that also includes the cost of CVC-related complications and secondary interventions. The purpose of this project is to evaluate the overall financial costs associated with ECAVGs on ESRD patients during a one-year period.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Access modality, complications, secondary interventions, hospital outcomes, and cost of care were determined for 397 sequential patients who underwent access creation between July 2014 and October 2018. A detailed financial analysis was completed, including an evaluation of implant, supplies, medications, labs, labor, and other direct costs. All variables were measured at the time of the index procedure, 30 days, 90 days, 180 days, 270 days, and one year.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 131 patients who underwent AVF and 266 who underwent ECAVG for dialysis access. The average cost of care was $17,523 for AVF and $5,894 for ECAVG at one year (P&lt;0.01). Fewer central venous catheter (CVC)-related complications and secondary interventions associated with ECAVGs saved $11,630 per ESRD patient, primarily in the form of supply costs. Fewer CVCs in the ECAVG patients led to an additional $1,083 decrease in cost associated with sepsis reduction at one year. A subsequent decrease in length of stay and ICU utilization led to an additional $2.0M decrease in annual cost of care for ESRD patients.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">The use of ECAVGs has significant cost savings over using an AVF and CVC for urgent start dialysis in ESRD patients. This cost savings is secondary to decreased CVC-related complications and fewer secondary interventions. Significant national savings are possible with appropriate use of ECAVGs in ESRD patients.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Desai</LastName>
+                    <ForeName>Sapan S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Director of Performance Improvement, Northwest Community Healthcare, Arlington Heights, IL 60005. Electronic address: sapan.desai@surgisphere.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Ann Vasc Surg</MedlineTA>
+            <NlmUniqueID>8703941</NlmUniqueID>
+            <ISSNLinking>0890-5096</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACUSEAL</Keyword>
+            <Keyword MajorTopicYN="N">AVG</Keyword>
+            <Keyword MajorTopicYN="N">ECAVG</Keyword>
+            <Keyword MajorTopicYN="N">ESRD</Keyword>
+            <Keyword MajorTopicYN="N">cost</Keyword>
+            <Keyword MajorTopicYN="N">fistula</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200049</ArticleId>
+            <ArticleId IdType="pii">S0890-5096(19)30391-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.avsg.2019.03.031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

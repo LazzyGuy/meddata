@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199143</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6904</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of organic chemistry</Title>
+                <ISOAbbreviation>J. Org. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dibenzocyclooctynes: Effect of Aryl Substitution on Their Reactivity toward Strain-Promoted Alkyne-Azide Cycloaddition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.joc.9b00895</ELocationID>
+            <Abstract>
+                <AbstractText>Five new dibenzocyclooctynes bearing different substituents on their aryl moieties were synthesized and evaluated for their reactivity toward strain-promoted alkyne-azide cycloaddition (SPAAC). The dinaphthylcyclooctynes proved to be poorly reactive with azides, and the formation of triazole required many days compared to a few hours for the other cyclooctynes. Fluoride atoms and methoxy groups were also introduced to the aryl rings, leading to more active compounds. Oxidation of the alcohol on the cyclooctyne ring also increased the reaction rates by 3.5- to 6-fold. 3,9-Difluoro-4,8-dimethoxy-dibenzocyclooctyne-1-one thus displayed a SPAAC kinetic rate of 3.5 M<sup>-1</sup> s<sup>-1</sup>, which is one of the highest rates ever described. Furthermore, the dibenzocyclooctyn-1-one displayed fluorescence properties that have allowed their detection in the protozoan parasites Plasmodium falciparum and Trypanosoma brucei by microscopy imaging, proving that they can cross cell membranes and that they are stable enough in biological media.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Terzic</LastName>
+                    <ForeName>Vida</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Chimie des Substances Naturelles, CNRS UPR 2301 , Univ. Paris-Sud, Univ. Paris-Saclay , 1, av. de la Terrasse , Gif-sur-Yvette 91198 , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pousse</LastName>
+                    <ForeName>Guillaume</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Chimie des Substances Naturelles, CNRS UPR 2301 , Univ. Paris-Sud, Univ. Paris-Saclay , 1, av. de la Terrasse , Gif-sur-Yvette 91198 , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Méallet-Renault</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1083-6288</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut des Sciences Moléculaires d'Orsay, CNRS UMR 8214 , Univ. Paris-Sud, Univ. Paris-Saclay , Orsay 91405 , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grellier</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UMR 7245 CNRS MCAM , Muséum National d'Histoire Naturelle , CP52, 57 Rue Cuvier , Paris 75005 , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubois</LastName>
+                    <ForeName>Joëlle</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5162-2438</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Chimie des Substances Naturelles, CNRS UPR 2301 , Univ. Paris-Sud, Univ. Paris-Saclay , 1, av. de la Terrasse , Gif-sur-Yvette 91198 , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Org Chem</MedlineTA>
+            <NlmUniqueID>2985193R</NlmUniqueID>
+            <ISSNLinking>0022-3263</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199143</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.joc.9b00895</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
