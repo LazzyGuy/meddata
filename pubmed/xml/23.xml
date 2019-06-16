@@ -1,0 +1,108 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200403</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-2084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia laboratornaia diagnostika</Title>
+                <ISOAbbreviation>Klin. Lab. Diagn.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Possible applications of saliva for the diagnosis of cancer.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>333-336</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18821/0869-2084-2019-64-6-333-336</ELocationID>
+            <Abstract>
+                <AbstractText>Use of saliva in the clinical laboratory diagnosis is promising, and non-invasive, simple and inexpensive method for the detection of diseases. Integration of complex techniques, including genomic research, epigenome, transcriptome, proteome, metabolome and microbiome, can detect and quantify the number of biomarkers in saliva. Research saliva relates to non-invasive techniques and conducted to evaluate the age and physiological status, detection of somatic diseases, diseases of the salivary glands and oral tissues, genetic markers, drug monitoring, and others. In this review, recent data on the use of saliva to diagnose cancers examined.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bel'skaya</LastName>
+                    <ForeName>L V</ForeName>
+                    <Initials>LV</Initials>
+                    <Identifier Source="ORCID">0000-0002-6147-4854</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Omsk State Pedagogical University, Omsk, 644043, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Lab Diagn</MedlineTA>
+            <NlmUniqueID>9432021</NlmUniqueID>
+            <ISSNLinking>0869-2084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">clinical laboratory diagnostics</Keyword>
+            <Keyword MajorTopicYN="N">genome</Keyword>
+            <Keyword MajorTopicYN="N">metabolome</Keyword>
+            <Keyword MajorTopicYN="N">microbiome</Keyword>
+            <Keyword MajorTopicYN="N">proteome</Keyword>
+            <Keyword MajorTopicYN="N">saliva</Keyword>
+            <Keyword MajorTopicYN="N">transcriptome</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200403</ArticleId>
+            <ArticleId IdType="doi">10.18821/0869-2084-2019-64-6-333-336</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

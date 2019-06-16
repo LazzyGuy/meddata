@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199958</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8541</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of theoretical biology</Title>
+                <ISOAbbreviation>J. Theor. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein Complex Identification Based on Weighted PPI Network with Multi-Source Information.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-5193(19)30232-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtbi.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>Proteins form complexes to accomplish biological functions such as transcription of DNA, translation of mRNA and cell growth. Detection of protein complexes from protein-protein interaction (PPI) networks is the first step for the analysis of biological processes and pathways. Here, we propose a new framework by incorporating Gene Ontology (GO), amino acid background frequency (AABF) and data from von Mering (von Mering data) to identify protein complexes. Firstly, based on the semantic similarity of GO, we construct a weighted PPI network. Secondly, von Mering data is added to construct six types of weighted graphs. Lastly, by integrating density, diameter and cosine similarity, we define a new condition for clustering proteins in these weighted protein network by selecting specific node as ke node. Comparison and analysis results indicate that our proposed method could achieve better performances than some classic existing approaches in regard to f-measure and precision.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shenyang Institute of Automation, Chinese Academy of Sciences, China; Software College, Shenyang Normal University, China. Electronic address: yuyangsd1204@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Zeyu</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shenyang Institute of Automation, Chinese Academy of Sciences, China; University of Chinese Academy of Sciences, China. Electronic address: zhengzeyu@sia.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Theor Biol</MedlineTA>
+            <NlmUniqueID>0376342</NlmUniqueID>
+            <ISSNLinking>0022-5193</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Multi-source information</Keyword>
+            <Keyword MajorTopicYN="N">Protein complex identification</Keyword>
+            <Keyword MajorTopicYN="N">Weighted graph</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199958</ArticleId>
+            <ArticleId IdType="pii">S0022-5193(19)30232-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jtbi.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

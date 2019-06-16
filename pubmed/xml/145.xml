@@ -1,0 +1,180 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200266</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3557</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>222</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy</Title>
+                <ISOAbbreviation>Spectrochim Acta A Mol Biomol Spectrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How to achieve auto-identification in Raman analysis by spectral feature extraction &amp; Adaptive Hypergraph.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117086</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1386-1425(19)30459-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.saa.2019.04.078</ELocationID>
+            <Abstract>
+                <AbstractText>With the miniaturization of Raman spectrometers, Raman spectroscopy (including Surface-enhanced Raman spectroscopy) has been widely applied to various fields, especially towards rapid detection applications. In order to deal with the accompanied massive databases, large numbers of Raman spectra require to be handled and identified in an effective and automatic manner. This paper proposes an algorithm of material auto-identification, which makes use of machine learning methods to analyze Raman spectra. Firstly, a universal method of spectral feature extraction is designed to automatically process Raman spectra after the background subtraction. Secondly, the extracted feature vectors are used to classify and identify target materials by Adaptive Hypergraph (AH), an efficient classifier in the field of machine learning, in a manner of automation with an accuracy rate of ~99%. Compared with Support Vector Machine (SVM) and Random Forest (RF), two typical methods of classification, the AH classifier provides better performance free of tuning any parameter facing different targets. Thirdly, Cubic Spline Interpolation is introduced to enhance the universal of the proposed algorithm between different databases from different Raman spectrometers with variant vendors. The identification accuracy rate is up to 98% using the high frequency sampling spectra as the learning and the low frequency sampling ones as the testing, respectively.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>You</LastName>
+                    <ForeName>Qiaobei</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Pingyang</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Shuyi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Peiyi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Guokun</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Marine Environmental Science, Xiamen University, Xiamen, Fujian 361102, China; Key Laboratory of the Coastal and Wetland Ecosystems of Ministry of Education, Center for Marine Environmental Chemistry and Toxicology, College of the Environment and Ecology, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: guokunliu@xmu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, Zhejiang 310018, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xilong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujian Key Laboratory of Sensing and Computing for Smart City, School of Information Science and Engineering, Xiamen University, Xiamen, Fujian 361005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Yongming</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Marine Environmental Science, Xiamen University, Xiamen, Fujian 361102, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Spectrochim Acta A Mol Biomol Spectrosc</MedlineTA>
+            <NlmUniqueID>9602533</NlmUniqueID>
+            <ISSNLinking>1386-1425</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adaptive Hypergraph</Keyword>
+            <Keyword MajorTopicYN="N">Automation</Keyword>
+            <Keyword MajorTopicYN="N">Material classification and identification</Keyword>
+            <Keyword MajorTopicYN="N">Raman spectroscopy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200266</ArticleId>
+            <ArticleId IdType="pii">S1386-1425(19)30459-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.saa.2019.04.078</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

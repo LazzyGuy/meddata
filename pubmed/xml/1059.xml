@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199270</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-9990</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on biomedical circuits and systems</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Circuits Syst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coherent UWB Radar-on-Chip for In-Body Measurement of Cardiovascular Dynamics.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TBCAS.2019.2922775</ELocationID>
+            <Abstract>
+                <AbstractText>Coherent ultra-wideband (UWB) radar-on-chip technology shows great promise for developing portable and low-cost medical imaging and monitoring devices. Particularly monitoring the mechanical functioning of the cardiovascular system is of interest, due to the ability of radar systems to track sub-mm motion inside the body at a high speed. For imaging applications, UWB radar systems are required, but there are still significant challenges with in-body sensing using low-power microwave equipment and wideband signals. Recently it was shown for the first time, on a single subject, that the arterial pulse wave can be measured at various locations in the body, using coherent UWB radar-on-chip technology. The current work provides more substantial evidence, in the form of new measurements and improved methods, to demonstrate that cardiovascular dynamics can be measured using radar-on-chip. Results across four participants were found to be robust and repeatable. Cardiovascular signals were recorded using radar-on-chip systems and electrocardiography (ECG). Through ECG-aligned averaging, the arterial pulse wave could be measured at a number of locations in the body. Pulse arrival time could be determined with high precision, and blood pressure pulse wave propagation through different arteries was demonstrated. In addition, cardiac dynamics were measured from the chest. This work serves as a first step in developing a portable and low-cost device for long-term monitoring of the cardiovascular system, and provides the fundamentals necessary for developing UWB radar-on-chip imaging systems.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lauteslager</LastName>
+                    <ForeName>Timo</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tommer</LastName>
+                    <ForeName>Mathias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lande</LastName>
+                    <ForeName>Tor S</ForeName>
+                    <Initials>TS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Constandinou</LastName>
+                    <ForeName>Timothy G</ForeName>
+                    <Initials>TG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Circuits Syst</MedlineTA>
+            <NlmUniqueID>101312520</NlmUniqueID>
+            <ISSNLinking>1932-4545</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199270</ArticleId>
+            <ArticleId IdType="doi">10.1109/TBCAS.2019.2922775</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

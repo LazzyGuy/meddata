@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198444</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1857-9655</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Open access Macedonian journal of medical sciences</Title>
+                <ISOAbbreviation>Open Access Maced J Med Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determining the Hospital Information System (HIS) Success Rate: Development of a New Instrument and Case Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1407-1414</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3889/oamjms.2019.294</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Hospital Information System (HIS) is a type of health information system which is widely used in clinical settings. Determining the success rate of HISs is an ongoing area of research since its implications are of interest for researchers, physicians and managers.</AbstractText>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">In the present study, we develop a novel instrument to measure HIS success rate based on users' viewpoints in a teaching hospital.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study was conducted in Ebnesina and Dr Hejazi Psychiatric Hospital and education centre in Mashhad, Iran. The instrument for data collection was a self-administered structured questionnaire based on ISSM, covering seven dimensions, which includes system quality, information quality, service quality, system use, usefulness, satisfaction, and net benefits. The verification of content validity was carried out by an expert panel. The internal consistency of dimensions was measured by Cronbach's alpha. Pearson's correlation coefficient was calculated to evaluate the significance of associations between dimensions. The HIS success rate on users' viewpoints was determined.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 125 users participated in the study. The instrument was validated by an expert panel with the Content Validity Index (CVI): 0.85 and Content Validity Ratio (CVR): 0.86. The overall Cronbach's alpha value of the instrument was 0.93. The Pearson correlation coefficient showed significant positive relationships among the investigated dimensions. On average, HIS success rate in the hospital under study was 65% (CI: 64%, 67%). The dimensions of &quot;usefulness&quot;, &quot;system quality&quot;, and &quot;net benefits&quot; showed the highest rates of success, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The instrument used in this study can be adopted for HIS evaluation in future studies. In the current study, a method was developed to determine the HIS success rate based on users' viewpoints. This method allows for the comparison of HIS success rates in various hospitals. As well, our findings underscore the viewpoints of HIS users in a developing country.'</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ebnehoseini</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, Students Research Committee, Mashhad University of Medical Sciences, Mashhad, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tabesh</LastName>
+                    <ForeName>Hamed</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Informatics, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deldar</LastName>
+                    <ForeName>Kolsoum</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Shahroud University of Medical Sciences, Shahroud, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mostafavi</LastName>
+                    <ForeName>Sayyed Mostafa</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Informatics, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tara</LastName>
+                    <ForeName>Mahmood</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Informatics, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Macedonia</Country>
+            <MedlineTA>Open Access Maced J Med Sci</MedlineTA>
+            <NlmUniqueID>101662294</NlmUniqueID>
+            <ISSNLinking>1857-9655</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Electronic health record</Keyword>
+            <Keyword MajorTopicYN="N">Evaluation</Keyword>
+            <Keyword MajorTopicYN="N">Hospital information systems</Keyword>
+            <Keyword MajorTopicYN="N">ISSM</Keyword>
+            <Keyword MajorTopicYN="N">Information system success model</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198444</ArticleId>
+            <ArticleId IdType="doi">10.3889/oamjms.2019.294</ArticleId>
+            <ArticleId IdType="pii">OAMJMS-7-1407</ArticleId>
+            <ArticleId IdType="pmc">PMC6542404</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

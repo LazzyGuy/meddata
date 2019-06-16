@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199980</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0720</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences</Title>
+                <ISOAbbreviation>Eur J Pharm Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of phase separation morphology on release mechanism of amorphous solid dispersions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104955</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0928-0987(19)30218-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejps.2019.104955</ELocationID>
+            <Abstract>
+                <AbstractText>Amorphous solid dispersions (ASDs) can phase separate in the gel phase during dissolution, lowering the chemical potential and thus the driving force for drug release. The purpose of this study is to explore the connection between amorphous phase separation in the hydrated ASD and its resulting release rate. Poorly soluble model compounds - indomethacin (IND) and ritonavir (RTV) - were formulated as ASDs using PVP as carrier. Rotating disk dissolution studies with varying drug loading levels of IND-PVP and RTV-PVP showed that the drug release was fastest at an intermediate drug loading level. This was in part due to faster erosion of the ASD at lower drug loading levels. More interestingly, at low drug loading levels, PVP and the drug co-eroded, while at high drug loading levels, PVP was released preferentially. In the case of RTV-PVP, the loading level corresponding to this transition was correlated with the change in phase separation morphology as probed by confocal fluorescence imaging studies. At low drug loading levels, the hydrophobic domains were discrete domains while at high drug loading levels, hydrophobic domains were continuous. Our results suggest that at low drug loadings, release is mediated by erosion of the polymer along with embedded drug rich droplets, whereas at high drug loadings, formation of a drug-rich domain continuous morphology leads to preferential release of the polymer-rich domains. The transition from hydrophobic discrete to hydrophobic continuous morphology occurs at the percolation threshold. We discuss the two mechanisms of phase separation and its impact on the drug release from ASDs in the context of the ternary phase diagram.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Yi Rang</ForeName>
+                    <Initials>YR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Sciences, Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, Ontario M5S 3M2, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Yingshan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Sciences, Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, Ontario M5S 3M2, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ping I</ForeName>
+                    <Initials>PI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Sciences, Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, Ontario M5S 3M2, Canada. Electronic address: ping.lee@utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Eur J Pharm Sci</MedlineTA>
+            <NlmUniqueID>9317982</NlmUniqueID>
+            <ISSNLinking>0928-0987</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amorphous solid dispersion</Keyword>
+            <Keyword MajorTopicYN="N">Dissolution</Keyword>
+            <Keyword MajorTopicYN="N">Mechanism of release</Keyword>
+            <Keyword MajorTopicYN="N">Phase separation</Keyword>
+            <Keyword MajorTopicYN="N">Poorly soluble drug</Keyword>
+            <Keyword MajorTopicYN="N">Ternary phase diagram</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199980</ArticleId>
+            <ArticleId IdType="pii">S0928-0987(19)30218-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejps.2019.104955</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

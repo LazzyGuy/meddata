@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199173</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1941-837X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical economics</Title>
+                <ISOAbbreviation>J Med Econ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cost per response for guselkumab versus adalimumab in the United States using data from a head-to-head trial in moderate to severe plaque psoriasis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/13696998.2019.1632204</ELocationID>
+            <Abstract>
+                <AbstractText><b>Aims:</b> To estimate annual cost per response (CPR) in the US and number needed to treat (NNT) among subjects receiving guselkumab or adalimumab treatment for moderate to severe plaque psoriasis (PsO). <b>Materials and methods:</b> Results from VOYAGE 1, a double-blind, placebo-controlled, head-to-head, 48-week study of guselkumab compared with adalimumab in patients with moderate to severe PsO were used to estimate annual CPR for Psoriasis Area and Severity Index (PASI) 75, 90 and 100 responses. Drug dosing followed US label recommendations and drug costs were based on US annual wholesale acquisition costs. Number needed to treat (NNT) and annual CPR analyses were estimated, and week 48 response rates were assumed to be maintained for both the induction and maintenance years. <b>Results:</b> Week-48 PASI 90 response rates were 76.3% for guselkumab and 47.9% for adalimumab. The CPR for PASI 90 in the induction year for guselkumab was $106,511 versus $142,398 for adalimumab. Both drugs had lower CPRs for PASI 90 in the maintenance year: $79,884 for guselkumab and $132,227 for adalimumab. The NNT for a PASI 90 response was 1.3 for guselkumab and 2.1 for adalimumab; CPRs and NNT were also lower for guselkumab than for adalimumab for PASI 75 and PASI 100 for both induction and maintenance years. <b>Limitations and conclusions:</b> In this analysis, extrapolating 48-week results from a single head-to-head study, guselkumab was more cost-effective with lower NNT than adalimumab in both the induction and maintenance years for PASI 75, PASI 90, and PASI 100 responses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Teeple</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Janssen Scientific Affairs LLC, Real World Evidence and Value , 800 Ridgeview Drive , Horsham , Pennsylvania 19044 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muser</LastName>
+                    <ForeName>Erik</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Janssen Scientific Affairs LLC, Real World Evidence and Value , 800 Ridgeview Drive , Horsham , Pennsylvania 19044 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Med Econ</MedlineTA>
+            <NlmUniqueID>9892255</NlmUniqueID>
+            <ISSNLinking>1369-6998</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C99</Keyword>
+            <Keyword MajorTopicYN="N">CPR</Keyword>
+            <Keyword MajorTopicYN="N">Cost per responder</Keyword>
+            <Keyword MajorTopicYN="N">I19</Keyword>
+            <Keyword MajorTopicYN="N">NNT</Keyword>
+            <Keyword MajorTopicYN="N">adalimumab</Keyword>
+            <Keyword MajorTopicYN="N">cost-effectiveness</Keyword>
+            <Keyword MajorTopicYN="N">guselkumab</Keyword>
+            <Keyword MajorTopicYN="N">number needed to treat</Keyword>
+            <Keyword MajorTopicYN="N">psoriasis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199173</ArticleId>
+            <ArticleId IdType="doi">10.1080/13696998.2019.1632204</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

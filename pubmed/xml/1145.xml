@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199163</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-2010</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Behavioral sleep medicine</Title>
+                <ISOAbbreviation>Behav Sleep Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Temporal Associations between Sleep and Daytime Functioning in Parkinson's Disease: A Smartphone-Based Ecological Momentary Assessment.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/15402002.2019.1629445</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objectives/Background</b>: Disruptions to mood, cognition, and other daytime functioning are common and debilitating symptoms of Parkinson's disease (PD), and there is evidence that sleep problems contribute to these symptoms. However, previous studies are limited by reliance on self-reported sleep and cross-sectional designs. With the aim of assessing sleep as a possible treatment target for improving daytime functioning in PD, we used smartphone-based ecological momentary assessment (EMA) and actigraphy to investigate temporal associations between sleep (objective and subjective) and daytime functioning. <b>Participants/Methods</b>: Twenty participants with mild-moderate PD wore actigraphs and completed sleep diaries for 14-15 days. They reported daytime functioning (anxiety, positive affect, cognitive function, fatigue, and social function) twice daily via smartphone-administered questionnaires. Multilevel modeling examined whether sleep quantity/quality predicted next-day functioning, and whether current mood (anxiety, positive affect) predicted later sleep. <b>Results</b>: Average completion rates for sleep diaries and daytime questionnaires were 94% and 91%, respectively. Subjective sleep quality predicted next-day anxiety (B = -.75, SE = .25, <i>p</i>= .003), but objective sleep did not predict any daytime functioning variables (<i>p</i>'s&gt;.112). Positive affect predicted later subjective sleep quality (B = 0.03, SE = .01, <i>p</i> = .003) but not objective sleep quantity/quality (<i>p</i>'s&gt;.107). <b>Conclusions</b>: We demonstrated the feasibility of using EMA in PD. On a daily timescale, subjective sleep quality was bidirectionally associated with mood, whereas objective sleep was not associated with any daytime functioning. This discrepancy suggests that <i>perception</i> of sleep is important for mood in PD, which could provide targets for non-pharmacological interventions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Jade Q</ForeName>
+                    <Initials>JQ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2206-7914</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Psychological and Brain Sciences , Boston University , Boston , MA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Psychiatry and Behavioral Sciences , Duke University Medical Center , Durham , NC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cronin-Golomb</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Psychological and Brain Sciences , Boston University , Boston , MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Behav Sleep Med</MedlineTA>
+            <NlmUniqueID>101149327</NlmUniqueID>
+            <ISSNLinking>1540-2002</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199163</ArticleId>
+            <ArticleId IdType="doi">10.1080/15402002.2019.1629445</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200160</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of short-term exposure to fine particulate matter air pollution on urinary metabolome: A randomized, double-blind, crossover trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104878</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)30295-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.072</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Metabolomics is a novel tool to explore the biological mechanisms of the health effects of fine particulate matter (PM<sub>2.5</sub>) air pollution. Very few studies have examined the urinary metabolomic changes associated with PM<sub>2.5</sub> exposure.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the alternation in urine metabolomics in response to short-term PM<sub>2.5</sub> exposure.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a randomized, double-blind, crossover trial of 9-day real or sham indoor air purification among 45 healthy college students in Shanghai, China. Urine samples were collected immediately at the end of each intervention stage and were analyzed for metabolomics using ultrahigh performance liquid chromatography-mass spectrometry. Orthogonal partial least square-discriminant analysis and linear mixed effect models were used to examine metabolomic changes between interventional scenarios and their associations with continuous PM<sub>2.5</sub> exposure.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The time-weighted average personal PM<sub>2.5</sub> exposure in the real-purified scenario was 50% lower than in the sham-purified air scenario (28.3 μg/m<sup>3</sup> VS 56.9 μg/m<sup>3</sup>). A total of 40 differentiated urinary metabolites at a false discovery rate &lt;0.05 were identified for the effects of both intervention and continuous PM<sub>2.5</sub> exposure, including 16 lipids, 5 purine metabolites, 2 neurotransmitters, and 3 coenzymes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This real-world randomized crossover trial demonstrated that short-term PM<sub>2.5</sub> exposure could result in significant changes in urinary metabolomic profile, which may further lead to perturbation in energy metabolism, oxidative stress and inflammation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Huichu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niu</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Cong</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Zhijing</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; NHC Key Lab of Health Technology Assessment, Ministry of Health, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Weihua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Reproduction Regulation of National Population and Family Planning Commission, Shanghai Institute of Planned Parenthood Research, Institute of Reproduction and Development, Fudan University, Shanghai 200032, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ge</LastName>
+                    <ForeName>Wenzhen</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regeneron Pharmaceuticals Inc., 777 Old Saw Mill River Road, Tarrytown NY10605, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Renjie</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; Shanghai Key Laboratory of Meteorology and Health, Shanghai 200030, China. Electronic address: chenrenjie@fudan.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kan</LastName>
+                    <ForeName>Haidong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Key Lab of Public Health Safety, Ministry of Education, Fudan University, Shanghai 200032, China; Key Laboratory of Reproduction Regulation of National Population and Family Planning Commission, Shanghai Institute of Planned Parenthood Research, Institute of Reproduction and Development, Fudan University, Shanghai 200032, China. Electronic address: kanh@fudan.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Energy metabolism</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">PM(2.5)</Keyword>
+            <Keyword MajorTopicYN="N">Urine metabolomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200160</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)30295-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.072</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

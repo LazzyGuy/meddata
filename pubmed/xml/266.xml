@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200140</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1298</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>233</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemosphere</Title>
+                <ISOAbbreviation>Chemosphere</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An ecotoxicological assessment of mine tailings from three Norwegian mines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>818-827</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-6535(19)31224-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chemosphere.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>The study assessed the environmental toxicity of three Norwegian mine tailings from Omya Hustadmarmor, Sydvaranger, and Sibelco, which are all released into a seawater recipient. Ecotoxicity assessments were performed on the overlying water extracted from the mine tailings, the transformation/dissolution waters obtained from the mine tailings, and whole sediment assessment using a suite of marine organisms including algae, Crustacea, and Mollusca. Overall, based on the toxicity evaluation of the transformation/dissolution data, Sibelco tailings resulted in the highest toxicity albeit at relatively high concentrations, followed by Sydvaranger and Hustadmarmor. Sibelco was the only mine where process chemicals were not used. In contrast, the Corophium sediment contact assay revealed a significantly higher toxicity exerted by Hustadmarmor tailings, which may indicate a physical impact of the fine tailings. The effects observed were discussed with respect to both the measured chemical concentrations of the tailings and the potential physical impact of the tailing particles on organism health.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brooks</LastName>
+                    <ForeName>Steven J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Norwegian Institute for Water Research (NIVA), Gaustadalléen 21, NO-0349, Oslo, Norway. Electronic address: sbr@niva.no.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escudero-Oñate</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Norwegian Institute for Water Research (NIVA), Gaustadalléen 21, NO-0349, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lillicrap</LastName>
+                    <ForeName>Adam D</ForeName>
+                    <Initials>AD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Norwegian Institute for Water Research (NIVA), Gaustadalléen 21, NO-0349, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chemosphere</MedlineTA>
+            <NlmUniqueID>0320657</NlmUniqueID>
+            <ISSNLinking>0045-6535</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bioassays</Keyword>
+            <Keyword MajorTopicYN="N">Dissolution</Keyword>
+            <Keyword MajorTopicYN="N">Mine tailings</Keyword>
+            <Keyword MajorTopicYN="N">Sediment contact assay</Keyword>
+            <Keyword MajorTopicYN="N">Transformation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200140</ArticleId>
+            <ArticleId IdType="pii">S0045-6535(19)31224-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chemosphere.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

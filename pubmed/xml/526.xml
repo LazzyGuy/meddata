@@ -1,0 +1,261 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199863</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-4844</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inflammatory bowel diseases</Title>
+                <ISOAbbreviation>Inflamm. Bowel Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decellularized Human Gut as a Natural 3D Platform for Research in Intestinal Fibrosis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">izz115</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ibd/izz115</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The current methodologies for the identification of therapeutic targets for inflammatory bowel disease (IBD) are limited to conventional 2-dimensional (2D) cell cultures and animal models. The use of 3D decellularized human intestinal scaffolds obtained from surgically resected intestine and engineered with human intestinal cells may provide a major advancement in the development of innovative intestinal disease models. The aim of the present study was to design and validate a decellularization protocol for the production of acellular 3D extracellular matrix (ECM) scaffolds from the human duodenum.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Scaffolds were characterized by verifying the preservation of the ECM protein composition and 3D architecture of the native intestine and were employed for tissue engineering with primary human intestinal myofibroblasts for up to 14 days.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Engrafted cells showed the ability to grow and remodel the surrounding ECM. mRNA expression of key genes involved in ECM turnover was significantly different when comparing primary human intestinal myofibroblasts cultured in 3D scaffolds with those cultured in standard 2D cultures on plastic dishes. Moreover, incubation with key profibrogenic growth factors such as TGFβ1 and PDGF-BB resulted in markedly different effects in standard 2D vs 3D cultures, further emphasizing the importance of using 3D cell cultures.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These results confirm the feasibility of 3D culture of human intestinal myofibroblasts in intestinal ECM scaffolds as an innovative platform for disease modeling, biomarker discovery, and drug testing in intestinal fibrosis.</AbstractText>
+                <CopyrightInformation>© 2019 Crohn’s &amp; Colitis Foundation. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Giuffrida</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>First Department of Internal Medicine, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Curti</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>First Department of Internal Medicine, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Akkad</LastName>
+                    <ForeName>Walid</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biel</LastName>
+                    <ForeName>Carin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crowley</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stem Cells and Regenerative Medicine Section, Developmental Biology and Cancer Programme, UCL Institute for Child Health, Great Ormond Street Hospital, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frenguelli</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Telese</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamburrino</LastName>
+                    <ForeName>Domenico</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Surgery, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spoletini</LastName>
+                    <ForeName>Gabriele</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Surgery, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fusai</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Surgery, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tinozzi</LastName>
+                    <ForeName>Francesco Paolo</ForeName>
+                    <Initials>FP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, General Surgery II, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietrabissa</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, General Surgery II, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corazza</LastName>
+                    <ForeName>Gino Roberto</ForeName>
+                    <Initials>GR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>First Department of Internal Medicine, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Coppi</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stem Cells and Regenerative Medicine Section, Developmental Biology and Cancer Programme, UCL Institute for Child Health, Great Ormond Street Hospital, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Specialist Neonatal and Paediatric Surgery at Great Ormond Street Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinzani</LastName>
+                    <ForeName>Massimo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Di Sabatino</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>First Department of Internal Medicine, San Matteo Hospital Foundation, University of Pavia, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rombouts</LastName>
+                    <ForeName>Krista</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazza</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine &amp; Fibrosis Group, Institute for Liver &amp; Digestive Health, University College London, Royal Free Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Inflamm Bowel Dis</MedlineTA>
+            <NlmUniqueID>9508162</NlmUniqueID>
+            <ISSNLinking>1078-0998</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3D ECM scaffold in vitro model</Keyword>
+            <Keyword MajorTopicYN="N">decellularization</Keyword>
+            <Keyword MajorTopicYN="N">human intestinal myofibroblast</Keyword>
+            <Keyword MajorTopicYN="N">tissue regeneration</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199863</ArticleId>
+            <ArticleId IdType="pii">5519173</ArticleId>
+            <ArticleId IdType="doi">10.1093/ibd/izz115</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

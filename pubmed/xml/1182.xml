@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199126</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Generating fatty acid profiles in the gas-phase: Fatty acid identification and relative quantitation using ion/ion charge inversion chemistry.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.analchem.9b01333</ELocationID>
+            <Abstract>
+                <AbstractText>Representing the most fundamental lipid class, fatty acids (FA) play vital biological roles serving as energy sources, cellular signaling molecules, and key architectural components of complex lipids. Direct infusion electrospray ionization spectrometry, also known as shotgun lipidomics, has emerged as a rapid and powerful toolbox for lipid analysis. While shotgun lipidomics can be a sensitive approach to FA detection, the diverse molecular structure of FA presents challenges for unambiguous identification and the relative quantification of isomeric contributors. In particular, pinpointing double bond position(s) in unsaturated FA and determining the relative contribution of double bond isomers has limited the application of the shotgun approach. Recently, we reported the use of gas-phase ion/ion reactions to facilitate the identification of FA. Briefly, singly deprotonated FA anions undergo charge inversion when reacted in the gas-phase with tris-phenanthroline magnesium dications by forming [FA - H + MgPhen]+ complex ions. These charge-inverted FA complex cations fragment upon ion-trap collision induced dissociation (CID) to generate product ion spectra unique to individual FA isomers. Herein, we report the development of a mass spectral library comprised of [FA - H + MgPhen]+ product ion spectra. The developed FA library permits confident FA identification, including polyunsaturated FA isomers. Furthermore, we demonstrate the ability to determine relative contributions of isomeric FA using multiple linear regression analysis paired with gas-phase ion/ion reactions. We successfully applied the presented method to generate a FA profile for bovine liver phospholipidome based entirely on gas-phase chemistries.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Randolph</LastName>
+                    <ForeName>Caitlin E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foreman</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blanksby</LastName>
+                    <ForeName>Stephen J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLuckey</LastName>
+                    <ForeName>Scott A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199126</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.analchem.9b01333</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

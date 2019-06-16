@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198136</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Benefits and risks of stress ulcer prevention with proton pump inhibitors for critical patients: an observational cohort study with 1 972 patients].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>539-544</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the benefits and risks of stress ulcer prevention (SUP) using proton pump inhibitors (PPI) for critical patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The clinical data of adult critically ill patients admitted to the intensive care unit (ICU) of Northern Jiangsu People's Hospital from January 2016 to December 2018 were retrospectively analyzed. All patients who were treated with PPI for SUP within the first 48 hours after ICU admission were enrolled in the SUP group. Those who not received PPI were enrolled in the control group. A one-to-one propensity score matching (PSM) was performed to control for potential biases. The gender, age, underlying diseases, main diagnosis of ICU, drug use before ICU admission, sequential organ failure score (SOFA) at ICU admission, risk factors of stress ulcer (SU) and PPI usage were recorded. The end point was the incidence of gastrointestinal bleeding, hospital acquired pneumonia, Clostridium difficile infection and 30-day mortality. Kaplan-Meier survival curves were plotted, and survival analysis was performed using the log-rank test.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">1 972 critical patients (788 in the SUP group and 1 184 in the control group) were enrolled, and each group enrolled 358 patients after PSM. Prior to PSM, compared with the control group, the SUP group had older patients, more underlying diseases, higher proportion of acute coronary syndrome (ACS), acute cerebrovascular disease, acute exacerbation of chronic obstructive pulmonary disease (AECOPD) and poisoning in main diagnosis of ICU, more serious illness, and more risk factors of SU, indicating that ICU physicians were more likely to prescribe SUP for these patients. The incidence of gastrointestinal bleeding in the SUP group was significantly lower than that in the control group [1.8% (14/788) vs. 3.7% (44/1 184), P &lt; 0.05], while the incidence of hospital acquired pneumonia and 30-day mortality were significantly higher than those in the control group [6.6% (52/788) vs. 3.5% (42/1 184), 17.9% (141/788) vs. 13.1% (155/1 184), both P &lt; 0.01]. There was no significant difference in the incidence of Clostridium difficile infection between the SUP group and the control group [2.9% (23/788) vs. 1.8% (21/1 184), P &gt; 0.05]. After the propensity scores for age, underlying diseases, severity of illness and SU risk factors were matched, there was no significant difference in the incidence of gastrointestinal bleeding or 30-day mortality between the SUP group and the control group [2.2% (8/358) vs. 3.4% (12/358), 15.9% (57/358) vs. 13.7% (49/358), both P &gt; 0.05], but the incidence of hospital acquired pneumonia in the SUP group was still significantly higher than that in the control group [6.7% (24/358) vs. 3.1% (11/358), P &lt; 0.05]. Kaplan-Meier survival curve analysis showed that the 30-day cumulative survival rate of the SUP group was significantly lower than that of the control group before the PSM (log-rank test: χ<sup>2</sup> = 9.224, P = 0.002). There was no significant difference in the 30-day cumulative survival rate between the two groups after PSM (log-rank test: χ<sup>2</sup> = 0.773, P = 0.379).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For critical patients, the use of PPI for SUP could not significantly reduce the incidence of gastrointestinal bleeding and mortality, but increase the risk of hospital acquired pneumonia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jiayan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Bingxia</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China. Corresponding author: Tan Dingyu, Email: webtan1981@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China. Corresponding author: Tan Dingyu, Email: webtan1981@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Kangsheng</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geng</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China. Corresponding author: Tan Dingyu, Email: webtan1981@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Dingyu</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Northern Jiangsu People's Hospital, Clinical Medical College, Yangzhou University, Yangzhou 225001, Jiangsu, China. Corresponding author: Tan Dingyu, Email: webtan1981@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198136</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199313</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stimulation of Nucleotide Oligomerization Domain and Toll-Like Receptors 2 to Enhance the Effect of Bacillus Calmette Guerin Immunization for Prevention of Mycobacterium Tuberculosis Infection: Protocol for a Series of Preclinical Randomized Controlled Trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13045</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13045</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Bacillus calmette guerin (BCG) immunization has been associated with a reduction in Mycobacterium tuberculosis (MTB) infection. BCG immunization has been shown to enhance innate immunity. This effect of BCG can be explained by an enhancing effect on innate immunity.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to test the following hypotheses: (1) BCG immunization can prevent infection with MTB, (2) prevention of infection occurs via stimulation of NOD2 (nucleotide oligomerization domain) and toll-like receptors 2 (TLR2), and (3) the effect of BCG immunization on prevention of infection with MTB can be enhanced by giving stimulators of NOD2 and TLR2.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To detect the influence of immunization on infection rates, the ultralow dose (ULD) infection model is used. The infection rate of mice vaccinated with BCG and exposed after 6 weeks to ULD of MTB and unvaccinated mice are compared via cultures of lung homogenates and interferon (IFN) gamma release assay. If a reduced infection rate by BCG immunization is confirmed, the experiment is repeated by giving BCG combined simultaneously or in time sequence with the enhancers of innate immunity murabutide or beta-glycan. The influence of murabutide or beta-glycan alone on infection rates is investigated. To quantify the contribution of innate immunity levels of tumor necrosis factor, IFN gamma expression, histone H3 K4me3 trimethylation, and concentrations of monocytes with features of activation of innate immunity as defined by the Ly6Chigh as well as CD11b positive phenotype in immunized versus unimmunized infected and uninfected mice in the various immunization protocols is compared. The experiments will be repeated with prior application of the inhibitors of epigenetic programming of innate immunity histone methyltransferase inhibitor 5'-deoxy-5'-methylthio-adenosine and histone acetyl transferase inhibitor epigallocatechin-3-gallate. The influence of BCG on innate immunity is further corroborated by a prospective observational study in human infants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Investigations of derivatives of muramyl dipeptide (MDP) to enhance early immunity in the C57BL/6 mouse strain (mice aged 7 weeks) by another group used 300 micrograms per mouse of oil-associated 6-0-mycoloyl-N-acetylmuramyl-L-alanyl-D-isoglutamine (mycol-MDP) 50/50 mixed with Freund's incomplete adjuvant. Comparison of colony-forming unit (CFU) count in the lungs 3 weeks after aerosol challenge with Mycobacterium bovis of groups (n=5) between groups receiving mycol-MDP in oil emulsion (see above) versus controls (n=5) showed a significantly lower CFU count of 94.5 x106 (SD 22.0) in cases versus controls with 204.0 X 106 (SD 77.6). It is important to note that after elimination of T-cells in this model, a reduction of CFU in lungs of mice treated with mycol-MDP persisted albeit without statistical significance, which was possibly related to the small number of animals used.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Demonstration of a reduction of MTB infection by enhancement of innate immunity could show a new approach to improving vaccine efficacy against this pathogen.</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">PRR1-10.2196/13045.</AbstractText>
+                <CopyrightInformation>©Michael Eisenhut. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 08.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eisenhut</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8505-1186</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Luton&amp;Dunstable University Hospital NHS Foundation Trust, Luton, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BCG</Keyword>
+            <Keyword MajorTopicYN="N">Mycobacterium tuberculosis infection</Keyword>
+            <Keyword MajorTopicYN="N">bacillus calmette guerin vaccine</Keyword>
+            <Keyword MajorTopicYN="N">innate immunity</Keyword>
+            <Keyword MajorTopicYN="N">toll-like receptors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199313</ArticleId>
+            <ArticleId IdType="pii">v8i6e13045</ArticleId>
+            <ArticleId IdType="doi">10.2196/13045</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

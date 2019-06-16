@@ -1,0 +1,182 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200206</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6424</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>252</Volume>
+                    <Issue>Pt A</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental pollution (Barking, Essex : 1987)</Title>
+                <ISOAbbreviation>Environ. Pollut.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fate of 6:2 fluorotelomer sulfonic acid in pumpkin (Cucurbita maxima L.) based on hydroponic culture: Uptake, translocation and biotransformation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>804-812</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0269-7491(19)30176-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envpol.2019.06.020</ELocationID>
+            <Abstract>
+                <AbstractText>6:2 fluorotelomer sulfonic acid (6:2 FTSA) is currently used as an alternative to perfluorooctanesulfonate (PFOS) and is widely detected in the environment. The uptake, translocation and biotransformation of 6:2 FTSA in pumpkin (Cucurbita maxima L.) were investigated by hydroponic exposure for the first time. The root concentration factor (RCF) of 6:2 FTSA was 2.6-24.2 times as high as those of perfluoroalkyl acids (PFAAs) of the same or much shorter carbon chain length, demonstrating much higher bioaccumulative ability of 6:2 FTSA in pumpkin roots. The translocation capability of 6:2 FTSA from root to shoot depended on its hydrophobicity. Six terminal perfluorocarboxylic acid (PFCA) metabolites, including perfluoroheptanoic acid (PFHpA), perfluorohexanoic acid (PFHxA), perfluoropentanoic acid (PFPeA), perfluorobutanoic acid (PFBA), perfluoropropionic acid (PFPrA) and trifluoroacetic acid (TFA) were found in pumpkin roots and shoots. PFHpA was the primary metabolite in roots, while PFBA was the major product in shoots. 1-aminobenzotriazole (ABT), a cytochromes P450 (CYPs) suicide inhibitor, could decrease the concentrations of PFCA products with dose-dependent relationships in pumpkin tissues, implying the role of CYP enzymes involved in plant biotransformation of 6:2 FTSA. This study indicated that the application of 6:2 FTSA can lead to the occurrence of PFCAs (C2-C7) in plants.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Shuyan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China. Electronic address: zhaoshuyan@dlut.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Tiankun</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Lingyan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Pollution Processes and Environmental Criteria, Ministry of Education, Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin, 300071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Liping</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Pollution Processes and Environmental Criteria, Ministry of Education, Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin, 300071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Tianqi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Jia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Bohui</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhan</LastName>
+                    <ForeName>Jingjing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Lifen</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), School of Food and Environment, Dalian University of Technology, Panjin, Liaoning, 124221, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Pollut</MedlineTA>
+            <NlmUniqueID>8804476</NlmUniqueID>
+            <ISSNLinking>0269-7491</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">6:2 FTSA</Keyword>
+            <Keyword MajorTopicYN="N">Biotransformation</Keyword>
+            <Keyword MajorTopicYN="N">PFCAs</Keyword>
+            <Keyword MajorTopicYN="N">Pumpkin</Keyword>
+            <Keyword MajorTopicYN="N">Uptake and translocation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200206</ArticleId>
+            <ArticleId IdType="pii">S0269-7491(19)30176-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envpol.2019.06.020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

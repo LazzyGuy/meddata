@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200382</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identifying brain tumors by differential mobility spectrometry analysis of diathermy smoke.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.JNS19274</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.JNS19274</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">There is a need for real-time, intraoperative tissue identification technology in neurosurgery. Several solutions are under development for that purpose, but their adaptability for standard clinical use has been hindered by high cost and impracticality issues. The authors tested and preliminarily validated a method for brain tumor identification that is based on the analysis of diathermy smoke using differential mobility spectrometry (DMS).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A DMS connected to a special smoke sampling system was used to discriminate brain tumors and control samples ex vivo in samples from 28 patients who had undergone neurosurgical operations. They included meningiomas (WHO grade I), pilocytic astrocytomas (grade I), other low-grade gliomas (grade II), glioblastomas (grade IV), CNS metastases, and hemorrhagic or traumatically damaged brain tissue as control samples. Original samples were cut into 694 smaller specimens in total.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">An overall classification accuracy (CA) of 50% (vs 14% by chance) was achieved in 7-class classification. The CA improved significantly (up to 83%) when the samples originally preserved in Tissue-Tek conservation medium were excluded from the analysis. The CA further improved when fewer classes were used. The highest binary classification accuracy, 94%, was obtained in low-grade glioma (grade II) versus control.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The authors' results show that surgical smoke from various brain tumors has distinct DMS profiles and the DMS analyzer connected to a special sampling system can differentiate between tumorous and nontumorous tissue and also between different tumor types ex vivo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Haapala</LastName>
+                    <ForeName>Ilkka</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Unit of Neurosurgery, Tampere University Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karjalainen</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kontunen</LastName>
+                    <ForeName>Anton</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vehkaoja</LastName>
+                    <ForeName>Antti</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nordfors</LastName>
+                    <ForeName>Kristiina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Department of Pediatrics, Tampere University Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haapasalo</LastName>
+                    <ForeName>Hannu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Fimlab Laboratories Ltd., Tampere University Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haapasalo</LastName>
+                    <ForeName>Joonas</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Unit of Neurosurgery, Tampere University Hospital.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oksala</LastName>
+                    <ForeName>Niku</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Centre for Vascular Surgery and Interventional Radiology, Tampere University Hospital; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roine</LastName>
+                    <ForeName>Antti</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Faculty of Medicine and Health Technology, Tampere University.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6Department of Surgery, Tampere University Hospital, Hatanpää Hospital, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">10-f-CV = 10-fold cross-validation</Keyword>
+            <Keyword MajorTopicYN="N">CA = classification accuracy</Keyword>
+            <Keyword MajorTopicYN="N">DMS = differential mobility spectrometry</Keyword>
+            <Keyword MajorTopicYN="N">GBM = glioblastoma</Keyword>
+            <Keyword MajorTopicYN="N">LDA = linear discriminant analysis</Keyword>
+            <Keyword MajorTopicYN="N">LGG = low-grade glioma</Keyword>
+            <Keyword MajorTopicYN="N">LOOCV = leave-one-out cross-validation</Keyword>
+            <Keyword MajorTopicYN="N">OCT = optical coherence tomography</Keyword>
+            <Keyword MajorTopicYN="N">REIMS = rapid evaporate ionization mass spectrometry</Keyword>
+            <Keyword MajorTopicYN="N">brain tumor identification</Keyword>
+            <Keyword MajorTopicYN="N">differential mobility spectrometry</Keyword>
+            <Keyword MajorTopicYN="N">oncology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200382</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.JNS19274</ArticleId>
+            <ArticleId IdType="pii">2019.3.JNS19274</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198586</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2057-2107</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience of consciousness</Title>
+                <ISOAbbreviation>Neurosci Conscious</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How experimental procedures influence estimates of metacognitive ability.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>niz009</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/nc/niz009</ELocationID>
+            <Abstract>
+                <AbstractText>It is becoming widely appreciated that higher stimulus sensitivity trivially increases estimates of metacognitive sensitivity. Therefore, meaningful comparisons of metacognitive ability across conditions and observers necessitates equating stimulus sensitivity. To achieve this, one common approach is to use a continuous staircase that runs throughout the duration of the experiment under the assumption that this procedure has no influence on the estimated metacognitive ability. Here we critically examine this assumption. Using previously published data, we find that, compared to using a single level of stimulus contrast, staircase techniques lead to inflated estimates of metacognitive ability across a wide variety of measures including area under the type 2 ROC curve, the confidence-accuracy correlation phi, meta-<i>d</i>', meta-<i>d</i>'<i>/d</i>', and meta-<i>d</i>'<i>-d</i>'. Furthermore, this metacognitive inflation correlates with the degree of stimulus variability experienced by each subject. These results suggest that studies using a staircase approach are likely to report inflated estimates of metacognitive ability. Furthermore, we argue that similar inflation likely occurs in the presence of variability in task difficulty caused by other factors such as fluctuations in alertness or gradual improvement on the task. We offer practical solutions to these issues, both in the design and analysis of metacognition experiments.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rahnev</LastName>
+                    <ForeName>Dobromir</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0002-5265-2559</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, Georgia Institute of Technology, 654 Cherry Str NW, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleming</LastName>
+                    <ForeName>Stephen M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Centre for Human Neuroimaging, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Neurosci Conscious</MedlineTA>
+            <NlmUniqueID>101679109</NlmUniqueID>
+            <ISSNLinking>2057-2107</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">confidence</Keyword>
+            <Keyword MajorTopicYN="N">metacognition</Keyword>
+            <Keyword MajorTopicYN="N">perceptual decision making</Keyword>
+            <Keyword MajorTopicYN="N">staircase procedure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198586</ArticleId>
+            <ArticleId IdType="doi">10.1093/nc/niz009</ArticleId>
+            <ArticleId IdType="pii">niz009</ArticleId>
+            <ArticleId IdType="pmc">PMC6556214</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

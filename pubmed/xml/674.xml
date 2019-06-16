@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199690</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-7558</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>124</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal on intellectual and developmental disabilities</Title>
+                <ISOAbbreviation>Am J Intellect Dev Disabil</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Novel Framework to Measure Executive Function in Down Syndrome With Applications for Early Clinical Diagnosis of Dementia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>354-373</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1352/1944-7558-124.4.354</ELocationID>
+            <Abstract>
+                <AbstractText>Executive function (EF) decline is a consistent early sign of Alzheimer's disease (AD) among adults with Down syndrome (DS), which means that baseline measures of EF for individuals with DS are vital to allow detection of meaningful decline. We developed a framework to extract measures of three core components of EF (memory updating, inhibitory, and temporal components) within one task. Increases in memory load, inhibitory load, and temporal demands led to significant increases in reaction times and significant decreases in accuracy among 18 adults with DS and 18 typically developing matched individuals; thus, the expected effects of all three manipulations were detected. Good test-retest reliability indicated that this framework has the potential to provide a simple, baseline EF measure for individuals with DS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Elizabeth Smith, University of Bristol and Cardiff University, UK; Craig Hedge, Cardiff University, UK; and Christopher Jarrold, University of Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hedge</LastName>
+                    <ForeName>Craig</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Elizabeth Smith, University of Bristol and Cardiff University, UK; Craig Hedge, Cardiff University, UK; and Christopher Jarrold, University of Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jarrold</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Elizabeth Smith, University of Bristol and Cardiff University, UK; Craig Hedge, Cardiff University, UK; and Christopher Jarrold, University of Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Intellect Dev Disabil</MedlineTA>
+            <NlmUniqueID>101492916</NlmUniqueID>
+            <ISSNLinking>1944-7558</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"/>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199690</ArticleId>
+            <ArticleId IdType="doi">10.1352/1944-7558-124.4.354</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

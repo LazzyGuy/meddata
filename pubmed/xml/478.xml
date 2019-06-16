@@ -1,0 +1,212 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199917</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Viral Capsid Trafficking along Treadmilling Tubulin Filaments in Bacteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1771-1780.e12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(19)30560-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2019.05.032</ELocationID>
+            <Abstract>
+                <AbstractText>Cargo trafficking along microtubules is exploited by eukaryotic viruses, but no such examples have been reported in bacteria. Several large Pseudomonas phages assemble a dynamic, tubulin-based (PhuZ) spindle that centers replicating phage DNA sequestered within a nucleus-like structure. Here, we show that capsids assemble on the membrane and then move rapidly along PhuZ filaments toward the phage nucleus for DNA packaging. The spindle rotates the phage nucleus, distributing capsids around its surface. PhuZ filaments treadmill toward the nucleus at a constant rate similar to the rate of capsid movement and the linear velocity of nucleus rotation. Capsids become trapped along mutant static PhuZ filaments that are defective in GTP hydrolysis. Our results suggest a transport and distribution mechanism in which capsids attached to the sides of filaments are trafficked to the nucleus by PhuZ polymerization at the poles, demonstrating that the phage cytoskeleton evolved cargo-trafficking capabilities in bacteria.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chaikeeratisak</LastName>
+                    <ForeName>Vorrapon</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA; Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, 10330, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khanna</LastName>
+                    <ForeName>Kanika</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Katrina T</ForeName>
+                    <Initials>KT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sugie</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Egan</LastName>
+                    <ForeName>MacKennon E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erb</LastName>
+                    <ForeName>Marcella L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vavilina</LastName>
+                    <ForeName>Anastasia</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nonejuie</LastName>
+                    <ForeName>Poochit</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular Biosciences, Mahidol University, Nakhon Pathom 73170, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nieweglowska</LastName>
+                    <ForeName>Eliza</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Biophysics and the Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA 94158, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pogliano</LastName>
+                    <ForeName>Kit</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agard</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Biophysics and the Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA 94158, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villa</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA. Electronic address: evilla@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pogliano</LastName>
+                    <ForeName>Joe</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biological Sciences, University of California, San Diego, San Diego, CA 92093, USA. Electronic address: jpogliano@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PhuZ</Keyword>
+            <Keyword MajorTopicYN="N">Pseudomonas phage</Keyword>
+            <Keyword MajorTopicYN="N">capsid distribution</Keyword>
+            <Keyword MajorTopicYN="N">capsid trafficking</Keyword>
+            <Keyword MajorTopicYN="N">giant phage</Keyword>
+            <Keyword MajorTopicYN="N">nuclear rotation</Keyword>
+            <Keyword MajorTopicYN="N">phage nucleus</Keyword>
+            <Keyword MajorTopicYN="N">treadmilling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199917</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(19)30560-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.032</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

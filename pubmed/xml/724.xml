@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199636</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. A</Title>
+                <ISOAbbreviation>J Phys Chem A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quasi-Atomic Bond Analyses in the Sixth Period: II. Bond Analyses of Cerium Oxides.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpca.9b04024</ELocationID>
+            <Abstract>
+                <AbstractText>The role of the 4f orbitals in bonding is examined for the molecules cerium monoxide and cerium dioxide that have cerium formally in the +2 and +4 oxidation states, respectively. It is shown that the 4f orbitals are used primarily for polarization of the 5d orbitals when cerium is in the lower oxidation state, while the 4f orbitals play a significant role in chemical bonding via 5d/4f hybridization when cerium is in the +4 oxidation state.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schoendorff</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8624-5217</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Mund-Lagowski Department of Chemistry and Biochemistry , Bradley University , Peoria , Illinois 61625 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Michael W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , Iowa State University , Ames , Iowa 50011-3111 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruedenberg</LastName>
+                    <ForeName>Klaus</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4834-0314</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , Iowa State University , Ames , Iowa 50011-3111 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordon</LastName>
+                    <ForeName>Mark S</ForeName>
+                    <Initials>MS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6893-553X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , Iowa State University , Ames , Iowa 50011-3111 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem A</MedlineTA>
+            <NlmUniqueID>9890903</NlmUniqueID>
+            <ISSNLinking>1089-5639</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199636</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpca.9b04024</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

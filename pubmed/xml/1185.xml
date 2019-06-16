@@ -1,0 +1,191 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199123</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Equipartition of Energy Defines the Size-Thickness Relationship in Liquid-Exfoliated Nanosheets.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsnano.9b02234</ELocationID>
+            <Abstract>
+                <AbstractText>Liquid phase exfoliation is a commonly used method to produce 2D nanosheets from a range of layered crystals. However, such nanosheets display broad size and thickness distributions and correlations between area and thickness, issues that limit nanosheet application potential. To understand the factors controlling the exfoliation process, we have liquid-exfoliated 11 different layered materials, size-selecting each into fractions before using AFM to measure the nanosheet length, width, and thickness distributions for each fraction. The resultant data show a clear power-law scaling of nanosheet area with thickness for each material. We have developed a simple nonequilibrium thermodynamics-based model predicting that the power-law prefactor is proportional to both the ratios of in-plane-tearing/out-of-plane-peeling energies and in-plane/out-of-plane moduli. By comparing the experimental data with the modulus ratio calculated from first-principles, we find close agreement between experiment and theory. This supports our hypothesis that energy equipartition holds between nanosheet tearing and peeling during sonication-assisted exfoliation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Backes</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4154-0439</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Applied Physical Chemistry , University of Heidelberg , Im Neuenheimer Feld 253 , 69120 Heidelberg , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campi</LastName>
+                    <ForeName>Davide</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Theory and Simulation of Materials (THEOS) and National Centre for Computational Design and Discovery of Novel Materials (MARVEL) , École Polytechnique Fédérale de Lausanne , CH-1015 Lausanne , Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szydlowska</LastName>
+                    <ForeName>Beata M</ForeName>
+                    <Initials>BM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Applied Physical Chemistry , University of Heidelberg , Im Neuenheimer Feld 253 , 69120 Heidelberg , Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics and CRANN &amp; AMBER Research Centers , Trinity College Dublin, The University of Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Synnatschke</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Applied Physical Chemistry , University of Heidelberg , Im Neuenheimer Feld 253 , 69120 Heidelberg , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ojala</LastName>
+                    <ForeName>Ezgi</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Applied Physical Chemistry , University of Heidelberg , Im Neuenheimer Feld 253 , 69120 Heidelberg , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rashvand</LastName>
+                    <ForeName>Farnia</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair of Applied Physical Chemistry , University of Heidelberg , Im Neuenheimer Feld 253 , 69120 Heidelberg , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harvey</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics and CRANN &amp; AMBER Research Centers , Trinity College Dublin, The University of Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffin</LastName>
+                    <ForeName>Aideen</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics and CRANN &amp; AMBER Research Centers , Trinity College Dublin, The University of Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sofer</LastName>
+                    <ForeName>Zdenek</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1391-4448</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inorganic Chemistry , University of Chemistry and Technology Prague , Technická 5 , 166 28 Prague 6 , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marzari</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9764-0199</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Theory and Simulation of Materials (THEOS) and National Centre for Computational Design and Discovery of Novel Materials (MARVEL) , École Polytechnique Fédérale de Lausanne , CH-1015 Lausanne , Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coleman</LastName>
+                    <ForeName>Jonathan N</ForeName>
+                    <Initials>JN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9659-9721</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics and CRANN &amp; AMBER Research Centers , Trinity College Dublin, The University of Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Regan</LastName>
+                    <ForeName>David D</ForeName>
+                    <Initials>DD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics and CRANN &amp; AMBER Research Centers , Trinity College Dublin, The University of Dublin , Dublin 2 , Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2D</Keyword>
+            <Keyword MajorTopicYN="N">energetics</Keyword>
+            <Keyword MajorTopicYN="N">exfoliation</Keyword>
+            <Keyword MajorTopicYN="N">mechanics</Keyword>
+            <Keyword MajorTopicYN="N">modeling</Keyword>
+            <Keyword MajorTopicYN="N">size-selection</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199123</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsnano.9b02234</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

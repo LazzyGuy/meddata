@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198973</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1943-7730</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Laboratory medicine</Title>
+                <ISOAbbreviation>Lab Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of High-Resolution Melting PCR to Detect the Genomic Fungal ITS 2 Region.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">lmz034</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/labmed/lmz034</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Invasive fungal infections (IFIs) are a main cause of morbidity and mortality. High-resolution melting polymerase chain reaction (HRM PCR) is promising for the identification of fungal species via the detection of internal transcribed spacer 2 (ITS2).</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To assess the sensitivity and specificity of HRM PCR in diagnosing IFIs, compared with blood culture.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Our study included 100 patients who were suspected of having IFIs; we analyzed their specimens via blood culture and HRM PCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Blood culture results were positive in 57 cases and negative in 43 cases. HRM PCR results were positive in 14 cases and negative in 86 cases. The 14 cases with positive results included 4 with Candida tropicalis, 4 with Candida glabrata, and 6 with Candida krusei. HRM PCR sensitivity was 24.6%, specificity was 100%, positive predictive value (PPV) was 100%, and negative predictive value (NPV) was 50%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">HRM PCR is specific but not sensitive. Blood culture is more sensitive and cannot be replaced by HRM PCR.</AbstractText>
+                <CopyrightInformation>© American Society for Clinical Pathology 2019. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nawar</LastName>
+                    <ForeName>Nada N</ForeName>
+                    <Initials>NN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical and Chemical Pathology Department, Faculty of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Behiry</LastName>
+                    <ForeName>Iman K</ForeName>
+                    <Initials>IK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical and Chemical Pathology Department, Faculty of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yousef</LastName>
+                    <ForeName>Reham H A</ForeName>
+                    <Initials>RHA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical and Chemical Pathology Department, Faculty of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emara</LastName>
+                    <ForeName>Mohamed A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>El Shiekh Zayed Specialized Hospital, Ministry of Health, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lab Med</MedlineTA>
+            <NlmUniqueID>0250641</NlmUniqueID>
+            <ISSNLinking>0007-5027</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antifungal resistance</Keyword>
+            <Keyword MajorTopicYN="N">blood culture</Keyword>
+            <Keyword MajorTopicYN="N">high-resolution melting PCR</Keyword>
+            <Keyword MajorTopicYN="N">internal transcribed spacer 2</Keyword>
+            <Keyword MajorTopicYN="N">invasive fungal infections</Keyword>
+            <Keyword MajorTopicYN="N">species identification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198973</ArticleId>
+            <ArticleId IdType="pii">5519033</ArticleId>
+            <ArticleId IdType="doi">10.1093/labmed/lmz034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

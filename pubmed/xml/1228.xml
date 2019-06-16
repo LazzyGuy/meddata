@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199071</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1747-0080</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrition &amp; dietetics: the journal of the Dietitians Association of Australia</Title>
+                <ISOAbbreviation>Nutr Diet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dietetics in the digital age: The impact of an electronic medical record on a tertiary hospital dietetic department.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/1747-0080.12552</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The present study aimed to assess the impact of a hospital-wide electronic medical record (EMR) on the way dietitians collect routine data for their assessments and its impact on their clinical documentation and service provision.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data were collected retrospectively from the following sources: interdepartmental chart audit, the EMR itself (nutrition diagnosis), National Health Roundtable database (admissions requiring nutrition events) and the hospital-wide Pressure Injury Prevention Audits (height, weight and malnutrition screening).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were improvements in medical record accessibility (76.4% pre vs 100% post, P &lt; 0.001), awareness of medical alerts (82.5% unaware pre vs 34.5% unaware post) and legibility of documentation (53.8% pre vs 99.2% post, P &lt; 0.001). Improvements in accessing medical charts under 1 minute also occurred (65.8% pre vs 99.2% post, P &lt; 0.001). The percentage of nutrition diagnoses resolved during admission increased from 20.0% in February 2016 to 34.0% in August 2017. A 72.0% increase in admissions requiring nutrition interventions was found with 4075 admissions pre- and 7035 post-EMR implementation. Time spent per nutrition event reduced by 22.0% (118 minutes pre and 92 minutes post). Hospital audit data revealed mean height and weight collected increased from 79.3 ± 3.8% (n = 8 audits totalling 3041/3834 patients) to 86.0 ± 2.6% (n = 5 audits totalling, 2544/2958 patients) post-EMR with malnutrition screening completion increasing from 57.5% to 74.0%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Findings indicate that EMR implementation has the potential to benefit the dietetic profession due to the potential to enhance the capacity and efficiency of dietetic departments.</AbstractText>
+                <CopyrightInformation>© 2019 Dietitians Association of Australia.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McCamley</LastName>
+                    <ForeName>Jordan</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0659-069X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Digital Hospital Adoption Service, Princess Alexandra Hospital, Queensland, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, University of Queensland, Queensland, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vivanti</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5839-2324</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition and Dietetics, Princess Alexandra Hospital, Queensland, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Human Movement and Nutrition Studies, University of Queensland, Queensland, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edirippulige</LastName>
+                    <ForeName>Sisira</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-6196-5437</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Online Health, University of Queensland, Queensland, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Nutr Diet</MedlineTA>
+            <NlmUniqueID>101143078</NlmUniqueID>
+            <ISSNLinking>1446-6368</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dietitians</Keyword>
+            <Keyword MajorTopicYN="N">e-health</Keyword>
+            <Keyword MajorTopicYN="N">electronic medical record</Keyword>
+            <Keyword MajorTopicYN="N">nutrition informatics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199071</ArticleId>
+            <ArticleId IdType="doi">10.1111/1747-0080.12552</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

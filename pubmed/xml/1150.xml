@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199158</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-7052</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Organic letters</Title>
+                <ISOAbbreviation>Org. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Catalytic Redox Chain Ring Opening of Lactones with Quinones To Synthesize Quinone-Containing Carboxylic Acids.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.orglett.9b01672</ELocationID>
+            <Abstract>
+                <AbstractText>Catalytic ring opening of five- to eight-membered lactones with quinones is achieved through a redox chain mechanism. With low loading of a simple metal triflate Lewis acid catalyst and a chain initiator, C-H bonds of many quinones were efficiently functionalized with carboxylic acid-containing side chains. This method also features 100% atom economy and wide substrate scope. A novel route to the anti-asthma drug Seratrodast was developed. Mechanism study suggests that the redox chain reaction likely undergoes a carbocation intermediate.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiao-Long</ForeName>
+                    <Initials>XL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physical Science and Technology , ShanghaiTech University , Shanghai , China 201210.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Chinese Academy of Sciences , Beijing 100049 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Zhi</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2770-6364</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physical Science and Technology , ShanghaiTech University , Shanghai , China 201210.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Org Lett</MedlineTA>
+            <NlmUniqueID>100890393</NlmUniqueID>
+            <ISSNLinking>1523-7052</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199158</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.orglett.9b01672</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

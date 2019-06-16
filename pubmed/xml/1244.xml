@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199054</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1615-9314</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of separation science</Title>
+                <ISOAbbreviation>J Sep Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exploration of the problems and solutions related to reference introduction prior to calibration of thermal desorber - gas chromatography.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jssc.201900260</ELocationID>
+            <Abstract>
+                <AbstractText>Reference introduction in thermal desorption - GC is a critical aspect. It is mostly performed by offline liquid calibration using a micro syringe to inject a liquid standard solution on the sorbent in the thermal desorption tube. This is based on the assumptions that the adsorption-desorption process is quantitative and that no sample is lost in manipulating the tube. However, for analytical procedures involving thermal extraction of solid matrices, the adsorption-desorption processes for sample and reference differ and the assumptions are not always fulfilled. This is explored in this work. First, issues related to the online liquid calibration were investigated. With tubes containing only quartz filters, a relative loss of over 80% was noticed for some solvents due to tube manipulation processes. Enclosing a bed of mesoporous silica as sorbent limited the losses to about 25% when samples were immediately analysed and even better results were obtained when tubes were stored for several hours so that proper adsorption could take place. An additional sweep gas during loading boosted the transfer of analytes with recoveries above 95%. Next, an inline injection system was installed on the thermal desorber instrument. This sorbent free, independent calibration tool avoids the drawbacks of other approaches. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Asfaw</LastName>
+                    <ForeName>Adissu Alemayehu</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Pharmacological Sciences, Pharmaceutical Analysis, KU Leuven - University of Leuven,, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Health Sciences, School of Pharmacy, Mekelle University, Mekelle, Ethiopia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van der Veken</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Pharmacological Sciences, Pharmaceutical Analysis, KU Leuven - University of Leuven,, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolfs</LastName>
+                    <ForeName>Kris</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Pharmacological Sciences, Pharmaceutical Analysis, KU Leuven - University of Leuven,, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Schepdael</LastName>
+                    <ForeName>Ann</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9583-984X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Pharmacological Sciences, Pharmaceutical Analysis, KU Leuven - University of Leuven,, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Erwin</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4545-2989</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Pharmacological Sciences, Pharmaceutical Analysis, KU Leuven - University of Leuven,, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>J Sep Sci</MedlineTA>
+            <NlmUniqueID>101088554</NlmUniqueID>
+            <ISSNLinking>1615-9306</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">gas chromatography</Keyword>
+            <Keyword MajorTopicYN="N">mesoporous silica</Keyword>
+            <Keyword MajorTopicYN="N">reference introduction</Keyword>
+            <Keyword MajorTopicYN="N">thermal desorption</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199054</ArticleId>
+            <ArticleId IdType="doi">10.1002/jssc.201900260</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

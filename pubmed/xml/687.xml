@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199675</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2152-4998</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cellular reprogramming</Title>
+                <ISOAbbreviation>Cell Reprogram</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treatment of Buffalo (<i>Bubalus bubalis</i>) Somatic Cell Nuclear Transfer Embryos with MicroRNA-29b Mimic Improves Their Quality, Reduces DNA Methylation, and Changes Gene Expression Without Affecting Their Developmental Competence.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/cell.2019.0007</ELocationID>
+            <Abstract>
+                <AbstractText>microRNA-29b (miR-29b) plays an important role in controlling DNA methylation in cells. We investigated its role during early embryonic development in buffalo embryos produced by somatic cell nuclear transfer (SCNT) and <i>in vitro</i> fertilization (IVF). miR-29b expression was highest at the 2-cell stage, decreased (<i>p</i> &lt; 0.001) at the 4-cell stage, and remained low thereafter at the 8-cell, morula, and blastocyst stages, showing a similar pattern in cloned and IVF embryos. Treatment of reconstructed embryos with miR-29b mimic for 1 hour after 1 hour of electrofusion increased (<i>p</i> &lt; 0.05) the total cell number and decreased (<i>p</i> &lt; 0.05) the levels of apoptosis and DNA methylation compared with controls. It also increased (<i>p</i> &lt; 0.05) the ratio of inner cell mass:trophectoderm cell numbers of blastocysts compared with controls to the levels observed in IVF blastocysts. However, the blastocyst rate was not affected by treatment with miR-29b mimic (29.0% ± 2.0% vs. 27.0% ± 2.0% for controls). The treatment decreased (<i>p</i> &lt; 0.001) the expression of epigenetic-related genes, <i>DNMT3A</i> and <i>DNMT3B</i>, but not <i>DNMT1</i>, and increased (<i>p</i> &lt; 0.05) that of pluripotency- (<i>NANOG</i>, <i>OCT4</i>, and <i>SOX2</i>) and development-related genes (FGF4 and <i>GLUT1</i>) in blastocysts compared with controls. Our results suggest that miR-29b mimic treatment of reconstructed embryos improves the quality, reduces the level of apoptosis and DNA methylation, and changes gene expression in SCNT blastocysts without affecting the blastocyst rate.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Shikha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Center, ICAR-National Dairy Research Institute, Karnal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shyam</LastName>
+                    <ForeName>Songyukta</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Center, ICAR-National Dairy Research Institute, Karnal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sah</LastName>
+                    <ForeName>Shrutika</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Center, ICAR-National Dairy Research Institute, Karnal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Manoj K</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Center, ICAR-National Dairy Research Institute, Karnal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palta</LastName>
+                    <ForeName>Prabhat</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Biotechnology Center, ICAR-National Dairy Research Institute, Karnal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell Reprogram</MedlineTA>
+            <NlmUniqueID>101528176</NlmUniqueID>
+            <ISSNLinking>2152-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IVF</Keyword>
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">cloning</Keyword>
+            <Keyword MajorTopicYN="N">hand-made cloning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199675</ArticleId>
+            <ArticleId IdType="doi">10.1089/cell.2019.0007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

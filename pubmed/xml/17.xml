@@ -1,0 +1,152 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200409</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-2084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia laboratornaia diagnostika</Title>
+                <ISOAbbreviation>Klin. Lab. Diagn.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Trials of the domestically produced nutrient medium «Agar Muller-Hinton II - Obolensk».]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>360-367</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18821/0869-2084-2019-64-6-360-367</ELocationID>
+            <Abstract>
+                <AbstractText>The results of the comparative tests of the «Agar Muller-Hinton II - Obolensk» nutrient medium developed in SRCAMB, Obolensk, and the control nutrient medium imported «Mueller Hinton II Agar» are presented in the study. The susceptibility of bacterial clinical strains to antimicrobial agents (AMP) was determined by the disc diffusion method and the method of gradient diffusion (E-test). The carbapenemase activity of the strains carrying the carbapenemase genes was determined by CIM-test. Total 173 characterized bacterial strains of species Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumannii, Proteus mirabilis, Serratia marcescens, Enterobacter aerogenes, Escherichia coli; Photorhabdus spp., Staphylococcus aureus, Enterococcus spp. were used in the study, including producers of OXA- and NDM-types carbapenemases for gram negative bacteria. A high degree of coincidence of the results obtained on both nutrient media was shown. The consistency index of the strain sensitivity categories to AMPs (S, I, and R) was 98.2% for the disc diffusion method, and 94.4-100% - for E-test and CIM-test methods. Thus, within the framework of the Import Substitution Program, the domestic nutrient medium «MHA II-Obolensk» has been successfully developed. The nutrient medium meets the requirements of GOST R ISO 20776-2-2010 «Clinical laboratory testing and in vitro diagnostic test systems - Susceptibility testing of infectious agents and evaluation of performance of antimicrobial susceptibility test devices».</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kosilova</LastName>
+                    <ForeName>I S</ForeName>
+                    <Initials>IS</Initials>
+                    <Identifier Source="ORCID">0000-0003-4020-0894</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Research Center for Applied Microbiology and Biotechnology of Rospotrebnadzor, 142279, Obolensk, Moscow region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Domotenko</LastName>
+                    <ForeName>L V</ForeName>
+                    <Initials>LV</Initials>
+                    <Identifier Source="ORCID">0000-0002-4785-6418</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Research Center for Applied Microbiology and Biotechnology of Rospotrebnadzor, 142279, Obolensk, Moscow region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fursova</LastName>
+                    <ForeName>N K</ForeName>
+                    <Initials>NK</Initials>
+                    <Identifier Source="ORCID">0000-0001-6053-2621</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Research Center for Applied Microbiology and Biotechnology of Rospotrebnadzor, 142279, Obolensk, Moscow region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dentovskaya</LastName>
+                    <ForeName>S V</ForeName>
+                    <Initials>SV</Initials>
+                    <Identifier Source="ORCID">0000-0002-1996-8949</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Research Center for Applied Microbiology and Biotechnology of Rospotrebnadzor, 142279, Obolensk, Moscow region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ershova</LastName>
+                    <ForeName>M G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Healthcare Institution of the Yaroslavl Region «Infectious Clinical hospital No. 1», Yaroslavl, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shepelin</LastName>
+                    <ForeName>A P</ForeName>
+                    <Initials>AP</Initials>
+                    <Identifier Source="ORCID">0000-0002-8253-7527</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Research Center for Applied Microbiology and Biotechnology of Rospotrebnadzor, 142279, Obolensk, Moscow region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Lab Diagn</MedlineTA>
+            <NlmUniqueID>9432021</NlmUniqueID>
+            <ISSNLinking>0869-2084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CIM-test</Keyword>
+            <Keyword MajorTopicYN="N">E-test</Keyword>
+            <Keyword MajorTopicYN="N">Müller-Hinton agar</Keyword>
+            <Keyword MajorTopicYN="N">disc diffusion method</Keyword>
+            <Keyword MajorTopicYN="N">gram-negative bacteria</Keyword>
+            <Keyword MajorTopicYN="N">gram-positive bacteria</Keyword>
+            <Keyword MajorTopicYN="N">nutrient medium</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200409</ArticleId>
+            <ArticleId IdType="doi">10.18821/0869-2084-2019-64-6-360-367</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

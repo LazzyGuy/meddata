@@ -1,0 +1,213 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199331</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Wearable Finger Pulse Oximetry for Continuous Oxygen Saturation Measurements During Daily Home Routines of Patients With Chronic Obstructive Pulmonary Disease (COPD) Over One Week: Observational Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12866</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12866</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Chronic obstructive pulmonary disease (COPD) patients can suffer from low blood oxygen concentrations. Peripheral blood oxygen saturation (SpO<sub>2</sub>), as assessed by pulse oximetry, is commonly measured during the day using a spot check, or continuously during one or two nights to estimate nocturnal desaturation. Sampling at this frequency may overlook natural fluctuations in SpO<sub>2</sub>.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study used wearable finger pulse oximeters to continuously measure SpO<sub>2</sub> during daily home routines of COPD patients and assess natural SpO<sub>2</sub> fluctuations.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 20 COPD patients wore a WristOx<sub>2</sub> pulse oximeter for 1 week to collect continuous SpO<sub>2</sub> measurements. A SenseWear Armband simultaneously collected actigraphy measurements to provide contextual information. SpO<sub>2</sub> time series were preprocessed and data quality was assessed afterward. Mean SpO<sub>2</sub>, SpO<sub>2</sub> SD, and cumulative time spent with SpO<sub>2</sub> below 90% (CT90) were calculated for every (1) day, (2) day in rest, and (3) night to assess SpO<sub>2</sub> fluctuations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A high percentage of valid SpO<sub>2</sub> data (daytime: 93.27%; nocturnal: 99.31%) could be obtained during a 7-day monitoring period, except during moderate-to-vigorous physical activity (MVPA) (67.86%). Mean nocturnal SpO<sub>2</sub> (89.9%, SD 3.4) was lower than mean daytime SpO<sub>2</sub> in rest (92.1%, SD 2.9; P&lt;.001). On average, SpO<sub>2</sub> in rest ranged over 10.8% (SD 4.4) within one day. Highly varying CT90 values between different nights led to 50% (10/20) of the included patients changing categories between desaturator and nondesaturator over the course of 1 week.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Continuous SpO<sub>2</sub> measurements with wearable finger pulse oximeters identified significant SpO<sub>2</sub> fluctuations between and within multiple days and nights of patients with COPD. Continuous SpO<sub>2</sub> measurements during daily home routines of patients with COPD generally had high amounts of valid data, except for motion artifacts during MVPA. The identified fluctuations can have implications for telemonitoring applications that are based on daily SpO<sub>2</sub> spot checks. CT90 values can vary greatly from night to night in patients with a nocturnal mean SpO<sub>2</sub> around 90%, indicating that these patients cannot be consistently categorized as desaturators or nondesaturators. We recommend using wearable sensors for continuous SpO<sub>2</sub> measurements over longer time periods to determine the clinical relevance of the identified SpO<sub>2</sub> fluctuations.</AbstractText>
+                <CopyrightInformation>©Joren Buekers, Jan Theunis, Patrick De Boever, Anouk W Vaes, Maud Koopman, Eefje VM Janssen, Emiel FM Wouters, Martijn A Spruit, Jean-Marie Aerts. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 06.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Buekers</LastName>
+                    <ForeName>Joren</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4866-5741</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Unit, Flemish Institute for Technological Research (VITO), Mol, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Measure, Model &amp; Manage Bioresponses, Department of Biosystems, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theunis</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4191-5667</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Unit, Flemish Institute for Technological Research (VITO), Mol, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Boever</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5197-8215</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Unit, Flemish Institute for Technological Research (VITO), Mol, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Environmental Sciences, Hasselt University, Diepenbeek, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaes</LastName>
+                    <ForeName>Anouk W</ForeName>
+                    <Initials>AW</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4136-1553</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Education, Centre of Expertise for Chronic Organ Failure (CIRO), Horn, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koopman</LastName>
+                    <ForeName>Maud</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3306-5479</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Education, Centre of Expertise for Chronic Organ Failure (CIRO), Horn, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janssen</LastName>
+                    <ForeName>Eefje Vm</ForeName>
+                    <Initials>EV</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2656-5280</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Education, Centre of Expertise for Chronic Organ Failure (CIRO), Horn, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wouters</LastName>
+                    <ForeName>Emiel Fm</ForeName>
+                    <Initials>EF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9186-575X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Education, Centre of Expertise for Chronic Organ Failure (CIRO), Horn, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Maastricht University Medical Centre, Maastricht, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spruit</LastName>
+                    <ForeName>Martijn A</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3822-7430</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research and Education, Centre of Expertise for Chronic Organ Failure (CIRO), Horn, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Maastricht University Medical Centre, Maastricht, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Rehabilitation Research Center (REVAL), Biomedical Research Institute (BIOMED), Faculty of Rehabilitation Sciences, Hasselt University, Diepenbeek, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nutrition and Translational Research in Metabolism (NUTRIM), Maastricht University Medical Centre, Maastricht, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aerts</LastName>
+                    <ForeName>Jean-Marie</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5548-9163</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Measure, Model &amp; Manage Bioresponses, Department of Biosystems, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">COPD</Keyword>
+            <Keyword MajorTopicYN="N">finger pulse oximeter</Keyword>
+            <Keyword MajorTopicYN="N">nocturnal desaturation</Keyword>
+            <Keyword MajorTopicYN="N">oxygen saturation</Keyword>
+            <Keyword MajorTopicYN="N">telemonitoring</Keyword>
+            <Keyword MajorTopicYN="N">wearable sensor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199331</ArticleId>
+            <ArticleId IdType="pii">v7i6e12866</ArticleId>
+            <ArticleId IdType="doi">10.2196/12866</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

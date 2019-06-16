@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199748</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of gel replacement during in-office dental bleaching: a case report.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>67-70</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In-office dental bleaching allows the dentist to have greater control of the procedure and prevents patients from ingesting chemicals. To obtain optimum results, in-office bleaching usually requires a longer period of application as well as changes of the bleaching agent applied to the tooth surfaces at each appointment. The objective of this case report was to assess, by means of a split-mouth design in a single patient, the final tooth color and tooth sensitivity resulting from 2 different bleaching protocols: 1 application of 35% hydrogen peroxide for 45 minutes and 3 applications of 35% hydrogen peroxide for 15 minutes each. Neither the patient nor 5 individuals who were blinded to the techniques noted a difference in the final esthetic results of the 2 protocols immediately after the procedure. In addition, the patient reported that no tooth sensitivity was associated with either protocol. The results of dental bleaching on both sides were maintained after 15 days. The results shown in the present case report suggest that there may be no need to renew the gel during in-office dental bleaching.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ramalho</LastName>
+                    <ForeName>Karen Müller</ForeName>
+                    <Initials>KM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunha</LastName>
+                    <ForeName>Sandra Ribeiro</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayer-Santos</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Freitas</LastName>
+                    <ForeName>Patricia Moreira</ForeName>
+                    <Initials>PM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aranha</LastName>
+                    <ForeName>Ana Cecilia Correa</ForeName>
+                    <Initials>ACC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eduardo</LastName>
+                    <ForeName>Carlos Paula</ForeName>
+                    <Initials>CP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">hydrogen peroxide</Keyword>
+            <Keyword MajorTopicYN="N">in-office dental bleaching</Keyword>
+            <Keyword MajorTopicYN="N">sensitivity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199748</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,202 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199978</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3441</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V</Title>
+                <ISOAbbreviation>Eur J Pharm Biopharm</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lipidoid-Polymer Hybrid Nanoparticles Loaded with TNF siRNA Suppress Inflammation after Intra-articular Administration in a Murine Experimental Arthritis Model.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0939-6411(18)31325-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejpb.2019.06.009</ELocationID>
+            <Abstract>
+                <AbstractText>Rheumatoid arthritis (RA) is a common autoimmune disease, which is characterized by painful chronic inflammation in the joints, and novel safe and efficacious treatments are urgently needed. RNA interference (RNAi) therapy based on small interfering RNA (siRNA) is a promising approach for silencing specific genes involved in inflammation. However, delivery of siRNA to the target site, i.e. the cytosol of immune cells, is a challenge. Here, we designed lipid-polymer hybrid nanoparticles (LPNs) composed of lipidoid and poly(DL-lactic-co-glycolic acid) loaded with a therapeutic cargo siRNA directed against the proinflammatory cytokine tumor necrosis factor (TNF), which plays a key role in the progression of RA. We compared their efficacy and safety with reference lipidoid-based stable nucleic acid lipid particles (SNALPs) in vitro and in vivo. Cryogenic transmission electron microscopy, atomic force microscopy and small-angle X-ray scattering revealed that the mode of loading of siRNA in lamellar structures differs between the two formulations. Thus, siRNA was tightly packed in LPNs, while LPNs displayed lower adhesion than SNALPs. The LPNs mediated a higher TNF silencing effect in vitro than SNALPs in the RAW 264.7 macrophage cell line activated with lipopolysaccharide. For both types of delivery systems, macropinocytosis was involved in cellular uptake. In addition, clathrin-mediated endocytosis contributed to uptake of SNALPs. LPNs loaded with TNF siRNA mediated sequence-specific suppression of inflammation in a murine experimental arthritis model upon intra-articular administration. Hence, the present study demonstrates that LPN-mediated TNF knockdown constitutes a promising approach for arthritis therapy of TNF-mediated chronic inflammatory conditions.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jansen</LastName>
+                    <ForeName>Manon A A</ForeName>
+                    <Initials>MAA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klausen</LastName>
+                    <ForeName>Lasse H</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Nanoscience Center, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thanki</LastName>
+                    <ForeName>Kaushik</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Faculty of Health and Medical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyngsø</LastName>
+                    <ForeName>Jeppe</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Nanoscience Center, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark; Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skov Pedersen</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Nanoscience Center, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark; Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franzyk</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Design and Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen, Jagtvej 162, DK-2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Hanne M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Faculty of Health and Medical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100 Copenhagen Ø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Eden</LastName>
+                    <ForeName>Willem</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Mingdong</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Nanoscience Center, Aarhus University, Gustav Wieds Vej 14, DK-8000 Aarhus C, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Broere</LastName>
+                    <ForeName>Femke</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands; Department of Clinical Sciences of Companion Animals, Faculty Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foged</LastName>
+                    <ForeName>Camilla</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Faculty of Health and Medical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100 Copenhagen Ø, Denmark. Electronic address: camilla.foged@sund.ku.dk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Xianghui</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Faculty of Health and Medical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100 Copenhagen Ø, Denmark. Electronic address: zeng_89@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Eur J Pharm Biopharm</MedlineTA>
+            <NlmUniqueID>9109778</NlmUniqueID>
+            <ISSNLinking>0939-6411</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Lipidoid</Keyword>
+            <Keyword MajorTopicYN="N">Macrophage</Keyword>
+            <Keyword MajorTopicYN="N">Nanoparticles</Keyword>
+            <Keyword MajorTopicYN="N">Vesicles</Keyword>
+            <Keyword MajorTopicYN="N">siRNA delivery</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199978</ArticleId>
+            <ArticleId IdType="pii">S0939-6411(18)31325-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejpb.2019.06.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

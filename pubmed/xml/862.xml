@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199479</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7170</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrinology</Title>
+                <ISOAbbreviation>Endocrinology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>USP8 deubiquitinates the leptin receptor and is necessary for leptin-mediated synapse formation.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">en.2019-00107</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/en.2019-00107</ELocationID>
+            <Abstract>
+                <AbstractText>Leptin has neurotrophic actions in the hippocampus to increase synapse formation and stimulate neuronal plasticity. Leptin also enhances cognition and has anti-depressive and anxiolytic-like effects, two hippocampal dependent behaviors. In contrast, mice lacking leptin or the long-form of the leptin receptor (LepRb) have lower cortical volume, decreased memory, and exhibit depressive-like behaviors. A number of the signaling pathways regulated by LepRb are known, but how membrane LepRb levels are regulated in the central nervous system is not well understood. Here we show that the lysosomal inhibitor, chloroquine, increases LepRb expression in hippocampal cultures, suggesting that LepRb is degraded in the lysosome. Furthermore, we show that leptin increases surface expression of its own receptor by decreasing the level of ubiquitinated LepRbs. This decrease is mediated by the deubiquitinase USP8, which we show is in complex with LepRb. Acute leptin stimulation increases USP8 activity. Moreover, leptin stimulates USP8 gene expression through CREB dependent transcription, an effect blocked by expression of a dominant negative CREB or with shRNA knockdown of CREB. Increased expression of USP8 causes increased surface localization of LepRb, which in turn enhances leptin-mediated activation of the Mek/Erk pathway and CREB activation. Lastly, increased USP8 expression increases glutamatergic synapse formation in hippocampal cultures, an effect dependent on expression of LepRbs. Leptin stimulated synapse formation also requires USP8. In conclusion, we show that USP8 deubiquitinates LepRb, thus inhibiting lysosomal degradation and enhancing surface localization of LepRb, which is essential for leptin stimulated synaptogenesis in the hippocampus.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Endocrine Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bland</LastName>
+                    <ForeName>Tyler</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahin</LastName>
+                    <ForeName>Gulcan Semra</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Mingyan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dillon</LastName>
+                    <ForeName>Crystal</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Impey</LastName>
+                    <ForeName>Soren</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Stem Cell Center, Oregon Health and Sciences University, Portland, Oregon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Appleyard</LastName>
+                    <ForeName>Suzanne M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wayman</LastName>
+                    <ForeName>Gary A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrated Physiology and Neuroscience, Washington State University, Pullman, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocrinology</MedlineTA>
+            <NlmUniqueID>0375040</NlmUniqueID>
+            <ISSNLinking>0013-7227</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199479</ArticleId>
+            <ArticleId IdType="pii">5518337</ArticleId>
+            <ArticleId IdType="doi">10.1210/en.2019-00107</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

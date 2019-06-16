@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199006</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1651-2227</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta paediatrica (Oslo, Norway : 1992)</Title>
+                <ISOAbbreviation>Acta Paediatr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Foster homes for neglected children with severe obesity - debated but rarely studied.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/apa.14902</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To explore current research and theoretical articles on foster home placement of children with severe obesity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">An integrative literature review. Literature searches in six electronic databases included theoretical, quantitative and qualitative articles and case reports published in English (2008-2018) on the topic of severe childhood obesity and foster home placement.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Seventeen selected papers included six theoretical articles, nine quantitative studies, one qualitative study and one case report. Eight of the nine quantitative studies did not specify the grading of obesity in children in foster care. The case report and the qualitative study showed distinct and sustainable Body Mass Index (BMI) reductions after a child had been placed in foster care. Five theoretical articles justified foster care placement when chronic parental neglect led to severe obesity in the child, while one article emphasized the opposite.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Parental and societal neglect of children with severe obesity placed in a foster home is rarely studied or the exclusive aim of research. The views of the children themselves are lacking in research articles, as well as the child's right to health obligations concerning children with severe obesity. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Regber</LastName>
+                    <ForeName>Susann</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health and Welfare, Halmstad University, Halmstad, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jormfeldt</LastName>
+                    <ForeName>Henrika</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health and Welfare, Halmstad University, Halmstad, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Norway</Country>
+            <MedlineTA>Acta Paediatr</MedlineTA>
+            <NlmUniqueID>9205968</NlmUniqueID>
+            <ISSNLinking>0803-5253</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">foster home</Keyword>
+            <Keyword MajorTopicYN="N">integrative literature review</Keyword>
+            <Keyword MajorTopicYN="N">neglect</Keyword>
+            <Keyword MajorTopicYN="N">severe childhood obesity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199006</ArticleId>
+            <ArticleId IdType="doi">10.1111/apa.14902</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

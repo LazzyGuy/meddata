@@ -1,0 +1,90 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199645</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of Protoporphyrin IX Species in Vitro Using Fluorescence Spectroscopy and Polar Plot Analysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpcb.9b01913</ELocationID>
+            <Abstract>
+                <AbstractText>Protoporphyrin IX (PPIX) is a photodynamic therapy (PDT) agent of interest for the treatment of certain types of cancer. The effectiveness of PDT is believed to be associated with the aggregation of PPIX in vivo. Time-resolved measurements are the method of choice to reliably differentiate PPIX monomers from aggregates, but the lifetime characteristic of different PPIX species remains unclear. In this study, the dynamics of PPIX aggregation were examined under high pressure and different solvent conditions. The time-resolved data were analyzed on a polar plot: a model-free analysis method that has become increasingly popular for fluorescence lifetime studies. Spectral lifetime measurements revealed a trace amount of small PPIX aggregates in DMSO. We applied high pressure to enhance the formation of PPIX aggregates in order to better study its spectroscopic property. Increasing hydrostatic pressure has enhanced the formation of J-type aggregates based on measured absorbance and lifetime feature. Other types of aggregates and species were observed under different solvent properties. Formation of large aggregates, which have a sub-nanosecond lifetime in the excited state, was observed under the increasing concentration of divalent cations, and separately between pH of 1-10. Disaggregation was observed as pH becomes more basic, not dimerization as proposed by previous studies. Here we demonstrate that time-resolved measurement and polar plot analysis can be used to monitor the presence of different species of PPIX, as well as different types of aggregates formed in various chemical environments.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Teng</LastName>
+                    <ForeName>Kai Wen</ForeName>
+                    <Initials>KW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Sang Hak</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199645</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpcb.9b01913</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

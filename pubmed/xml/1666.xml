@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198506</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2008-7802</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of preventive medicine</Title>
+                <ISOAbbreviation>Int J Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Psychometric Properties of the Persian Version of Weight Efficacy Lifestyle Questionnaire-Short Form.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijpvm.IJPVM_361_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Currently, in low- and middle-income countries, the problem of overweight and obesity is increasing at alarming rate. Along with well-known factors, psychosocial factors such as low self-efficacy highly associated with these problems. Hence, it is necessary to assess individual self-efficacy in weight management consultations using valid instrument. The aim of this study was to determine psychometric properties of the Persian version of the Weight Efficacy Lifestyle Questionnaire-Short Form (WEL-SF).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A cross-sectional study carried out on 400 women referring to urban community health centers in Kerman Province, Iran. Data collected using a questionnaire contained demographic data and Persian version of WEL-SF. The reliability of the questionnaire determined using Cronbach's alpha. The construct validity evaluated by exploratory principal component analysis (PCA) and confirmatory factor analysis. Data were analyzed by SPSS version 19 and Lisrel 8.8.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Internal consistency of WEL-SF was 0.83 using Cronbach's alpha. In the PCA, two factors were extracted with the total amount of 62.6% explained variance. In confirmatory factor analysis, the model had acceptable goodness of fit indices.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The Persian version of WEL-SF had excellent psychometric properties.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahmadipour</LastName>
+                    <ForeName>Habibeh</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social Determinants of Health Research Center, Institute for Futures Studies in Health, Kerman University of Medical Sciences, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebadi</LastName>
+                    <ForeName>Sharagim</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community and Preventive Medicine, School of Medicine, Kerman University of Medical Sciences, Kerman, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Int J Prev Med</MedlineTA>
+            <NlmUniqueID>101535380</NlmUniqueID>
+            <ISSNLinking>2008-7802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Body weight</Keyword>
+            <Keyword MajorTopicYN="N">reliability</Keyword>
+            <Keyword MajorTopicYN="N">self-efficacy</Keyword>
+            <Keyword MajorTopicYN="N">validity</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198506</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijpvm.IJPVM_361_17</ArticleId>
+            <ArticleId IdType="pii">IJPVM-10-71</ArticleId>
+            <ArticleId IdType="pmc">PMC6547782</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

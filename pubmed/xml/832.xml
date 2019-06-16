@@ -1,0 +1,128 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199521</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2473-4209</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>2D EPID dosimetry for an MR-linac: proof of concept.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/mp.13664</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">At our institute, in-vivo patient dose distributions are reconstructed for all treatments delivered using conventional linacs from Electronic Portal Imaging Device (EPID) transit images acquired during treatment using a simple back-projection model. Currently, the clinical implementation of MRI-guided radiotherapy systems, which aims for online and real-time adaptation of the treatment plan, is progressing. In our department the MR-linac (Unity, Elekta AB, Stockholm, Sweden) is now in clinical use. The aim of this work is to demonstrate the feasibility of 2D EPID dosimetric verification for the MR-linac by comparing back-projected EPID doses to ionization chamber (IC) array dose distributions.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Our conventional back projection algorithm was adapted for the MR-linac. The most important changes involve modeling of the attenuation by and scatter from the cryostat. The commissioning process involved the acquisition of square field EPID measurements using various phantom setups (varying SSD, phantom thickness and field size). Commissioning models were created for gantry 0, 90 and 180 degrees and verified by comparing EPID reconstructed 2D dose distributions to measurements made with the OCTAVIUS 1500 IC array (PTW, Freiburg, Germany) for 2 prostate and 1 rectum IMRT plans (25 beams total). The average of the γ parameters (y-mean and y-pass rate) and the dose difference at a reference point were reported. Due to their construction, the attenuation of couch, bridge and cryostat shows a much stronger dependence on gantry angle in the MR-linac compared to conventional linacs. We present a method to correct for these effects. This method is validated by dose reconstruction of the 25 IMRT beams recorded at a certain gantry angle using the model of another gantry angle, combined with the correction method.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For dose verification performed at a gantry angle identical to the commissioned model the average y-mean and y-pass rate values (3% global dose, 2 mm, 10% isodose) were 0.37 ± 0.07 and 98.1, 95% CI [98.1 ± 2.4], respectively. The average dose difference at the reference point was -0.5% ± 1.8%. Verification at gantry angles different from the commissioned model (i.e., using the gantry angle dependent correction) reported 0.39 ± 0.08 and 97.6, 95% CI [96.9, 98.3] average y-mean and y-pass rate values. The average dose difference at the reference point was: -0.1% ± 1.8%.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The EPID dosimetry back projection model was successfully adapted for the MR-linac at gantry 0°, 90° and 180°, accounting for the presence of the MRI housing between phantom (or patient) and the EPID. A method to account for the gantry angle dependence was also tested reporting similar results. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Torres-Xirau</LastName>
+                    <ForeName>Iban</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olaciregui-Ruiz</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Heide</LastName>
+                    <ForeName>Uulke A</ForeName>
+                    <Initials>UA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mans</LastName>
+                    <ForeName>Anton</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+EPID
+</Keyword>
+            <Keyword MajorTopicYN="N">
+QA
+</Keyword>
+            <Keyword MajorTopicYN="N">MR-linac</Keyword>
+            <Keyword MajorTopicYN="N">Unity</Keyword>
+            <Keyword MajorTopicYN="N">dose verification</Keyword>
+            <Keyword MajorTopicYN="N">portal dosimetry</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199521</ArticleId>
+            <ArticleId IdType="doi">10.1002/mp.13664</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

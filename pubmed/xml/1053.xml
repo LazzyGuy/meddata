@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199276</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2208</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE journal of biomedical and health informatics</Title>
+                <ISOAbbreviation>IEEE J Biomed Health Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/JBHI.2019.2922178</ELocationID>
+            <Abstract>
+                <AbstractText>Constructing statistical models using personal sensor data could allow for tracking health status over time, thereby enabling the possibility of early intervention. The goal of this study was to use machine learning algorithms to classify patient-reported outcomes (PROs) using activity tracker data in a cohort of patients with stable ischemic heart disease (SIHD). A population of 182 patients with SIHD were monitored over a period of 12 weeks. Each subject received a Fitbit Charge 2 device to record daily activity data, and each subject completed eight Patient-Reported Outcomes Measurement Information Systems (PROMIS®) short form at the end of each week as a self-assessment of their health status. Two models were built to classify PRO scores using activity tracker data. The first model treated each week independently, while the second used a Hidden Markov model (HMM) to take advantage of correlations between successive weeks. Retrospective analysis compared the classification accuracy of the two models and the importance of each feature. In the independent model, a random forest classifier achieved a mean area under curve (AUC) of 0.76 for classifying the Physical Function PRO. The HMM model achieved significantly better AUCs for all PROs (p&lt;0.05) other than Fatigue and Sleep Disturbance, with a highest mean AUC of 0.79 for the Physical Function-short form 10a. Our study demonstrates the ability of activity tracker data to classify health status over time. These results suggest that patient outcomes can be monitored in real time using activity trackers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Yiwen</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Speier</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shufelt</LastName>
+                    <ForeName>Chrisandra</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joung</LastName>
+                    <ForeName>Sandy</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Eyk</LastName>
+                    <ForeName>Jennifer E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merz</LastName>
+                    <ForeName>C Noel Bairey</ForeName>
+                    <Initials>CNB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopez</LastName>
+                    <ForeName>Mayra</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiegel</LastName>
+                    <ForeName>Brennan</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arnold</LastName>
+                    <ForeName>Corey W</ForeName>
+                    <Initials>CW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE J Biomed Health Inform</MedlineTA>
+            <NlmUniqueID>101604520</NlmUniqueID>
+            <ISSNLinking>2168-2194</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199276</ArticleId>
+            <ArticleId IdType="doi">10.1109/JBHI.2019.2922178</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

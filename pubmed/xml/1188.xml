@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199120</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiwalled carbon nanotubes - poly(3-octylthiophene-2,5-diyl) nanocomposite transducer for ion-selective electrodes. Raman spectroscopy insight into the transducer / membrane interface.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.analchem.9b01286</ELocationID>
+            <Abstract>
+                <AbstractText>An approach to overcome drawbacks of well-established transducer materials for all-solid-state ion-selective electrodes is proposed - it is based on formulation of nanocomposite of multiwalled carbon nanotubes (MWCNTs) and poly(3-octylthiophene-2,5-diyl) (POT), in which the polymer is used as a dispersing agent for carbon nanotubes. Thus obtained material is characterized with unique properties that are important for its application as solid contact in ion-selective electrodes, including high: electronic conductivity, capacitance and lipophilicity. Performance of obtained all-solid-state electrodes was studied using standard approach as well as Raman spectroscopy to allow insight into distribution of the transducer material within the sensor phases - the membrane and the transducer. Application of the composite prevents unwanted partition of POT to the membrane phase, thus eliminating the risk of alteration of the sensor performance due to uncontrolled change in the membrane composition.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kałuża</LastName>
+                    <ForeName>Dawid</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaworska</LastName>
+                    <ForeName>Ewa</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazur</LastName>
+                    <ForeName>Maciej</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maksymiuk</LastName>
+                    <ForeName>Krzysztof</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michalska</LastName>
+                    <ForeName>Agata</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199120</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.analchem.9b01286</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,155 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198490</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-0994</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oxidative medicine and cellular longevity</Title>
+                <ISOAbbreviation>Oxid Med Cell Longev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protective Function of Novel Fungal Immunomodulatory Proteins Fip-lti1 and Fip-lti2 from <i>Lentinus tigrinus</i> in Concanavalin A-Induced Liver Oxidative Injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3139689</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/3139689</ELocationID>
+            <Abstract>
+                <AbstractText>Fungal immunomodulatory proteins (FIPs) are a class of small proteins that have been extensively studied for their immunomodulatory activities. In this study, two novel FIPs from <i>Lentinus tigrinus</i> were identified and named Fip-lti1 and Fip-lti2. The bioactive characteristics of Fip-lti1 and Fip-lti2 were compared to a well-known FIP (LZ-8 from <i>Ganoderma lucidum</i>) to investigate the effect of Fip-lti1 and Fip-lti2 expression on concanavalin A- (Con A-) induced liver oxidative injury. Both Fip-lti1 and Fip-lti2 protected the livers from Con A-induced necrosis, as evidenced by decreased serum aminotransferase levels (AST, ALT) and relieved liver histology. Levels of proinflammatory cytokines (TNF-<i>α</i>, IL-1<i>β</i>, and IL-6) and oxidative stress (SOD, MDA) were shown to be reduced by expressing Fip-lti1 and Fip-lti2. In addition, the hepatoprotective effect of Fip-lti1, Fip-lti2, and LZ-8 correlated with ameliorating the imbalance of Th1/Th2 (IFN-<i>γ</i>/IL-4). The observed liver protection of Fip-lti1 and Fip-lti2 was mechanistically explored. Treatments with Fip-lti1 and Fip-lti2 regulated GATA3/T-bet expression, activated the decreased Nrf-2/HO-1 pathway, and countered the upregulated NLRP3/ASC/NF-<i>κ</i>Bp65 signaling in Con A-stimulated liver injury. Nrf2 activation was shown to be involved in the mechanisms underlying the protection of Fip-lti by RNA interference. In conclusion, we identified two new fungal proteins (Fip-lti1 and Fip-lti2) that can protect the liver from Con A-induced liver oxidative injury through the Nrf2/NF-<i>κ</i>B/NLRP3/IL-1<i>β</i> pathway.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Yingnyu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Marshall Institute for Interdisciplinary Research, Marshall University, Huntington, WV, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wáng</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-8863-554X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wāng</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-0580-4337</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yingying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Hongyu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Ruiheng</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bao</LastName>
+                    <ForeName>Dapeng</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0003-1803-8149</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, No. 1000 Jinqi Road, Fengxian District, Shanghai 201403, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oxid Med Cell Longev</MedlineTA>
+            <NlmUniqueID>101479826</NlmUniqueID>
+            <ISSNLinking>1942-0994</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198490</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/3139689</ArticleId>
+            <ArticleId IdType="pmc">PMC6526528</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,192 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199668</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The alarmin S100A9 hampers osteoclast differentiation from human circulating precursors by reducing the expression of RANK.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>fj201802691RR</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.201802691RR</ELocationID>
+            <Abstract>
+                <AbstractText>The alarmin S100A8/A9 is implicated in sterile inflammation-induced bone resorption and has been shown to increase the bone-resorptive capacity of mature osteoclasts. Here, we investigated the effects of S100A9 on osteoclast differentiation from human CD14<sup>+</sup> circulating precursors. Hereto, human CD14<sup>+</sup> monocytes were isolated and differentiated toward osteoclasts with M-CSF and receptor activator of NF-κB (RANK) ligand (RANKL) in the presence or absence of S100A9. Tartrate-resistant acid phosphatase staining showed that exposure to S100A9 during monocyte-to-osteoclast differentiation strongly decreased the numbers of multinucleated osteoclasts. This was underlined by a decreased resorption of a hydroxyapatite-like coating. The thus differentiated cells showed a high mRNA and protein production of proinflammatory factors after 16 h of exposure. In contrast, at d 4, the cells showed a decreased production of the osteoclast-promoting protein TNF-α. Interestingly, S100A9 exposure during the first 16 h of culture only was sufficient to reduce osteoclastogenesis. Using fluorescently labeled RANKL, we showed that, within this time frame, S100A9 inhibited the M-CSF-mediated induction of RANK. Chromatin immunoprecipitation showed that this was associated with changes in various histone marks at the epigenetic level. This S100A9-induced reduction in RANK was in part recovered by blocking TNF-α but not IL-1. Together, our data show that S100A9 impedes monocyte-to-osteoclast differentiation, probably <i>via</i> a reduction in RANK expression.-Di Ceglie, I., Blom, A. B., Davar, R., Logie, C., Martens, J. H. A., Habibi, E., Böttcher, L.-M., Roth, J., Vogl, T., Goodyear, C. S., van der Kraan, P. M., van Lent, P. L., van den Bosch, M. H. The alarmin S100A9 hampers osteoclast differentiation from human circulating precursors by reducing the expression of RANK.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Di Ceglie</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blom</LastName>
+                    <ForeName>Arjen B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davar</LastName>
+                    <ForeName>Robab</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Faculty of Science, Radboud University, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Logie</LastName>
+                    <ForeName>Colin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Faculty of Science, Radboud University, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martens</LastName>
+                    <ForeName>Joost H A</ForeName>
+                    <Initials>JHA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Faculty of Science, Radboud University, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Habibi</LastName>
+                    <ForeName>Ehsan</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Faculty of Science, Radboud University, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Böttcher</LastName>
+                    <ForeName>Lisa-Marie</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roth</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Immunology, University of Münster, Münster, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vogl</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Immunology, University of Münster, Münster, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodyear</LastName>
+                    <ForeName>Carl S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, University of Glasgow, Glasgow, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Kraan</LastName>
+                    <ForeName>Peter M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Lent</LastName>
+                    <ForeName>Peter L</ForeName>
+                    <Initials>PL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van den Bosch</LastName>
+                    <ForeName>Martijn H</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental Rheumatology, Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">S100A8/A9</Keyword>
+            <Keyword MajorTopicYN="N">bone</Keyword>
+            <Keyword MajorTopicYN="N">epigenetic regulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199668</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.201802691RR</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

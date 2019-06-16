@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199631</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. A</Title>
+                <ISOAbbreviation>J Phys Chem A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Standard Redox Potentials of Fe(III) Aqua Complexes Included into the Cavities of Cucurbit[ n]urils ( n = 6-8): A DFT Forecast.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpca.9b04053</ELocationID>
+            <Abstract>
+                <AbstractText>An approach for estimating at the DFT level of the standard redox potentials of the inclusion compounds based on Fe(III) and Fe(II) aqua complexes inside the cavities of cucurbit[ n]urils ( n = 6-8) has been proposed. These inclusion compounds were established to have compositions which can be described by the formulas [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>3+/2+</sup>@CB[6] and [Fe(H<sub>2</sub>O)<sub>6</sub>·4H<sub>2</sub>O]<sup>3+/2+</sup>@CB[7,8]. Redox potentials E<sup>0</sup> relative to the standard hydrogen electrode for the half-reaction Fe(III)/Fe(II) in the CB[ n] cavities calculated at the PBE/TZVP level within the molecular-continuum solvation model are 1.607, 0.949, and 0.847 V for n = 6, 7, and 8, respectively. The obtained values indicate a relative increase of the oxidative ability of Fe(III) aqua-ions in the cavities of the examined CB[ n], especially in CB[6], compared to the calculated value ( E<sup>0</sup> = 0.786 V) for the same half-reaction in the bulk of aqueous solution. Possible causes of the detected trend are discussed. The calculations also showed that the Fe(III) aqua complex inside the CB[6] changes its magnetic properties, transforming into a low-spin state with a total spin S = 1/2, whereas for all other systems high-spin states in accord with the classical ligand field theory are realized.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Masliy</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7494-8089</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inorganic Chemistry , Kazan National Research Technological University , K. Marx Street 68 , 420015 Kazan , Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grishaeva</LastName>
+                    <ForeName>T N</ForeName>
+                    <Initials>TN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inorganic Chemistry , Kazan National Research Technological University , K. Marx Street 68 , 420015 Kazan , Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuznetsov</LastName>
+                    <ForeName>A M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inorganic Chemistry , Kazan National Research Technological University , K. Marx Street 68 , 420015 Kazan , Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem A</MedlineTA>
+            <NlmUniqueID>9890903</NlmUniqueID>
+            <ISSNLinking>1089-5639</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199631</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpca.9b04053</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

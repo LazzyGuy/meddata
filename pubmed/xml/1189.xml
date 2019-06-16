@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199119</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-4995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vibrio natriegens: An Alternative Expression System for the High-Yield Production of Isotopically Labeled Proteins.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.biochem.9b00403</ELocationID>
+            <Abstract>
+                <AbstractText>Isotopic labeling of recombinant proteins is crucial for studying proteins by liquid state NMR spectroscopy. Nowadays, conventional E. coli-based expression systems like BL21 (DE3) are typically used to express recombinant proteins. Still, the production of isotopically labeled proteins is often costly and time-consuming, and yields are not sufficient enough for structural studies. Here, we present Vibrio natriegens (Vmax) as an alternative expression system in M9 minimal medium. Due to our optimized M9 minimal medium and conditions and the early time point of induction, we obtained a 2- to 4-fold higher protein yield for two test proteins, FKBP and EYFP, compared to E. coli BL21 (DE3). Production of proteins in V. natriegens in minimal medium is not only more cost-effective and convenient but also less time-consuming than in E. coli. Comparing <sup>15</sup>N HSQC spectra of FKBP and EYFP expressed in Vmax and BL21 (DE3) revealed correct folding during expression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Becker</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4511-0698</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Chemistry , University of Graz , Graz 8010 , Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wimberger</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Chemistry , University of Graz , Graz 8010 , Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zangger</LastName>
+                    <ForeName>Klaus</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1682-1594</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Chemistry , University of Graz , Graz 8010 , Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199119</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.biochem.9b00403</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

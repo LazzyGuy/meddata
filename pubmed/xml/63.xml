@@ -1,0 +1,309 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200353</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-1413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Comprehensive Cancer Network : JNCCN</Title>
+                <ISOAbbreviation>J Natl Compr Canc Netw</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Neoadjuvant or Adjuvant Chemotherapy Plus Concurrent CRT Versus Concurrent CRT Alone in the Treatment of Nasopharyngeal Carcinoma: A Study Based on EBV DNA.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>703-710</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.6004/jnccn.2018.7270</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">jnccn18210</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The goal of this study was to explore the value of adding neoadjuvant chemotherapy (NACT) or adjuvant chemotherapy (ACT) to concurrent chemoradiotherapy (CCRT) in patients with nasopharyngeal carcinoma (NPC) with different risks of treatment failure.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">A total of 2,263 eligible patients with stage III-IVb NPC treated with CCRT ± NACT or ACT were included in this retrospective study. Distant metastasis-free survival (DMFS), overall survival, and progression-free survival were calculated using the Kaplan-Meier method and differences were compared using the log-rank test.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients in the low-risk group (stage N0-1 disease and Epstein-Barr virus [EBV] DNA &lt;4,000 copies/mL) who received NACT followed by CCRT achieved significantly better 5-year DMFS than those treated with CCRT alone (96.2% vs 91.3%; P= .008). Multivariate analyses also demonstrated that additional NACT was the only independent prognostic factor for DMFS (hazard ratio, 0.42; 95% CI, 0.22-0.80; P=.009). In both the intermediate-risk group (stage N0-1 disease and EBV DNA ≥4,000 copies/mL and stage N2-3 disease and EBV DNA &lt;4,000 copies/mL) and the high-risk group (stage N2-3 disease and EBV DNA ≥4,000 copies/mL), comparison of NACT or ACT + CCRT versus CCRT alone indicated no significantly better survival for all end points.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The addition of NACT to CCRT could reduce distant failure in patients with low risk of treatment failure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Li-Ting</ForeName>
+                    <Initials>LT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Qiu-Yan</ForeName>
+                    <Initials>QY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Lin-Quan</ForeName>
+                    <Initials>LQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Shan-Shan</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mo</LastName>
+                    <ForeName>Hao-Yuan</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Qing-Nan</ForeName>
+                    <Initials>QN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xue-Song</ForeName>
+                    <Initials>XS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Yu-Jing</ForeName>
+                    <Initials>YJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Chong</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>Chao-Nan</ForeName>
+                    <Initials>CN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Mu-Sheng</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bei</LastName>
+                    <ForeName>Jin-Xin</ForeName>
+                    <Initials>JX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Ming-Huang</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>cGood Clinical Practice Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shao</LastName>
+                    <ForeName>Jian-Yong</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>dDepartment of Molecular Diagnostics, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>eDepartment of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>eDepartment of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mai</LastName>
+                    <ForeName>Hai-Qiang</ForeName>
+                    <Initials>HQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aState Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>bDepartment of Nasopharyngeal Carcinoma.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Compr Canc Netw</MedlineTA>
+            <NlmUniqueID>101162515</NlmUniqueID>
+            <ISSNLinking>1540-1405</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200353</ArticleId>
+            <ArticleId IdType="doi">10.6004/jnccn.2018.7270</ArticleId>
+            <ArticleId IdType="pii">jnccn18210</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

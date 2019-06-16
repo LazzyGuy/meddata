@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200174</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Iron oxide Permeated Mesoporous rice-husk nanobiochar (IPMN) mediated removal of dissolved arsenic (As): Chemometric modelling and adsorption dynamics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>397-409</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30793-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.06.008</ELocationID>
+            <Abstract>
+                <AbstractText>Adsorption based technologies are most widely used to mitigate the global predominance of heavy-metal groundwater contaminants like Arsenic (As), owing to their high efficiency and economic operation. The current study involves the optimization of Iron oxide Permeated Mesoporous rice-husk nanobiochars (IPMN) for As removal, which were synthesized through a chemically amended pyrolytic approach. The IPMN variants were screened based on preliminary OVAT (one-variable-at-a-time) studies for As removal. Chemometric investigations employing a central composite design matrix of Response surface methodology was further used to understand the influence of the process parameters on the adsorption of As on the most efficient IPMN variant. A Multi-Layered-Perceptron based artificial neural network was further used to confirm the veracity of the experimental and predictive conditions, to derive the optimal condition for the best adsorption efficiency. In addition, the dynamics of As adsorption by the optimal IPMN variant was modelled using pseudo-first-order (Lagergren) and pseudo-second-order (Ho) rate kinetic equations followed by isotherm studies using non-linear regression of Langmuir, Freundlich and Sips adsorption isotherms. The IPMNs have an appreciably higher uptake capacity (&gt;90%) for dissolved As, as compared to the native milled rice husk (∼20%), alongside a substantial recyclability, thereby establishing their potential as a highly efficient, economical and sustainable nanobiochar for As removal.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nath</LastName>
+                    <ForeName>B K</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology and Biotechnology, Tezpur University, Tezpur, Assam, 784028, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaliha</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology and Biotechnology, Tezpur University, Tezpur, Assam, 784028, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalita</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology and Biotechnology, Tezpur University, Tezpur, Assam, 784028, India. Electronic address: ekalita@tezu.ernet.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adsorption dynamics</Keyword>
+            <Keyword MajorTopicYN="N">Arsenic</Keyword>
+            <Keyword MajorTopicYN="N">Artificial neural network</Keyword>
+            <Keyword MajorTopicYN="N">Biochar</Keyword>
+            <Keyword MajorTopicYN="N">Response surface methodology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200174</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30793-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.06.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

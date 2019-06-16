@@ -1,0 +1,195 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200379</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spatial distribution and hemispheric asymmetry of electrically evoked experiential phenomena in the human brain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.JNS183429</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.JNS183429</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Experiential phenomena (EP), such as illusions and complex hallucinations, are vivid experiences created in one's mind. They can occur spontaneously as epileptic auras or can be elicited by electrical brain stimulation (EBS) in patients undergoing presurgical evaluation for drug-resistant epilepsy. Previous work suggests that EP arise from activation of different nodes within interconnected neural networks mainly in the temporal lobes. Yet, the anatomical extent of these neural networks has not been described and the question of lateralization of EP has not been fully addressed. To this end, an extended number of brain regions in which electrical stimulation elicited EP were studied to test whether there is a lateralization propensity to EP phenomena.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 19 drug-resistant focal epilepsy patients who underwent EBS as part of invasive presurgical evaluation and who experienced EP during the stimulation were included. Spatial dispersion of visual and auditory illusions and complex hallucinations in each hemisphere was determined by calculation of Euclidean distances between electrodes and their centroid in common space, based on (x, y, z) Cartesian coordinates of electrode locations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In total, 5857 stimulation epochs were analyzed; 917 stimulations elicited responses, out of which 130 elicited EP. Complex visual hallucinations were found to be widely dispersed in the right hemisphere, while they were tightly clustered in the occipital lobe of the left hemisphere. Visual illusions were elicited mostly in the occipital lobes bilaterally. Auditory illusions and hallucinations were evoked symmetrically in the temporal lobes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These findings suggest that complex visual hallucinations arise from wider spread in the right compared to the left hemisphere, possibly mirroring the asymmetry in the white matter organization of the two hemispheres. These results offer some insights into lateralized differences in functional organization and connectivity that may be important for functional mapping and planning of surgical resections in patients with epilepsy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andelman-Gur</LastName>
+                    <ForeName>Michal M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gazit</LastName>
+                    <ForeName>Tomer</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Sagol Brain Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andelman</LastName>
+                    <ForeName>Fani</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Functional Neurosurgery Unit.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kipervasser</LastName>
+                    <ForeName>Svetlana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Epilepsy and EEG Unit, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kramer</LastName>
+                    <ForeName>Uri</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Pediatric Epilepsy Unit, Tel Aviv Medical Center, Tel Aviv, Israel; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neufeld</LastName>
+                    <ForeName>Miri Y</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Epilepsy and EEG Unit, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fried</LastName>
+                    <ForeName>Itzhak</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Functional Neurosurgery Unit.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6Department of Neurosurgery, University of California, Los Angeles, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fahoum</LastName>
+                    <ForeName>Firas</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4Epilepsy and EEG Unit, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DTI = diffusion tensor imaging</Keyword>
+            <Keyword MajorTopicYN="N">EBS = electrical brain stimulation</Keyword>
+            <Keyword MajorTopicYN="N">ED = Euclidean distance</Keyword>
+            <Keyword MajorTopicYN="N">EP = experiential phenomena</Keyword>
+            <Keyword MajorTopicYN="N">IFG = inferior frontal gyrus</Keyword>
+            <Keyword MajorTopicYN="N">MNI = Montreal Neurological Institute</Keyword>
+            <Keyword MajorTopicYN="N">TLVMC = Tel Aviv Medical Center</Keyword>
+            <Keyword MajorTopicYN="N">electrical stimulation</Keyword>
+            <Keyword MajorTopicYN="N">epilepsy</Keyword>
+            <Keyword MajorTopicYN="N">fMRI = functional MRI</Keyword>
+            <Keyword MajorTopicYN="N">hallucinations</Keyword>
+            <Keyword MajorTopicYN="N">hemispheric specialization</Keyword>
+            <Keyword MajorTopicYN="N">white matter</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200379</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.JNS183429</ArticleId>
+            <ArticleId IdType="pii">2019.3.JNS183429</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

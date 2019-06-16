@@ -1,0 +1,117 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198328</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-4879</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacy &amp; bioallied sciences</Title>
+                <ISOAbbreviation>J Pharm Bioallied Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Management and Disposal of Mercury and Amalgam in the Dental Clinics of South India: A Cross-Sectional Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S151-S155</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/JPBS.JPBS_280_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Dental offices are known to be one of the largest users of inorganic mercury in the preparation of amalgam-a restorative material which, if not handled and disposed through scientific methods, can pose grave threats to the biosphere.</AbstractText>
+                <AbstractText Label="Aims" NlmCategory="UNASSIGNED">The objective of this study was to assess and record the mercury management and disposal strategies of dental practitioners belonging to the two South Indian states, Kerala and Tamil Nadu.</AbstractText>
+                <AbstractText Label="Subjects and Methods" NlmCategory="UNASSIGNED">A questionnaire regarding the usage and disposal of a filling material containing mercury (amalgam) was designed and distributed online. The 150 dental practitioners partaking in this study responded anonymously.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The results were statistically analyzed using chi-square test and the <i>P</i> value was evaluated. The usage of amalgam was correlated with the age of the practitioner and the nature of practice and it was found to be statistically significant. The number of fillings was correlated with the years of practice and locality of the clinic, which were found to be statistically significant.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">This study showed that mercury was widely preferred and utilized even today as a restorative material by dentists and dental specialists, despite the availability of other alternative strategies. Only a minor section of practitioners were found to be aware of the global changes in the guidelines pertaining to the handling and disposal of amalgam. We feel that Safe Mercury Amalgam Removal Technique, amalgam safety rules, and amalgam-free practice should be a part of the academic curriculum and continuing dental education.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ramesh</LastName>
+                    <ForeName>Karthik Krishna</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Engineering, Delhi Technological University, Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramesh</LastName>
+                    <ForeName>Maya</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Pathology, Vinayaka Missions Sankarachariyar Dental College, Vinayaka Missions Research Foundation Deemed to be University, Salem, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krishnan</LastName>
+                    <ForeName>Ramesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Registrar, Pedodontics, King Fahad Dental Centre, Armed Forces Hospitals Southern Region (AFHSR), Khamis Mushait, Kingdom of Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Pharm Bioallied Sci</MedlineTA>
+            <NlmUniqueID>101537209</NlmUniqueID>
+            <ISSNLinking>0975-7406</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biosphere hazards</Keyword>
+            <Keyword MajorTopicYN="N">dental amalgam</Keyword>
+            <Keyword MajorTopicYN="N">environmental strategies</Keyword>
+            <Keyword MajorTopicYN="N">occupational hazards</Keyword>
+            <Keyword MajorTopicYN="N">solid waste disposal</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198328</ArticleId>
+            <ArticleId IdType="doi">10.4103/JPBS.JPBS_280_18</ArticleId>
+            <ArticleId IdType="pii">JPBS-11-151</ArticleId>
+            <ArticleId IdType="pmc">PMC6555386</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

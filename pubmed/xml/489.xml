@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199904</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-6867</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hormones and behavior</Title>
+                <ISOAbbreviation>Horm Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reproductive state-dependent plasticity in the visual system of an African cichlid fish.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0018-506X(18)30519-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yhbeh.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Visual communication is used widely across the animal kingdom to convey crucial information about an animals' identity, reproductive status, and sex. Although it is well-demonstrated that auditory and olfactory sensitivity can change with reproductive state, fewer studies have tested for plasticity in the visual system, a surprising detail since courtship and mate choice behaviors in many species are largely dependent on visual signals. Here, we tested for reproductive state-dependent plasticity in the eye of the cichlid fish Astatotilapia burtoni using behavioral, gene expression, neural activation, and electrophysiology techniques. Males court ovulated females more intensely than gravid females, and ovulated females were more responsive to male courtship behaviors than gravid females. Using electroretinography to measure visual sensitivity in dark-adapted fish, we revealed that gravid, reproductively-ready females have increased visual sensitivity at wavelengths associated with male courtship coloration compared to non-gravid females. After ovulation was hormonally induced, female's spectral sensitivity further increased compared to pre-injection measurements. This increased sensitivity after hormone injection was absent in non-gravid females and in males, suggesting an ovulation-triggered increase in visual sensitivity. Ovulated females had higher mRNA expression levels of reproductive neuromodulatory receptors (sex-steroids; gonadotropins) in the eye than nonovulated females, whereas males had similar expression levels independent of reproductive/social state. In addition, female mate choice-like behaviors positively correlated with expression of gonadotropin system receptors in the eye. Collectively, these data provide crucial evidence linking endocrine modulation of visual plasticity to mate choice behaviors in females.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Butler</LastName>
+                    <ForeName>Julie M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Louisiana State University, USA. Electronic address: jbutl48@lsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whitlow</LastName>
+                    <ForeName>Sarah M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Louisiana State University, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>Loranzie S</ForeName>
+                    <Initials>LS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, University of Minnesota at Duluth, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putland</LastName>
+                    <ForeName>Rosalyn L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, University of Minnesota at Duluth, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mensinger</LastName>
+                    <ForeName>Allen F</ForeName>
+                    <Initials>AF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, University of Minnesota at Duluth, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maruska</LastName>
+                    <ForeName>Karen P</ForeName>
+                    <Initials>KP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Louisiana State University, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Horm Behav</MedlineTA>
+            <NlmUniqueID>0217764</NlmUniqueID>
+            <ISSNLinking>0018-506X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Astatotilapia burtoni</Keyword>
+            <Keyword MajorTopicYN="N">Behavior</Keyword>
+            <Keyword MajorTopicYN="N">Communication</Keyword>
+            <Keyword MajorTopicYN="N">Electroretinogram</Keyword>
+            <Keyword MajorTopicYN="N">Mate choice</Keyword>
+            <Keyword MajorTopicYN="N">Neural activation</Keyword>
+            <Keyword MajorTopicYN="N">Ovulation</Keyword>
+            <Keyword MajorTopicYN="N">Teleost</Keyword>
+            <Keyword MajorTopicYN="N">pS6</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199904</ArticleId>
+            <ArticleId IdType="pii">S0018-506X(18)30519-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yhbeh.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

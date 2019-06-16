@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198966</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-3171</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Poultry science</Title>
+                <ISOAbbreviation>Poult. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Plasmid-mediated quinolone resistance in Escherichia coli isolates from commercial broiler chickens and selection of fluoroquinolone-resistant mutants.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pez337</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3382/ps/pez337</ELocationID>
+            <Abstract>
+                <AbstractText>Plasmid-mediated quinolone resistance (PMQR) is a potential concern for animal husbandry and public health. Escherichia coli isolates from a total of 109 fecal samples collected from 6 commercial broiler farms between 2007 and 2011 were examined for PMQR genes, and transfer of these genes was tested by conjugation analysis to elucidate the prevalence and spread of PMQR in broiler chickens. Two isolates from 2 farms harbored the aac(6')-Ib-cr gene that was not detected in plasmids using Southern blot analysis of S1 nuclease-digested genomic DNA separated by pulsed-field gel electrophoresis. In these 2 isolates, nucleotide mutations in the gyrA and parC genes that result in amino acid substitutions were detected. Additionally, a total of 6 isolates originating from 6 chickens from the 2 farms were positive for the qnrS1 gene. In 2 of the 6 isolates, the qnrS1 gene was transferred to a recipient strain. Two transconjugants harboring the qnrS1 gene were cultured on media supplemented with successively higher concentrations of enrofloxacin (ERFX). After a 5-time subcultivation, the ERFX MICs reached 8 and 16 μg/mL, and no nucleotide mutations were detected in the gyrA, gyrB, parC, and parE genes. Our results suggest that the prevalence of PMQR was relatively low in broiler chickens and that exposure of bacteria carrying PMQR genes to the selective pressure of fluoroquinolones can result in resistance to fluoroquinolone, which is not caused by mutations in genes encoding topoisomerases.</AbstractText>
+                <CopyrightInformation>© 2019 Poultry Science Association Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nishikawa</LastName>
+                    <ForeName>Ryo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Veterinary Microbiology, Faculty of Agriculture, Tottori University, Tottori 680-8553, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murase</LastName>
+                    <ForeName>Toshiyuki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Veterinary Microbiology, Faculty of Agriculture, Tottori University, Tottori 680-8553, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Avian Zoonosis Research Center, Faculty of Agriculture, Tottori University, Tottori 680-8553, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozaki</LastName>
+                    <ForeName>Hiroichi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Veterinary Microbiology, Faculty of Agriculture, Tottori University, Tottori 680-8553, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Avian Zoonosis Research Center, Faculty of Agriculture, Tottori University, Tottori 680-8553, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Poult Sci</MedlineTA>
+            <NlmUniqueID>0401150</NlmUniqueID>
+            <ISSNLinking>0032-5791</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          Escherichia coli
+        </Keyword>
+            <Keyword MajorTopicYN="N">broiler</Keyword>
+            <Keyword MajorTopicYN="N">plasmid</Keyword>
+            <Keyword MajorTopicYN="N">quinolone</Keyword>
+            <Keyword MajorTopicYN="N">resistance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198966</ArticleId>
+            <ArticleId IdType="pii">5518971</ArticleId>
+            <ArticleId IdType="doi">10.3382/ps/pez337</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

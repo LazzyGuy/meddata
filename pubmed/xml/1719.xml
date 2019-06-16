@@ -1,0 +1,203 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198443</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1757-4749</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gut pathogens</Title>
+                <ISOAbbreviation>Gut Pathog</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of internalin genes in <i>Listeria monocytogenes</i> from food and humans, and their association with the invasion of Caco-2 cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13099-019-0307-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Internalins are surface proteins that are utilized by <i>Listeria monocytogenes</i> to facilitate its invasion into human intestinal epithelial cells. The expression of a full-length InlA is one of essential virulence factors for <i>L. monocytogenes</i> to cross the intestinal barrier in order to invade epithelial cells.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">In this study, the gene sequences of inlA in 120 <i>L. monocytogenes</i> isolates from food (n = 107) and humans (n = 13) were analyzed. Premature stop codon (PMSC) mutations in <i>inlA</i> were identified in 51 isolates (50 from food and 1 from human). Six mutation types of PMSCs were identified. Among the 51 isolates with PMSCs in <i>inlA</i>, there were 44 serogroup 1/2c, 3c isolates from food, of which seven belonged to serogroups 1/2a, 3a. A total of 153,382 SNPs in 2247 core genes from 42 genomes were identified and used to construct a phylogenetic tree. Serotype 1/2c isolates with inlA PMSC mutations were grouped together. Cell culture studies on 21 isolates showed that the invasion to Caco-2 cells was significantly reduced among isolates with inlA PMSC mutations compared to those without PMSC mutations (P &lt; 0.01). The PMSC mutations in <i>inlA</i> correlated with the inability of the <i>L. monocytogenes</i> isolates to invade Caco-2 cells (Pearson's coefficient 0.927, <i>P </i>&lt; 0.01).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Overall, the study has revealed the reduced ability of <i>L. monocytogenes</i> to invade human intestinal epithelial cells in vitro was linked to the presence of PMSC mutations in <i>inlA</i>. Isolates with PMSC mutations shared the same genomic characteristics indicating the genetic basis on the potential virulence of <i>L. monocytogenes</i> invasion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Xudong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Guojie</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Nutrition &amp; Food Science, University of Maryland, College Park, MD 20742 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0941 7177</Identifier>
+                        <Identifier Source="GRID">grid.164295.d</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jianmin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Haijian</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Daofeng</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuang</LastName>
+                    <ForeName>Dai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xuebin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Shanghai Municipal Center for Disease Control and Prevention, Shanghai, 200336 China.</Affiliation>
+                        <Identifier Source="GRID">grid.430328.e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Xianming</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Food Science and Technology, MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, State Key Lab of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai, 200240 China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0368 8293</Identifier>
+                        <Identifier Source="GRID">grid.16821.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Jianghong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Nutrition &amp; Food Science, University of Maryland, College Park, MD 20742 USA.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0941 7177</Identifier>
+                        <Identifier Source="GRID">grid.164295.d</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Gut Pathog</MedlineTA>
+            <NlmUniqueID>101474263</NlmUniqueID>
+            <ISSNLinking>1757-4749</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Internalins</Keyword>
+            <Keyword MajorTopicYN="N">Invasion</Keyword>
+            <Keyword MajorTopicYN="N">L. monocytogenes</Keyword>
+            <Keyword MajorTopicYN="N">PMSC mutation</Keyword>
+            <Keyword MajorTopicYN="N">inlA</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198443</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13099-019-0307-8</ArticleId>
+            <ArticleId IdType="pii">307</ArticleId>
+            <ArticleId IdType="pmc">PMC6558679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

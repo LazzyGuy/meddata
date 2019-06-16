@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200089</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7972</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience letters</Title>
+                <ISOAbbreviation>Neurosci. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Alteration of the fecal microbiota in North-eastern Han Chinese population with sporadic Parkinson's disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>134297</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3940(19)30370-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neulet.2019.134297</ELocationID>
+            <Abstract>
+                <AbstractText>Studies have confirmed that the gut microbiota may be involved in the pathogenesis of Parkinson's disease(PD). However, the alterations in fecal microbiome in North-eastern Han sporadic PD patients remains unknown. This case control study was conducted to explore fecal microbiota compositions in North-eastern Han sporadic PD patients. The gut microbiota composition of 10 patients with sporadic PD and over 65 age and 10 matched controls was analyzed in this study. Microbiota communities in the feces were investigated using high-throughput Illumina Miseq sequencing targeting the V3-V4 region of 16S ribosomal RNA (rRNA) gene. The structure and richness of the fecal microbiota differed between PD patients and healthy controls. We had observed that the overall composition of gut microbiota in North-eastern Han Chinese healthy and PD patients was slightly different. The abundance of the family of Bacteroides and Prevotellaceae were significantly increased in heathy controls while the abundance of Ruminococcaceae, Verrucomicrobiaceae, Porphyromondaceae, Hydrogenoanaerobacterium and Lachnospiraceae NK4A were significantly enriched in North-eastern Han Chinese patients with PD. Sporadic PD patients North-eastern Han China is accompanied by alterations in the abundance of specific gut microbes. Our findings will provide a foundation to improve our understanding the pathogenesis of PD.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The First Affiliated Hospital of Jinzhou Medical University, Jin zhou, Liaoning Province, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The First Affiliated Hospital of Jinzhou Medical University, Jin zhou, Liaoning Province, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhu</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The First Affiliated Hospital of Jinzhou Medical University, Jin zhou, Liaoning Province, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sui</LastName>
+                    <ForeName>Xiafei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The First Affiliated Hospital of Jinzhou Medical University, Jin zhou, Liaoning Province, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Xinyu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The First Affiliated Hospital of Jinzhou Medical University, Jin zhou, Liaoning Province, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jinbiao</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Weihai Municipal Hospital, Affiliated Hospital of Binzhou Medical College, Weihai, Shandong Province, PR China. Electronic address: drzhangjinbiao@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Neurosci Lett</MedlineTA>
+            <NlmUniqueID>7600130</NlmUniqueID>
+            <ISSNLinking>0304-3940</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">16S rRNA gene</Keyword>
+            <Keyword MajorTopicYN="N">Parkinson’s disease</Keyword>
+            <Keyword MajorTopicYN="N">gut microbiome</Keyword>
+            <Keyword MajorTopicYN="N">microbiota–gut–brain axis</Keyword>
+            <Keyword MajorTopicYN="N">pathogenesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200089</ArticleId>
+            <ArticleId IdType="pii">S0304-3940(19)30370-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neulet.2019.134297</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

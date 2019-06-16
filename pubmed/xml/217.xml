@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200191</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-9800</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>151</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine</Title>
+                <ISOAbbreviation>Appl Radiat Isot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Excitation functions and yield measurements for Proton Induced Reactions in Stainless Steel: Special relevance to Proton Activation Analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>166-170</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0969-8043(18)31032-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.apradiso.2019.06.004</ELocationID>
+            <Abstract>
+                <AbstractText>In this work, the excitation functions for protons induced nuclear reactions with stainless steel's constituent elements were measured and the results were used in Proton Activation Analysis (PAA) of 18/10 steel samples which was carried out at Egyptian MGC-20 cyclotron. The elemental concentrations were also checked using the EDX technique. The reactions <sup>nat</sup>Fe(p,x)<sup>56</sup>Co, <sup>nat</sup>Ni(p,α)<sup>55</sup>Co and <sup>nat</sup>Cr(p,x)<sup>52g</sup>Mn were studied from threshold up to 14.3 MeV proton energy. TALYS-1.6 and EMPIRE-3.2.2 codes were used to model the excitation functions of the investigated reactions. For quantitative analysis using PAA, the apparent reaction yields (i.e. not corrected for the γ-ray attenuation), were measured for each reaction along the proton energy range as well as the target thickness, and normalization factors were given.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Azzam</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuclear Physics Department, Nuclear Research Centre, Atomic Energy Authority, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohamed</LastName>
+                    <ForeName>Gehan Y</ForeName>
+                    <Initials>GY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuclear Physics Department, Nuclear Research Centre, Atomic Energy Authority, Cairo, Egypt. Electronic address: gg_yousef@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Abyad</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuclear Physics Department, Nuclear Research Centre, Atomic Energy Authority, Cairo, Egypt; Nuclear Physics Department (Cyclotron Facility), Nuclear Research Centre, Atomic Energy Authority, Cairo, 13759, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Appl Radiat Isot</MedlineTA>
+            <NlmUniqueID>9306253</NlmUniqueID>
+            <ISSNLinking>0969-8043</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">EDX</Keyword>
+            <Keyword MajorTopicYN="N">Elemental concentration</Keyword>
+            <Keyword MajorTopicYN="N">Excitation function</Keyword>
+            <Keyword MajorTopicYN="N">Measured thick target yield</Keyword>
+            <Keyword MajorTopicYN="N">PAA</Keyword>
+            <Keyword MajorTopicYN="N">Stainless steel</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200191</ArticleId>
+            <ArticleId IdType="pii">S0969-8043(18)31032-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.apradiso.2019.06.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

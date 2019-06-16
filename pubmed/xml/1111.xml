@@ -1,0 +1,101 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199207</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8714</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Visual neuroscience</Title>
+                <ISOAbbreviation>Vis. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synaptic inhibition tunes contrast computation in the retina.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E006</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S095252381900004X</ELocationID>
+            <Abstract>
+                <AbstractText>Inhibition shapes activity and signal processing in neural networks through numerous mechanisms mediated by many different cell types. Here, we examined how one type of GABAergic interneuron in the retina, the A17 amacrine cell, influences visual information processing. Our results suggest that A17s, which make reciprocal feedback inhibitory synapses onto rod bipolar cell (RBC) synaptic terminals, extend the luminance range over which RBC synapses compute temporal contrast and enhance the reliability of contrast signals over this range. Inhibition from other amacrine cells does not influence these computational features. Although A17-mediated feedback is mediated by both GABAA and GABAC receptors, the latter plays the primary role in extending the range of contrast computation. These results identify specific functions for an inhibitory interneuron subtype, as well as specific synaptic receptors, in a behaviorally relevant neural computation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Oesch</LastName>
+                    <ForeName>Nicholas W</ForeName>
+                    <Initials>NW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Synaptic Physiology Section,National Institute of Neurological Disorders and Stroke,National Institutes of Health,Bethesda,Maryland 20892-3701.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diamond</LastName>
+                    <ForeName>Jeffrey S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Synaptic Physiology Section,National Institute of Neurological Disorders and Stroke,National Institutes of Health,Bethesda,Maryland 20892-3701.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vis Neurosci</MedlineTA>
+            <NlmUniqueID>8809466</NlmUniqueID>
+            <ISSNLinking>0952-5238</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amacrine cell</Keyword>
+            <Keyword MajorTopicYN="N">Feedback inhibition</Keyword>
+            <Keyword MajorTopicYN="N">Ribbon synapse</Keyword>
+            <Keyword MajorTopicYN="N">Weber contrast</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199207</ArticleId>
+            <ArticleId IdType="pii">S095252381900004X</ArticleId>
+            <ArticleId IdType="doi">10.1017/S095252381900004X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198132</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2165-0497</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbiology spectrum</Title>
+                <ISOAbbreviation>Microbiol Spectr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hostile Takeover: Hijacking of Endoplasmic Reticulum Function by T4SS and T3SS Effectors Creates a Niche for Intracellular Pathogens.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/microbiolspec.PSIB-0027-2019</ELocationID>
+            <Abstract>
+                <AbstractText>After entering a cell, intracellular pathogens must evade destruction and generate a niche for intracellular replication. A strategy shared by multiple intracellular pathogens is the deployment of type III secretion system (T3SS)- and type IV secretion system (T4SS)-injected proteins (effectors) that subvert cellular functions. A subset of these effectors targets activities of the host cell's endoplasmic reticulum (ER). Effectors are now appreciated to interfere with the ER in multiple ways, including capture of secretory vesicles, tethering of pathogen vacuoles to the ER, and manipulation of ER-based autophagy initiation and the unfolded-protein response. These strategies enable pathogens to generate a niche with access to cellular nutrients and to evade the host cell's defenses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tsai</LastName>
+                    <ForeName>April Y</ForeName>
+                    <Initials>AY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology &amp; Immunology, University of California, Davis, Davis, CA 95616.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>English</LastName>
+                    <ForeName>Bevin C</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology &amp; Immunology, University of California, Davis, Davis, CA 95616.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsolis</LastName>
+                    <ForeName>Renée M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology &amp; Immunology, University of California, Davis, Davis, CA 95616.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microbiol Spectr</MedlineTA>
+            <NlmUniqueID>101634614</NlmUniqueID>
+            <ISSNLinking>2165-0497</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198132</ArticleId>
+            <ArticleId IdType="doi">10.1128/microbiolspec.PSIB-0027-2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

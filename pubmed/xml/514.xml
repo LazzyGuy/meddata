@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199875</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0061</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Yeast (Chichester, England)</Title>
+                <ISOAbbreviation>Yeast</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aneuploidy in Yeast: Segregation Error or Adaptation Mechanism?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/yea.3427</ELocationID>
+            <Abstract>
+                <AbstractText>Aneuploidy is the loss or gain of chromosomes within a genome. It is often detrimental and has been associated with cell death and genetic disorders. However, aneuploidy can also be beneficial and provide a quick solution through changes in gene dosage when cells face environmental stress. Here, we review the prevalence of aneuploidy in Saccharomyces, Candida and Cryptococcus yeasts (and their hybrid offspring), and analyse associations with chromosome size and specific stressors. We discuss how aneuploidy, a segregation error, may in fact provide a natural route for the diversification of microbes and enable important evolutionary innovations given the right ecological circumstances, such as the colonisation of new environments or the transition from commensal to pathogenic lifestyle. We also draw attention to a largely unstudied cross-link between hybridisation and aneuploidy. Hybrid meiosis, involving two divergent genomes, can lead to drastically increased rates of aneuploidy in the offspring due to anti-recombination and chromosomal missegregation. Since hybridisation and aneuploidy have both been shown to increase with environmental stress, we believe it important and timely to start exploring the evolutionary significance of their co-occurrence.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gilchrist</LastName>
+                    <ForeName>Ciaran</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7639-6131</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Population Genetics, Department of Zoology, Stockholm University, Svante Arrheniusväg 18 B, 106 91, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stelkens</LastName>
+                    <ForeName>Rike</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Population Genetics, Department of Zoology, Stockholm University, Svante Arrheniusväg 18 B, 106 91, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Yeast</MedlineTA>
+            <NlmUniqueID>8607637</NlmUniqueID>
+            <ISSNLinking>0749-503X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adaptation</Keyword>
+            <Keyword MajorTopicYN="N">aneuploidy</Keyword>
+            <Keyword MajorTopicYN="N">environmental stress</Keyword>
+            <Keyword MajorTopicYN="N">hybridisation</Keyword>
+            <Keyword MajorTopicYN="N">yeast</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199875</ArticleId>
+            <ArticleId IdType="doi">10.1002/yea.3427</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

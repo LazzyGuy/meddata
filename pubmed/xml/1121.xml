@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199196</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-2267</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physiological genomics</Title>
+                <ISOAbbreviation>Physiol. Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>BMI-associated gene variants in <i>FTO</i> and cardiometabolic and brain disease: obesity or pleiotropy?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/physiolgenomics.00040.2019</ELocationID>
+            <Abstract>
+                <AbstractText>Obesity is a causal risk factor for the development of age-related disease conditions, which includes type 2 diabetes mellitus, cardiovascular disease, and dementia. In Genome-Wide Association studies, genetic variation in <i>FTO</i> is strongly associated with obesity, and has been described across different ethnic backgrounds and life stages. To date, much work has been devoted on determining the biological mechanisms via which <i>FTO</i> affects body weight regulation and ultimately contributes to age-related cardiometabolic and brain disease. The main hypotheses of the involved biological mechanisms include the involvement of <i>FTO</i> in habitual food intake and energy expenditure. In this narrative review, our overall aim is to provide an overview on how <i>FTO</i> gene variants could increase the risk of developing age-related disease conditions. Specifically, we will discuss the state of the literature based on the different hypotheses how <i>FTO</i> regulates body weight and ultimately contributes to cardiometabolic disease and brain disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ganeff</LastName>
+                    <ForeName>Ingeborg Mm</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leiden University Medical Center, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bos</LastName>
+                    <ForeName>Maxime M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leiden University Medical Center, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Heemst</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gerontology and Geriatrics, Leiden University Medical Center, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noordam</LastName>
+                    <ForeName>Raymond</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leiden University Medical Center, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Physiol Genomics</MedlineTA>
+            <NlmUniqueID>9815683</NlmUniqueID>
+            <ISSNLinking>1094-8341</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FTO</Keyword>
+            <Keyword MajorTopicYN="N">brain disease</Keyword>
+            <Keyword MajorTopicYN="N">cardiometabolic disease</Keyword>
+            <Keyword MajorTopicYN="N">obesity</Keyword>
+            <Keyword MajorTopicYN="N">pleiotropy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199196</ArticleId>
+            <ArticleId IdType="doi">10.1152/physiolgenomics.00040.2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

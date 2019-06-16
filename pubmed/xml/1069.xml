@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199260</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1941-0506</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on visualization and computer graphics</Title>
+                <ISOAbbreviation>IEEE Trans Vis Comput Graph</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Visual Analytics System for Exploring, Monitoring, and Forecasting Road Traffic Congestion.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TVCG.2019.2922597</ELocationID>
+            <Abstract>
+                <AbstractText>We present an interactive visual analytics system that enables traffic congestion exploration, surveillance, and forecasting based on vehicle detector data. Through domain expert collaboration, we have extracted task requirements, incorporated the Long Short-Term Memory (LSTM) model for congestion forecasting, and designed a weighting method for detecting the causes of congestion and congestion propagation directions. Our visual analytics system is designed to enable users to explore congestion causes, directions, and severity. Congestion conditions of a city are visualized using a Volume-Speed Rivers (VSRivers) visualization that simultaneously presents traffic volumes and speeds. To evaluate our system, we report performance comparison results, wherein our model is more accurate than other forecasting algorithms. We demonstrate the usefulness of our system in the traffic management and congestion broadcasting domains through three case studies and domain expert feedback.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Chunggi</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Yeonjun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Seung Min</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dongmin</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maciejewski</LastName>
+                    <ForeName>Ross</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebert</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>Sungahn</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Vis Comput Graph</MedlineTA>
+            <NlmUniqueID>9891704</NlmUniqueID>
+            <ISSNLinking>1077-2626</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199260</ArticleId>
+            <ArticleId IdType="doi">10.1109/TVCG.2019.2922597</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

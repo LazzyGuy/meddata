@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198244</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ultrasound-Guided Erector Spinae versus Ilioinguinal/Iliohypogastric Block for Postoperative Analgesia in Children Undergoing Inguinal Surgeries.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>274-279</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_81_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Erector spinae plane (ESP) block is a promising technique in the field of pediatric postoperative analgesia considering its safety and simplicity.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The objective of the study is to compare the efficacy of ultrasound (US)-guided ilioinguinal/iliohypogastric nerve (IIN) block and ESP block for postoperative analgesia after pediatric unilateral inguinal hernia repair.</AbstractText>
+                <AbstractText Label="Patients and Methods" NlmCategory="UNASSIGNED">Sixty patients randomized into two equal groups. ESP group received US-guided ESP block, and IIN group received US-guided IIN block. Block in both groups was done with 0.5 mL/kg 0.125 bupivacaine + fentanyl 1 μg/mL injectate. Primary outcome is to compare both groups regarding time to first analgesic request. Secondary outcomes include evaluation of postoperative FLACC score, number of patients requiring rescue analgesic, number of rescue analgesic doses, parental satisfaction, incidence of postoperative vomiting, and motor weakness.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">IIN group showed a significantly higher FLACC score at 4 and 6 h, significantly higher number of rescue medication doses and number of patients needed rescue analgesia. The ESP group carries a significantly higher parental satisfaction and a significantly longer time to first rescue analgesic compared to IIN group.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The findings suggest that US guided ESP block resulted in a more effective and longer duration of postoperative analgesia following a pediatric unilateral inguinal hernia repair compared to IIN block.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Emam</LastName>
+                    <ForeName>El-Sayed M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Motlb</LastName>
+                    <ForeName>Enas A Abd</ForeName>
+                    <Initials>EAA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia and Surgical Intensive Care, Faculty of Medicine, Mansoura University, Mansoura, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Erector spinae plane block</Keyword>
+            <Keyword MajorTopicYN="N">ilioinguinal/iliohypogastric nerve block</Keyword>
+            <Keyword MajorTopicYN="N">pediatric inguinal surgery</Keyword>
+            <Keyword MajorTopicYN="N">ultrasound-guided nerve block</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198244</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_81_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-274</ArticleId>
+            <ArticleId IdType="pmc">PMC6545936</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

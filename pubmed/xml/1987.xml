@@ -1,0 +1,84 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198130</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2165-0497</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbiology spectrum</Title>
+                <ISOAbbreviation>Microbiol Spectr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein Secretion in Spirochetes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/microbiolspec.PSIB-0026-2019</ELocationID>
+            <Abstract>
+                <AbstractText>Spirochetes form a separate phylum of bacteria with two membranes but otherwise unusual morphologies and envelope structures. Distinctive common features of <i>Borrelia</i>, <i>Leptospira</i>, and <i>Treponema</i> include the sequestration of flagella to the periplasm and thin peptidoglycan cell walls that are more closely associated with the inner membrane. Outer membrane compositions differ significantly between the genera. <i>Leptospira</i> most closely track Gram-negative bacteria due to the incorporation of lipopolysaccharides. <i>Treponema</i> and <i>Borrelia</i> outer membranes lack lipopolysaccharide, with treponemes expressing only a few outer membrane proteins and <i>Borrelia</i> displaying a dizzying diversity of abundant surface lipoproteins instead. Phylogenetic and experimental evidence indicates that spirochetes have adapted various modules of bacterial export and secretion pathways to build and maintain their envelopes. Export and insertion pathways in the inner membrane appear conserved, while spirochetal experimentation with various envelope architectures over time has led to variations in secretion pathways in the periplasm and outer membrane. Classical type I to III secretion systems have been identified, with demonstrated roles in drug efflux and export of flagellar proteins only. Unique activities of periplasmic proteases, including a C-terminal protease, are involved in maturation of some periplasmic proteins. Proper lipoprotein sorting within the periplasm appears to be dependent on functional Lol pathways that lack the outer membrane lipoprotein insertase LolB. The abundance of surface lipoproteins in <i>Borrelia</i> and detailed protein sorting studies suggest a lipoprotein secretion pathway that either extends Lol through the outer membrane or bypasses it altogether. Proteins can be released from cells in outer membrane vesicles or, rarely, as soluble proteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zückert</LastName>
+                    <ForeName>Wolfram R</ForeName>
+                    <Initials>WR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Molecular Genetics and Immunology, University of Kansas School of Medicine, Kansas City, KS 66160.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microbiol Spectr</MedlineTA>
+            <NlmUniqueID>101634614</NlmUniqueID>
+            <ISSNLinking>2165-0497</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198130</ArticleId>
+            <ArticleId IdType="doi">10.1128/microbiolspec.PSIB-0026-2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

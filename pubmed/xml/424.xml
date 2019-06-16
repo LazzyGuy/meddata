@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199974</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0003</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of biological macromolecules</Title>
+                <ISOAbbreviation>Int. J. Biol. Macromol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chitosan nanoparticles: Polyphosphates cross-linking and protein delivery properties.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0141-8130(18)36836-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijbiomac.2019.06.062</ELocationID>
+            <Abstract>
+                <AbstractText>Nanoparticles from chitosan, in general, can be prepared through ionotropic gelation, physical crosslinking, with anionic polyphosphates. Tripolyphosphate (TPP) is widely used for such purpose especially in drug delivery applications. TPP is a small ion with a triple negative charge throughout the physiologically acceptable pH range. However, the stability of size and surface charge of the particles still challenging. In the current work, the utilization of Hexametaphosphate (HMP) instead of Tripolyphosphate (TPP) as a cross-linking agent is being investigated. HMP is hexavalent molecule in the neutral and slightly basic medium which offers more binding sites readily available for interaction with chitosan. It is thought that increasing the availability of the binding sites in the HMP molecule would result in stronger ionic complexation with chitosan cationic charges. Consequently, such stronger binding improves particles' stability and lead to average size reduction. A comparative study between chitosan/TPP and chitosan/HMP nanoparticles under different complexation conditions was conducted to investigate the effect of HMP on nanoparticles formation. Bovine Serum Albumin (BSA) was applied as a protein model drug to explore the drug loading efficiency, 96.3%, is higher than its TPP, 91.87%, counterparts. However, TPP cross-linked particles showed superior stability upon storage.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abdelgawad</LastName>
+                    <ForeName>Abdelrahman</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Textile Research Division, National Research Center (Affiliation ID: 60014618), Dokki, Cairo, Egypt; Fiber and Polymer Science Program, College of Textiles, North Carolina State University, Campus Box 8301, NC, USA. Electronic address: aabdelg@ncsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hudson</LastName>
+                    <ForeName>Samuel</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fiber and Polymer Science Program, College of Textiles, North Carolina State University, Campus Box 8301, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Biol Macromol</MedlineTA>
+            <NlmUniqueID>7909578</NlmUniqueID>
+            <ISSNLinking>0141-8130</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chitosan</Keyword>
+            <Keyword MajorTopicYN="N">Drug delivery</Keyword>
+            <Keyword MajorTopicYN="N">Hexametaphosphate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199974</ArticleId>
+            <ArticleId IdType="pii">S0141-8130(18)36836-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijbiomac.2019.06.062</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

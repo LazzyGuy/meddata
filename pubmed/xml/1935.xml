@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198186</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparing the Noncomparable: The Need for Equivalence Measures That Make Sense in Health-Economic Evaluations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>684-692</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30185-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2019.03.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The popularity of quality-adjusted life years (QALYs) has been resistant to concerns about validity and reliability. Utility-theoretic outcome equivalents are widely used in other areas of applied economics. Equivalence values can be derived for time, money, risk, and other metrics. These equivalence measures preserve all available information about individual preferences and are valid measures of individual welfare changes.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to derive alternative generalized equivalence measures from first principles and illustrate their application in an empirical comparative-effectiveness example.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We specify a general-equilibrium model incorporating neoclassical utility functions, health production function, severity-duration preferences, and labor-market tradeoff function. The empirical implementation takes advantage of discrete-choice experiment methods that are widely accepted in other areas of applied economics and increasingly in health economics. We illustrate the practical significance of restrictive QALY assumptions using comparative-effectiveness results based on both QALYs and estimates of welfare-theoretic time-equivalent values for anti-tumor necrosis factor and prolonged corticosteroid treatments for Crohn's disease in three distinct preference classes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The QALY difference between the two treatments is 0.2 months, while time-equivalent values range between 0.5 and 1.3 months for aggregate and class-specific differences. Thus, the QALY-based analysis understates welfare-theoretic values by 60%-85%.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These results suggest that using disease-specific equivalence values offer a meaningful alternative to QALYs to compare global outcomes across treatments. The equivalence values approach is consistent with principles of welfare economics and offers several features not represented in QALYs, including accounting for preference nonlinearities in disease severity and duration, inclusion of preference-relevant nonclinical healthcare factors, representing preferences of clinically-relevant patient subpopulations, and including utility losses related to risk aversion.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>F Reed</ForeName>
+                    <Initials>FR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Sciences &amp; Duke Clinical Research Institute, Duke University, Durham, NC, USA. Electronic address: reed.johnson@duke.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Frank I</ForeName>
+                    <Initials>FI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology and Hepatology, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Shelby D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Population Health Sciences &amp; Duke Clinical Research Institute, Duke University, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Department of Biostatistics and Epidemiology, University of Pennsylvania, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bewtra</LastName>
+                    <ForeName>Meenakshi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Department of Biostatistics and Epidemiology, University of Pennsylvania, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">discrete-choice experiments</Keyword>
+            <Keyword MajorTopicYN="N">quality-adjusted life years</Keyword>
+            <Keyword MajorTopicYN="N">stated preference</Keyword>
+            <Keyword MajorTopicYN="N">time-equivalent value</Keyword>
+            <Keyword MajorTopicYN="N">willingness to pay</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198186</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30185-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2019.03.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

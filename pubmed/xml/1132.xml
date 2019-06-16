@@ -1,0 +1,188 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199181</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-0870</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>mAbs</Title>
+                <ISOAbbreviation>MAbs</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Engineering an anti-CD52 antibody for enhanced deamidation stability.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/19420862.2019.1631117</ELocationID>
+            <Abstract>
+                <AbstractText>Deamidation evaluation and mitigation is an important aspect of therapeutic antibody developability assessment. We investigated the structure and function of the Asn-Gly deamidation in a human anti-CD52 IgG1 antibody light chain complementarity-determining region 1, and risk mitigation through protein engineering. Antigen binding affinity was found to decrease about 400-fold when Asn<sup>33</sup> was replaced with an Asp residue to mimic the deamidation product, suggesting significant impacts on antibody function. Other variants made at Asn<sup>33</sup> (N33H, N33Q, N33H, N33R) were also found to result in significant loss of antigen binding affinity. The co-crystal structure of the antigen-binding fragment bound to a CD52 peptide mimetic was solved at 2.2Å (PDB code 6OBD), which revealed that Asn<sup>33</sup> directly interacts with the CD52 phosphate group via a hydrogen bond. Gly<sup>34</sup>, but sits away from the binding interface, rendering it more amendable to mutagenesis without affecting affinity. Saturation mutants at Gly<sup>34</sup> were prepared and subjected to forced deamidation by incubation at elevated pH and temperature. Three mutants (G34R, G34K and G34Q) showed increased resistance to deamidation by LC-MS peptide mapping, while maintaining high binding affinity to CD52 antigen measured by Biacore. A complement -dependent cytotoxicity assay indicated that these mutants function by triggering antibody effector function. This study illustrates the importance of structure-based design and extensive mutagenesis to mitigate antibody developability issues.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Qiu</LastName>
+                    <ForeName>Huawei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Ronnie</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3606-6055</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaworski</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0633-287X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boudanova</LastName>
+                    <ForeName>Ekaterina</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hughes</LastName>
+                    <ForeName>Heather</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Biologics Development , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>VanPatten</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Biologics Development , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lund</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Biologics Development , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Day</LastName>
+                    <ForeName>Jaime</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1969-2647</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>b Biologics Development , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yanfeng</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McSherry</LastName>
+                    <ForeName>Tracey</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8198-5870</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Clark Q</ForeName>
+                    <Initials>CQ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5110-1803</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Biologics Research , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sendak</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Biologics Development , Sanofi, 49 New York Ave, Framingham , MA 01701 , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>MAbs</MedlineTA>
+            <NlmUniqueID>101479829</NlmUniqueID>
+            <ISSNLinking>1942-0862</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibody engineering</Keyword>
+            <Keyword MajorTopicYN="N">deamidation</Keyword>
+            <Keyword MajorTopicYN="N">developability</Keyword>
+            <Keyword MajorTopicYN="N">mutagenesis</Keyword>
+            <Keyword MajorTopicYN="N">structure-function</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199181</ArticleId>
+            <ArticleId IdType="doi">10.1080/19420862.2019.1631117</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

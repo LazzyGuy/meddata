@@ -1,0 +1,91 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199398</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accelerated single-beam multiple-intensity reconstruction using unordered propagations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3130-3133</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003130</ELocationID>
+            <Abstract>
+                <AbstractText>In conventional multiple-plane phase retrieval method, the wave propagations that proceed in the same ordered sequence could slow down convergence or lead to stagnation. In this Letter, a novel, to the best of our knowledge, algorithmic technique to accelerate phase retrieval using an unordered sequence of propagations is demonstrated experimentally. The main advantage of the technique is the significant increase in the change in amplitude, a key and essential element for a successful iterative phase retrieval. For N planes, the number of possible ways to implement the sequence of propagations is increased by a factor of N!(N-1)!, providing diversity for the change in the amplitude. Compared to the conventional algorithm, the technique performed 2 times faster and reduced the number of needed intensity patterns for the test object wave used. The technique may be adopted in the other multiple intensity-based phase retrieval methods.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Binamira</LastName>
+                    <ForeName>Jonel F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almoro</LastName>
+                    <ForeName>Percival F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199398</ArticleId>
+            <ArticleId IdType="pii">413649</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003130</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

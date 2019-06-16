@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199483</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1462-0332</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rheumatology (Oxford, England)</Title>
+                <ISOAbbreviation>Rheumatology (Oxford)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluating current definitions of low disease activity in psoriatic arthritis using ultrasound.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">kez237</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/rheumatology/kez237</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate low disease activity (LDA) cut-offs in psoriatic arthritis (PsA) using ultrasound.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Eighty-three PsA patients underwent clinical and ultrasound examinations at two visits. LDA was assessed using the Disease Activity index for Psoriatic Arthritis (DAPSA ⩽ 14), the Psoriatic ArthritiS Disease Activity Score (PASDAS ⩽ 3.2), the Composite Psoriatic Disease Activity Index ⩽ 4, the DAS28-CRP ⩽ 2.8 and the minimal disease activity criteria. Ultrasound was performed at 68 joints and 14 entheses. Minimal ultrasound disease activity (MUDA-j/e) was defined as a Power Doppler score ⩽ 1, respectively at joints, paratendinous tissue, tendons and entheses. A global ultrasound score was calculated by summing Grey Scale and Power Doppler information (GUIS-j/e).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">LDA was present in 33.7-65.0% at baseline and in 44.3-80.6% at follow-up, depending on the criteria used. MUDA-j/e was observed in 16.9% at baseline and in 30% at follow-up. GUIS-j/e was significantly higher in patients with moderate/high disease activity vs LDA according to DAPSA and PASDAS at baseline and DAPSA, PASDAS, Composite Psoriatic Disease Activity Index and minimal disease activity at follow-up. Patients in moderate/high disease activity had MUDA-j/e in 8.1-21.4% at baseline and in 8.3-20.0% at follow-up, depending on the applied clinical composite. MUDA-j/e patients with moderate/high disease activity had higher levels of pain and pain-related items than those with LDA.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The LDA cut-offs of DAPSA, PASDAS, Composite Psoriatic Disease Activity Index, minimal disease activity, but not DAS28-CRP are capable of distinguishing between high and low ultrasound activity. Pain and pain-related items are the main reason why PsA patients without signs of ultrasound inflammation are classified with higher disease activity.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bosch</LastName>
+                    <ForeName>Philipp</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Husic</LastName>
+                    <ForeName>Rusmir</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ficjan</LastName>
+                    <ForeName>Anja</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gretler</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lackner</LastName>
+                    <ForeName>Angelika</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graninger</LastName>
+                    <ForeName>Winfried B</ForeName>
+                    <Initials>WB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duftner</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine II, Medical University Innsbruck, Innsbruck, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hermann</LastName>
+                    <ForeName>Josef</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dejaco</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Medical University Graz, Graz.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine II, Medical University Innsbruck, Innsbruck, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Rheumatology (Oxford)</MedlineTA>
+            <NlmUniqueID>100883501</NlmUniqueID>
+            <ISSNLinking>1462-0324</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">disease activity</Keyword>
+            <Keyword MajorTopicYN="N">outcome measures</Keyword>
+            <Keyword MajorTopicYN="N">psoriatic arthritis</Keyword>
+            <Keyword MajorTopicYN="N">ultrasonography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199483</ArticleId>
+            <ArticleId IdType="pii">5519079</ArticleId>
+            <ArticleId IdType="doi">10.1093/rheumatology/kez237</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

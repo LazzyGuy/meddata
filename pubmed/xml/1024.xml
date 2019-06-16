@@ -1,0 +1,244 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199305</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Adapting the HIV Infant Tracking System to Support Prevention of Mother-to-Child Transmission of HIV in Kenya: Protocol for an Intervention Development Pilot Study in Two Hospitals.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13268</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13268</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite progress to expand access to HIV testing and treatment during pregnancy in Kenya, gaps still remain in prevention of mother-to-child transmission of HIV (PMTCT) services. This study addresses the need for effective and scalable interventions to support women throughout the continuum of care for PMTCT services in low-resource settings. Our research team has successfully implemented the HIV Infant Tracking System (HITSystem), a Web-based, system-level intervention to improve early infant diagnosis (EID) outcomes.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study will expand the scope of the HITSystem to address PMTCT services to bridge the gap between maternal and pediatric HIV services and improve outcomes. This paper describes the intervention development protocol to adapt and pilot an HITSystem version 2.0 to assess acceptability, feasibility, and preliminary PMTCT outcomes in Kenya.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This is a 3-year intervention development study to adapt the current HITSystem intervention to support a range of PMTCT outcomes including appointment attendance, antiretroviral therapy (ART) adherence, hospital deliveries, and integration of maternal and pediatric HIV services in low-resource settings. The study will be conducted in 3 phases. Phase 1 will elicit feedback from intervention users (patients and providers) to guide development and refinement of the new PMTCT components and inform optimal implementation. In Phase 2, we will design and develop the HITSystem 2.0 features to support key PMTCT outcomes guided by clinical content experts and findings from Phase 1. Phase 3 will assess complete PMTCT retention (before, during, and after delivery) using a matched randomized pilot study design in 2 hospitals over 18 months. A total of N=108 HIV-positive pregnant women (n=54 per site) will be enrolled and followed from their first PMTCT appointment until infant HIV DNA Polymerase Chain Reaction testing at the target age of 6 weeks (&lt;7 weeks) postnatal.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Funding for this study was received in August 2015, enrollment in Phase 1 began in March 2016, and completion of data collection is expected by May 2019.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This protocol will extend, adapt, and pilot an HITSystem 2.0 version to improve attendance of PMTCT appointments, increase ART adherence and hospital-based deliveries, and prompt EID by 6 weeks postnatal. The HITSystem 2.0 aims to improve the integration of maternal and pediatric HIV services.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT02726607; https://clinicaltrials.gov/ct2/show/NCT02726607 (Archived by WebCite at http://www.webcitation.org/78VraLrOb).</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">DERR1-10.2196/13268.</AbstractText>
+                <CopyrightInformation>©Sarah Finocchario-Kessler, May Maloba, Melinda Brown, Brad Gautney, Kathy Goggin, Catherine Wexler, Natabhona Mabachi, Beryne Odeny, Silas Lagat, Sharon Koech, Jacinda K Dariotis, Thomas A Odeny. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 08.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Finocchario-Kessler</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7604-5606</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine, University of Kansas Medical Center, Kansas City, KS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maloba</LastName>
+                    <ForeName>May</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1450-3795</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Innovations, Nairobi, Kenya.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Melinda</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9555-5804</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine, University of Kansas Medical Center, Kansas City, KS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gautney</LastName>
+                    <ForeName>Brad</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0336-0821</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Innovations, Dallas, TX, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goggin</LastName>
+                    <ForeName>Kathy</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8679-9911</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, University of Missouri-Kansas City, Kansas City, MO, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Health Services and Outcomes Research, Children's Mercy Kansas City, Kansas City, MO, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of Missouri-Kansas City, Kansas City, MO, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wexler</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1891-9165</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine, University of Kansas Medical Center, Kansas City, KS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mabachi</LastName>
+                    <ForeName>Natabhona</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5385-9340</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine, University of Kansas Medical Center, Kansas City, KS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Odeny</LastName>
+                    <ForeName>Beryne</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4429-2274</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine, University of Kansas Medical Center, Kansas City, KS, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lagat</LastName>
+                    <ForeName>Silas</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0168-8073</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Ministry of Health, Nandi County, Kapsabet, Kenya.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koech</LastName>
+                    <ForeName>Sharon</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3972-9408</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Microbiology Research, Kenya Medical Research Institute, Nairobi, Kenya.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dariotis</LastName>
+                    <ForeName>Jacinda K</ForeName>
+                    <Initials>JK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3217-0392</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Education, Criminal Justice &amp; Human Services, University of Cincinnati, Cincinnati, OH, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Odeny</LastName>
+                    <ForeName>Thomas A</ForeName>
+                    <Initials>TA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1644-2378</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, University of Missouri-Kansas City, Kansas City, MO, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Microbiology Research, Kenya Medical Research Institute, Nairobi, Kenya.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT02726607</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">Kenya</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">eHealth</Keyword>
+            <Keyword MajorTopicYN="N">infant</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">medication adherence</Keyword>
+            <Keyword MajorTopicYN="N">pregnancy</Keyword>
+            <Keyword MajorTopicYN="N">retention</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199305</ArticleId>
+            <ArticleId IdType="pii">v8i6e13268</ArticleId>
+            <ArticleId IdType="doi">10.2196/13268</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,188 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199487</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0929</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicological sciences : an official journal of the Society of Toxicology</Title>
+                <ISOAbbreviation>Toxicol. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exposure to an environmentally relevant phthalate mixture during prostate development induces microRNA upregulation and transcriptome modulation in rats.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">kfz141</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/toxsci/kfz141</ELocationID>
+            <Abstract>
+                <AbstractText>Environmental exposure to phthalates during intrauterine development might increase susceptibility to neoplasms in reproductive organs such as the prostate. Although studies have suggested an increase in prostatic lesions in adult animals submitted to perinatal exposure to phthalates, the molecular pathways underlying these alterations remain unclear. Genome-wide levels of mRNAs and miRNAs were monitored with RNA-seq to determine if perinatal exposure to a phthalate mixture in pregnant rats is capable of modifying gene expression expression during prostate development of the filial generation. The mixture contains diethyl-phthalate, di-(2-ethylhexyl)-phthalate, dibutyl-phthalate, di-isononyl-phthalate, di-isobutyl-phthalate, and benzylbutyl-phthalate. Pregnant females were divided into 4 groups and orally dosed daily from GD10 to PND21 with corn oil (Control:C) or the phthalate mixture at three doses (20 μg/kg/d:T1; 200 μg/kg/d:T2; 200 mg/kg/d:T3). The phthalate mixture decreased anogenital distance, prostate weight and decreased testosterone level at the lowest exposure dose at PND22. The mixture also increased inflammatory foci and focal hyperplasia incidence at PND120. miR-184 was upregulated in all treated groups in relation to control and miR-141-3p was only upregulated at the lowest dose. In addition, 120 genes were deregulated at the lowest dose with several of these genes related to developmental, differentiation and oncogenesis. The data indicate that phthalate exposure at lower doses can cause greater gene expression modulation as well as other downstream phenotypes than exposure at higher doses. A significant fraction of the downregulated genes were predicted to be targets of miR-141-3p and miR-184, both of which were induced at the lower exposure doses.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Scarano</LastName>
+                    <ForeName>Wellerson R</ForeName>
+                    <Initials>WR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard T. H. Chan School of Public Health, Department of Environmental Health &amp; Molecular and Integrative Physiological Sciences Program, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bedrat</LastName>
+                    <ForeName>Amina</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard T. H. Chan School of Public Health, Department of Environmental Health &amp; Molecular and Integrative Physiological Sciences Program, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alonso-Costa</LastName>
+                    <ForeName>Luiz G</ForeName>
+                    <Initials>LG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aquino</LastName>
+                    <ForeName>Ariana M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fantinatti</LastName>
+                    <ForeName>Bruno</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Justulin</LastName>
+                    <ForeName>Luis A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbisan</LastName>
+                    <ForeName>Luis F</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freire</LastName>
+                    <ForeName>Paula P</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>São Paulo State University (UNESP), Institute of Biosciences, Department of Morphology, Botucatu, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flaws</LastName>
+                    <ForeName>Jodi A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Comparative Biosciences, University of Illinois at Urbana-Champaign, IL.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernardo</LastName>
+                    <ForeName>Lemos</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard T. H. Chan School of Public Health, Department of Environmental Health &amp; Molecular and Integrative Physiological Sciences Program, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Toxicol Sci</MedlineTA>
+            <NlmUniqueID>9805461</NlmUniqueID>
+            <ISSNLinking>1096-0929</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">epigenetic</Keyword>
+            <Keyword MajorTopicYN="N">miRNA</Keyword>
+            <Keyword MajorTopicYN="N">phthalate mixture</Keyword>
+            <Keyword MajorTopicYN="N">prostate development</Keyword>
+            <Keyword MajorTopicYN="N">transcriptome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199487</ArticleId>
+            <ArticleId IdType="pii">5519130</ArticleId>
+            <ArticleId IdType="doi">10.1093/toxsci/kfz141</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

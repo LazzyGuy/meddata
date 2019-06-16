@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198625</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum heparan sulfate and chondroitin sulfate concentrations in patients with newly diagnosed exfoliative glaucoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6920</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6920</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Exfoliative glaucoma (XFG) is typically classified as a high-pressure type of secondary open-angle glaucoma that develops as a consequence of exfoliation syndrome (XFS). Exfoliation syndrome is an age-related, generalized disorder of the extracellular matrix characterized by production and progressive accumulation of a fibrillar exfoliation material (XFM) in intra- and extraocular tissues. Exfoliation material represents complex glycoprotein/proteoglycan structure composed of a protein core surrounded by glycosaminoglycans such as heparan sulfate (HS) and chondroitin sulfate (CS). The purpose of the present study was to investigate HS and CS concentrations in serum samples of patients with newly diagnosed XFG and compare the obtained values with those pertaining to newly diagnosed primary open-angle glaucoma (POAG), normal controls (NC) and subjects with XFS.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This case-control study involved 165 subjects, including patients with newly diagnosed XFG, patients with newly diagnosed POAG, subjects with XFS and age- and sex-matched NC. The study was conducted at the Glaucoma Department of Clinic for Eye Diseases, Clinical Centre of Serbia, as the referral center for glaucoma in Serbia.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean age in the XFG, POAG, XFS and NC groups was 73.3 ± 9.0, 66.3 ± 7.8, 75.5 ± 7.0 and 73.5 ± 9.5 years, respectively, XFG vs. POAG, <i>p</i> &lt; 0.001. Mean serum HS concentrations in the XFG, POAG, NC and XFS groups were 3,189.0 ± 1,473.8 ng/mL, 2,091.5 ± 940.9 ng/mL, 2,543.1 ± 1,397.3 ng/mL and 2,658.2 ± 1,426.8 ng/mL respectively, XFG vs. POAG, <i>p</i> = 0.001 and XFG vs. NC, <i>p</i> = 0.032. Mean serum CS concentrations in the XFG, POAG, NC and XFS group were 43.9 ± 20.7 ng/mL, 38.5 ± 22.0 ng/mL, 35.8 ± 16.4 ng/mL and 43.3 ± 21.8 ng/mL, respectively, XFG vs. NC, <i>p</i> = 0.041.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Our findings revealed greater HS and CS concentrations in XFG patients and XFS subjects compared to those without XFM. Implications of HS and CS in the pathophysiology of XFS and glaucoma should be studied further. Serum is easily accessible and should thus be explored as rich sources of potential biomarkers. Further research should aim to identify XFG biomarkers that could be utilized in routine blood analysis tests, aiding in timely disease diagnosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maric</LastName>
+                    <ForeName>Vesna D</ForeName>
+                    <Initials>VD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic for Eye Diseases, Clinical Center of Serbia, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bozic</LastName>
+                    <ForeName>Marija M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic for Eye Diseases, Clinical Center of Serbia, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cirkovic</LastName>
+                    <ForeName>Andja M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department for Medical Statistics and Informatics, Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stankovic</LastName>
+                    <ForeName>Sanja Dj</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Medical Biochemistry, Clinical Center of Serbia, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marjanovic</LastName>
+                    <ForeName>Ivan S</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic for Eye Diseases, Clinical Center of Serbia, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grgurevic</LastName>
+                    <ForeName>Anita D</ForeName>
+                    <Initials>AD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Epidemiology, Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomarker</Keyword>
+            <Keyword MajorTopicYN="N">Chondroitin sulfate</Keyword>
+            <Keyword MajorTopicYN="N">Exfoliation syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Exfoliative glaucoma</Keyword>
+            <Keyword MajorTopicYN="N">Heparan sulfate</Keyword>
+            <Keyword MajorTopicYN="N">Newly diagnosed</Keyword>
+            <Keyword MajorTopicYN="N">Serum</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198625</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6920</ArticleId>
+            <ArticleId IdType="pii">6920</ArticleId>
+            <ArticleId IdType="pmc">PMC6535222</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

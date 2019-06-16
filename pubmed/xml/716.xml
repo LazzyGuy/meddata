@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199644</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vapor-Liquid Equilibria of 1-Ethyl-3-Methylimidazolium Triflate (C<sub>2</sub>mimTfO) and n -Alkyl Alcohol Mixtures.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpcb.9b03919</ELocationID>
+            <Abstract>
+                <AbstractText>The isobaric vapor liquid equilibria (VLE) of different binary mixtures of the ionic liquid (IL) 1-ethyl-3-methylimidazolium trifluoromethanesulfonate (C<sub>2</sub>mimTfO) with the n-alkyl alcohols methanol, ethanol, propan-1-ol, and butan-1-ol are studied at the pressures of p = 500 mbar, 700 mbar, and 1000 mbar, covering a composition range 0.25 - 0.35 ≤ x(solvent) ≤ 1.0. Complementary, the experimental results are compared with calculations by the PC-SAFT equation of state (EoS). For deriving suitable PC-SAFT parameters, experimental liquid densities were determined for the neat IL C<sub>2</sub>mimTfO and its longer homologues 1-butyl-3-methylimidazolium trifluoromethanesulfonate (C<sub>4</sub>mimTfO) and 1-hexyl-3-methylimidazolium trifluoromethanesulfonate (C<sub>6</sub>mimTfO) in a temperature range of 288.15 K ≤ T ≤ 363.15 K (C<sub>2</sub>mimTfO) and 293.15 K ≤ T ≤ 363.15 K (C<sub>4</sub>mimTfO and C<sub>6</sub>mimTfO), respectively. The PC-SAFT EoS is found to be suitable for describing the VLEs under study with good accuracy (AARDVLE ≤ 0.4 %).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stodt</LastName>
+                    <ForeName>Malte F B</ForeName>
+                    <Initials>MFB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stuckenholz</LastName>
+                    <ForeName>Marcus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiefer</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schroer</LastName>
+                    <ForeName>Wolffram H</ForeName>
+                    <Initials>WH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rathke</LastName>
+                    <ForeName>Bernd</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199644</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpcb.9b03919</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

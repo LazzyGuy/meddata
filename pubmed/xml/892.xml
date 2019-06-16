@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199445</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2574-3805</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA network open</Title>
+                <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suicide Among Older Adults Living in or Transitioning to Residential Long-term Care, 2003 to 2015.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e195627</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2019.5627</ELocationID>
+            <Abstract>
+                <AbstractText Label="Importance" NlmCategory="UNASSIGNED">Almost 25% of Medicare beneficiaries live in residential long-term care (LTC) (eg, independent or assisted living facility or nursing home). There are few reliable statistics on completed suicide in LTC, in part because of data limitations.</AbstractText>
+                <AbstractText Label="Objectives" NlmCategory="UNASSIGNED">To estimate the number of suicides associated with residential LTC (ie, among persons in a facility, transitioning into or out of a facility, or otherwise associated with LTC) among adults 55 and older and, secondarily, to identify whether machine learning tools could improve the quality of suicide surveillance data.</AbstractText>
+                <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">Cross-sectional epidemiologic study (conducted in 2018) of restricted-access data from the National Violent Death Reporting System (NVDRS) (2003-2015) using restricted-access case narratives from suicides and undetermined deaths among adults 55 years and older in 27 states. Participants were all suicides and undetermined deaths (N = 47 759) among persons 55 years and older.</AbstractText>
+                <AbstractText Label="Exposure" NlmCategory="UNASSIGNED">Long-term care cited in the coroner/medical examiner case narrative, whether as a reason for self-harm or the injury location, identified using machine learning natural language processing (NLP) algorithms plus manual review of texts.</AbstractText>
+                <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">Number and characteristics (eg, demographics, health history, and means of injury) of suicides associated with LTC. The κ statistic was used to estimate the reliability of the existing NVDRS injury location codes relative to cases identified by the algorithm.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Among 47 759 persons 55 years and older (median age, 64 years; 77.6% male; 90.0% non-Hispanic white), this study identified 1037 suicide deaths associated with LTC, including 428 among older adults living in LTC, 449 among older adults transitioning to LTC, and 160 otherwise associated with LTC. In contrast, there were only 263 cases coded with the existing NVDRS location code &quot;supervised residential facility,&quot; which had poor agreement with cases that the algorithm identified as occurring in LTC (κ statistic, 0.30; 95% CI, 0.26-0.35).</AbstractText>
+                <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">Over a 13-year period, approximately 2.2% of suicides among adults 55 years and older were associated with LTC in some manner. Clinicians, administrators, and policy makers should consider ways to promote the mental health and well-being of older adults experiencing functioning limitations and their families. Natural language processing may be a useful way to improve abstraction of variables in the NVDRS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mezuk</LastName>
+                    <ForeName>Briana</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Social Research, University of Michigan, Ann Arbor.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Michigan School of Public Health, Ann Arbor.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>Tomohiro M</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Michigan School of Public Health, Ann Arbor.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalesnikava</LastName>
+                    <ForeName>Viktoryia A</ForeName>
+                    <Initials>VA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Michigan School of Public Health, Ann Arbor.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jurgens</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Information, University of Michigan, Ann Arbor.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Netw Open</MedlineTA>
+            <NlmUniqueID>101729235</NlmUniqueID>
+            <ISSNLinking>2574-3805</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199445</ArticleId>
+            <ArticleId IdType="pii">2735759</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamanetworkopen.2019.5627</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199915</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Beginning of a New Era: Mapping the Bone Marrow Niche.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1679-1681</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(19)30613-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2019.05.042</ELocationID>
+            <Abstract>
+                <AbstractText>Baryawno et al. provide a comprehensive atlas of the mouse bone marrow stroma based on single-cell RNA-sequencing data. Their analysis reveals a taxonomy of 17 distinct cell types with diverse functions that highlights the complexity of the bone marrow stroma and paves the way for future in vivo assessment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura-Ishizu</LastName>
+                    <ForeName>Ayako</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Science Institute, National University of Singapore, 14 Medical Drive, MD6, 117599, Singapore; International Research Center for Medical Sciences, Kumamoto University, 2-2-1 Honjo, Chuo-ku, Kumamoto City 860-0811, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacArthur</LastName>
+                    <ForeName>Ben D</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Research Center for Medical Sciences, Kumamoto University, 2-2-1 Honjo, Chuo-ku, Kumamoto City 860-0811, Japan; Mathematical Sciences, University of Southampton, Southampton SO17 1BJ, UK; Centre for Human Development Stem Cells and Regeneration, Faculty of Medicine, University of Southampton, Southampton SO17 1BJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suda</LastName>
+                    <ForeName>Toshio</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Science Institute, National University of Singapore, 14 Medical Drive, MD6, 117599, Singapore; International Research Center for Medical Sciences, Kumamoto University, 2-2-1 Honjo, Chuo-ku, Kumamoto City 860-0811, Japan. Electronic address: sudato@keio.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199915</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(19)30613-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.042</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

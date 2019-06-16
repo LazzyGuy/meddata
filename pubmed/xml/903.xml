@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199427</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1680-0745</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Nov/Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular journal of Africa</Title>
+                <ISOAbbreviation>Cardiovasc J Afr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pre-eclampsia and the foetus: a cardiovascular perspective.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>387-393</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5830/CVJA-2017-039</ELocationID>
+            <Abstract>
+                <AbstractText>Pre-eclampsia is the leading cause of perinatal morbidity and mortality. A full understanding of the pathogenesis of this enigmatic condition is essential if we are to develop new prophylactic and therapeutic interventions. Central to our understanding of the pathogenesis of early-onset preeclampsia is absolute utero-placental ischaemia, which is lack of placental vascular transformation in early pregnancy. By contrast, relative utero-placental ischaemia, due to a mismatch between utero-placental blood flow and increased demand for nutrients occurring later in pregnancy, may be central to the development of late-onset pre-eclampsia. These pathogenic mechanisms have advanced our understanding of this condition, leading to better prediction, screening and intervention modalities. Screening for pre-eclampsia in the first and second trimesters by investigating the maternoplacental circulation and placental hormones could identify a high-risk subgroup. The advantage of screening in the first trimester is that a prophylactic intervention is available in the form of low-dose aspirin, if started before 16 weeks' gestation in the high-risk group, resulting in a substantial reduction in severe early-onset pre-eclampsia, while identification of a high-risk group in the second trimester will lead to focused management in this group. Using a combination of cardiac Doppler, multi-vessel Doppler assessment of the foetal circulation and biomarkers in established pre-eclampsia in the third trimester could predict adverse outcomes and guide clinicians to timeous delivery. Hopefully, advances in our understanding of this enigmatic disease will lead to further prophylactic and new therapeutic interventions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bhorat</LastName>
+                    <ForeName>Ismail</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Health Sciences Durban, University of KwaZulu-Natal, Durban, South Africa. Email: bhorat@worldonline.co.za.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>South Africa</Country>
+            <MedlineTA>Cardiovasc J Afr</MedlineTA>
+            <NlmUniqueID>101313864</NlmUniqueID>
+            <ISSNLinking>1015-9657</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"> Doppler of foetal circulation</Keyword>
+            <Keyword MajorTopicYN="N"> cardiac Doppler</Keyword>
+            <Keyword MajorTopicYN="N"> foetus</Keyword>
+            <Keyword MajorTopicYN="N"> placental hormones</Keyword>
+            <Keyword MajorTopicYN="N"> pre‐eclampsia</Keyword>
+            <Keyword MajorTopicYN="N"> utero‐placental
+ischaemia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199427</ArticleId>
+            <ArticleId IdType="doi">10.5830/CVJA-2017-039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,168 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200021</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7913</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of antimicrobial agents</Title>
+                <ISOAbbreviation>Int. J. Antimicrob. Agents</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efflux Pumps AcrAB and OqxAB Contribute to Nitrofurantoin Resistance in an Uropathogenic Klebsiella pneumoniae Isolate.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0924-8579(19)30145-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijantimicag.2019.06.004</ELocationID>
+            <Abstract>
+                <AbstractText>Klebsiella pneumoniae is one of the common pathogens causing urinary tract infections (UTIs). Nitrofurantoin (NIT), with high therapeutic concentrations in urine, is recommended as first-line drug for both empiric treatment and chemoprophylaxis of UTIs. Although NIT resistance in K. pneumoniae is relatively high, the resistance mechanism is less understood. Here, we collected a NIT-resistant K. pneumoniae (NRKP, MIC=128 mg/L) and investigated the resistance mechanism. Addition of efflux pump inhibitors increased the susceptibility of NRKP to NIT (MIC, decreased from 128 to 32 mg/L), implying the important role of efflux pumps in NIT resistance. qRT-PCR analysis showed that NRKP had &gt; 100-fold increased expression of ramA, which was further demonstrated to be caused by ramR mutation. Deletion of ramA lead to a 4-fold decrease in the MIC of NIT, and the expression levels of efflux pumps acrB and oqxB were downregulated by 4-7 folds. Complementation of ramA restored both of the MIC value and the expression level of acrB and oqxB in ramA mutant strain. In order to confirm the role of acrB and oqxB in NIT resistance, gene knockout strains were constructed. Deletion of acrB or oqxB alone lead to a 4-fold decrease in the MIC of NIT, and deletion of acrB and oqxB simultaneously lead to a 16-fold decrease in the MIC of NIT. These results demonstrated that AcrAB and OqxAB contributed to NIT resistance in K. pneumoniae.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Qingqing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China; Key Laboratory of Clinical Pharmacology of Antibiotics, National Health Commission of PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Jianping</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China; Key Laboratory of Clinical Pharmacology of Antibiotics, National Health Commission of PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Zhenhan</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Pharmacy, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Teng</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China; Key Laboratory of Clinical Pharmacology of Antibiotics, National Health Commission of PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheng</LastName>
+                    <ForeName>Zi-Ke</ForeName>
+                    <Initials>ZK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, No.197 Ruijin ER Road, Shanghai 200025, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Meiping</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Shanghai Pulmonary Hospital, Tongji University School of Medicine, Shanghai 200433, China. Electronic address: yemeiping1988@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiaogang</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China; Key Laboratory of Clinical Pharmacology of Antibiotics, National Health Commission of PR China; National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, Shanghai 200040, China. Electronic address: xuxiaogang@fudan.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Minggui</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China; Key Laboratory of Clinical Pharmacology of Antibiotics, National Health Commission of PR China; National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, Shanghai 200040, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Antimicrob Agents</MedlineTA>
+            <NlmUniqueID>9111860</NlmUniqueID>
+            <ISSNLinking>0924-8579</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Efflux pump</Keyword>
+            <Keyword MajorTopicYN="N">Klebsiella pneumoniae</Keyword>
+            <Keyword MajorTopicYN="N">Nitrofurantoin resistance</Keyword>
+            <Keyword MajorTopicYN="N">Urinary tract infections</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200021</ArticleId>
+            <ArticleId IdType="pii">S0924-8579(19)30145-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijantimicag.2019.06.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

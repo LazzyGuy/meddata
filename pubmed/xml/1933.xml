@@ -1,0 +1,168 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198188</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development and Validation of the MiPrep Survey: An Instrument Assessing Patients' Perceived Preparation for Medical Interventions Including Medical Imaging, Radiotherapy, and Surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>704-711</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30084-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2019.01.017</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Adequately preparing patients for medical interventions is an important component of quality healthcare. Nevertheless, few instruments for assessing patients' preparation exist.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To develop a psychometrically rigorous instrument to assess patients' perceptions of the quality of preparation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">An instrument to measure patients' preparation for medical interventions (MiPrep) was developed and tested with patients undergoing medical imaging, radiotherapy, or surgery. Patients were recruited and asked to complete 2 surveys. Survey A assessed patient and intervention characteristics. Survey B (postintervention) contained MiPrep to assess validity (face, content, and construct) and reliability (internal consistency and test-retest).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 869 (85%) patients consented to participate and 551 (63%) returned the postintervention survey. Face and content validity were demonstrated. Exploratory factor analysis identified 2 survey modules: receipt and adequacy of information (2 domains) and overall appraisal of patient-centered care (1 domain). Reliability was evidenced by adequate internal consistency (Cronbach α 0.81-0.89) and item-total correlations higher than 0.20. Nevertheless, individual item test-retest reliability requires further confirmation. The final instrument contained 27 items.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The MiPrep instrument has evidence of being a valid and reliable instrument of preparation for medical interventions. Healthcare providers can use the instrument as a quality assurance tool to identify areas for improvement and areas of excellence in patients' preparation. Future studies should verify these findings in other populations and examine the divergent and predictive validity of the instrument.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fakes</LastName>
+                    <ForeName>Kristy L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Behaviour Research Collaborative, Faculty of Health and Medicine, School of Medicine and Public Health, University of Newcastle, Callaghan, New South Wales, Australia; Priority Research Centre for Health Behaviour, University of Newcastle, Callaghan, New South Wales, Australia; Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia. Electronic address: kristy.fakes@newcastle.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Alix E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Behaviour Research Collaborative, Faculty of Health and Medicine, School of Medicine and Public Health, University of Newcastle, Callaghan, New South Wales, Australia; Priority Research Centre for Health Behaviour, University of Newcastle, Callaghan, New South Wales, Australia; Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia; Clinical Research Design, Information Technology and Statistical Support, Hunter Medical Research Institute, Newcastle, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carey</LastName>
+                    <ForeName>Mariko L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Behaviour Research Collaborative, Faculty of Health and Medicine, School of Medicine and Public Health, University of Newcastle, Callaghan, New South Wales, Australia; Priority Research Centre for Health Behaviour, University of Newcastle, Callaghan, New South Wales, Australia; Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyes</LastName>
+                    <ForeName>Allison W</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Behaviour Research Collaborative, Faculty of Health and Medicine, School of Medicine and Public Health, University of Newcastle, Callaghan, New South Wales, Australia; Priority Research Centre for Health Behaviour, University of Newcastle, Callaghan, New South Wales, Australia; Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Symonds</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter New England Imaging, John Hunter Hospital/Royal Newcastle Centre, New Lambton Heights, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Tiffany-Jane</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia; Clinical Research Design, Information Technology and Statistical Support, Hunter Medical Research Institute, Newcastle, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanson-Fisher</LastName>
+                    <ForeName>Rob W</ForeName>
+                    <Initials>RW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Behaviour Research Collaborative, Faculty of Health and Medicine, School of Medicine and Public Health, University of Newcastle, Callaghan, New South Wales, Australia; Priority Research Centre for Health Behaviour, University of Newcastle, Callaghan, New South Wales, Australia; Hunter Medical Research Institute, New Lambton Heights, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">diagnostic techniques and procedures</Keyword>
+            <Keyword MajorTopicYN="N">psychometrics</Keyword>
+            <Keyword MajorTopicYN="N">quality of healthcare</Keyword>
+            <Keyword MajorTopicYN="N">surveys and questionnaires</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198188</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30084-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2019.01.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

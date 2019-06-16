@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199027</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-9568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The European journal of neuroscience</Title>
+                <ISOAbbreviation>Eur. J. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extracelluar matrix protein anosmin-1 modulates olfactory ensheathing cell maturation in chick olfactory bulb development.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ejn.14483</ELocationID>
+            <Abstract>
+                <AbstractText>Olfactory ensheathing cells (OECs) are a specialized class of glia, wrapping around olfactory sensory axons that target the olfactory bulb (OB) and cross the peripheral nervous system / central nervous system boundary during development and continue to do so post-natally. OEC subpopulations perform distinct subtype-specific functions dependent on their maturity status. Disrupted OEC development is thought to be associated with abnormal OB morphogenesis, leading to anosmia, a defining characteristic of Kallmann syndrome. Hence, anosmin-1 encoded by Kallmann syndrome gene (KAL-1) might modulate OEC differentiation/maturation in the OB. We performed in ovo electroporation of shRNA in the olfactory placode to knock down kal in chick embryos, resulting in abnormal OB morphogenesis and loss of olfactory sensory axonal innervation into OB. BLBP expressing OECs appeared to form a thinner and poorly organized outmost OB layer where SOX10 expressing OECs were completely absent with emergence of GFAP expressing OECs. Furthermore, in embryonic day 10 chick OB explant cultures, GFAP expression in OECs accumulating along the OB nerve layers was dramatically reduced by recombinant anosmin-1. We then purified immature OECs from embryonic day 10 chick OB. These cells express GFAP after 7 days in vitro, exhibiting a multipolar morphology. Over-expression of chick anosmin, exogenous anosmin-1 or FGF2 could inhibit GFAP expression with cells presenting elongated morphology, which was blocked by the FGF receptor inhibitor Su5402. These data demonstrate that anosmin-1 functions via FGF signalling in regulating OEC maturation, thereby providing a permissive glial environment for axonal innervation into the OB during development. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Youli</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, the First Affiliated Hospital of Nanjing Medical University/Jiangsu Province Hospital, Nanjing, China, 210029.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Neuroendocrinology, UCL Medical School, Royal Free Campus, London, NW3 2PF, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butts</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Developmental Neurobiology, King's College London, London, SE1 1UL, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences and Department of Cellular and Molecular Physiology, University of Liverpool, Liverpool, L69 7ZH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poopalasundaram</LastName>
+                    <ForeName>Subathra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Developmental Neurobiology, King's College London, London, SE1 1UL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graham</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Developmental Neurobiology, King's College London, London, SE1 1UL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouloux</LastName>
+                    <ForeName>Pierre-Marc</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Neuroendocrinology, UCL Medical School, Royal Free Campus, London, NW3 2PF, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Eur J Neurosci</MedlineTA>
+            <NlmUniqueID>8918110</NlmUniqueID>
+            <ISSNLinking>0953-816X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Kallmann syndrome</Keyword>
+            <Keyword MajorTopicYN="N">astrocyte</Keyword>
+            <Keyword MajorTopicYN="N">fibroblast growth factor receptor,embryo</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199027</ArticleId>
+            <ArticleId IdType="doi">10.1111/ejn.14483</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

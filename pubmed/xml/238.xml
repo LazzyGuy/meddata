@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200169</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2517</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>256</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of affective disorders</Title>
+                <ISOAbbreviation>J Affect Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevalence of Hoarding Disorder: A systematic review and meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>309-316</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0165-0327(19)30152-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jad.2019.06.004</ELocationID>
+            <Abstract>
+                <AbstractText>Currently there is uncertainty concerning the prevalence of Hoarding Disorder (HD) due to methodological issues in the evidence base. Estimates have widely ranged from between 1.5% and 6% of the general population. This systematic review and meta-analysis therefore aimed to summarise and reliably estimate the prevalence of HD by employing strict inclusion criteria and using studies with sufficiently large samples. A systematic literature search was conducted to identify all relevant prevalence studies. Inclusion criteria were studies that reported working age adult HD prevalence rates and had sample sizes of at least 1009 participants. Eleven studies met criteria (n = 53,378), had low risk of bias and were originally based in developed countries. A random effects meta-analysis was then conducted, with subgroup moderator analysis and meta-regression. The pooled estimated prevalence for HD was 2.5% (CI 1.7-3.6%) and subgroup analyses revealed that prevalence rates were similar for both males and females. Guidance on the manner in which HD is assessed in future prevalence studies is provided and the clinical implications of the results discussed.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Postlethwaite</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sheffield Health and Social Care NHS Foundation Trust, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kellett</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sheffield Health and Social Care NHS Foundation Trust, UK; University of Sheffield and Sheffield Health and Social Care NHS Foundation Trust, UK. Electronic address: s.kellett@sheffield.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mataix-Cols</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Affect Disord</MedlineTA>
+            <NlmUniqueID>7906073</NlmUniqueID>
+            <ISSNLinking>0165-0327</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hoarding Disorder</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Prevalence</Keyword>
+            <Keyword MajorTopicYN="N">Review</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200169</ArticleId>
+            <ArticleId IdType="pii">S0165-0327(19)30152-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jad.2019.06.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

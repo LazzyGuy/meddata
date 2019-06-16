@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200192</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-9800</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>151</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine</Title>
+                <ISOAbbreviation>Appl Radiat Isot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Distribution patterns of natural radionuclides and rare earth elements in marine sediments from the Red Sea, Egypt.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>171-181</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0969-8043(19)30343-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.apradiso.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>The present study was conducted to study the compositional trends of rare earth elements (REEs), Th, and U in marine sediment samples in terms of distribution patterns, anomalies, and indicator ratios. For this purpose, a total of 32 marine sediment samples were collected from 12 coastal areas of the Egyptian Red Sea and analyzed using instrumental neutron activation (INAA) and inductively coupled plasma mass spectrometry (ICP-MS) analytical techniques. The analyses investigated 14 REEs, Th, and U. The results revealed that the contents of REE, light REE (LREE), and heavy REE (HREE) are 47.6, 38.7, and 8.3 mg/kg, respectively, whereas the concentration of Th and U is determined as 2.15 and 2.23 mg/kg, respectively. Indicator ratios were calculated, and inter-correlation elements with Th and U were constructed. Multivariate statistics were implemented on the data and GIS technology to construct the distribution patterns of REE, Th, and U along the Egyptian coast of the Red Sea. The obtained results were compared with the corresponding values published in literature to show a good matching. There is a significant enrichment of LREE relative to HREE, a reduced ratio of Th/U, a weak positive anomaly of Eu/Eu*, and a slight positive Ce anomaly is noticed. Among the 12 studied areas, one area, Sharm El-Bahari, located in the middle of the coast, shows peak values of REE, Th, and U relative to the other areas. However, it still shows a good agreement with the results published in the literature.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El-Taher</LastName>
+                    <ForeName>Atef</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physics Department, Faculty of Science, Al-Azhar University, Assuit Branch, 71524, Assuit, Egypt. Electronic address: atef.eltaher@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Badawy</LastName>
+                    <ForeName>Wael M</ForeName>
+                    <Initials>WM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Protection &amp; Civil Defense Department, Nuclear Research Center, Egyptian Atomic Energy Authority (EAEA), 13759, Abu Zaabal, Egypt; Frank Laboratory of Neutron Physics, Joint Institute for Nuclear Research, str. Joliot-Curie, 6, 141980, Dubna, Moscow Region, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khater</LastName>
+                    <ForeName>Ashraf E M</ForeName>
+                    <Initials>AEM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Egyptian Nuclear and Radiological Regulatory Authority, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madkour</LastName>
+                    <ForeName>Hashem A</ForeName>
+                    <Initials>HA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Oceanography and Fisheries, Red Sea Branch, Hurghada, 8451, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Appl Radiat Isot</MedlineTA>
+            <NlmUniqueID>9306253</NlmUniqueID>
+            <ISSNLinking>0969-8043</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GIS technology</Keyword>
+            <Keyword MajorTopicYN="N">Multivariate analysis</Keyword>
+            <Keyword MajorTopicYN="N">Radionuclides marine sediments</Keyword>
+            <Keyword MajorTopicYN="N">Rare earth elements</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200192</ArticleId>
+            <ArticleId IdType="pii">S0969-8043(19)30343-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.apradiso.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

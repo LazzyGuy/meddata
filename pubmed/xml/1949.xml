@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198168</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0301-0430</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nephrology</Title>
+                <ISOAbbreviation>Clin. Nephrol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The prevalence of normoalbuminuria and renal impairment in type 2 diabetes mellitus .</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5414/CN109606</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Diabetic kidney disease (DKD) is the most common cause of end-stage renal disease (ESRD) worldwide. Clinical manifestations of DKD consist of a progressive increase in albuminuria and a decline in estimated glomerular filtration rate (eGFR). Hence, the diagnosis of DKD in patients with declining renal function without albuminuria is more difficult. Although there are several reports of such patients in other geographic regions, the data in this regard are limited.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the prevalence of normoalbuminuria with renal impairment and the decline in eGFR relative to their albuminuric status in type 2 diabetes mellitus (T2DM) among Thai patients.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Retrospective review was conducted on medical records of T2DM patients at a tertiary referral hospital dated from January 1, 2013, until June 30, 2016. Based on study inclusion criteria, T2DM patients with renal impairment identified by an eGFR of less than 60 mL/min/1.73m2 were eligible. Albumin excretion rate was determined by urine albumin-to-creatinine ratio from a single random urine collection.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 4,597 patients with T2DM, 16.5% had an eGFR below 60 mL/min/1.73m2. The overall prevalence rates of normoalbuminuria, moderate proteinuria, and severe proteinuria were 45.4, 30.9, and 23.7%, respectively. In the normoalbuminuria group, the incidences of chronic kidney disease at stage 3a, 3b, and 4 were 67.5, 27, and 5.5%, respectively. None of the patients with stage 5 chronic kidney disease had normoalbuminuria. The decline in eGFR with normoalbuminuria was less significant than in positive albuminuria.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The association of normoalbuminuria is common in DKD. The decline of renal function is slower in normoalbuminuria; however, the risk factors, clinical progression, and renal pathology in these patients need to be further explored. .</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pichaiwong</LastName>
+                    <ForeName>Warangkana</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Homsuwan</LastName>
+                    <ForeName>Wannakorn</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leelahavanichkul</LastName>
+                    <ForeName>Asada</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Nephrol</MedlineTA>
+            <NlmUniqueID>0364441</NlmUniqueID>
+            <ISSNLinking>0301-0430</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198168</ArticleId>
+            <ArticleId IdType="pii">CN109606</ArticleId>
+            <ArticleId IdType="doi">10.5414/CN109606</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

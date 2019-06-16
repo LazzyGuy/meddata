@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199999</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-260X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta. Molecular basis of disease</Title>
+                <ISOAbbreviation>Biochim Biophys Acta Mol Basis Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein arginine methyltranferase-1 induces ER stress and epithelial-mesenchymal transition in renal tubular epithelial cells and contributes to diabetic nephropathy.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0925-4439(19)30194-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbadis.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In this study, we examined the association of PRMT1 with ER stress and epithelial-mesenchymal transition (EMT), two critical pathogenic mechanisms leading to DN development, in proximal tubular epithelial cells (PTECs).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The level of PRMT1 was compared between the serum from DN patients and healthy individuals by ELISA, and between renal tissues of DN mice and normal mice using RT-qPCR and immunohistochemistry. Using high-glucose-treated PTEC cell line, HK2 cells as the model system, the significance of PRMT1 in ER stress and EMT was assessed by shRNA targeting PRMT1 (sh-PRMT1) and/or by overexpressing PRMT1. Mechanistic studies focused on three major pathways controlling ER stress: protein kinase R-like ER kinase (PERK), inositol requiring-1α (IRE1α), and activating transcription factor 6 (ATF6).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PRMT1 was up-regulated in the serum of DN patients and renal tissues of DN mice. High glucose administration induced elevation of PRMT1 expression in HK2 cells in vitro, accompanied with ER stress and EMT activation. PRMT1 knockdown attenuated high glucose-induced ER stress and apoptosis by inactivating PERK and ATF6, but not IRE1α. PRMT1 activated ATF6 by recruiting H4R3me2as to the promoter. Furthermore, PRMT1-induced ER stress was concomitant with the activation of an EMT-like state. Specifically, inhibition of ATF6, but not PERK blocked PRMT1-induced EMT in high-glucose-treatment HK2 cells.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">By activating ER stress, PRMT1 essentially regulates the apoptosis and EMT of PTECs in response to diabetic milieu. Thus, targeting PRMT1 may alleviate both tissue injury and renal fibrosis, and thus benefit the treatment of DN.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yin-Yin</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Laboratory of Kidney Disease of Hunan Provincial People's Hospital, Hunan Normal University, Changsha 410005, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Xiao-Fei</ForeName>
+                    <Initials>XF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, The Second Xiangya Hospital, Central South University, Changsha 410011, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Guo-Yong</ForeName>
+                    <Initials>GY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The First Affiliated Hospital of Changde Vocational Technical College, Changde 415000, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jin-Song</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Chinese Medicine and Western Medicine Hospital Affiliated to Hunan University of Chinese Medicine, Changsha 410011, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Second Xiangya Hospital, Central South University, Changsha 410011, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Second Xiangya Hospital, Central South University, Changsha 410011, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Second Xiangya Hospital, Central South University, Changsha 410011, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Li-Yu</ForeName>
+                    <Initials>LY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Second Xiangya Hospital, Central South University, Changsha 410011, PR China. Electronic address: heliyu64@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta Mol Basis Dis</MedlineTA>
+            <NlmUniqueID>101731730</NlmUniqueID>
+            <ISSNLinking>0925-4439</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Diabetic nephropathy</Keyword>
+            <Keyword MajorTopicYN="N">ER stress</Keyword>
+            <Keyword MajorTopicYN="N">Epithelial-mesenchymal transition</Keyword>
+            <Keyword MajorTopicYN="N">Fibrosis</Keyword>
+            <Keyword MajorTopicYN="N">PRMT1</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199999</ArticleId>
+            <ArticleId IdType="pii">S0925-4439(19)30194-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbadis.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

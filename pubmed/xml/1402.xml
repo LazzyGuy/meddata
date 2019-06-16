@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198870</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2405-8440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heliyon</Title>
+                <ISOAbbreviation>Heliyon</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of wind energy potential and trends in Morocco.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e01830</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.heliyon.2019.e01830</ELocationID>
+            <Abstract>
+                <AbstractText>In recent years, the use of wind energy has become increasingly attractive for the successful and economic development. Wind energy is one of the fastest-growing renewable energy technologies of electricity generation. Wind energy has proved its potential in combating environmental degradation while ensuring a renewable, efficient and clean energy source. Good wind sites can even be competitive with traditional energy sources. In this paper, we used statistical methods namely Weibull probability density function for evaluating the wind energy potential as a power source in Morocco's regions, in particular Taza and Dakhla cities. Various methods were explored as wind variability, power density, standard deviation, Moroccan and WAsP methods for calculating the Weibull parameters using mean wind speed data measured at one-hour intervals. The wind data have been extracted at the height of 50 m and over a three-year period 2015-2017. Furthermore, the variations of monthly and annual wind speed are studied and the power and energy densities are evaluated. The monthly values of the Weibull shape parameter are on average 5.01 m/s at Taza and 9.04 m/s at Dakhla. The results obtained showed that the highest values of wind potential occur during March, July, September and December in Dakhla and during the December to March in Taza.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El Khchine</LastName>
+                    <ForeName>Younes</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Sciences Laboratory, Sidi Mohamed Ben Abdellah University, Polydisciplinary Faculty of Taza, BP. 1223 road of Oujda, Taza, Morocco.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sriti</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Sciences Laboratory, Sidi Mohamed Ben Abdellah University, Polydisciplinary Faculty of Taza, BP. 1223 road of Oujda, Taza, Morocco.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Kadri Elyamani</LastName>
+                    <ForeName>Nacer Eddine</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Sciences Laboratory, Sidi Mohamed Ben Abdellah University, Polydisciplinary Faculty of Taza, BP. 1223 road of Oujda, Taza, Morocco.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Heliyon</MedlineTA>
+            <NlmUniqueID>101672560</NlmUniqueID>
+            <ISSNLinking>2405-8440</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Energy</Keyword>
+            <Keyword MajorTopicYN="N">Energy density</Keyword>
+            <Keyword MajorTopicYN="N">Energy resources</Keyword>
+            <Keyword MajorTopicYN="N">Horizontal-axis wind turbine</Keyword>
+            <Keyword MajorTopicYN="N">Power density</Keyword>
+            <Keyword MajorTopicYN="N">Weibull distribution</Keyword>
+            <Keyword MajorTopicYN="N">Wind energy</Keyword>
+            <Keyword MajorTopicYN="N">Wind potential</Keyword>
+            <Keyword MajorTopicYN="N">Wind turbine</Keyword>
+            <Keyword MajorTopicYN="N">Wind turbine design</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198870</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.heliyon.2019.e01830</ArticleId>
+            <ArticleId IdType="pii">S2405-8440(18)37447-4</ArticleId>
+            <ArticleId IdType="pii">e01830</ArticleId>
+            <ArticleId IdType="pmc">PMC6555878</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

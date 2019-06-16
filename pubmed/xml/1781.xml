@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198367</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-4879</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacy &amp; bioallied sciences</Title>
+                <ISOAbbreviation>J Pharm Bioallied Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative Evaluation of Implant Designs: Influence of Diameter, Length, and Taper on Stress and Strain in the Mandibular Segment-A Three-Dimensional Finite Element Analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S347-S354</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/JPBS.JPBS_29_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Success or failure of dental implants depends on the amount of stress transferred to the surrounding bone. Increased amount of loading to the bone through implant cause failure, whereas decrease in the amount of loading to the bone causes improved success rate of implants. Biomechanical interaction between implant and bone decides the long-term function or prognosis of dental implant system.</AbstractText>
+                <AbstractText Label="Aim and Objectives" NlmCategory="UNASSIGNED">The aims of this study were to evaluate the influence of implant length and diameter on stress distribution, to understand the stress distribution around bone-implant interface, and to understand the response of bone under axial and non-axial loading conditions.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Finite element three-dimensional mandibular model was made using cone beam computed tomography of patient with completely edentulous mandible, and in that model five posterior bone segments were selected. NobelReplace Select Tapered implants with diameters and lengths 3.5 × 10 mm, 4.3 × 10 mm, 3.5 × 11.5 mm, and 4.3 × 11.5 mm, respectively were selected and three dimensionally modeled using Creo 2.0 Parametric Pro/E software. Bone and implant models were assembled as 20 models and finite element analysis was performed using ANSYS Workbench v17.0 under axial and non-axial loads.</AbstractText>
+                <AbstractText Label="Result" NlmCategory="UNASSIGNED">Under axial and non-axial loads, 3.5 × 10 mm implant showed maximum von Mises stress and strain in both cortical and cancellous bone whereas implant with diameter and length 4.3 × 11.5 mm showed minimum von Mises stress and strain in both cortical and cancellous bone.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">In axial and non-axial loads, amount of stress distribution around implant-bone interface is influenced by diameter and length of implant in cortical and cancellous bone, respectively. Increased diameter of the implant produces the minimum stress in cortical bone. Increased length of the implant produces the minimum stress in cancellous bone.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Raaj</LastName>
+                    <ForeName>Gowthama</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Prosthodontics and Crown and Bridge, K.S.R Institute of Dental Science and Research, Tiruchengode, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manimaran</LastName>
+                    <ForeName>Pulliappan</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Prosthodontics, J.K.K. Nattraja Dental College and Hospital, Komarapalayam, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Chandran Dhinesh</ForeName>
+                    <Initials>CD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Prosthodontics, J.K.K. Nattraja Dental College and Hospital, Komarapalayam, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadan</LastName>
+                    <ForeName>Duraisamy Sai</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Prosthodontics, J.K.K. Nattraja Dental College and Hospital, Komarapalayam, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abirami</LastName>
+                    <ForeName>Mathivanan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Prosthodontics, J.K.K. Nattraja Dental College and Hospital, Komarapalayam, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Pharm Bioallied Sci</MedlineTA>
+            <NlmUniqueID>101537209</NlmUniqueID>
+            <ISSNLinking>0975-7406</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Axial load</Keyword>
+            <Keyword MajorTopicYN="N">cancellous bone</Keyword>
+            <Keyword MajorTopicYN="N">cortical bone</Keyword>
+            <Keyword MajorTopicYN="N">finite element analysis</Keyword>
+            <Keyword MajorTopicYN="N">non-axial load</Keyword>
+            <Keyword MajorTopicYN="N">tapered implant</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198367</ArticleId>
+            <ArticleId IdType="doi">10.4103/JPBS.JPBS_29_19</ArticleId>
+            <ArticleId IdType="pii">JPBS-11-347</ArticleId>
+            <ArticleId IdType="pmc">PMC6555380</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

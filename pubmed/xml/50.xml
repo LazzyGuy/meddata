@@ -1,0 +1,218 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200369</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1547-5646</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery. Spine</Title>
+                <ISOAbbreviation>J Neurosurg Spine</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decision tree analysis to better control treatment effects in spinal cord injury clinical research.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.SPINE18993</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.SPINE18993</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to use decision tree modeling to identify optimal stratification groups considering both the neurological impairment and spinal column injury and to investigate the change in motor score as an example of a practical application. Inherent heterogeneity in spinal cord injury (SCI) introduces variation in natural recovery, compromising the ability to identify true treatment effects in clinical research. Optimized stratification factors to create homogeneous groups of participants would improve accurate identification of true treatment effects.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The analysis cohort consisted of patients with acute traumatic SCI registered in the Vancouver Rick Hansen Spinal Cord Injury Registry (RHSCIR) between 2004 and 2014. Severity of neurological injury (American Spinal Injury Association Impairment Scale [AIS grades A-D]), level of injury (cervical, thoracic), and total motor score (TMS) were assessed using the International Standards for Neurological Classification of Spinal Cord Injury examination; morphological injury to the spinal column assessed using the AOSpine classification (AOSC types A-C, C most severe) and age were also included. Decision trees were used to determine the most homogeneous groupings of participants based on TMS at admission and discharge from in-hospital care.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The analysis cohort included 806 participants; 79.3% were male, and the mean age was 46.7 ± 19.9 years. Distribution of severity of neurological injury at admission was AIS grade A in 40.0% of patients, grade B in 11.3%, grade C in 18.9%, and grade D in 29.9%. The level of injury was cervical in 68.7% of patients and thoracolumbar in 31.3%. An AOSC type A injury was found in 33.1% of patients, type B in 25.6%, and type C in 37.8%. Decision tree analysis identified 6 optimal stratification groups for assessing TMS: 1) AOSC type A or B, cervical injury, and age ≤ 32 years; 2) AOSC type A or B, cervical injury, and age &gt; 32-53 years; 3) AOSC type A or B, cervical injury, and age &gt; 53 years; 4) AOSC type A or B and thoracic injury; 5) AOSC type C and cervical injury; and 6) AOSC type C and thoracic injury.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Appropriate stratification factors are fundamental to accurately identify treatment effects. Inclusion of AOSC type improves stratification, and use of the 6 stratification groups could minimize confounding effects of variable neurological recovery so that effective treatments can be identified.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tee</LastName>
+                    <ForeName>Jin W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1The Alfred Hospital, Department of Neurosurgery, National Trauma Research Institute (NTRI), Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rivers</LastName>
+                    <ForeName>Carly S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Rick Hansen Institute, Vancouver.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fallah</LastName>
+                    <ForeName>Nader</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Rick Hansen Institute, Vancouver.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3University of British Columbia, Vancouver.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noonan</LastName>
+                    <ForeName>Vanessa K</ForeName>
+                    <Initials>VK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Rick Hansen Institute, Vancouver.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3University of British Columbia, Vancouver.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kwon</LastName>
+                    <ForeName>Brian K</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fisher</LastName>
+                    <ForeName>Charles G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Street</LastName>
+                    <ForeName>John T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ailon</LastName>
+                    <ForeName>Tamir</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dea</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paquette</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dvorak</LastName>
+                    <ForeName>Marcel F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver; and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg Spine</MedlineTA>
+            <NlmUniqueID>101223545</NlmUniqueID>
+            <ISSNLinking>1547-5646</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AIS = American Spinal Injury Association Impairment Scale</Keyword>
+            <Keyword MajorTopicYN="N">AOSC = AOSpine classification</Keyword>
+            <Keyword MajorTopicYN="N">AOSpine classification</Keyword>
+            <Keyword MajorTopicYN="N">CCI = Charlson Comorbidity Index</Keyword>
+            <Keyword MajorTopicYN="N">ISNCSCI = International Standards for the Neurological Classification of Spinal Cord Injury</Keyword>
+            <Keyword MajorTopicYN="N">ISS = Injury Severity Score</Keyword>
+            <Keyword MajorTopicYN="N">RHSCIR = Rick Hansen Spinal Cord Injury Registry</Keyword>
+            <Keyword MajorTopicYN="N">SCI = spinal cord injury</Keyword>
+            <Keyword MajorTopicYN="N">TMS = total motor score</Keyword>
+            <Keyword MajorTopicYN="N">decision tree</Keyword>
+            <Keyword MajorTopicYN="N">heterogeneity</Keyword>
+            <Keyword MajorTopicYN="N">injury mechanism</Keyword>
+            <Keyword MajorTopicYN="N">injury setting</Keyword>
+            <Keyword MajorTopicYN="N">spinal cord injury</Keyword>
+            <Keyword MajorTopicYN="N">spine injury</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200369</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.SPINE18993</ArticleId>
+            <ArticleId IdType="pii">2019.3.SPINE18993</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

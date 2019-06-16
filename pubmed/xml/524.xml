@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199865</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-1927</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of health politics, policy and law</Title>
+                <ISOAbbreviation>J Health Polit Policy Law</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Self-Regulation in the Pharmaceutical Industry: The Exposure of Children and Adolescents to Erectile Dysfunction Commercials.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">7611647</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1215/03616878-7611647</ELocationID>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Spending on direct-to-consumer advertising (DTCA) for prescription pharmaceuticals has risen to record levels, five times as much as in 1996 in inflation-adjusted dollars. Major health care provider organizations have called for additional regulation of DTCA. These organizations argue that the negative impact of such advertising outweighs the informational value claimed by the pharmaceutical industry. The industry maintains that further restrictions on DTCA are not warranted because it is successfully self-regulating via &quot;guiding principles&quot; for DTCA as certified by firm executives.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The authors measured recent industry spending on DTCA and used regression models of Nielsen Monitor-Plus data to assess pharmaceutical firm self-regulation after the public disclosure of noncompliance with industry self-regulatory principles, specifically regarding the exposure of children and adolescents to broadcast advertisements for erectile dysfunction drugs.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">Public disclosure of noncompliance with self-regulatory DTCA standards did not bring advertising into compliance. Results demonstrate that firms failed to meet the industry standard during every quarter of the six-year period of this study.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results support previous research findings that pharmaceutical self-regulation is a deceptive blocking strategy rather than a means for the industry to police itself. Policy recommendations include broadcast restrictions on adult content and deincentivizing DTCA via tax reform.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 by Duke University Press.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arnold</LastName>
+                    <ForeName>Denis G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of North Carolina at Charlotte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oakley</LastName>
+                    <ForeName>James L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lewis University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Health Polit Policy Law</MedlineTA>
+            <NlmUniqueID>7609331</NlmUniqueID>
+            <ISSNLinking>0361-6878</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">blocking strategy</Keyword>
+            <Keyword MajorTopicYN="N">children and adolescents</Keyword>
+            <Keyword MajorTopicYN="N">direct-to-consumer advertising</Keyword>
+            <Keyword MajorTopicYN="N">pharmaceutical industry</Keyword>
+            <Keyword MajorTopicYN="N">self-regulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199865</ArticleId>
+            <ArticleId IdType="pii">139045</ArticleId>
+            <ArticleId IdType="doi">10.1215/03616878-7611647</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198623</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemodiversity of <i>Calophyllum inophyllum</i> L. oil bioactive components related to their specific geographical distribution in the South Pacific region.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6896</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6896</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Different parts of the tree <i>Calophyllum inophyllum</i> L. (nuts, leaves, roots, bark, fruits, nut oil and resin) are used as traditional medicines and cosmetics in most of the Pacific Islands. The oil efficiency as a natural cure and in traditional cosmetics has been largely described throughout the South Pacific, which led us to investigate <i>C. inophyllum'</i>s chemical and genetic diversity. A correlative study of the nut resin and leaf DNA from three distinct archipelagos in the South Pacific was carried out in order to identify diversity patterns in <i>C. inophyllum</i> across the South Pacific.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED"><i>Calophyllum inophyllum</i> plants were sampled from French Polynesia, New Caledonia and Fiji. We extracted tamanu oil (nut oil) resin for chemo-diversity studies and sampled leaf tissues for genetic studies. We applied an analysis method designed for small quantities (at a microscale level), and used High Performance Liquid Chromatography (HPLC) to establish the chemo-diversity of tamanu oil resin. In-house standards were co-eluted for qualitative determination. Genetic diversity was assessed using chloroplast barcoding markers (the Acetyl-CoA carboxylase (accD) gene and the psaA-ycf3 intergenic spacer region).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Our HPLC analysis revealed 11 previously known tamanu oil constituents, with variability among plant samples. We also isolated and characterized two new neoflavonoids from tamanu oil resin namely, tamanolide E1 and E2 which are diastereoisomers. Although genetic analysis revealed low genetic variation, our multivariate analysis (PCA) of the tamanu oil resin chemical profiles revealed differentiation among geographic regions.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">We showed here that chromatographic analysis using formalized in-house standards of oil resin compounds for co-elution studies against oil resin samples could identify patterns of variation among samples of <i>C. inophyllum,</i> and discriminate samples from different geographical origins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ginigini</LastName>
+                    <ForeName>Joape</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0002-1726-1771</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pacific Natural Products Research Centre, Institute of Applied Sciences, University of the South Pacific, Suva, Fiji.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lecellier</LastName>
+                    <ForeName>Gaël J</ForeName>
+                    <Initials>GJ</Initials>
+                    <Identifier Source="ORCID">0000-0003-3331-6311</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Départment de Biologie, Université de Versailles Saint-Quentin-en-Yvelines, Versailles, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicolas</LastName>
+                    <ForeName>Mael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ISEA EA7484, University of Caledonia, Noumea, New Caledonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nour</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ISEA EA7484, University of Caledonia, Noumea, New Caledonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hnawia</LastName>
+                    <ForeName>Edouard</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ISEA EA7484, University of Caledonia, Noumea, New Caledonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebouvier</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ISEA EA7484, University of Caledonia, Noumea, New Caledonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbette</LastName>
+                    <ForeName>Gaëtan</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">0000-0002-3374-2508</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Spectropole, Campus de St Jérôme, Aix-Marseille Univ, CNRS, Centrale Marseille, FSCM, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lockhart</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Fundamental Sciences, Massey University, Palmerston North, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raharivelomanana</LastName>
+                    <ForeName>Phila</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EIO UMR241, Université de la Polynésie française, Faa'a, Tahiti, French Polynesia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biodiversity</Keyword>
+            <Keyword MajorTopicYN="N">Calophyllum inophyllum</Keyword>
+            <Keyword MajorTopicYN="N">Chemodiversity</Keyword>
+            <Keyword MajorTopicYN="N">Neoflavonoids</Keyword>
+            <Keyword MajorTopicYN="N">Oil</Keyword>
+            <Keyword MajorTopicYN="N">South Pacific</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198623</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6896</ArticleId>
+            <ArticleId IdType="pii">6896</ArticleId>
+            <ArticleId IdType="pmc">PMC6535043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,148 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199342</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Understanding Long-Term Trajectories in Web-Based Happiness Interventions: Secondary Analysis From Two Web-Based Randomized Trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13253</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13253</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A critical issue in understanding the benefits of Web-based interventions is the lack of information on the sustainability of those benefits. Sustainability in studies is often determined using group-level analyses that might obscure our understanding of who actually sustains change. Person-centric methods might provide a deeper knowledge of whether benefits are sustained and who tends to sustain those benefits.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to conduct a person-centric analysis of longitudinal outcomes, examining well-being in participants over the first 3 months following a Web-based happiness intervention. We predicted we would find distinct trajectories in people's pattern of response over time. We also sought to identify what aspects of the intervention and the individual predicted an individual's well-being trajectory.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data were gathered from 2 large studies of Web-based happiness interventions: one in which participants were randomly assigned to 1 of 14 possible 1-week activities (N=912) and another wherein participants were randomly assigned to complete 0, 2, 4, or 6 weeks of activities (N=1318). We performed a variation of K-means cluster analysis on trajectories of life satisfaction (LS) and affect balance (AB). After clusters were identified, we used exploratory analyses of variance and logistic regression models to analyze groups and compare predictors of group membership.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Cluster analysis produced similar cluster solutions for each sample. In both cases, participant trajectories in LS and AB fell into 1 of 4 distinct groups. These groups were as follows: those with high and static levels of happiness (n=118, or 42.8%, in Sample 1; n=306, or 52.8%, in Sample 2), those who experienced a lasting improvement (n=74, or 26.8% in Sample 1; n=104, or 18.0%, in Sample 2), those who experienced a temporary improvement but returned to baseline (n=37, or 13.4%, in Sample 1; n=82, or 14.2%, in Sample 2), and those with other trajectories (n=47, or 17.0%, in Sample 1; n=87, or 15.0% in Sample 2). The prevalence of depression symptoms predicted membership in 1 of the latter 3 groups. Higher usage and greater adherence predicted sustained rather than temporary benefits.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We revealed a few common patterns of change among those completing Web-based happiness interventions. A noteworthy finding was that many individuals began quite happy and maintained those levels. We failed to identify evidence that the benefit of any particular activity or group of activities was more sustainable than any others. We did find, however, that the distressed portion of participants was more likely to achieve a lasting benefit if they continued to practice, and adhere to, their assigned Web-based happiness intervention.</AbstractText>
+                <CopyrightInformation>©Christopher A Sanders, Stephen M Schueller, Acacia C Parks, Ryan T Howell. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 08.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sanders</LastName>
+                    <ForeName>Christopher A</ForeName>
+                    <Initials>CA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9777-4368</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychological Sciences, University of Missouri, Columbia, Columbia, MO, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schueller</LastName>
+                    <ForeName>Stephen M</ForeName>
+                    <Initials>SM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1003-0399</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychological Science, University of California Irvine, Irvine, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parks</LastName>
+                    <ForeName>Acacia C</ForeName>
+                    <Initials>AC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6643-0116</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Happify Health, New York, NY, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howell</LastName>
+                    <ForeName>Ryan T</ForeName>
+                    <Initials>RT</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4756-7357</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Psychology Department, San Francisco State University, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cluster analysis</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">happiness</Keyword>
+            <Keyword MajorTopicYN="N">random allocation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199342</ArticleId>
+            <ArticleId IdType="pii">v21i6e13253</ArticleId>
+            <ArticleId IdType="doi">10.2196/13253</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,90 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199261</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-0210</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society</Title>
+                <ISOAbbreviation>IEEE Trans Neural Syst Rehabil Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improved Assessment of Muscle Excitation from Surface Electromyograms in Isometric Muscle Contractions.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TNSRE.2019.2922453</ELocationID>
+            <Abstract>
+                <AbstractText>We introduce two novel methods for estimation of muscle excitation from surface electromyograms (EMG), the so called cumulative motor unit activity index (CAI) and robust CAI (rCAI). Both methods aim to remove the detected motor unit action potential (MUAP) contributions from EMG, but do not assess the individual motor unit spike trains. Instead, they directly estimate the cumulative motor unit spike train (CST). We compared the methods with the spatially averaged rootmean-square (RMS) envelope of EMG signals and with the CST, estimated by the previously introduced Convolution Kernel Compensation (CKC) method. The tests on synthetic EMG with known muscle excitation profiles demonstrated superior accuracy of newly introduced methods. In the case of 64 EMG channels and 20 dB noise, the RMS, CAI, rCAI and CKC estimators, calculated on 0.125 s long signal epochs, yielded the normalized RMS error (NRMSE) of 14.5 ± 2.8 %, 4.4 ± 3.2 %, 4.1 ± 1.8 % and 6.3 ± 4.6 %, respectively. In the experimental signals from wrist extensors and flexors, the RMS, CAI, rCAI and CKC estimations were compared to exerted muscle force. When calculated on 0.125 s long signal epochs, they yielded the NRMSE of 11.2 ± 3.5 %, 8 ± 5.6 %, 10.7 ± 6.8 % and 9.0 ± 4.9 %, respectively. Therefore, the newly introduced methods exhibit accuracy that is comparable to at least 200-times slower CKC method.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kranjec</LastName>
+                    <ForeName>Jernej</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holobar</LastName>
+                    <ForeName>Ales</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Neural Syst Rehabil Eng</MedlineTA>
+            <NlmUniqueID>101097023</NlmUniqueID>
+            <ISSNLinking>1534-4320</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199261</ArticleId>
+            <ArticleId IdType="doi">10.1109/TNSRE.2019.2922453</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

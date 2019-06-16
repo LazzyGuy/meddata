@@ -1,0 +1,95 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199662</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1543-8392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular pharmaceutics</Title>
+                <ISOAbbreviation>Mol. Pharm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increasing the Potential of the Auristatin Cancer-Drug Family by Shifting the Conformational Equilibrium.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.molpharmaceut.9b00437</ELocationID>
+            <Abstract>
+                <AbstractText>Monomethyl auristatin E (MMAE) and monomethyl auristatin F (MMAF) are widely used cytotoxic agents in antibody-drug conjugates (ADCs), a group of promising cancer drugs. The ADCs target specifically cancer cells, releasing the auristatins inside, which results in the prevention of mitosis. The auristatins suffer from a potentially serious flaw, however. In solution, the molecules exist in an equal mixture of two conformers, cis and trans. Only the trans-isomer is biologically active and the isomerization process, i.e., the conversion of cis to trans is slow. This significantly diminishes the efficiency of the drugs and their corresponding ADCs, and perhaps more importantly, raises concerns over drug safety. The potency of the auristatins would be enhanced by decreasing the amount of the biologically inactive isomer, either by stabilizing the trans-isomer, or destabilizing the cis-isomer. Here, we follow the computer-aided design strategy of shifting the conformational equilibrium, and employ high-level quantum chemical modelling in order to identify promising candidates for improved auristatins. Coupled cluster calculations predict that a simple halogenation in the norephedrine/phenylalanine residues shifts the isomer equilibrium almost completely towards the active trans-conformation, due to enhanced intramolecular interactions specific to the active isomer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sokka</LastName>
+                    <ForeName>Iris K</ForeName>
+                    <Initials>IK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekholm</LastName>
+                    <ForeName>Filip S</ForeName>
+                    <Initials>FS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johansson</LastName>
+                    <ForeName>Mikael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Pharm</MedlineTA>
+            <NlmUniqueID>101197791</NlmUniqueID>
+            <ISSNLinking>1543-8384</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199662</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.9b00437</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

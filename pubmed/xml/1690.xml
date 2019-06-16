@@ -1,0 +1,176 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198474</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Disease markers</Title>
+                <ISOAbbreviation>Dis. Markers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coding Region Mutation Screening in Optineurin in Chinese Normal-Tension Glaucoma Patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5820537</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/5820537</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">To study the roles of sequence alterations in the optineurin (<i>OPTN</i>) gene-coding region in normal-tension glaucoma (NTG) among Chinese patients.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Genomic DNA was extracted from 190 NTG patients and 201 control subjects. The thirteen exons of <i>OPTN</i> were amplified by polymerase chain reaction and analyzed by direct sequencing. Detected sequence changes were compared between NTG patients and control subjects.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Seven sequence changes in <i>OPTN</i> were identified in both NTG patients and control subjects. Among them, c.464G&gt;A (T34 T), c.509C&gt;T (T49T), c.806G&gt;A (V148V), and c.959T&gt;C (P199P) were synonymous codon changes, whilst c.655T&gt;A (M98K), c.1996G&gt;A (R545Q), and c.1582T&gt;C (I407T) were missense changes. Two previously reported heterozygous mutations, c.458G&gt;A (E50K) in exon 4 and c.691_692insAG in exon 6, were not found in this study. Out of these seven <i>OPTN</i> sequence variants, c.464G&gt;A (T34T) was significantly associated with NTG in both the allelic and genotypic association analyses (allelic association: <i>p</i> = 0.0001, OR = 2.20, 95% CI: 1.46-3.31; genotypic association: <i>p</i> = 0.0001), whereas the association of other variants with NTG did not reach statistical significance (<i>p</i> &gt; 0.05). Variants c.1582 T&gt;C (I407T) and c.806G&gt;A (V148V) were identified in one and two NTG patients, respectively, but not in the control subjects.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">This study confirmed the association of the OPTN T34T variant with NTG, suggesting that <i>OPTN</i> is a susceptibility gene for NTG in Chinese. Moreover, a variant with amino acid change (I407T) was identified in NTG but not in controls. Further studies are warranted to assess whether this variant is a causative mutation for NTG.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Jing Na</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Shiyao</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Li Jia</ForeName>
+                    <Initials>LJ</Initials>
+                    <Identifier Source="ORCID">0000-0003-3500-5840</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tam</LastName>
+                    <ForeName>Pancy Oi Sin</ForeName>
+                    <Initials>POS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Bi Ning</ForeName>
+                    <Initials>BN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leung</LastName>
+                    <ForeName>Christopher Kai Shun</ForeName>
+                    <Initials>CKS</Initials>
+                    <Identifier Source="ORCID">0000-0003-4862-777X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pang</LastName>
+                    <ForeName>Chi Pui</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tham</LastName>
+                    <ForeName>Clement Chee Yung</ForeName>
+                    <Initials>CCY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chu</LastName>
+                    <ForeName>Wai Kit</ForeName>
+                    <Initials>WK</Initials>
+                    <Identifier Source="ORCID">0000-0003-2903-3247</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology &amp; Visual Sciences, The Chinese University of Hong Kong, Hong Kong.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dis Markers</MedlineTA>
+            <NlmUniqueID>8604127</NlmUniqueID>
+            <ISSNLinking>0278-0240</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198474</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/5820537</ArticleId>
+            <ArticleId IdType="pmc">PMC6526575</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

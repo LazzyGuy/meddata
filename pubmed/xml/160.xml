@@ -1,0 +1,165 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200251</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-562X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>129</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioelectrochemistry (Amsterdam, Netherlands)</Title>
+                <ISOAbbreviation>Bioelectrochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel molecularly imprinted electrochemical sensor based on double sensitization by MOF/CNTs and Prussian blue for detection of 17β-estradiol.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211-217</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-5394(18)30567-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bioelechem.2019.04.014</ELocationID>
+            <Abstract>
+                <AbstractText>In this paper, we constructed MIL-53 (AlOHbdc, bdc = benzene-1,4-dicarboxylate) /CNTs and Prussian blue (PB) as the double sensitization material of the sensing platform, in which the MIL-53/CNTs hybrid can not only increase the specific surface area but also increase the conductivity of the sensor and PB can play a role in amplifying electrical signals and accelerating electron transmission. Pyrrole was used as monomer and E2 was used as template for electropolymerization to form conductive film. Moreover, the overoxidation/dedoping elution method were used to simplify the experimental process. Under optimal conditions, the MIECS exhibited an excellent sensitivity and high selectivity with a wide linear response range between 10<sup>-14</sup> to 10<sup>-9</sup> mol L<sup>-1</sup> and an estimated detection limit of 6.19 × 10<sup>-15</sup> mol L<sup>-1</sup>.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Duan</LastName>
+                    <ForeName>Dingding</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Si</LastName>
+                    <ForeName>Xiaojing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Shanghai Aurora Vocation College, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Yaping</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China. Electronic address: wdingyp@sina.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China. Electronic address: lilidu@shu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Guohong</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China. Electronic address: ghma@staff.shu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jian</LastName>
+                    <ForeName>Bingyu</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Sciences, Shanghai University, Shanghai 200444, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Bioelectrochemistry</MedlineTA>
+            <NlmUniqueID>100953583</NlmUniqueID>
+            <ISSNLinking>1567-5394</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">17β-estradiol</Keyword>
+            <Keyword MajorTopicYN="N">Metal-organic frameworks</Keyword>
+            <Keyword MajorTopicYN="N">Molecularly imprinted electrochemical sensor</Keyword>
+            <Keyword MajorTopicYN="N">Polypyrrole</Keyword>
+            <Keyword MajorTopicYN="N">Prussian blue</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200251</ArticleId>
+            <ArticleId IdType="pii">S1567-5394(18)30567-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bioelechem.2019.04.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200015</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1899</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biotechnology advances</Title>
+                <ISOAbbreviation>Biotechnol. Adv.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Classification and enzyme kinetics of formate dehydrogenases for biomanufacturing via CO<sub>2</sub> utilization.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0734-9750(19)30098-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biotechadv.2019.06.007</ELocationID>
+            <Abstract>
+                <AbstractText>The reversible interconversion of formate (HCOO<sup>-</sup>) and carbon dioxide (CO<sub>2</sub>) is catalyzed by formate dehydrogenase (FDH, EC 1.17.1.9). This enzyme can be used as a first step in the utilization of CO<sub>2</sub> as carbon substrate for production of high-in-demand chemicals. However, comparison and categorization of the very diverse group of FDH enzymes has received only limited attention. With specific emphasis on FDH catalyzed CO<sub>2</sub> reduction to HCOO<sup>-</sup>, we present a novel classification scheme for FDHs based on protein sequence alignment and gene organization analysis. We show that prokaryotic FDHs can be neatly divided into six meaningful sub-types. These sub-types are discussed in the context of overall structural composition, phylogeny of the gene segment organization, metabolic role, and catalytic properties. Based on the available literature, the influence of electron donor choice on the efficacy of FDH catalyzed CO<sub>2</sub> reduction is quantified and compared. This analysis shows that methyl viologen and hydrogen are several times more potent than NADH as electron donors. Hence, the new FDH classification scheme and the electron donor analysis provide an improved base for developing FDH-facilitated CO<sub>2</sub> reduction as a viable step in the utilization of CO<sub>2</sub> as carbon source for green production of chemicals.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Christian Førgaard</ForeName>
+                    <Initials>CF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Protein Chemistry and Enzyme Technology Section, Department of Biotechnology and Biomedicine, Building 221, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lange</LastName>
+                    <ForeName>Lene</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Protein Chemistry and Enzyme Technology Section, Department of Biotechnology and Biomedicine, Building 221, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Anne S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Protein Chemistry and Enzyme Technology Section, Department of Biotechnology and Biomedicine, Building 221, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark. Electronic address: asme@dtu.dk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biotechnol Adv</MedlineTA>
+            <NlmUniqueID>8403708</NlmUniqueID>
+            <ISSNLinking>0734-9750</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biocatalysis</Keyword>
+            <Keyword MajorTopicYN="N">CO(2) reduction</Keyword>
+            <Keyword MajorTopicYN="N">Carbon capture and utilization</Keyword>
+            <Keyword MajorTopicYN="N">Electrocatalysis</Keyword>
+            <Keyword MajorTopicYN="N">FDH classification</Keyword>
+            <Keyword MajorTopicYN="N">FDH gene segment organization</Keyword>
+            <Keyword MajorTopicYN="N">Formate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200015</ArticleId>
+            <ArticleId IdType="pii">S0734-9750(19)30098-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biotechadv.2019.06.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

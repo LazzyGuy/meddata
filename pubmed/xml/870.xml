@@ -1,0 +1,132 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199469</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2048-7207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the Pediatric Infectious Diseases Society</Title>
+                <ISOAbbreviation>J Pediatric Infect Dis Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oral Narrow-Spectrum Antibiotics for the Treatment of Urinary Tract Infection in Infants Younger Than 60 Days.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">piz037</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jpids/piz037</ELocationID>
+            <Abstract>
+                <AbstractText>Data on the outcome of infants younger than 60 days treated with a combination of intravenous and oral antibiotics for urinary tract infection are limited. This study examined susceptibility and successful outcomes of treatment with narrow-spectrum oral antibiotics. In addition, we describe the effects of antimicrobial stewardship education intervention on prescribing practices.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of The Journal of the Pediatric Infectious Diseases Society. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fernandez</LastName>
+                    <ForeName>Marisol</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Infectious Diseases, University of Texas at Austin Dell Medical School, Dell Children's Medical Center of Central Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Givens Merkel</LastName>
+                    <ForeName>Kathyrn</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, St David's South Austin Medical Center, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Julio D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Texas at Austin Dell Medical School.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Downey Quick</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Infectious Diseases, Dell Children's Medical Center of Central Texas, Austin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Pediatric Infect Dis Soc</MedlineTA>
+            <NlmUniqueID>101586049</NlmUniqueID>
+            <ISSNLinking>2048-7193</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antibiotics</Keyword>
+            <Keyword MajorTopicYN="N">bacteremia</Keyword>
+            <Keyword MajorTopicYN="N">infants</Keyword>
+            <Keyword MajorTopicYN="N">neonatal fever</Keyword>
+            <Keyword MajorTopicYN="N">urinary tract infection</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199469</ArticleId>
+            <ArticleId IdType="pii">5519095</ArticleId>
+            <ArticleId IdType="doi">10.1093/jpids/piz037</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

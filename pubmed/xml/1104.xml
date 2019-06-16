@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199215</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1751-732X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Animal : an international journal of animal bioscience</Title>
+                <ISOAbbreviation>Animal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evolution of pig intestinal stem cells from birth to weaning.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S1751731119001319</ELocationID>
+            <Abstract>
+                <AbstractText>Pig intestinal epithelium undergoes a complete renewal every 2 to 3 days that is driven by intestinal stem cells (ISCs) located at the crypt base in their niche. Intestinal stem cells generate a pool of highly proliferative transit-amplifying cells, which either migrate up the villus and differentiate into enterocytes and secretory cells or migrate towards the base of the crypt where they differentiate into Paneth cells that secrete antimicrobial peptides. The balance between ISCs' self-renewal and differentiation controls intestinal epithelial homeostasis; therefore, ISCs are essential for ensuring intestinal epithelial integrity. Detailed knowledge of these mechanisms in pig and other domestic species is very limited. Therefore, the aim of this work was to characterize ISC from birth to weaning. We analysed the duodenum, jejunum and colon of six piglets at birth, 6-day-old nursing piglets and 28-day-old weanlings, one week after weaning. We immunolocalized homeobox only protein+ (HOPX) and sex-determining region Y-box 9+ (SOX9) cells that identify quiescent and active ISC, respectively. The volume of ISCs was quantified with stereological methods and was compared to that of mitotic cells expressing proliferating cell nuclear antigen and apoptotic cells identified by the presence of cleaved caspase-3. Furthermore, we compared all these values with crypts and villi measurements and their ratio. Our results indicated that both quiescent and active ISCs are present in pig intestine from birth to weaning and are localized in the crypts of the small and large intestine. However, both markers were also observed along the villi and on the colon luminal epithelium, suggesting that at these stages, pig mucosa is still immature. Weaning induced a dramatic reduction of both HOPX+ and SOX9+ cells, but SOX9+ cells underwent a significantly greater reduction in the small intestine than in the colon. This suggests that the two ISC types are differentially regulated along the intestinal tracts. Overall, the pig ISC complex has many similarities with its murine counterpart, but also has some differences. These include active ISC not showing the typical columnar base morphology as well as the absence of bona fide Paneth cells. This is the first description of ISC dynamics during pig's early life and provides useful reference data for future studies, aimed at targeting ISC for the development of efficient alternatives to in-feed antibiotics for preserving intestinal integrity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verdile</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Agricultural and Environmental Sciences,University of Milan,Via Celoria 2, 20133 Milano,Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirmahmoudi</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Science, Faculty of Agriculture,University of Jiroft,P.O. Box 364, Jiroft,Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brevini</LastName>
+                    <ForeName>T A L</ForeName>
+                    <Initials>TAL</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0428-3621</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health, Animal Science and Food Safety,University of Milan,Via Celoria 10, 20133 Milano,Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gandolfi</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-3246-2985</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Agricultural and Environmental Sciences,University of Milan,Via Celoria 2, 20133 Milano,Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Animal</MedlineTA>
+            <NlmUniqueID>101303270</NlmUniqueID>
+            <ISSNLinking>1751-7311</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">epithelium</Keyword>
+            <Keyword MajorTopicYN="N">growth</Keyword>
+            <Keyword MajorTopicYN="N">intestine</Keyword>
+            <Keyword MajorTopicYN="N">renewal</Keyword>
+            <Keyword MajorTopicYN="N">repair</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199215</ArticleId>
+            <ArticleId IdType="pii">S1751731119001319</ArticleId>
+            <ArticleId IdType="doi">10.1017/S1751731119001319</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

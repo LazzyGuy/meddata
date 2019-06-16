@@ -1,0 +1,103 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199185</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-1539</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Heart and circulatory physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol. Heart Circ. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Advanced Maternal Age and the Impact on Maternal and Offspring Cardiovascular Health.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/ajpheart.00045.2019</ELocationID>
+            <Abstract>
+                <AbstractText>Delaying pregnancy, which is on the rise, may increase the risk of cardiovascular disease in both women and their children. The physiological mechanisms that lead to these effects are not fully understood, but may involve inadequate adaptations of the maternal cardiovascular system to pregnancy. Indeed, there is abundant evidence in the literature that a fetus developing in a suboptimal <i>in utero</i> environment (such as in pregnancies complicated by fetal growth restriction, preterm birth and/or preeclampsia) is at an increased risk of cardiovascular disease in adulthood; the developmental origins of health and disease theory. Although women of advanced age are at a significantly increased risk of pregnancy complications, there is limited information as to whether advanced maternal age constitutes an added stressor on the prenatal environment of the fetus, and whether or not this is secondary to impaired cardiovascular function during pregnancy. This review summarizes the current literature available on the impact of advanced maternal age on cardiovascular adaptations to pregnancy and the role of maternal age on long-term health risks for both the mother and offspring.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cooke</LastName>
+                    <ForeName>Christy-Lynn</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Obstetrics and Gynecology, University of Alberta.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidge</LastName>
+                    <ForeName>Sandra T</ForeName>
+                    <Initials>ST</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Obstetrics and Gynecology, Physiology, University of Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Heart Circ Physiol</MedlineTA>
+            <NlmUniqueID>100901228</NlmUniqueID>
+            <ISSNLinking>0363-6135</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Advanced Maternal Age</Keyword>
+            <Keyword MajorTopicYN="N">Animal Models</Keyword>
+            <Keyword MajorTopicYN="N">Cardiovascular</Keyword>
+            <Keyword MajorTopicYN="N">Developmental Origins of Health and Disease</Keyword>
+            <Keyword MajorTopicYN="N">Pregnancy Complications</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199185</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.00045.2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

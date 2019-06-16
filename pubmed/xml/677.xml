@@ -1,0 +1,102 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199686</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-7558</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>124</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal on intellectual and developmental disabilities</Title>
+                <ISOAbbreviation>Am J Intellect Dev Disabil</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modeling the Relations Among Sustained Attention, Short-Term Memory, and Language in Down Syndrome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>293-308</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1352/1944-7558-124.4.293</ELocationID>
+            <Abstract>
+                <AbstractText>Sustained attention (SA) and short-term memory (STM) contribute to language function in Down syndrome (DS). We proposed models in which relations of SA to language in DS are mediated by STM. Thirty-seven youth with DS aged 10-22 years (<i>M</i> = 15.59) completed SA, STM, and language tasks. Cross-sectional mediation analyses were run with the bootstrapping method. We found significant indirect effects of SA separately on vocabulary and syntax through auditory STM with point estimates of -.30 and -.31, respectively. Results suggest lapses in SA compromise auditory STM, which in turn impacts vocabulary and syntax in youth with DS; however, further research is needed to confirm causality. Addressing SA and STM in language therapy with youth with DS could lead to improved outcomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Faught</LastName>
+                    <ForeName>Gayle G</ForeName>
+                    <Initials>GG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gayle G. Faught, University of South Carolina Aiken; and Frances A. Conners, The University of Alabama, Tuscaloosa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conners</LastName>
+                    <ForeName>Frances A</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gayle G. Faught, University of South Carolina Aiken; and Frances A. Conners, The University of Alabama, Tuscaloosa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Intellect Dev Disabil</MedlineTA>
+            <NlmUniqueID>101492916</NlmUniqueID>
+            <ISSNLinking>1944-7558</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Down syndrome</Keyword>
+            <Keyword MajorTopicYN="N">intellectual disability</Keyword>
+            <Keyword MajorTopicYN="N">language</Keyword>
+            <Keyword MajorTopicYN="N">short-term memory</Keyword>
+            <Keyword MajorTopicYN="N">sustained attention</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199686</ArticleId>
+            <ArticleId IdType="doi">10.1352/1944-7558-124.4.293</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200127</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1973-8102</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cortex; a journal devoted to the study of the nervous system and behavior</Title>
+                <ISOAbbreviation>Cortex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Affective reactivity during adolescence: Associations with age, puberty and testosterone.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>336-350</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0010-9452(19)30198-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cortex.2019.04.024</ELocationID>
+            <Abstract>
+                <AbstractText>Adolescence is a period of heightened social engagement that is accompanied by normative changes in neural reactivity to affective stimuli. It is also a period of concurrent endocrine and physical changes associated with puberty. A growing body of research suggests that hormonal shifts during adolescence impact brain development, but minimal research in humans has examined the relationship between intra-individual changes in puberty and brain function. The current study examines linear and nonlinear changes in affective reactivity in a longitudinal sample of 82 adolescents who underwent three fMRI sessions between the ages of 9 and 18 years. Changes in response to affective facial stimuli were related to age, pubertal stage, and testosterone levels. Using multilevel modeling, we highlight extensive nonlinear development of socio-emotional responsivity across the brain. Results include mid-pubertal peaks in amygdala and hippocampus response to fearful expressions, as well as sex differences in regions subserving social and self-evaluative processes. However, testosterone levels exhibited inverse patterns of association with neural response compared to pubertal stage in females (e.g., U-shaped relationship with the amygdala and hippocampus). Findings highlight potentially unique roles of age, pubertal stage and testosterone on socio-emotional development during adolescence, as well as sex differences in these associations.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vijayakumar</LastName>
+                    <ForeName>Nandita</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Oregon, Eugene, OR, USA; School of Psychology, Deakin University, Melbourne, Australia. Electronic address: nvijaya@deakin.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pfeifer</LastName>
+                    <ForeName>Jennifer H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Oregon, Eugene, OR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flournoy</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Oregon, Eugene, OR, USA; Department of Psychology, Harvard University, Cambridge, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hernandez</LastName>
+                    <ForeName>Leanna M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ahmanson-Lovelace Brain Mapping Center, University of California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dapretto</LastName>
+                    <ForeName>Mirella</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ahmanson-Lovelace Brain Mapping Center, University of California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Cortex</MedlineTA>
+            <NlmUniqueID>0100725</NlmUniqueID>
+            <ISSNLinking>0010-9452</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Affective reactivity</Keyword>
+            <Keyword MajorTopicYN="N">Brain development</Keyword>
+            <Keyword MajorTopicYN="N">Puberty</Keyword>
+            <Keyword MajorTopicYN="N">Testosterone</Keyword>
+            <Keyword MajorTopicYN="N">fMRI</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200127</ArticleId>
+            <ArticleId IdType="pii">S0010-9452(19)30198-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cortex.2019.04.024</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

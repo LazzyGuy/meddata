@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200074</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular characterization and functional analysis of glutathione S-transferase kappa 1 (GSTκ1) from the big belly seahorse (Hippocampus abdominalis): Elucidation of its involvement in innate immune responses.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1050-4648(19)30657-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fsi.2019.06.010</ELocationID>
+            <Abstract>
+                <AbstractText>Glutathione S-transferases (GSTs) are essential enzymes for the bioactivation of xenobiotics through the conjugation of the thiol group of glutathione (GSH). In this study, a kappa class of GST was identified from the big belly seahorse (Hippocampus abdominalis) (HaGSTκ1) and its biochemical and functional properties were analyzed. HaGSTκ1 has 231 amino acids encoded by a 696 bp open reading frame (ORF). The protein has a predicted molecular mass of 26.04 kDa and theoretical isoelectric point (pI) of 8.28. It comprised a thioredoxin domain, disulfide bond formation protein A (DsbA) general fold, and Ser15 catalytic site as well as GSH-binding and polypeptide-binding sites. Phylogenetic analysis revealed that HaGSTκ1 is closely clustered with the kappa class of GSTs from teleost fishes. The recombinant (rHaGSTκ1) protein exhibited activity toward 1-chloro-2,4-dinitrobenzene (CDNB), 4-nitrobenzyl (4-NBC), and 4-nitrophenethyl bromide (4-NPB) but not 1,2-dichloro-4-nitrobenzene (DCNB). The optimum pH and temperature were 8 and 30 °C, respectively, for the catalysis of CDNB and the universal substrate of GSTs. The rHaGSTκ1 activity was efficiently inhibited in the presence of Cibacron blue (CB) as compared with hematin. Most prominent expression of HaGSTκ1 was observed in the liver and kidney among the fourteen different tissues of normal seahorse. After challenge with lipopolysaccharide (LPS), polyinosinic-polycytidylic (poly I:C), gram-negative Edwardsiella tarda, and gram-positive Streptococcus iniae, HaGSTκ1 expression was significantly modulated in the liver and blood tissues. Altogether, our study proposes the plausible important role of HaGSTκ1 in innate immunity and detoxification of harmful xenobiotics.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Samaraweera</LastName>
+                    <ForeName>Anushka Vidurangi</ForeName>
+                    <Initials>AV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sandamalika</LastName>
+                    <ForeName>W M Gayashani</ForeName>
+                    <Initials>WMG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liyanage</LastName>
+                    <ForeName>D S</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea; Marine Science Institute, Jeju National University, Jeju Self-Governing Province, 63333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Sukkyoung</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea; Marine Science Institute, Jeju National University, Jeju Self-Governing Province, 63333, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Priyathilaka</LastName>
+                    <ForeName>Thanthrige Thiunuwan</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea. Electronic address: thiunuwan@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jehee</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Life Sciences &amp; Fish Vaccine Research Center, Jeju National University, Jeju Self-Governing Province, 63243, Republic of Korea; Marine Science Institute, Jeju National University, Jeju Self-Governing Province, 63333, Republic of Korea. Electronic address: jehee@jejunu.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Detoxification</Keyword>
+            <Keyword MajorTopicYN="N">Hippocampus abdominalis</Keyword>
+            <Keyword MajorTopicYN="N">Immune response</Keyword>
+            <Keyword MajorTopicYN="N">Innate immunity</Keyword>
+            <Keyword MajorTopicYN="N">glutathione S-Transferase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200074</ArticleId>
+            <ArticleId IdType="pii">S1050-4648(19)30657-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2019.06.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

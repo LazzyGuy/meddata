@@ -1,0 +1,160 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198184</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How Does Treating Chronic Hepatitis C Affect Individuals in Need of Organ Transplants in the United Kingdom?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>669-676</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30034-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2018.09.2923</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To estimate the impact of cures for chronic hepatitis C (CHC) infection on organ donation in the United Kingdom. Curing CHC infection reduces the need for liver transplants and enables cured individuals to donate organs of all types.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We adapted a double-queuing model of organ allocation to estimate the effects of CHC infection cures on liver, lung, heart, and kidney transplants in the United Kingdom. We assumed that cured individuals would donate organs at similar rates as the general population and no longer require liver transplants because of CHC infection. We estimated how curing CHC infection influences waitlist lengths for each organ and the annual net present value to society on the basis of quality-adjusted life-years gained through additional transplants under opt-in and opt-out organ donation policies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Curing CHC generates the most value for patients on the liver waitlist, because it increases the number of transplantable livers and reduces the need for transplants. Under the current opt-in policy, liver waitlist length falls by 24%, generating £34.3 million of annual net present value. Growth in the number of uninfected lungs, hearts, and kidneys generates an additional £19.2 million annually, with £18.7 million from kidneys. Implementing the opt-out policy, liver waitlist length would decrease by 75%, implying that treating CHC eliminates one-third of the excess liver waitlist due to an opt-in policy.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Treating CHC has large positive spillovers to uninfected individuals by reducing the need for liver transplants and allowing cured individuals to donate organs. These spillovers have not been included in traditional value assessments of CHC treatment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jena</LastName>
+                    <ForeName>Anupam Bapu</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard University, Cambridge, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snider</LastName>
+                    <ForeName>Julia Thornton</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Precision Health Economics, Oakland, CA, USA. Electronic address: julia.snider@precisionhealtheconomics.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaz Espinosa</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Precision Health Economics, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ingram</LastName>
+                    <ForeName>Andy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AbbVie UK, Ltd, London, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanchez Gonzalez</LastName>
+                    <ForeName>Yuri</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AbbVie, Inc, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lakdawalla</LastName>
+                    <ForeName>Darius</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Precision Health Economics, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cure</Keyword>
+            <Keyword MajorTopicYN="N">economic value</Keyword>
+            <Keyword MajorTopicYN="N">hepatitis C</Keyword>
+            <Keyword MajorTopicYN="N">organ donation</Keyword>
+            <Keyword MajorTopicYN="N">organ transplant</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198184</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30034-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2018.09.2923</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

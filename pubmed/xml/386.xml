@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200019</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8657</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of structural biology</Title>
+                <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>3.1Å structure of yeast RNA polymerase II elongation complex stalled at a cyclobutane pyrimidine dimer lesion solved using streptavidin affinity grids.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1047-8477(19)30133-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jsb.2019.06.004</ELocationID>
+            <Abstract>
+                <AbstractText>Despite significant advances in all aspects of single particle cryo-electron microscopy (cryo-EM), specimen preparation still remains a challenge. During sample preparation, macromolecules interact with the air-water interface, which often leads to detrimental effects such as denaturation or adoption of preferred orientations, ultimately hindering structure determination. Randomly biotinylating the protein of interest (for example, at its primary amines) and then tethering it to a cryo-EM grid coated with two-dimensional crystals of streptavidin (acting as an affinity surface) can prevent the protein from interacting with the air-water interface. Recently, this approach was successfully used to solve a high-resolution structure of a test sample, a bacterial ribosome. However, whether this method can be used for samples where interaction with the air-water interface has been shown to be problematic remains to be determined. Here we report a 3.1Å structure of an RNA polymerase II elongation complex stalled at a cyclobutane pyrimidine dimer lesion (Pol II EC(CPD)) solved using streptavidin grids. Our previous attempt to solve this structure using conventional sample preparation methods resulted in a poor quality cryo-EM map due to Pol II EC(CPD)'s adopting a strong preferred orientation. Imaging the same sample on streptavidin grids improved the angular distribution of its view, resulting in a high-resolution structure. This work shows that streptavidin affinity grids can be used to address known challenges posed by the interaction with the air-water interface.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lahiri</LastName>
+                    <ForeName>Indrajit</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmaceutical Sciences, Skaggs School of Pharmacy &amp; Pharmaceutical Sciences, University of California San Diego, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Bong Gyoon</ForeName>
+                    <Initials>BG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory, University of California, Berkeley, CA, 94720, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Juntaek</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmaceutical Sciences, Skaggs School of Pharmacy &amp; Pharmaceutical Sciences, University of California San Diego, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Dong</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA; Division of Pharmaceutical Sciences, Skaggs School of Pharmacy &amp; Pharmaceutical Sciences, University of California San Diego, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DiMaio</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leschziner</LastName>
+                    <ForeName>Andres E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA; Division of Biological Sciences, University of California San Diego, La Jolla, CA, 92093, USA. Electronic address: aleschziner@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Struct Biol</MedlineTA>
+            <NlmUniqueID>9011206</NlmUniqueID>
+            <ISSNLinking>1047-8477</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200019</ArticleId>
+            <ArticleId IdType="pii">S1047-8477(19)30133-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jsb.2019.06.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

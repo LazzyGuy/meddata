@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199851</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A population health approach in education to support children's early development: A Critical Interpretive Synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0218403</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0218403</ELocationID>
+            <Abstract>
+                <AbstractText>The primary objective of this review is to investigate what is currently known about early childhood education planning, population health models and their relation to children's development. A systematic review using the Critical Interpretive Synthesis method was undertaken, guided by a preliminary research question, &quot;How can a population heath approach be applied to educational planning to support children's early development?&quot; which acted as a compass and guide throughout the process. The initial search yielded 20,122 results, of which 42 were included in the review. Four synthetic constructs emerged (1) Elements of population health models exist within communities and can help improve outcomes for more children, (2) Inter-disciplinary collaboration and partnerships possess unique opportunities to influence children's development, (3) Children's development can be influenced at a variety of levels, and (4) System change requires a range of drivers and supports. Within education, there are several models which are used to improve outcomes for children and families. Although a population health approach to planning does not explicitly exist, the results from this review indicate that it would indeed be plausible to adapt the population health approach to sites and schools, and that doing so would be advantageous for children's development. However, implementing such an approach requires more than desire for change and demands system changes and supports. A protocol for the review was published on the International Prospective Register of Systematic Reviews (PROSPERO), registration number CRD42018098835 on 31st July 2018.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Ashleigh L</ForeName>
+                    <Initials>AL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2216-3025</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Telethon Kids Institute, University of Western Australia, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine and Public Health, Flinders University, Bedford Park, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jovanovic</LastName>
+                    <ForeName>Jessie M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Education, Psychology and Social Work, Flinders University, Bedford Park, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harman-Smith</LastName>
+                    <ForeName>Yasmin E</ForeName>
+                    <Initials>YE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Telethon Kids Institute, University of Western Australia, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine and Public Health, Flinders University, Bedford Park, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199851</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0218403</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-04894</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,155 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198994</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3468</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FEBS letters</Title>
+                <ISOAbbreviation>FEBS Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure-Based Control of the Rate Limitation of Photosynthetic Electron Transport.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/1873-3468.13484</ELocationID>
+            <Abstract>
+                <AbstractText>The 2.5 Å structure of the cytochrome b<sub>6</sub> f complex provides a basis for control of the rate-limiting electron transfer step of oxygenic photosynthesis associated with the plastoquinol/quinone exchange pathway. Here, a structural change was made at a site containing two proline residues which border the intra-cytochrome pathway for plastoquinol/quinone exchange. The proline side chains confer a larger aperture for passage of plastoquinol/quinone. Change of these prolines to alanine in the cyanobacterium Synechococcus sp. PCC 7002 results in attenuation of this rate-limiting step, observed by a two-fold reduction in the rate of cell growth, O<sub>2</sub> evolution, and plastoquinol-mediated reduction of cytochrome f. This study demonstrates modification by site-directed mutagenesis of photosynthetic energy transduction based on rational application of information in the atomic structure. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ness</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biological Sciences, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naurin</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biological Sciences, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Effinger</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stadnytskyi</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Chemical Physics, NIDDK/NIH, Bethesda, MD, 20892.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ibrahim</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puthiyaveetil</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cramer</LastName>
+                    <ForeName>W A</ForeName>
+                    <Initials>WA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biological Sciences, Purdue University, West Lafayette, IN, 47907.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS Lett</MedlineTA>
+            <NlmUniqueID>0155157</NlmUniqueID>
+            <ISSNLinking>0014-5793</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Crystal Structure</Keyword>
+            <Keyword MajorTopicYN="N">Cytochrome</Keyword>
+            <Keyword MajorTopicYN="N">Electron Transfer</Keyword>
+            <Keyword MajorTopicYN="N">Photosynthesis</Keyword>
+            <Keyword MajorTopicYN="N">Plastoquinone</Keyword>
+            <Keyword MajorTopicYN="N">Rate Limitation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198994</ArticleId>
+            <ArticleId IdType="doi">10.1002/1873-3468.13484</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

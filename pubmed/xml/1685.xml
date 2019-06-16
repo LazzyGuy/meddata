@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198479</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1918-1523</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pain research &amp; management</Title>
+                <ISOAbbreviation>Pain Res Manag</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characteristics of Chronic Pain among Head and Neck Cancer Patients Treated with Radiation Therapy: A Retrospective Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9675654</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/9675654</ELocationID>
+            <Abstract>
+                <AbstractText>Pain is common among patients with head and neck cancer (HNC). However, there are very limited data on chronic pain among HNC patients treated with radiation therapy (XRT). In this retrospective study, we focused on the characteristics of chronic post-XRT pain in such patients. Post-XRT pain is common among HNC patients; however, we found discrepancy between frequency of treatment and frequency of chronic pain, suggesting poor documentation of pain in the medical records. Among patients who reported to have chronic post-XRT pain, most of them described having severe pain and used descriptors of neuropathic pain. Pharynx was the commonest site of cancer as well as the commonest site of cancer-related chronic pain; squamous cell carcinoma was the most frequent histological pattern, and opioids were used most often to treat such chronic pain. There was a significant association between chronic pain and number of sites of pain, and chronic pain was also associated with use of opioids.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kallurkar</LastName>
+                    <ForeName>Anusha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Louisiana State University Health Sciences Center at Shreveport, Shreveport, LA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulkarni</LastName>
+                    <ForeName>Shreedhar</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">0000-0002-9521-8461</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medicine/Psychiatry, Department of Medicine, SIU School of Medicine, Springfield, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delfino</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, SIU School of Medicine, Springfield, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferraro</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Radiologists, Memorial Medical Center, Springfield, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Krishna</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">0000-0002-1788-264X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology/Oncology, Simmons Cancer Institute at SIU School of Medicine, Springfield, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pain Res Manag</MedlineTA>
+            <NlmUniqueID>9612504</NlmUniqueID>
+            <ISSNLinking>1203-6765</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198479</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/9675654</ArticleId>
+            <ArticleId IdType="pmc">PMC6526547</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

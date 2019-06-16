@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200410</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-2084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia laboratornaia diagnostika</Title>
+                <ISOAbbreviation>Klin. Lab. Diagn.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Methodical aspects of antimicrobial susceptibility testing of Salmonella (review of literature).]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>368-375</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18821/0869-2084-2019-6-368-375</ELocationID>
+            <Abstract>
+                <AbstractText>Salmonella is one of the leading food-borne infection pathogen: annually in the Russian Federation about 50 thousand cases of salmonellosis are registered. Antimicrobial therapy is necessary in the case of severe infection in children under 6 years and persons over 50 years, in patients with severe accompanying disease, as well as in the case of generalization of the infection. Beta-lactam antibiotics, quinolones and azithromycin are included in the list of drugs recommended for antimicrobial therapy of salmonellosis, including typhoid fever. The effectiveness of therapy largely depends on the appropriate antimicrobial susceptibility testing: the choice of testing method, indicator antibiotics and result interpretation. Salmonella belong to the Enterobacteriacae family and are characterized by common mechanisms of resistance to quinolones and beta-lactams, but antimicrobial susceptibility testing of Salmonella to these groups of antibiotics has a number of features. The article presents current data on the susceptibility of Salmonella, including S. Typhi, to antibiotics and leading clinically significant resistance mechanisms. The methodical aspects of Salmonella antimicrobial susceptibility testing of the drugs used for the treatment of salmonellosis (quinolones, beta-lactams and azithromycin) are described in detail. Interpretation of Salmonella testing results according the modern international and Russian recommendations are presented. The authors propose the algorithms for Salmonella antimicrobial susceptibility testing of quinolones, cephalosporins and carbapenems, as well as criteria for result interpretation, allowing the detection of clinically significant mechanisms of resistance to beta-lactams (production of beta-lactamases of different molecular classes) and quinolones (chromosomal mutations and acquired resistance genes).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Egorova</LastName>
+                    <ForeName>S A</ForeName>
+                    <Initials>SA</Initials>
+                    <Identifier Source="ORCID">0000-0002-7589-0234</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Saint-Petersburg Pasteur Institute, 197101, Saint-Petersburg, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaftyreva</LastName>
+                    <ForeName>L A</ForeName>
+                    <Initials>LA</Initials>
+                    <Identifier Source="ORCID">0000-0003-0989-1404</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Saint-Petersburg Pasteur Institute, 197101, Saint-Petersburg, Russia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Educational Institution of the Higher Professional Education «North-Western state medical University n.a. I.I. Mechnikov» of the Ministry of Health of the Russian Federation, 191015, saint-Petersburg, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Lab Diagn</MedlineTA>
+            <NlmUniqueID>9432021</NlmUniqueID>
+            <ISSNLinking>0869-2084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ESBL</Keyword>
+            <Keyword MajorTopicYN="N">Salmonella</Keyword>
+            <Keyword MajorTopicYN="N">antimicrobial susceptibility</Keyword>
+            <Keyword MajorTopicYN="N">carbapenemase</Keyword>
+            <Keyword MajorTopicYN="N">quinolones</Keyword>
+            <Keyword MajorTopicYN="N">resistance</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200410</ArticleId>
+            <ArticleId IdType="doi">10.18821/0869-2084-2019-6-368-375</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199839</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Defining genotype-phenotype relationships in patients with hypertrophic cardiomyopathy using cardiovascular magnetic resonance imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217612</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217612</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">HCM is the most common inherited cardiomyopathy. Historically, there has been poor correlation between genotype and phenotype. However, CMR has the potential to more accurately assess disease phenotype. We characterized phenotype with CMR in a cohort of patients with confirmed HCM and high prevalence of genetic testing.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with a diagnosis of HCM, who had undergone contrast-enhanced CMR were identified. Left ventricular mass index (LVMI) and volumes were measured from steady-state free precession sequences. Late gadolinium enhancement (LGE) was quantified using the full width, half maximum method. All patients were prospectively followed for the development of septal reduction therapy, arrhythmia or death.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included 273 patients, mean age 51.2 ± 15.5, 62.9% male. Of those patients 202 (74.0%) underwent genetic testing with 90 pathogenic, likely pathogenic, or rare variants and 13 variants of uncertain significance identified. Median follow-up was 1138 days. Mean LVMI was 82.7 ± 30.6 and 145 patients had late gadolinium enhancement (LGE). Patients with beta-myosin heavy chain (MYH7) mutations had higher LV ejection fraction (68.8 vs 59.1, p&lt;0.001) than those with cardiac myosin binding protein C (MYBPC3) mutations. Patients with MYBPC3 mutations were more likely to have LVEF &lt; 55% (29.7% vs 4.9%, p = 0.005) or receive a defibrillator than those with MYH7 mutations (54.1% vs 26.8%, p = 0.020).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We found that patients with MYBPC3 mutations were more likely to have impaired ventricular function and may be more prone to arrhythmic events. Larger studies using CMR phenotyping may be capable of identifying additional characteristics associated with less frequent genetic causes of HCM.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Robert J H</ForeName>
+                    <Initials>RJH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4676-2433</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heidary</LastName>
+                    <ForeName>Shahriar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pavlovic</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Inherited Cardiovascular Disease, Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schlachter</LastName>
+                    <ForeName>Audrey</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Inherited Cardiovascular Disease, Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dash</LastName>
+                    <ForeName>Rajesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleischmann</LastName>
+                    <ForeName>Dominik</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashley</LastName>
+                    <ForeName>Euan A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Inherited Cardiovascular Disease, Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wheeler</LastName>
+                    <ForeName>Matthew T</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Inherited Cardiovascular Disease, Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Phillip C</ForeName>
+                    <Initials>PC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have read the journal's policy and the authors of this manuscript have the following competing interests: RJHM is supported by the Arthur J E Child fellowship grant. GE Healthcare provides equipment research support to PCY, SH. AP was supported by the Breetwor Foundation. AS was supported by a research grant to EAA from MyoKardia. EAA is a consultant and receives researching funding with Myokardia. MTW has ownership interest and is a stockholder in Personalis and has ownership interest, research funding and consulting with MyoKardia. There are no patents, products in development or marketed products associated with this research to declare. This does not alter our adherence to PLOS ONE policies on sharing data and materials.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199839</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217612</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-06302</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

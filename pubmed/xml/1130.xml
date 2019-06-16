@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199183</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-7448</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunotherapy</Title>
+                <ISOAbbreviation>Immunotherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nivolumab in disadvantaged subgroups of metastatic non-small-cell lung cancer patients: a single-institution experience.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/imt-2019-0029</ELocationID>
+            <Abstract>
+                <AbstractText><b>Aim:</b> Immunotherapy opened new frontiers in metastatic non-small-cell lung cancer treatment, but not all patients benefit from it. <b>Methods:</b> We retrospectively evaluated 65 metastatic non-small-cell lung cancer patients, treated with nivolumab, considering as disadvantaged subgroups those with poor performance status, elderly, patients with brain metastases at baseline, with high disease burden and refractory to platinum. <b>Results:</b> No differences in overall survival or time to treatment failure were found according to performance status, age, presence of brain metastases at baseline or high disease burden. Conversely, patients refractory to platinum had a statistically significant shorter overall survival and time to treatment failure. At multivariate analysis only platinum resistance was confirmed as an independent predictive factor. <b>Conclusion:</b> Our study suggests that only refractoriness to platinum salts influence the efficacy of nivolumab.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rossi</LastName>
+                    <ForeName>Sabrina</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8853-0775</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology &amp; Hematology, Humanitas Clinical &amp; Research Center, Rozzano (MI), Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Finocchiaro</LastName>
+                    <ForeName>Giovanna</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology &amp; Hematology, Humanitas Clinical &amp; Research Center, Rozzano (MI), Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toschi</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology &amp; Hematology, Humanitas Clinical &amp; Research Center, Rozzano (MI), Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santoro</LastName>
+                    <ForeName>Armando</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology &amp; Hematology, Humanitas Clinical &amp; Research Center, Rozzano (MI), Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunotherapy</MedlineTA>
+            <NlmUniqueID>101485158</NlmUniqueID>
+            <ISSNLinking>1750-743X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">NSCLC</Keyword>
+            <Keyword MajorTopicYN="N">brain metastases</Keyword>
+            <Keyword MajorTopicYN="N">disease burden</Keyword>
+            <Keyword MajorTopicYN="N">nivolumab</Keyword>
+            <Keyword MajorTopicYN="N">platinum resistance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199183</ArticleId>
+            <ArticleId IdType="doi">10.2217/imt-2019-0029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

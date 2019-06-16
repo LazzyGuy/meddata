@@ -1,0 +1,185 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198408</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1475-2867</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer cell international</Title>
+                <ISOAbbreviation>Cancer Cell Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Harmine suppresses hyper-activated Ras-MAPK pathway by selectively targeting oncogenic mutated Ras/Raf in <i>Caenorhabditis elegans</i>.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>159</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12935-019-0880-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Mutationally activated Ras proteins are closely linked to a wide variety of human cancers. Hence, there has been an intensive search for anti-Ras therapies for cancer treatment. The sole Ras gene, which encodes LET-60, in <i>Caenorhabditis elegans</i> regulates vulval development. While the loss of <i>let</i>-<i>60</i> function leads to failure of vulva formation, the <i>let</i>-<i>60</i>(<i>n1046gf</i>) allele, which contains a missense mutation mimicking a Ras codon 13 mutation found in human cancers, results in extra vulval tissue, a phenotype named Muv (multiple vulvas).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">By taking advantage of the easy-to-score Muv phenotype of <i>let</i>-<i>60</i>(<i>n1046gf</i>), we used a step-by-step screening approach (from crude extract to active fraction to active natural compound) to search for inhibitors of oncogenic Ras. Mutants of other key components in the Ras-mitogen-activated protein kinase (MAPK) pathway were used to identify other candidate targets.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The natural compound harmine, isolated from the plant <i>Peganum harmala</i>, was found to suppress the Muv phenotype of <i>let</i>-<i>60</i>(<i>n1046gf</i>). In addition, harmine targets the hyper-activation of the Ras/MAPK pathway specifically caused by overexpression or mutated forms of LET-60/Ras and its immediate downstream molecule LIN-45/Raf. Finally, harmine can be absorbed into the worm body and probably functions in its native form, rather than requiring metabolic activation.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">In sum, we have revealed for the first time the anti-Ras activity of harmine in a <i>C. elegans</i> model system. Our results revealed the potential anti-cancer mechanism of harmine, which may be useful for the treatment of specific human cancers that are associated with oncogenic Ras mutations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Jiaojiao</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Yuan</LastName>
+                    <ForeName>Jiang</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Xiaoyu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Ruifang</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quan</LastName>
+                    <ForeName>Qinghua</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Mei</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2State Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000000119573309</Identifier>
+                        <Identifier Source="GRID">grid.9227.e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xia</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2State Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000000119573309</Identifier>
+                        <Identifier Source="GRID">grid.9227.e</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yonggang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Beijing University of Chinese Medicine, Beijing, China.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1431 9176</Identifier>
+                        <Identifier Source="GRID">grid.24695.3c</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cancer Cell Int</MedlineTA>
+            <NlmUniqueID>101139795</NlmUniqueID>
+            <ISSNLinking>1475-2867</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C. elegans</Keyword>
+            <Keyword MajorTopicYN="N">Harmine</Keyword>
+            <Keyword MajorTopicYN="N">LET-60/Ras</Keyword>
+            <Keyword MajorTopicYN="N">LIN-45/Raf</Keyword>
+            <Keyword MajorTopicYN="N">MAPK pathway</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198408</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12935-019-0880-4</ArticleId>
+            <ArticleId IdType="pii">880</ArticleId>
+            <ArticleId IdType="pmc">PMC6558680</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

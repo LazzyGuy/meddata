@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199543</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2486</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Global change biology</Title>
+                <ISOAbbreviation>Glob Chang Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Terrestrial Gross Primary Production: Using NIR<sub>V</sub> to Scale from Site to Globe.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/gcb.14729</ELocationID>
+            <Abstract>
+                <AbstractText>Terrestrial photosynthesis is the largest and one of the most uncertain fluxes in the global carbon cycle. We find that NIR<sub>V</sub> , a remotely sensed measure of canopy structure, accurately predicts photosynthesis at FLUXNET validation sites at monthly to annual timescales (R<sup>2</sup> = 0.68), without the need for difficult to acquire information about environmental factors that constrain photosynthesis at short timescales. Scaling the relationship between GPP and NIR<sub>V</sub> from FLUXNET eddy covariance sites, we estimate global annual terrestrial photosynthesis to be 147 Pg C y<sup>-1</sup> (95% credible interval 131-163 Pg C y<sup>-1</sup> ), which falls between bottom-up GPP estimates and the top-down global constraint on GPP from oxygen isotopes. NIR<sub>V</sub> -derived estimates of GPP are systematically higher than existing bottom-up estimates, especially throughout the mid-latitudes. Progress in improving estimated GPP from NIR<sub>V</sub> can come from improved cloud-screening in satellite data and increased resolution of vegetation characteristics, especially photosynthetic pathway. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Badgley</LastName>
+                    <ForeName>Grayson</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Ecology, Carnegie Institution for Science, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Earth System Science, Stanford University, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderegg</LastName>
+                    <ForeName>Leander D L</ForeName>
+                    <Initials>LDL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Ecology, Carnegie Institution for Science, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of California, Berkeley, CA, 94720.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berry</LastName>
+                    <ForeName>Joseph A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Ecology, Carnegie Institution for Science, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Field</LastName>
+                    <ForeName>Christopher B</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Earth System Science, Stanford University, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Woods Institute for the Environment, Stanford University, Stanford, CA, 94305.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Glob Chang Biol</MedlineTA>
+            <NlmUniqueID>9888746</NlmUniqueID>
+            <ISSNLinking>1354-1013</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199543</ArticleId>
+            <ArticleId IdType="doi">10.1111/gcb.14729</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

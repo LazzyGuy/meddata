@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199996</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0295</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Regulatory toxicology and pharmacology : RTP</Title>
+                <ISOAbbreviation>Regul. Toxicol. Pharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Investigation of number of replicate measurements required to meet cigarette smoke chemistry regulatory requirements measured under Canadian intense smoking conditions.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0273-2300(19)30155-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yrtph.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>There has been increased interest in recent years in regulatory reporting of cigarette smoke toxicants. There is a great deal of diversity in current regulatory standards around the world in terms of the identities of regulated toxicants, and the number of replicate analyses stipulated for their measurement. Furthermore, analytical methods developed collaboratively by several organisations and intended for regulatory analysis generally differ in their recommended replicate numbers to those stipulated by regulators. In view of these inconsistencies, we undertook an exercise to examine the most appropriate numbers of replicates required for regulatory analysis of cigarette smoke toxicants. A one-point-in-time sampling exercise was undertaken of the German cigarette market, with 161 brands sampled and analysed in a single laboratory using Canadian Intense smoking conditions. Seven replicate measurements were made for each analyte and product, other than nicotine, CO and nicotine-free dry particulate matter for which eight replicate measurements were made. After confirming the absence of order of analysis effects, a variety of statistical tests (such as group assessment, paired comparisons, linear regression models and ratio analysis) were conducted examining mean values, SDs and CVs to identify the role of numbers of analytical replicates on data quality. The statistical analysis showed no difference in mean values for any of the 18 toxicants irrespective of replicate numbers (between 3 and 7-8). The large majority of analytes showed no difference in data variability with replicate number; but some very small differences (much lower than within product variability) were observed for a minority of compounds. Similarly, paired analysis showed no significant differences between mean values obtained using different replicate numbers in most cases, apart from very low differences (&lt;5%) for a small number. Linear regression analysis showed correlations around 96-98% (other than crotonaldehyde at 91%) between values obtained with 3 vs 7 replicates. Similarly, per product mean value ratio analysis showed 95% consistency between values obtained with 3 and 7 replicates. We therefore conclude that three replicates is sufficient for precise determination of cigarette mainstream smoke toxicant emissions, and that use of 7 replicates as stipulated in some regulator jurisdictions does not offer any greater accuracy or precision.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eldridge</LastName>
+                    <ForeName>Alison</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Group Research and Development, British American Tobacco, Regents Park Road, Milbrook, Southampton, SO15 8TL, UK. Electronic address: Alison_Eldridge@bat.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Betson</LastName>
+                    <ForeName>Tatiana</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Group Research and Development, British American Tobacco, Regents Park Road, Milbrook, Southampton, SO15 8TL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gama</LastName>
+                    <ForeName>Marcos Vinicius</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Group Research and Development, British American Tobacco, Regents Park Road, Milbrook, Southampton, SO15 8TL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Errington</LastName>
+                    <ForeName>Graham</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Group Research and Development, British American Tobacco, Regents Park Road, Milbrook, Southampton, SO15 8TL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McAdam</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>McAdam Scientific Ltd., 50 Leigh Road, Eastleigh, SO50 9DT, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Regul Toxicol Pharmacol</MedlineTA>
+            <NlmUniqueID>8214983</NlmUniqueID>
+            <ISSNLinking>0273-2300</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Analytical replicate numbers</Keyword>
+            <Keyword MajorTopicYN="N">Cigarette smoke</Keyword>
+            <Keyword MajorTopicYN="N">Regulation</Keyword>
+            <Keyword MajorTopicYN="N">Toxicants</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199996</ArticleId>
+            <ArticleId IdType="pii">S0273-2300(19)30155-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yrtph.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199797</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7358</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS computational biology</Title>
+                <ISOAbbreviation>PLoS Comput. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1007129</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pcbi.1007129</ELocationID>
+            <Abstract>
+                <AbstractText>Identification of drug-target interactions (DTIs) plays a key role in drug discovery. The high cost and labor-intensive nature of in vitro and in vivo experiments have highlighted the importance of in silico-based DTI prediction approaches. In several computational models, conventional protein descriptors have been shown to not be sufficiently informative to predict accurate DTIs. Thus, in this study, we propose a deep learning based DTI prediction model capturing local residue patterns of proteins participating in DTIs. When we employ a convolutional neural network (CNN) on raw protein sequences, we perform convolution on various lengths of amino acids subsequences to capture local residue patterns of generalized protein classes. We train our model with large-scale DTI information and demonstrate the performance of the proposed model using an independent dataset that is not seen during the training phase. As a result, our model performs better than previous protein descriptor-based models. Also, our model performs better than the recently developed deep learning models for massive prediction of DTIs. By examining pooled convolution results, we confirmed that our model can detect binding sites of proteins for DTIs. In conclusion, our prediction model for detecting local residue patterns of target proteins successfully enriches the protein features of a raw protein sequence, yielding better prediction results than previous approaches. Our code is available at https://github.com/GIST-CSBL/DeepConv-DTI.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ingoo</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8958-2945</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Buk-ku, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keum</LastName>
+                    <ForeName>Jongsoo</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Buk-ku, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nam</LastName>
+                    <ForeName>Hojung</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5109-9114</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Buk-ku, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Comput Biol</MedlineTA>
+            <NlmUniqueID>101238922</NlmUniqueID>
+            <ISSNLinking>1553-734X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>No authors have competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199797</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1007129</ArticleId>
+            <ArticleId IdType="pii">PCOMPBIOL-D-18-01686</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

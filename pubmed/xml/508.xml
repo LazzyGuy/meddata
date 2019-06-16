@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199882</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aromatic ring dynamics, thermal activation and transient conformations of a 468 kDa enzyme by specific labeling and fast-MAS NMR.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b04219</ELocationID>
+            <Abstract>
+                <AbstractText>Aromatic residues are located at structurally important sites of many proteins. Probing their interactions and dynamics can provide important functional insight but is challenging in large proteins. Here, we introduce approaches to characterize dynamics of phenylalanine residues using 1H-detected fast magic-angle spinning (MAS) NMR combined with a tailored isotope-labeling scheme. Our approach provides isolated two-spin systems that are ideally suited for artefact-free dynamics measurements, and allows probing motions effectively without molecular-weight limitations. The application to the TET2 enzyme assembly of ~0.5 MDa size, the currently largest protein assigned by MAS NMR, provided insights into motions occurring on a wide range of time scales (ps-ms). We quantitatively probe ring flip motions, and show the temperature dependence by MAS NMR measurements down to 100 K. Interestingly, favorable line widths are observed down to 100 K, with potential implications for DNP NMR. Furthermore, we report the first 13C R1 MAS NMR relaxation-dispersion measurements and detect structural excursions occurring on a microsecond time scale in the entry pore to the catalytic chamber and at a trimer interface that was proposed as exit pore. We show that the labeling scheme with deuteration at ca. 50 kHz MAS provides superior resolution compared to 100 kHz MAS experiments with protonated, uniformly 13C-labeled samples.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gauto</LastName>
+                    <ForeName>Diego F</ForeName>
+                    <Initials>DF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macek</LastName>
+                    <ForeName>Pavel</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barducci</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fraga</LastName>
+                    <ForeName>Hugo</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hessel</LastName>
+                    <ForeName>Audrey</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terauchi</LastName>
+                    <ForeName>Tsutomu</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gajan</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyanoiri</LastName>
+                    <ForeName>Yohei</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boisbouvier</LastName>
+                    <ForeName>Jerome</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lichtenecker</LastName>
+                    <ForeName>Roman Josef</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kainosho</LastName>
+                    <ForeName>Masatsune</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schanda</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199882</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b04219</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

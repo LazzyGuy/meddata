@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200120</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-3460</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>305</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of food microbiology</Title>
+                <ISOAbbreviation>Int. J. Food Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantitative proteomic profiling of ochratoxin A repression in Penicillium nordicum by protective cultures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>108243</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0168-1605(19)30156-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijfoodmicro.2019.108243</ELocationID>
+            <Abstract>
+                <AbstractText>Dry-cured meat products are usually contaminated with moulds during ripening. Although fungal development contributes to the desired sensory characteristics, some moulds, such as Penicillium nordicum are able to produce ochratoxin A (OTA) on meat products. Therefore, strategies to prevent OTA contamination in ripened meat products are required. Microorganisms isolated from these meat products can be adequate as biocontrol agents, given that no negative sensory impact is expected. The PgAFP antifungal protein-producer Penicillium chrysogenum (Pc) and Debaryomyces hansenii (Dh) have been shown to successfully inhibit toxigenic moulds. However, scarce information about the mechanism of action of these biocontrol agents on toxigenic mould inhibition is available. Comparative proteomic analysis is a powerful tool to investigate the physiological response of microorganisms to stimuli. Proteomic analysis was carried out on P. nordicum co-cultured with Pc, Dh, PgAFP, and their combinations on a dry-cured ham-based medium. Additionally, OTA production by P. nordicum in the different cultures was measured. The individual inoculation of Pc or Dh repressed OTA production by P. nordicum by 5 and 3.15 fold, respectively. A total of 2844 unique P. nordicum proteins were identified by proteomic analysis. The impact of the biocontrol agents on the proteome of P. nordicum was higher for Pc-containing cultures, followed by Dh-containing treatments. PgAFP alone had minimal impact on the proteome of P. nordicum. Proteomic analyses indicated Pc repressed P. nordicum OTA production through nutrient competition, potentially reducing glucose availability. Data also suggest that Dh and Pc inhibited P. nordicum through cell wall integrity impairment. Both Pc and Dh seem to hamper P. nordicum secondary metabolism (SM) as indicated by lower levels of MAP kinases and SM-associated proteins found in the co-inoculated P. nordicum. This work paves the way to use antifungal agents in the most efficient way to prevent OTA formation in meat products.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Delgado</LastName>
+                    <ForeName>Josué</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Food Hygiene and Safety, Institute of Meat and Meat Products, University of Extremadura, 10003 Cáceres, Spain. Electronic address: jdperon@unex.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Núñez</LastName>
+                    <ForeName>Félix</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Food Hygiene and Safety, Institute of Meat and Meat Products, University of Extremadura, 10003 Cáceres, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asensio</LastName>
+                    <ForeName>Miguel A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Food Hygiene and Safety, Institute of Meat and Meat Products, University of Extremadura, 10003 Cáceres, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Owens</LastName>
+                    <ForeName>Rebecca A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Maynooth University, Maynooth, Co. Kildare, Ireland. Electronic address: rebecca.owens@mu.ie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Food Microbiol</MedlineTA>
+            <NlmUniqueID>8412849</NlmUniqueID>
+            <ISSNLinking>0168-1605</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Debaryomyces hansenii</Keyword>
+            <Keyword MajorTopicYN="N">Ochratoxin</Keyword>
+            <Keyword MajorTopicYN="N">Penicillium chrysogenum</Keyword>
+            <Keyword MajorTopicYN="N">PgAFP</Keyword>
+            <Keyword MajorTopicYN="N">Protective cultures</Keyword>
+            <Keyword MajorTopicYN="N">Proteomics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200120</ArticleId>
+            <ArticleId IdType="pii">S0168-1605(19)30156-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijfoodmicro.2019.108243</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

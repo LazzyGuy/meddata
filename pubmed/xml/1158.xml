@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199150</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6992</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nano letters</Title>
+                <ISOAbbreviation>Nano Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Explaining the Unusual Photoluminescence of Semiconductor Nanocrystals Doped Via Cation Exchange.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.nanolett.9b02284</ELocationID>
+            <Abstract>
+                <AbstractText>Aliovalent doping of CdSe nanocrystals (NCs) via cation exchange processes has resulted in interesting and novel observations for the optical and electronic properties of the NCs. However, despite over a decade of study, these observations have largely gone unexplained, partially due to an inability to precisely characterize the physical properties of the doped NCs. Here, electrostatic force microscopy was used to determine the static charge on individual, cation-doped CdSe NCs in order to investigate their net charge as a function of added cations. While the NC charge was relatively insensitive to the relative amount of doped cation per NC, there was a remarkable and unexpected correlation between the average NC charge and PL intensity, for all dopant cations introduced. We conclude that the changes in PL intensity, as tracked also by changes in NC charge, are likely a consequence of changes in the NC radiative rate caused by symmetry breaking of the electronic states of the nominally spherical NC due to the Coulombic potential introduced by ionized cations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Freyer</LastName>
+                    <ForeName>Abigail</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sercel</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Zhentao</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savitzky</LastName>
+                    <ForeName>Benjamin H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kourkoutis</LastName>
+                    <ForeName>Lena F</ForeName>
+                    <Initials>LF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Efros</LastName>
+                    <ForeName>Alexander Lev</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krauss</LastName>
+                    <ForeName>Todd D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nano Lett</MedlineTA>
+            <NlmUniqueID>101088070</NlmUniqueID>
+            <ISSNLinking>1530-6984</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199150</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.nanolett.9b02284</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

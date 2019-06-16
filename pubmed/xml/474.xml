@@ -1,0 +1,211 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199921</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-2191</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of pathology</Title>
+                <ISOAbbreviation>Am. J. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dynamic Regulation of Caveolin-1 Phosphorylation and Caveolae Formation by mTORC2 in Bladder Cancer Cells.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0002-9440(19)30079-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajpath.2019.05.010</ELocationID>
+            <Abstract>
+                <AbstractText>The mammalian target of rapamycin and associated PI3K/AKT/mammalian target of rapamycin (mTOR) signaling pathway is commonly up-regulated in cancer, including bladder cancer. The mammalian target of rapamycin complex 2 (mTORC2) is a major regulator of bladder cancer cell migration and invasion, but the mechanisms by which mTORC2 regulates these processes are unclear. A discovery mass-spectrometry (MS) and reverse-phase protein array (RPPA)-based proteomics dual approach was used to identify novel mTORC2 phosphoprotein targets in actively invading cancer cells. mTORC2 targets included focal adhesion kinase, proto-oncogene tyrosine-protein kinase Src, and caveolin-1 (Cav-1), among others. Functional testing shows that mTORC2 regulates Cav-1 localization and dynamic phosphorylation of Cav-1 on Y14. Regulation of Cav-1 activity by mTORC2 also alters the abundance of caveolae, which are specialized lipid raft invaginations of the plasma membrane associated with cell signaling and membrane compartmentalization. Our results demonstrate a unique role for mTORC2-mediated regulation of caveolae formation in actively migrating cancer cells.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hau</LastName>
+                    <ForeName>Andrew M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Sounak</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leivo</LastName>
+                    <ForeName>Mariah Z</ForeName>
+                    <Initials>MZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakashima</LastName>
+                    <ForeName>Kazufumi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macias</LastName>
+                    <ForeName>Jesus</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Weidong</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Proteomics and Personalized Medicine, George Mason University, Manassas, VA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodge</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Proteomics and Personalized Medicine, George Mason University, Manassas, VA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wulfkuhle</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Proteomics and Personalized Medicine, George Mason University, Manassas, VA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conkright</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Innovation Center for Biomedical Informatics (ICBI), Georgetown University, Washington, DC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhuvaneshwar</LastName>
+                    <ForeName>Krithika</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Innovation Center for Biomedical Informatics (ICBI), Georgetown University, Washington, DC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Shruti</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Innovation Center for Biomedical Informatics (ICBI), Georgetown University, Washington, DC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madhavan</LastName>
+                    <ForeName>Subha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Innovation Center for Biomedical Informatics (ICBI), Georgetown University, Washington, DC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petricoin</LastName>
+                    <ForeName>Emanuel F</ForeName>
+                    <Initials>EF</Initials>
+                    <Suffix>3rd</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Proteomics and Personalized Medicine, George Mason University, Manassas, VA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansel</LastName>
+                    <ForeName>Donna E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of California, San Diego, La Jolla, CA, USA. Electronic address: dhansel@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Pathol</MedlineTA>
+            <NlmUniqueID>0370502</NlmUniqueID>
+            <ISSNLinking>0002-9440</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199921</ArticleId>
+            <ArticleId IdType="pii">S0002-9440(19)30079-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ajpath.2019.05.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

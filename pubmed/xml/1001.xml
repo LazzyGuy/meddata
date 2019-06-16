@@ -1,0 +1,158 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199328</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Use of Smart Devices by Care Providers in Emergency Departments: Cross-Sectional Survey Design.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13614</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13614</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The use of smart devices (SDs) by health care providers in care settings is a common practice nowadays. Such use includes apps related to patient care and often extends to personal calls and applications with frequent prompts and interruptions. These prompts and interruptions enhance the risk of distractions caused by SDs and raise concerns about service quality and patient safety. Such concerns are exacerbated in complex care settings such as the emergency department (ED).</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to measure the frequency and patterns of SD use among health care providers in the ED of a large academic health center in Lebanon. The perceived consequences of care providers using SDs on provider-to-provider communication and the care quality of patients in the ED were assessed. Additionally, factors associated with the use of SDs and the approval for regulating such use were also investigated.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study was carried out at the ED of an academic health center with the highest volume of patient visits in Lebanon. The data were collected using a cross-sectional electronic survey sent to all ED health care providers (N=236). The target population included core ED faculty members, attending physicians, residents, medical students, and the nursing care providers. The regression model developed in this study was used to find predictors of medical errors in the ED because of the use of SDs.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Half of the target population responded to the questionnaire. A total of 83 of 97 respondents (86%) used one or more medical applications on their SDs. 71 out of 87 respondents (82%) believed that using SDs in the ED improved the coordination among the care team, and 71 out of 90 (79%) respondents believed that it was beneficial to patient care. In addition, 37 out of 90 respondents (41%) acknowledged that they were distracted when using their SDs for nonwork purposes. 51 out of 93 respondents (55%) witnessed a colleague committing a near miss or an error owing to the SD-caused distractions. Regression analysis revealed that age (P=.04) and missing information owing to the use of SDs (P=.02) were major predictors of committing an error in the ED. Interestingly, more than 40% of the respondents were significantly addicted to using SDs and more than one-third felt the need to cut down their use.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The findings of this study make it imperative to ensure the safety and wellbeing of patients, especially in high intensity, high volume departments like the ED. Irrespective of the positive role SDs play in the health care process, the negative effects of their use mandate proper regulation, in particular, an ethical mandate that takes into consideration the significant consequences that the use of SDs may have on care processes and outcomes.</AbstractText>
+                <CopyrightInformation>©Mohamad Alameddine, Hussein Soueidan, Maha Makki, Hani Tamim, Eveline Hitti. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 05.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alameddine</LastName>
+                    <ForeName>Mohamad</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2299-1242</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>American University of Beirut, Faculty of Health Sciences, Department of Health Management and Policy, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soueidan</LastName>
+                    <ForeName>Hussein</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6635-116X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>American University of Beirut, Evidence Based Health Management Unit, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makki</LastName>
+                    <ForeName>Maha</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4559-0457</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>American University of Beirut, Faculty of Medicine, Department of Emergency Medicine, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamim</LastName>
+                    <ForeName>Hani</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2019-4362</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>American University of Beirut, Faculty of Medicine, Department of Internal Medicine, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hitti</LastName>
+                    <ForeName>Eveline</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9619-6092</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>American University of Beirut, Faculty of Medicine, Department of Emergency Medicine, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">emergency departments</Keyword>
+            <Keyword MajorTopicYN="N">health personnel</Keyword>
+            <Keyword MajorTopicYN="N">healthcare quality</Keyword>
+            <Keyword MajorTopicYN="N">policy</Keyword>
+            <Keyword MajorTopicYN="N">smart phones</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199328</ArticleId>
+            <ArticleId IdType="pii">v7i6e13614</ArticleId>
+            <ArticleId IdType="doi">10.2196/13614</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199960</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9319</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microvascular research</Title>
+                <ISOAbbreviation>Microvasc. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Superoxide and NADPH oxidase do not modulate skin blood flow in older exercising adults with and without type 2 diabetes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103886</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0026-2862(19)30080-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mvr.2019.103886</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">High aerobic fitness may prevent age-related decrements in cutaneous vasodilation while type 2 diabetes may exacerbate this decline. The mechanisms underlying these responses remain unclear, but may be due to an excess of reactive oxygen species. We hypothesized that superoxide scavenging or NADPH oxidase inhibition would improve cutaneous vasodilation in older adults exercising in the heat, particularly in healthy low-fit individuals and those with type 2 diabetes.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Twenty seven older adults were evenly separated into three groups (healthy low-fit: VO<sub>2peak</sub> = 24.4 ± 2.4 ml·kg<sup>-1</sup>·min<sup>-1</sup>, 61 ± 8 years; healthy high-fit: 42.5 ± 9.7 ml·kg<sup>-1</sup>·min<sup>-1</sup>, 56 ± 6 years; type 2 diabetes: 30.0 ± 7.6, ml·kg<sup>-1</sup>·min<sup>-1</sup>, 58 ± 7 years). The healthy low-fit and type 2 diabetes groups performed two successive 30-min cycling bouts at 65%VO<sub>2peak</sub> in the heat (35°C), separated by 30-min rest. The high-fit group cycled at the same absolute heat load (and therefore requirement for heat loss) as their healthy low-fit counterparts during the first exercise bout (Ex1) and at the same relative intensity (65%VO<sub>2peak</sub>) during the second (Ex2). Forearm cutaneous vascular conductance (CVC<sub>%max</sub>) was measured at microdialysis sites perfused with: 1) lactated Ringer's solution (control); 2) 10 mM N<sup>G</sup>-nitro-L-arginine-methyl-ester (L-NAME, nitric oxide synthase inhibitor); 3) 100 μM apocynin (NADPH oxidase inhibitor); 4) 10 μM tempol (superoxide dismutase mimetic), with responses compared at baseline, end-Ex1, and end-Ex2.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In all groups, L-NAME consistently reduced CVC<sub>%max</sub> relative to the other treatment sites by ~16-21% during Ex1 and by ~22-27% during Ex2 (all P &lt; 0.05). Conversely, superoxide scavenging and NADPH oxidase inhibition did not influence CVC<sub>%max</sub> (all P &gt; 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Superoxide and NADPH oxidase do not modulate cutaneous vasodilation in healthy low- or high-fit older adults exercising in the heat, regardless of aerobic fitness level or relative exercise intensity employed, nor do they influence cutaneous vasodilation during an exercise-heat stress in those with type 2 diabetes. However, NOS remains an important modulator of cutaneous vasodilation during exercise in all groups.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McGarr</LastName>
+                    <ForeName>Gregory W</ForeName>
+                    <Initials>GW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujii</LastName>
+                    <ForeName>Naoto</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada; Faculty of Health and Sport Sciences, University of Tsukuba, Tsukuba City, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McNeely</LastName>
+                    <ForeName>Brendan D</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatam</LastName>
+                    <ForeName>Kion</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishiyasu</LastName>
+                    <ForeName>Takeshi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health and Sport Sciences, University of Tsukuba, Tsukuba City, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sigal</LastName>
+                    <ForeName>Ronald J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada; Departments of Medicine, Cardiac Sciences and Community Health Sciences, Faculties of Medicine and Kinesiology, University of Calgary, Calgary, Alberta, Canada; Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boulay</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Physical Activity Sciences, University of Sherbrooke, Sherbrooke, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kenny</LastName>
+                    <ForeName>Glen P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human and Environmental Physiology Research Unit, School of Human Kinetics, University of Ottawa, Ottawa, Ontario, Canada; Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada. Electronic address: gkenny@uottawa.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microvasc Res</MedlineTA>
+            <NlmUniqueID>0165035</NlmUniqueID>
+            <ISSNLinking>0026-2862</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aging</Keyword>
+            <Keyword MajorTopicYN="N">Apocynin</Keyword>
+            <Keyword MajorTopicYN="N">Microcirculation</Keyword>
+            <Keyword MajorTopicYN="N">Reactive oxygen species</Keyword>
+            <Keyword MajorTopicYN="N">Skin blood flow</Keyword>
+            <Keyword MajorTopicYN="N">Tempol</Keyword>
+            <Keyword MajorTopicYN="N">Thermoregulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199960</ArticleId>
+            <ArticleId IdType="pii">S0026-2862(19)30080-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mvr.2019.103886</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

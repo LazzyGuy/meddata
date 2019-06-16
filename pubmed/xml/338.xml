@@ -1,0 +1,129 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200067</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9572</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>NeuroImage</Title>
+                <ISOAbbreviation>Neuroimage</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Success, but not failure feedback guides learning during neurofeedback: An ERP study.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1053-8119(19)30486-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroimage.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Neurofeedback is a promising self-regulation technique used to modify specific targeted brain patterns. During neurofeedback, target brain activity is monitored in real time and fed back to the subject in a chosen format (e.g. visual stimulus). To date, we do not know how success and failure feedback are processed during neurofeedback learning. Here we analysed the event related potentials (ERPs) in response to success and failure feedback during a single neurofeedback session in two experiments. Participants in experiment 1 (n = 127) took part in one of the three neurofeedback conditions: RLA: trained to increase alpha power on the right frontal in relation to the left; LRA: the reverse of the RLA; FPA: trained to increase alpha power on the mid-frontal in relation to the mid-parietal region. In experiment 2 (n = 45), participants took part in a similar session but one group received random feedback whereas the other received valid feedback to increase right frontal alpha power. We analysed the feedback related negativity (FRN), correct positivity (CP), and P3a and P3b in response to success and failure feedback. We observed stronger FRN and CP in response to success compared to failure feedback. Additionally, the P3a in response to success feedback was higher in epochs preceded by subsequent good adjustments. Our findings indicate that people respond more strongly to success than failure feedback and that the P3a might mediate the encoding of the reinforced patterns in the brain.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zioga</LastName>
+                    <ForeName>Ioanna</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biological and Chemical Sciences, Queen Mary, University of London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hassan</LastName>
+                    <ForeName>Rawan</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biological and Chemical Sciences, Queen Mary, University of London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luft</LastName>
+                    <ForeName>Caroline Di Bernardi</ForeName>
+                    <Initials>CDB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biological and Chemical Sciences, Queen Mary, University of London, United Kingdom. Electronic address: c.luft@qmul.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroimage</MedlineTA>
+            <NlmUniqueID>9215515</NlmUniqueID>
+            <ISSNLinking>1053-8119</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ERP</Keyword>
+            <Keyword MajorTopicYN="N">FRN</Keyword>
+            <Keyword MajorTopicYN="N">Feedback</Keyword>
+            <Keyword MajorTopicYN="N">Learning</Keyword>
+            <Keyword MajorTopicYN="N">Neurofeedback</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200067</ArticleId>
+            <ArticleId IdType="pii">S1053-8119(19)30486-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroimage.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199288</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2148-5607</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Turkish journal of gastroenterology : the official journal of Turkish Society of Gastroenterology</Title>
+                <ISOAbbreviation>Turk J Gastroenterol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>NSAID, antiaggregant, and/or anticoagulant-related upper gastrointestinal bleeding: Is there any change in prophylaxis rate after a 10-year period?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>505-510</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5152/tjg.2019.19057</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND/AIMS" NlmCategory="OBJECTIVE">Using proton-pump inhibitor (PPI) is a protective option for patients who require long-term non-steroidal anti-inflammatory drugs (NSAIDs) and antiaggregants. In our previous study, the rate of PPI use in prophylaxis was found to be 2%. Here we aimed to investigate whether there is a change in PPI use in prophylaxis in a similar patient group after 10 years.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">The patients who followed up with upper gastrointestinal (GI) bleeding diagnosis between January 01, 2016 and December 31, 2017 were retrospectively evaluated. Patients who had malignancy or variceal hemorrhage were excluded. Ninety-six patients, who had taken NSAIDs, antiaggregants, or anticoagulants that were considered as the possible cause of bleeding, were included in the study. Risk groups for NSAID GI toxicity and PPI use rates in these patients were evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty (21%) of all patients with upper GI bleeding were using PPI. According to the pre-bleeding risk factor assessment, 86% of the patients were found to have moderate to high risk for NSAID-related GI bleeding, and 81% of these patients were not using PPI. PPI prophylaxis was not provided to 15 (75%) of the 20 patients with previous history of peptic ulcer bleeding.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite many studies and recommendations on risk factors and prophylaxis for NSAID-related bleeding, prophylactic PPI use is still largely ignored by physicians. The rate of PPI use in the patient group of this study was found still quite insufficient.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dinçer</LastName>
+                    <ForeName>Dinç</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Akdeniz University School of Medicine, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ulukal Karancı</LastName>
+                    <ForeName>Ece</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Akdeniz University School of Medicine, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akın</LastName>
+                    <ForeName>Mete</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Akdeniz University School of Medicine, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adanır</LastName>
+                    <ForeName>Haydar</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Akdeniz University School of Medicine, Antalya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Turkey</Country>
+            <MedlineTA>Turk J Gastroenterol</MedlineTA>
+            <NlmUniqueID>9515841</NlmUniqueID>
+            <ISSNLinking>1300-4948</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199288</ArticleId>
+            <ArticleId IdType="doi">10.5152/tjg.10.5152/tjg.2019.19057</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

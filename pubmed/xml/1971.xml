@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198146</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Predictive value of myoglobin and D-dimer on severe heat stroke: a clinical analysis of 38 patients with severe heat stroke].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>594-597</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.014</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the clinical characteristics and early sensitive indicators of severe heat stroke patients in order to predict the development of severe heat stroke in the early stage.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty-eight patients with severe heat stroke admitted to emergency department of Beijing Daxing District People's Hospital from July 30th to August 5th in 2018 were enrolled. There were 18 patients suffered from exertional heat stroke (EHS), and 12 patients suffered from classical heat stroke (CHS), and 8 patients with heat spasm and heat exhaustion were selected as control group. The gender, age, onset time, body temperature, heart rate (HR), lactic acid (Lac), platelet (PLT), alanine aminotransferase (ALT), alanine aminotransferase (AST), blood urea nitrogen (BUN), serum creatinine (SCr), serum sodium at admission of hospital, as well as positive rate of myoglobin (MYO) and D-dimer (the positive threshold of MYO and D-dimer was 107 μg/L and 600 μg/L respectively) were recorded and compared among the groups. Receiver operating characteristic (ROC) curve was plotted to analyze the prognostic value of MYO and D-dimer on heat stroke. The outcome of all patients was followed up, and the 28-day mortality between EHS and CHS patients was compared. The patient's body temperature was measured again after 4 hours of active cooling treatment (T<sub>4 h</sub>), and the relationship between T<sub>4 h</sub> and 28-day mortality was discussed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The majority of severe heat stroke patients were male, especially in EHS patients. EHS patients were younger than CHS ones, and had shorter onset time, with significant differences among the groups. The body temperature and HR at admission in the EHS group and the CHS group were significantly higher than those in the control group [body temperature (centigrade): 41.34±0.67, 40.39±0.58 vs. 37.80±1.39; HR (bpm): 139.78±15.63, 113.08±17.70 vs. 92.00±15.89, all P &lt; 0.05], PLT was significantly lowered (×10<sup>9</sup>/L: 164.94±73.80, 165.78±53.49 vs. 249.50±84.22, both P &lt; 0.05), and the positive rates of MYO and D-dimer were also significantly increased [MYO positive rate: 100.0% (18/18), 100.0% (12/12) vs. 50.0% (4/8); D-dimer positive rate: 77.8% (14/18), 100.0% (12/12) vs. 12.5% (1/8), all P &lt; 0.05]. ROC curve analysis showed that positive MYO and D-dimer at admission had certain diagnostic value for heat stroke, the area under ROC curve (AUC) was 0.750 and 0.871, the sensitivity was 50.0% and 87.5%, and the specificity was 100% and 86.7%, respectively. The 28-day mortality of the EHS group was significantly higher than that of the CHS group [44.4% (8/18) vs. 8.3% (1/12), P &lt; 0.05]. Furthermore, the 28-day mortality of the patients with T<sub>4 h</sub> ≥ 38 centigrade in the EHS group was significantly higher than those with T<sub>4 h</sub> &lt; 38 centigrade [70.0% (7/10) vs. 12.5% (1/8), P &lt; 0.05].</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The decreased PLT and the increased D-dimer in the early stage of heat stroke indicate that the damage of coagulation mechanism is prominent in patients with heat stroke. EHS patients have the characteristics of acute onset, severe condition, rapid progression and poor prognosis, and the 28-day mortality is significantly higher than that of CHS patients. MYO and D-dimer are sensitive indicators in early stage of heat stroke patients, which can be used as reference for early diagnosis of heat stroke.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Qingyu</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Beijing Daxing District People's Hospital, Beijing 102600, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chunsheng</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Beijing Friendship Hospital Affiliated to Capital Medical University, Beijing 100050, China. Corresponding author: Li Chunsheng, Email: lcscyyy@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198146</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

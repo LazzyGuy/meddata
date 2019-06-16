@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198923</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-6848</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Soft matter</Title>
+                <ISOAbbreviation>Soft Matter</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Illumination-induced motion of a Janus nanoparticle in binary solvents.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9sm00509a</ELocationID>
+            <Abstract>
+                <AbstractText>Using a fluid particle dynamics method we numerically investigate the motion of a spherical Janus particle suspended in a binary liquid mixture, which emerges under heating of one-half of a colloid surface. The method treats simultaneously the flow of the solvent and the motion of the particle, hence, the velocity of the particle can be computed directly. Our approach accounts for a phenomenon of critical adsorption, therefore, a particle that is adsorptionwise nonneutral is always completely covered by an adsorption layer (droplet). In order to establish the mechanism of self-propulsion, we study systematically various combinations of adsorption preference on both hemispheres of the Janus colloid as function of the heating power for symmetric and nonsymmetric binary solvents and for various particle sizes in three spatial dimensions. Only for a particle for which the heated hemisphere is neutral whereas the other hemisphere prefers one of the two components of the mixture does the reversal of the direction of motion occur. The particle self-propels much faster in nonsymmetric binary solvents. Self-propulsion originates from a gradient of mechanical stress, in a way similar to the Marangoni effect. This stress is not localized at the edge but distributed within the whole droplet. We compare our findings with the experimental observations and other theoretical results.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Araki</LastName>
+                    <ForeName>Takeaki</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9749-6097</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Kyoto University, Kyoto 606-8502, Japan. araki@scphys.kyoto-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maciołek</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2371-4183</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physical Chemistry, Polish Academy of Sciences, Kasprzaka 44/52, PL-01-224 Warsaw, Poland. amaciolek@ichf.edu.pl and Max-Planck-Institut für Intelligente Systeme, Heisenbergstr. 3, D-70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Soft Matter</MedlineTA>
+            <NlmUniqueID>101295070</NlmUniqueID>
+            <ISSNLinking>1744-683X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198923</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9sm00509a</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

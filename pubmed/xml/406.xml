@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199995</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3476</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of pharmaceutics</Title>
+                <ISOAbbreviation>Int J Pharm</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Versatile electrostatically assembled polymeric siRNA nanovectors: can they overcome the limits of siRNA tumor delivery?</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-5173(19)30466-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijpharm.2019.06.023</ELocationID>
+            <Abstract>
+                <AbstractText>The application of small interfering RNA (siRNA) cancer therapeutics is limited by several extra- and intracellular barriers including the presence of ribonucleases that degrade siRNA, the premature clearance, the impermeability of the cell membrane, or the difficulty to escape endo-lysosomal degradation. Therefore, several delivery systems have emerged to overcome these limitations and to successfully deliver siRNA to the tumor site. This review is focused on polymer-based siRNA nanovectors which exploit the negative charge of siRNA, representing a major challenge for siRNA delivery, to their advantage by loading siRNA via electrostatic assembly. These nanovectors are easy to prepare and to adapt for an optimal gene silencing efficiency. The ability of electrostatically assembled polymeric siRNA nanovectors (EPSN) to improve the half-life of siRNA, to favor the specificity of the delivery and the accumulation in tumor and to enhance the cellular uptake and endosomal escape for an efficient siRNA delivery will be discussed. Finally, the influence of the versatility of the structure of these nanovectors on the protein down-regulation will be evaluated.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Djemaa</LastName>
+                    <ForeName>S Ben</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, EA6295 Nanomédicaments et Nanosondes, 31 Avenue Monge, 37200 Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munnier</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, EA6295 Nanomédicaments et Nanosondes, 31 Avenue Monge, 37200 Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chourpa</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, EA6295 Nanomédicaments et Nanosondes, 31 Avenue Monge, 37200 Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allard-Vannier</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, EA6295 Nanomédicaments et Nanosondes, 31 Avenue Monge, 37200 Tours, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>David</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Tours, EA6295 Nanomédicaments et Nanosondes, 31 Avenue Monge, 37200 Tours, France. Electronic address: stephanie.david@univ-tours.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Pharm</MedlineTA>
+            <NlmUniqueID>7804127</NlmUniqueID>
+            <ISSNLinking>0378-5173</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">electrostatically assembled polymeric siRNA nanovectors (EPSN)</Keyword>
+            <Keyword MajorTopicYN="N">intracellular trafficking</Keyword>
+            <Keyword MajorTopicYN="N">nanovector design</Keyword>
+            <Keyword MajorTopicYN="N">protein down-regulation</Keyword>
+            <Keyword MajorTopicYN="N">siRNA delivery</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199995</ArticleId>
+            <ArticleId IdType="pii">S0378-5173(19)30466-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijpharm.2019.06.023</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

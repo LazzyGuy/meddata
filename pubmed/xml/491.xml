@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199901</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1611</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect physiology</Title>
+                <ISOAbbreviation>J. Insect Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of disruption of the peritrophic membrane on larval susceptibility to Bt toxin Cry1Ac in cabbage loopers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103897</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-1910(19)30160-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jinsphys.2019.103897</ELocationID>
+            <Abstract>
+                <AbstractText>The insect midgut peritrophic membrane (or peritrophic matrix) (PM) is an extracellular structure, lining the midgut epithelium. The PM facilitates the food digestion process and plays important roles in insect-microbe interactions as a barrier against microbial pathogens. The soil bacterium, Bacillus thuringiensis (Bt), and its proteinaceous toxins are widely used for insect control. To understand the protective role of PM in insects against Bt toxins, the effect of PM on larval susceptibility to Bt toxin Cry1Ac was examined in Cry1Ac-susceptible and -resistant strains of the cabbage looper, Trichoplusia ni. The PM in T. ni was disrupted, using a baculovirus enhancin (TnGV enhancin) to degrade the major PM mucin protein IIM and a chitin binding chemical, Calcofluor, to inhibit the binding of PM proteins to chitin. Bioassays of the susceptibility of T. ni larvae to Cry1Ac with treatment of TnGV enhancin showed significantly increased larval mortality in both the Cry1Ac susceptible and resistant strains, confirming that the PM is a protective barrier to the passage of Cry1Ac and plays a protective role against the toxin. However, treatment of T. ni larvae with Calcofluor significantly reduced the larval susceptibility to Cry1Ac. The level of mortality reduction by treatment with Calcofluor was more significant in the resistant T. ni strains than in the susceptible strain. The mechanism for the decrease of susceptibility to Cry1Ac in T. ni treated with Calcofluor needs to be understood. It may result from binding of the toxin to the over expressed PM proteins, preventing the Cry1Ac from reaching the midgut receptor for the toxin or from potential binding of Calcofluor to the midgut receptor for Cry1Ac, leading to inhibition of the toxicity of Cry1Ac in larvae.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Cornell University, Geneva, NY 14456, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kain</LastName>
+                    <ForeName>Wendy</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Cornell University, Geneva, NY 14456, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Cornell University, Geneva, NY 14456, USA. Electronic address: pingwang@cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Insect Physiol</MedlineTA>
+            <NlmUniqueID>2985080R</NlmUniqueID>
+            <ISSNLinking>0022-1910</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bacillus thuringiensis</Keyword>
+            <Keyword MajorTopicYN="N">Calcofluor</Keyword>
+            <Keyword MajorTopicYN="N">Cry1Ac</Keyword>
+            <Keyword MajorTopicYN="N">Trichoplusia ni</Keyword>
+            <Keyword MajorTopicYN="N">enhancin</Keyword>
+            <Keyword MajorTopicYN="N">peritrophic membrane</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199901</ArticleId>
+            <ArticleId IdType="pii">S0022-1910(19)30160-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jinsphys.2019.103897</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

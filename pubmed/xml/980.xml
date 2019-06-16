@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199349</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-2501</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of invasive cardiology</Title>
+                <ISOAbbreviation>J Invasive Cardiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intact and Isolated Human Cadaveric Coronary Artery Perfusion Models to Facilitate Research and Education Regarding Coronary Anatomy and Pathology.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">JIC2019615-2</ELocationID>
+            <Abstract>
+                <AbstractText>Cadaveric tissue-perfusion models are well established in the fields of structural heart and peripheral vascular disease; however, less consideration has been given toward coronary artery disease despite comparable prevalence and morbidity. Two tissue-perfusion models were developed to address this need. The first, an intact heart model, allows simulation of percutaneous coronary interventional procedures. The second focuses upon isolated arteries, allowing quantification of simulated procedures. Both models were applied for clinical training and for investigations into medical device behavior. The manner of preparation facilitates access to clinically relevant disease, thus providing a platform to further research on coronary artery disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Petersen</LastName>
+                    <ForeName>John L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levin</LastName>
+                    <ForeName>Dmitry B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Vivian W</ForeName>
+                    <Initials>VW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagen</LastName>
+                    <ForeName>Carol V</ForeName>
+                    <Initials>CV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderson</LastName>
+                    <ForeName>Grant</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Block</LastName>
+                    <ForeName>Joanie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reisman</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Washington, 1959 NE Pacific Street, Box 356422, Seattle, WA 98195 USA. reismanm@uw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Invasive Cardiol</MedlineTA>
+            <NlmUniqueID>8917477</NlmUniqueID>
+            <ISSNLinking>1042-3931</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="N">cadaveric heart</Keyword>
+            <Keyword MajorTopicYN="N">coronary artery</Keyword>
+            <Keyword MajorTopicYN="N">medical simulation</Keyword>
+            <Keyword MajorTopicYN="N">perfusion model</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199349</ArticleId>
+            <ArticleId IdType="pii">JIC2019615-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

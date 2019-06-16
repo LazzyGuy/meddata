@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199701</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-8682</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>High altitude medicine &amp; biology</Title>
+                <ISOAbbreviation>High Alt. Med. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of Altitude on Elite Biathlon Performances.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/ham.2019.0008</ELocationID>
+            <Abstract>
+                <AbstractText>Lunghi, Alex, Franck Brocherie, and Grégoire P. Millet. Influence of altitude on elite biathlon performances. <i>High Alt Med Biol</i> 00:000-000, 2019.-Biathlon is a complex sport subjected to large performance variability. Among the environmental conditions (e.g., temperature, wind, snow conditions) susceptible to influence performance, altitude is likely a detrimental factor for skiing (i.e., due to decreased aerobic capacity) as well as for prone and/or-to a larger extent-standing shooting (i.e., due to altered postural control and increased ventilation) performances. The aim of the present study was therefore to analyze the influence of altitude on elite biathlon performance. The analysis comprised data extracted from the International Biathlon Union (IBU) website and included IBU World Cup, IBU Cup, IBU World Championships, and Olympic Winter Games events over 8 years from season 2009-2010 to 2016-2017. The research included sprint, individual, mass start, and pursuit competitions for both men and women (no relays). The event sites were divided into three different altitude ranges: &lt;700, 700-1400, and &gt;1400 m. Only the Top-30 of each race were recorded for both men and women, separately, and analyzed for skiing speed, prone, and standing shooting performances. The results show a detrimental effect of altitude (i.e., ∼3.0% between &lt;700 and &gt;1400 m) on shooting performance that was similar for men and women but without any statistical difference between prone and standing positions. Due to many other confounding factors not analyzed here (snow quality, course profile), the effect of altitude on skiing speed was unclear. Overall, as expected, elite biathlon performances are altered, even within the range of moderate altitudes of the IBU competitions (&lt;1800 m).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lunghi</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ISSUL, Institute of Sport Sciences, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brocherie</LastName>
+                    <ForeName>Franck</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Laboratory Sport, Expertise and Performance (EA7370), Research Department, French Institute of Sport, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Millet</LastName>
+                    <ForeName>Grégoire P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ISSUL, Institute of Sport Sciences, Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>High Alt Med Biol</MedlineTA>
+            <NlmUniqueID>100901183</NlmUniqueID>
+            <ISSNLinking>1527-0297</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">altitude</Keyword>
+            <Keyword MajorTopicYN="N">biathlon</Keyword>
+            <Keyword MajorTopicYN="N">hypoxia</Keyword>
+            <Keyword MajorTopicYN="N">shooting</Keyword>
+            <Keyword MajorTopicYN="N">skiing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199701</ArticleId>
+            <ArticleId IdType="doi">10.1089/ham.2019.0008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

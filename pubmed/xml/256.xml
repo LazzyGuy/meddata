@@ -1,0 +1,158 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200150</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2213-1582</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>NeuroImage. Clinical</Title>
+                <ISOAbbreviation>Neuroimage Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diffusion tensor imaging reveals changes in microstructural integrity along compressed nerve roots that correlate with chronic pain symptoms and motor deficiencies in elderly stenosis patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101880</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2213-1582(19)30230-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nicl.2019.101880</ELocationID>
+            <Abstract>
+                <AbstractText>Age-related degenerative changes in the lumbar spine frequently result in nerve root compression causing severe pain and disability. Given the increasing incidence of lumbar spinal disorders in the aging population and the discrepancies between the use of current diagnostic imaging tools and clinical symptoms, novel methods of nerve root assessment are needed. We investigated elderly patients with stenosis at L4-L5 or L5-S1 levels. Diffusion tensor imaging (DTI) was used to quantify microstructure in compressed L5 nerve roots and investigate relationships to clinical symptoms and motor neurophysiology. DTI metrics (i.e. FA, MD, AD and RD) were measured at proximal, mid and distal segments along compressed (i.e. L5) and intact (i.e. L4 or S1) nerve roots. FA was significantly reduced in compressed nerve roots and MD, AD and RD were significantly elevated in the most proximal segment of the nerve root studied. FA was significantly correlated with electrophysiological measures of root function: minimum F-wave latency and peripheral motor conduction time (PMCT). In addition, FA along the compressed root also correlated with leg pain and depression score. There was also a relationship between RD and anxiety, leg pain and disability score and AD correlated with depression score. Taken together, these data show that DTI metrics are sensitive to nerve root compression in patients with stenosis as a result of age-related lumbar degeneration. Critically, they show that the changes in microstructural integrity along compressed L5 nerve roots are closely related to a number of clinical symptoms associated with the development of chronic pain as well as neurophysiological assessments of motor function. These inherent relationships between nerve root damage and phenotype suggest that the use DTI is a promising method as a way to stratify treatment selection and predict outcomes.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hughes</LastName>
+                    <ForeName>S W</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Nick Davey Laboratory, Division of Surgery, Imperial College London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hellyer</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Division of Brain Sciences, Imperial College London, London, UK; Department of Bioengineering, Imperial College London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharp</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Division of Brain Sciences, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newbould</LastName>
+                    <ForeName>R D</ForeName>
+                    <Initials>RD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imanova, Ltd, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>M C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Department, Imperial College Healthcare NHS Trust, Charing Cross Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strutton</LastName>
+                    <ForeName>P H</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Nick Davey Laboratory, Division of Surgery, Imperial College London, UK. Electronic address: p.strutton@imperial.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Neuroimage Clin</MedlineTA>
+            <NlmUniqueID>101597070</NlmUniqueID>
+            <ISSNLinking>2213-1582</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Age</Keyword>
+            <Keyword MajorTopicYN="N">DTI</Keyword>
+            <Keyword MajorTopicYN="N">Entrapment</Keyword>
+            <Keyword MajorTopicYN="N">Neuropathic pain</Keyword>
+            <Keyword MajorTopicYN="N">Neurophysiology</Keyword>
+            <Keyword MajorTopicYN="N">Spinal nerve</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200150</ArticleId>
+            <ArticleId IdType="pii">S2213-1582(19)30230-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nicl.2019.101880</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,107 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198311</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0974-777X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of global infectious diseases</Title>
+                <ISOAbbreviation>J Glob Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Prospective Study on Impact of Early Initiation of Antiretroviral Therapy in Human Immunodeficiency Virus-Positive Adults on Immunological Status and Adverse Events.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>73-79</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/jgid.jgid_160_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Antiretroviral therapy (ART) is a lifelong commitment for human immunodeficiency virus infection (HIV)-positive patients. The patients may develop early adverse drug reactions (ADRs) during the first 3 months of treatment, especially when they have advanced HIV disease with low CD4 counts.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">The present study was a prospective observational study that took place from January 2017 to July 2017 at ART center, Government Medical College, Amritsar, Punjab, India. The primary objective of the study was to evaluate ADRs to ART and immunological status in HIV-positive patients. The patients received ART regimens as per the National AIDS Control Organization guidelines. The sample included both ART-naïve and ART-experienced HIV-positive patients. The causality of reported ADRs assessed according to the World Health Organization guidelines. The study was conducted after taking approval from the Institutional Ethics Committee, Government Medical College, Amritsar, and informed consent from the patients. Data were analyzed statistically using Chi-square test, and <i>P</i> &lt; 0.05 was considered statistically significant.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Out of total 350 patients screened during study period, 84 patients reported with confirmed ADRs. The most widely used treatment regimen was tenofovir + lamivudine + efavirenz (59.52%). Central nervous system (19.05%)-, renal (14.29%)-, and immune reconstitution inflammatory syndrome (14.29%)-related ADRs were mostly reported. The causality assessment revealed insignificant <i>P</i> value (Chi-square = 8.656 and <i>P</i> = 0.07), with 19.05% probable and 80.95% possible ADRs.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The CD4 count &lt;200/μl at the initiation of ART and treatment duration &lt;1 year proved to be predictors for ADRs. Early initiation of ART in HIV-positive patients can improve immunological status and decrease in the incidence of ADRs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Vikas</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Government Medical College, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Jatinder</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Government Medical College, Amritsar, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Glob Infect Dis</MedlineTA>
+            <NlmUniqueID>101521436</NlmUniqueID>
+            <ISSNLinking>0974-777X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adverse drug reactions</Keyword>
+            <Keyword MajorTopicYN="N">CD4 counts</Keyword>
+            <Keyword MajorTopicYN="N">World Health Organization causality assessment</Keyword>
+            <Keyword MajorTopicYN="N">antiretroviral therapy</Keyword>
+            <Keyword MajorTopicYN="N">human immunodeficiency virus</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198311</ArticleId>
+            <ArticleId IdType="doi">10.4103/jgid.jgid_160_18</ArticleId>
+            <ArticleId IdType="pii">JGID-11-73</ArticleId>
+            <ArticleId IdType="pmc">PMC6555229</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

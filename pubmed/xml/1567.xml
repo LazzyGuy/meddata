@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198644</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Systematic review and meta-analysis of 50 years of coral disease research visualized through the scope of network theory.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7041</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7041</ELocationID>
+            <Abstract>
+                <AbstractText>Coral disease research encompasses five decades of undeniable progress. Since the first descriptions of anomalous signs, we have come to understand multiple processes and environmental drivers that interact with coral pathologies. In order to gain a better insight into the knowledge we already have, we explored how key topics in coral disease research have been related to each other using network analysis. We reviewed 719 papers and conference proceedings published from 1965 to 2017. From each study, four elements determined our network nodes: (1) studied disease(s); (2) host genus; (3) marine ecoregion(s) associated with the study site; and (4) research objectives. Basic properties of this network confirmed that there is a set of specific topics comprising the majority of research. The top five diseases, genera, and ecoregions studied accounted for over 48% of the research effort in all cases. The community structure analysis identified 15 clusters of topics with different degrees of overlap among them. These clusters represent the typical sets of elements that appear together for a given study. Our results show that while some coral diseases have been studied considering multiple aspects, the overall trend is for most diseases to be understood under a limited range of approaches, e.g., bacterial assemblages have been considerably studied in Yellow and Black band diseases while immune response has been better examined for the aspergillosis-<i>Gorgonia</i> system. Thus, our challenge in the near future is to identify and resolve potential gaps in order to achieve a more comprehensive progress on coral disease research.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Montilla</LastName>
+                    <ForeName>Luis M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Simón Bolívar, Caracas, Venezuela.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ascanio</LastName>
+                    <ForeName>Alfredo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Simón Bolívar, Caracas, Venezuela.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verde</LastName>
+                    <ForeName>Alejandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Simón Bolívar, Caracas, Venezuela.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Croquer</LastName>
+                    <ForeName>Aldo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Simón Bolívar, Caracas, Venezuela.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Community structure</Keyword>
+            <Keyword MajorTopicYN="N">Coral disease</Keyword>
+            <Keyword MajorTopicYN="N">Network analysis</Keyword>
+            <Keyword MajorTopicYN="N">Research trends</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198644</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7041</ArticleId>
+            <ArticleId IdType="pii">7041</ArticleId>
+            <ArticleId IdType="pmc">PMC6555395</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199228</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-5034</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of systematic and evolutionary microbiology</Title>
+                <ISOAbbreviation>Int. J. Syst. Evol. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sandaracinomonas limnophila gen. nov., sp. nov., a new member of the family Cytophagaceae isolated from a freshwater mesocosm.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/ijsem.0.003532</ELocationID>
+            <Abstract>
+                <AbstractText>A bacterial strain designated FSY-15<sup>T</sup> was isolated from a freshwater mesocosm in Taiwan and characterised using a polyphasic taxonomic approach. Cells of strain FSY-15<sup>T</sup> were Gram-negative, aerobic, non-spore forming, non-motile rods and formed orange coloured colonies. Growth occurred at 20-30 °C (optimum, 25 °C), at pH 6-7.5 (optimum, pH 7) and with 0-0.5 % NaCl (optimum, 0 %). Phylogenetic analyses based on 16S rRNA gene sequences and coding sequences of 92 protein clusters indicated that strain FSY-15<sup>T</sup> formed a phylogenetic lineage in the the family Cytophagaceae. Strain FSY-15<sup>T</sup> was most closely related to the genera Pseudarcicella and Arcicella, and the levels of 16S rRNA gene sequence identity with respect to members of related genera are less than 94.1 %. Strain FSY-15<sup>T</sup> showed less than 68.8 % average nucleotide identity and less than 24.7 % digital DNA-DNA hybridisation identity compared to the type strains of related genera within the family Cytophagaceae. The predominant fatty acids were iso-C15 : 0, C16 : 1ω5c and the major hydroxyl fatty acid was iso-C15 : 0 3-OH. The major isoprenoid quinone was MK-7 and the DNA G+C content was 35.8 mol%. The major polar lipids were phosphatidylethanolamine and several uncharacterised aminophospholipid, aminolipid, phospholipid and lipid. The major polyamine was spermidine. On the basis of the genotypic and phenotypic data, strain FSY-15<sup>T</sup> represents a novel species of a new genus in the family Cytophagaceae, for which the name Sandaracinomonas limnophila gen. nov., sp. nov. is proposed. The type strain is FSY-15<sup>T</sup> (=BCRC 81011<sup>T</sup> =LMG 29732<sup>T</sup> =KCTC 52445<sup>T</sup>).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Wen-Ming</ForeName>
+                    <Initials>WM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1​Laboratory of Microbiology, Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung city, Taiwan ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Cheng-Ye</ForeName>
+                    <Initials>CY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Department of Marine Biotechnology, National Kaohsiung University of Science and Technology, Kaohsiung City 811, Taiwan ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheu</LastName>
+                    <ForeName>Shih-Yi</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Department of Marine Biotechnology, National Kaohsiung University of Science and Technology, Kaohsiung City 811, Taiwan ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Syst Evol Microbiol</MedlineTA>
+            <NlmUniqueID>100899600</NlmUniqueID>
+            <ISSNLinking>1466-5026</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199228</ArticleId>
+            <ArticleId IdType="doi">10.1099/ijsem.0.003532</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

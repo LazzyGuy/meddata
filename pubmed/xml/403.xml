@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199998</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-260X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta. Molecular basis of disease</Title>
+                <ISOAbbreviation>Biochim Biophys Acta Mol Basis Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stem cell therapy in heart failure: Where do we stand today?</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0925-4439(19)30196-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbadis.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Heart failure is a global epidemic that drastically cuts short longevity and compromises quality of life. Approximately 6 million Americans ≥20 years of age carry a diagnosis of heart failure. Worldwide, about 40 million adults are affected. The treatment of HF depends on the etiology. If left untreated it rapidly progresses and compromises quality of life. One of the newer technologies still in its infancy is stem cell therapy for heart failure. This review attempts to highlight the clinical studies done in ischemic cardiomyopathy, dilated cardiomyopathy and restrictive cardiomyopathy. A combined approach of simultaneous revascularization and stem cell therapy appears to produce maximum benefit in ischemic cardiomyopathy. Treatment of dilated cardiomyopathy with stem cells also holds promise but needs more definition with regards to timing, route of cell delivery and type of cell used to achieve reproducible results. The variability noted in response to stem cell therapy in patients could also be secondary to their co-morbidities. Abnormalities of glucose metabolism and diabetes in particular impair stem cell and angiogenic cell mobilization. This opens up a whole new area of investigation into exploring the biochemical microenvironment which could influence the efficacy of stem cell therapy. This article is part of a Special Issue entitled: Stem Cells and Their Applications to Human Diseases edited by Hemachandra Reddy.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nair</LastName>
+                    <ForeName>Nandini</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiology, Department of Medicine, Texas Tech Health Sciences Center, Lubbock, TX 79430, USA. Electronic address: Nandini.nair@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gongora</LastName>
+                    <ForeName>Enrique</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiothoracic Surgery, Memorial Cardiovascular Institute, Hollywood, FL 33021, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta Mol Basis Dis</MedlineTA>
+            <NlmUniqueID>101731730</NlmUniqueID>
+            <ISSNLinking>0925-4439</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amyloidosis</Keyword>
+            <Keyword MajorTopicYN="N">Cardiomyopathy</Keyword>
+            <Keyword MajorTopicYN="N">Stem cell therapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199998</ArticleId>
+            <ArticleId IdType="pii">S0925-4439(19)30196-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbadis.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

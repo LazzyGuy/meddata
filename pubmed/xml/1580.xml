@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198631</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Plastome phylogenomics and characterization of rare genomic changes as taxonomic markers in plastome groups 1 and 2 Poeae (Pooideae; Poaceae).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6959</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6959</ELocationID>
+            <Abstract>
+                <AbstractText>A phylogenomic analysis of 42 complete plastid genomes (plastomes), including 16 that were newly sequenced, was conducted. Plastomes were sampled from 19 subtribes of Pooideae, to investigate relationships within and between Chloroplast Group 1 (Aveneae) and Group 2 (Poeae) species. Two data partitions: complete plastomes, and a combined plastome and rare genomic change (RGC) data matrix, were analyzed. Overall, 156 non-ambiguous RGC were identified, of which homology was inferred for 38 RGC. Among the 38 RGC identified, six were synapomorphic among the Group 1 subtribes: Aveninae, Agrostidinae, and Anthoxanthinae, (Phalaridinae + Torreyochloinae), and 27 were synapomorphic among the Group 2 subtribes: Loliinae, (Ammochloinae + Parapholiinae + Dactylidinae), Parapholiinae, Dactylidinae, Poinae, and Coleanthinae. Four RGC were determined to be homoplasious in Groups 1 and 2. Two other RGC originated through intrastrand deletion events. The remaining RGC events likely originated through recombination given their size and lack of sequence evidence for other types of mutations. This study also determined that relationships between taxa, even those only weakly supported in previous studies, could be inferred with strong support when utilizing complete plastomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Orton</LastName>
+                    <ForeName>Lauren M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Molecular and Bioinformatics Center, Biological Sciences, Northern Illinois University, DeKalb, IL, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Sean V</ForeName>
+                    <Initials>SV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Translational Data Science, University of Chicago, Chicago, IL, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duvall</LastName>
+                    <ForeName>Melvin R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Molecular and Bioinformatics Center, Biological Sciences, Northern Illinois University, DeKalb, IL, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chloroplast</Keyword>
+            <Keyword MajorTopicYN="N">Intrastrand deletion</Keyword>
+            <Keyword MajorTopicYN="N">Phylogenomics</Keyword>
+            <Keyword MajorTopicYN="N">Poeae</Keyword>
+            <Keyword MajorTopicYN="N">Rare genomic changes</Keyword>
+            <Keyword MajorTopicYN="N">Taxonomic markers</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198631</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6959</ArticleId>
+            <ArticleId IdType="pii">6959</ArticleId>
+            <ArticleId IdType="pmc">PMC6553444</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199698</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-7027</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Health communication</Title>
+                <ISOAbbreviation>Health Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Social Networks Approach to Understanding Vaccine Conversations on Twitter: Network Clusters, Sentiment, and Certainty in HPV Social Networks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/10410236.2019.1573446</ELocationID>
+            <Abstract>
+                <AbstractText>Individuals increasingly rely on the Internet, and social media in particular, for health-related information. A recent survey reports that 80% of Internet users search for health information online. In the present study, we employ Twitter data to understand content characteristics and the patterns of content flow of the conversations about the HPV vaccine debate. Approaching the HPV vaccine conversations on Twitter as a social network, we can identify key self-formed subgroups-clusters of users who create &quot;siloes&quot; of interactions and information flow. Combining network analysis, computer-aided content analysis, and human-coded content analysis, we explored the communication dynamics within the groups in terms of group members' affective and cognitive characteristics. Our findings show that positive emotion is positively correlated with cluster density, an indicator of strong ties and rapid information flow. In the case of negative emotion, we found that anger is a significant negative predictor for graph density. We also found a correlation between certainty and tentativeness; both at cluster as well as at tweet level, suggesting that clusters bring together people who are sure about the HPV vaccine and people who are exploring for answers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Himelboim</LastName>
+                    <ForeName>Itai</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Social media Engagement and Evaluation , Grady College of Journalism and Mass Communication.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Xizhu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Edward R. Murrow College of Communication , Washington State University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Danielle Ka Lai</ForeName>
+                    <Initials>DKL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Edward R. Murrow College of Communication , Washington State University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Meredith Y</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Mass Communication , Stephen F. Austin State University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borah</LastName>
+                    <ForeName>Porismita</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Edward R. Murrow College of Communication , Washington State University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Health Commun</MedlineTA>
+            <NlmUniqueID>8908762</NlmUniqueID>
+            <ISSNLinking>1041-0236</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199698</ArticleId>
+            <ArticleId IdType="doi">10.1080/10410236.2019.1573446</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

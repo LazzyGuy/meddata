@@ -1,0 +1,137 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200079</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1752-9867</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular plant</Title>
+                <ISOAbbreviation>Mol Plant</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Structure and Function of Major Plant Metabolite Modifications.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1674-2052(19)30201-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.molp.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>Plants produce myriad structurally and functionally diverse metabolites that play many different roles in growth and development and in response to continually changing environmental conditions and abiotic and biotic stresses. This metabolic diversity is, to a large extent, due to chemical modification of the basic skeletons of metabolites. Here, we review the major known plant metabolite modifications and summarize the progress and challenges that have been achieved in the field. We cover both technical and functional aspects focusing on the influence that various modifications have on biosynthesis, degradation, transport, and storage of metabolites, as well as their bioactivity and toxicity. Finally, emerging insight into the evolution of metabolic pathways and metabolite functionality will be described.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Shouchuang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou 572208, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alseekh</LastName>
+                    <ForeName>Saleh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, 14476, Germany; Centre of Plant Systems Biology and Biotechnology, 4000 Plovdiv, Bulgaria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernie</LastName>
+                    <ForeName>Alisdair R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, 14476, Germany; Centre of Plant Systems Biology and Biotechnology, 4000 Plovdiv, Bulgaria. Electronic address: jie.luo@hainu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou 572208, China; National Key Laboratory of Crop Genetic Improvement and National Center of Plant Gene Research (Wuhan), Huazhong Agricultural University, Wuhan 430070, China. Electronic address: jie.luo@hainu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Plant</MedlineTA>
+            <NlmUniqueID>101465514</NlmUniqueID>
+            <ISSNLinking>1674-2052</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">evolution of metabolism</Keyword>
+            <Keyword MajorTopicYN="N">genetic basis</Keyword>
+            <Keyword MajorTopicYN="N">metabolic diversity</Keyword>
+            <Keyword MajorTopicYN="N">metabolite modification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200079</ArticleId>
+            <ArticleId IdType="pii">S1674-2052(19)30201-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.molp.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

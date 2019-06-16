@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200076</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular characterization of the NK-lysin in a teleost fish, Boleophthalmus pectinirostris: Antimicrobial activity and immunomodulatory activity on monocytes/macrophages.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1050-4648(19)30668-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fsi.2019.06.021</ELocationID>
+            <Abstract>
+                <AbstractText>NK-lysin (NKL) is a cationic host defense peptide that plays an important role in host immune responses against various pathogens. However, the immunomodulatory activity of NKL in fishes is rarely investigated. In this study, we characterized a cDNA sequence encoding an NK-lysin homolog (BpNKL) from the fish, mudskipper (Boleophthalmus pectinirostris). Sequence analysis revealed that BpNKL is most closely related to tiger puffer (Takifugu rubripes) NKL. BpNKL transcript was detected in all the tested tissues, with the highest level in the gill, followed by the spleen and kidney. Upon Edwardsiella tarda infection, the mRNA expression of BpNKL in the mudskipper was significantly upregulated in the spleen, kidney, and gill. A shortened peptide derived from BpNKL, BpNKLP40, was then chemically synthesized and its biological functions were investigated. BpNKLP40 exhibited a direct antibacterial activity against some gram-negative bacteria, including E. tarda, Vibrio parahaemolyticus, Vibrio alginolyticus, and Vibrio harveyi, and induced hydrolysis of E. tarda genomic DNA. Intraperitoneal injection of 1.0 μg/g BpNKLP40 significantly improved the survival of mudskipper following E. tarda infection and reduced the bacterial burden in tissues and blood. Moreover, 1.0 μg/ml BpNKLP40 treatment had an enhanced effect on the intracellular killing of E. tarda by monocytes/macrophages (MO/MФ) as well as on the mRNA expression of pro-inflammatory cytokines in MO/MФ. In conclusion, our study reveals that BpNKL plays a role against E. tarda infection in the mudskipper by not only directly killing bacteria but also through an immunomodulatory activity on MO/MФ.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Fei-Fei</ForeName>
+                    <Initials>FF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Quality and Safety of Agro-products (in Prepared), Ningbo University, Ningbo, 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Meishan Campus, Ningbo University, Ningbo, 315832, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chang-Hong</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Quality and Safety of Agro-products (in Prepared), Ningbo University, Ningbo, 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Meishan Campus, Ningbo University, Ningbo, 315832, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jiong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Quality and Safety of Agro-products (in Prepared), Ningbo University, Ningbo, 315211, China; Laboratory of Biochemistry and Molecular Biology, School of Marine Sciences, Meishan Campus, Ningbo University, Ningbo, 315832, China; Key Laboratory of Applied Marine Biotechnology of Ministry of Education, Meishan Campus, Ningbo University, Ningbo, 315832, China. Electronic address: chenjiong@nbu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibacterial activity</Keyword>
+            <Keyword MajorTopicYN="N">Edwardsiella tarda</Keyword>
+            <Keyword MajorTopicYN="N">Monocyte/macrophage</Keyword>
+            <Keyword MajorTopicYN="N">Mudskipper</Keyword>
+            <Keyword MajorTopicYN="N">NK-Lysin</Keyword>
+            <Keyword MajorTopicYN="N">Sequence analysis</Keyword>
+            <Keyword MajorTopicYN="N">mRNA expression</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200076</ArticleId>
+            <ArticleId IdType="pii">S1050-4648(19)30668-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2019.06.021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

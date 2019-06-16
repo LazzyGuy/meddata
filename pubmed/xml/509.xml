@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199881</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1543-8392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular pharmaceutics</Title>
+                <ISOAbbreviation>Mol. Pharm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Plasma pharmacokinetics of high-affinity transferrin receptor antibody-erythropoietin fusion protein is a function of effector attenuation in mice.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.molpharmaceut.9b00369</ELocationID>
+            <Abstract>
+                <AbstractText>Erythropoietin (EPO) is a potential therapeutic for Alzheimer's disease (AD), however limited blood-brain barrier (BBB) penetration reduces its applicability as a CNS therapeutic. Antibodies against the BBB transferrin receptor (TfRMAbs) act as molecular Trojan horses for brain drug delivery, and a fusion protein of erythropoietin (EPO) and TfRMAb, designated TfRMAb-EPO, is protective in a mouse model of AD. TfRMAbs have Fc effector function side-effects, and removal of the Fc N-linked glycosylation site by substituting Asn with Gly reduces Fc effector function. However, the effect of such Fc mutations on the pharmacokinetics of plasma clearance of TfRMAb-based fusion proteins, such as TfRMAb-EPO, is unknown. To examine this, the plasma pharmacokinetics of TfRMAb-EPO (wild-type), which expresses the mouse IgG1 constant heavy chain region and includes the Asn residue at position 292, was compared to the mutant TfRMAb-N292G-EPO, in which the Asn residue at position 292 is mutated to Gly. Plasma pharmacokinetics were compared following IV, IP and SQ administration for doses between 0.3-3 mg/kg in adult male C57 mice. The results show a profound increase in clearance (6- to 8-fold) of the TfRMAb-N292G-EPO compared with the wild-type TfRMAb-EPO following IV administration. The clearance of both the wild-type and mutant TfRMAb-EPO fusion proteins followed non-linear pharmacokinetics, and a 10-fold increase in dose resulted in a 7- to 11-fold decrease in plasma clearance. Following IP and SQ administration, the Cmax values of the TfRMAb-N292G-EPO mutant were profoundly (37- to 114-fold) reduced compared with the wild-type TfRMAb-EPO, owing to comparable increases in plasma clearance of the mutant fusion protein. The wild-type TfRMAb fusion protein was associated with reticulocyte suppression, and the N292G mutation mitigated this suppression of reticulocytes. Overall, the beneficial suppression of effector function via the N292G mutation may be offset by the deleterious effect this mutation has on the plasma levels of the TfRMAb-EPO fusion protein, especially following SQ administration, which is the preferred route of administration in humans for chronic neurodegenerative diseases including AD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jiahong</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boado</LastName>
+                    <ForeName>Ruben J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pardridge</LastName>
+                    <ForeName>William M</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sumbria</LastName>
+                    <ForeName>Rachita K</ForeName>
+                    <Initials>RK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Pharm</MedlineTA>
+            <NlmUniqueID>101197791</NlmUniqueID>
+            <ISSNLinking>1543-8384</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199881</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.9b00369</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,186 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198531</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2047-2994</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial resistance and infection control</Title>
+                <ISOAbbreviation>Antimicrob Resist Infect Control</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extended-spectrum β-lactamase, plasmid-mediated AmpC β-lactamase, fluoroquinolone resistance, and decreased susceptibility to carbapenems in <i>Enterobacteriaceae</i>: fecal carriage rates and associated risk factors in the community of Northern Cyprus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>98</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13756-019-0548-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Antibiotic-resistant <i>Enterobacteriaceae</i> in the gastrointestinal flora can lead to infections with limited therapeutic options. Also, the resistant bacteria can be transferred from colonized persons to others. The present study was conducted to search the fecal carriage rates of (i) <i>Enterobacteriaceae</i> that produce extended-spectrum β-lactamase (ESBL-E) and/or (ii) plasmid-mediated AmpC β-lactamase (pAmpC-E), (iii) ciprofloxacin-resistant <i>Enterobacteriaceae</i> (CIP-RE), and (iv) carbapenem-intermediate or -resistant <i>Enterobacteriaceae</i> (CIRE) in Northern Cyprus.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A total of 500 community-dwellers were recruited from consecutive admissions to the clinical laboratories of four hospitals. One rectal swab or stool sample was collected from each participant. A questionnaire was applied to evaluate possible risk factors associated with intestinal colonization of resistant bacteria. The samples were cultured on antibiotic containing media to screen for resistant bacteria colonization. The bacterial colonies that grew on the plates were subjected to further phenotypic tests to confirm the resistance.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Of 500 volunteers, ESBL-E, pAmpC-E, CIP-RE and CIRE carriage were detected in 107 (21.4%), 15 (3.0%), 51 (10.2%) and six (1.2%) participants, respectively. <i>Escherichia coli</i> was the most commonly recovered species among <i>Enterobacteriaceae</i> isolates. A significant proportion of ESBL-producing <i>E. coli</i> isolates (<i>n</i> = 22/107; 20.6%) was found to be co-resistant to CIP (<i>p</i> = 0.000, OR 3.21, 95% CI 1.76-5.87). In this study, higher socioeconomic status (CIP-RE: <i>p</i> = 0.024, OR 1.96, 95% CI 1.09-3.53), presence of gastrointestinal symptoms (CIRE: <i>p</i> = 0.033; OR 6.79, 95% CI 1.34-34.39), antibiotic use (ESBL-E: <i>p</i> = 0.031; OR 1.67, 95% CI 1.04-2.67; and CIRE: <i>p</i> = 0.033; OR 6.40, 95% CI 1.16-35.39), and travelling abroad (pAmpC-E: <i>p</i> = 0.010; OR 4.12, 95% CI 1.45-11.66) were indentified as risk factors.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The study indicates that resistant <i>Enterobacteriaceae</i> isolates are carried by humans in the community. To prevent further spread of resistance, rational use of antibiotics should be encouraged, and antibiotic resistance should be carefully monitored in Northern Cyprus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ruh</LastName>
+                    <ForeName>Emrah</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zakka</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoti</LastName>
+                    <ForeName>Kujtesa</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fekrat</LastName>
+                    <ForeName>Arezou</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guler</LastName>
+                    <ForeName>Emrah</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gazi</LastName>
+                    <ForeName>Umut</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Medical Microbiology and Clinical Microbiology, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erdogmus</LastName>
+                    <ForeName>Zafer</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases, Dr. Burhan Nalbantoglu State Hospital, Nicosia, Northern Cyprus.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suer</LastName>
+                    <ForeName>Kaya</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Department of Clinical Microbiology and Infectious Diseases, Faculty of Medicine, Near East University, Nicosia, Northern Cyprus.</Affiliation>
+                        <Identifier Source="ISNI">0000 0004 0596 0713</Identifier>
+                        <Identifier Source="GRID">grid.412132.7</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Antimicrob Resist Infect Control</MedlineTA>
+            <NlmUniqueID>101585411</NlmUniqueID>
+            <ISSNLinking>2047-2994</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibiotic resistance</Keyword>
+            <Keyword MajorTopicYN="N">Carbapenem resistance</Keyword>
+            <Keyword MajorTopicYN="N">Ciprofloxacin resistance</Keyword>
+            <Keyword MajorTopicYN="N">Enterobacteriaceae</Keyword>
+            <Keyword MajorTopicYN="N">Extended-spectrum beta lactamase</Keyword>
+            <Keyword MajorTopicYN="N">Fecal carriage</Keyword>
+            <Keyword MajorTopicYN="N">Northern Cyprus</Keyword>
+            <Keyword MajorTopicYN="N">Plasmid-mediated AmpC beta-lactamase</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198531</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13756-019-0548-9</ArticleId>
+            <ArticleId IdType="pii">548</ArticleId>
+            <ArticleId IdType="pmc">PMC6558775</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

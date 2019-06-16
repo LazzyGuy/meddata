@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200068</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Zebrafish FGFR3 is a negative regulator of RLR pathway to decrease IFN expression.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1050-4648(19)30643-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fsi.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Fibroblast growth factor receptor (FGFR) 3 is one of the four distinct membrane-spanning tyrosine kinases required for proper skeletal development. In fish, the role of FGFR3 is still unclear. In this article, we reveal that zebrafish FGFR3 is a negative regulator of interferon (IFN) production in the innate immune response by suppressing the activity of TANK-binding kinase 1 (TBK1) in the process of virus infection. qPCR experiments demonstrate that the transcriptional level of cellular FGFR3 was upregulated by infection with spring viremia of carp virus (SVCV), indicating that FGFR3 might be involved in the process of host cell response to viral infection. Then, overexpression of FGFR3 significantly impeded the IFN promoter activity induced by a stimulator. In addition, the capabilities of a retinoic acid-inducible gene I (RIG-I)-like receptor (RLR) system to activate IFN promoter were decreased during the overexpression of FGFR3. Subsequently, FGFR3 decreased the phosphorylation of interferon regulatory factor 3 (IRF3) and mediator of IRF3 activation (MITA) by TBK1. These findings suggest that zebrafish FGFR3 is a negative regulator of IFN by attenuating the kinase activity of TBK1, leading to the suppression of IFN expression.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Shu-Bo</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, China; University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Long-Feng</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Xiao-Bing</ForeName>
+                    <Initials>XB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, China; University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Shun</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, China. Electronic address: bob@ihb.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yong-An</ForeName>
+                    <Initials>YA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan, China; State Key Laboratory of Agricultural Microbiology, College of Fisheries, Huazhong Agricultural University, Wuhan, China; Laboratory for Marine Biology and Biotechnology, Qingdao National Laboratory for Marine Science and Technology, Qingdao, China. Electronic address: yzhang@ihb.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FGFR3</Keyword>
+            <Keyword MajorTopicYN="N">Interferon</Keyword>
+            <Keyword MajorTopicYN="N">Negative regulator</Keyword>
+            <Keyword MajorTopicYN="N">TBK1</Keyword>
+            <Keyword MajorTopicYN="N">Zebrafish</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200068</ArticleId>
+            <ArticleId IdType="pii">S1050-4648(19)30643-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

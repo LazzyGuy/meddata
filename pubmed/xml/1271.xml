@@ -1,0 +1,179 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199025</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-6569</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neuroimaging : official journal of the American Society of Neuroimaging</Title>
+                <ISOAbbreviation>J Neuroimaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multicenter Volumetric Assessment of Artifactual Hypoperfusion Patterns using Automated CT Perfusion Imaging.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jon.12641</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">Automated computed tomography perfusion (CTP) is recommended to inform selection of stroke patients for thrombectomy &gt;6 hours from last known normal (LKN). However, artifacts on automated perfusion output may overestimate the tissue at risk leading to misclassification of thrombectomy eligibility in some patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a retrospective multisite study of consecutive patients with anterior large vessel occlusion (LVO) undergoing CTP (6/2017-12/2017). The primary outcome was the RAPID automated T<sub>max </sub> &gt; 6 seconds volume that was discordant with clinical symptoms and vessel imaging, manually assessed by two independent readers. The discordant penumbral volume was compared to the automated output and corrected mismatch ratios were generated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 410 consecutive patients who underwent CTP for suspected stroke, 60 (15%) had acute anterior circulation LVO. Of these, 26 (43%) had T<sub>max</sub> &gt; 6 seconds abnormalities discordant with clinical symptoms and vessel imaging. There was strong interrater agreement on artifact volume (r<sup>2</sup> = 0.927). Among patients with discordant T<sub>max</sub> imaging, the median artifactual volume was 12cc (IQR 3-21cc), accounting for a median of 8% of the automated T<sub>max</sub> &gt; 6 seconds volume (IQR 3-16%, range 1-64%). Recalculation of the T<sub>max</sub> &gt; 6 seconds volume resulted in 1 patient being reclassified as having an &quot;unfavorable&quot; mismatch ratio (2.04-1.40).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Nearly half of patients had evidence of artifactual penumbral imaging on automated CTP, which rarely lead to misclassification of thrombectomy eligibility. Although artifactual findings are reliably identified by trained raters, our results emphasize the need to evaluate CTP results with knowledge of the patient's clinical symptoms and vascular imaging.</AbstractText>
+                <CopyrightInformation>© 2019 by the American Society of Neuroimaging.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Siegler</LastName>
+                    <ForeName>James E</ForeName>
+                    <Initials>JE</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0287-3967</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsen</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pulst-Korenberg</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cristancho</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosenberg</LastName>
+                    <ForeName>Jon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raab</LastName>
+                    <ForeName>Lindsay</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cucchiara</LastName>
+                    <ForeName>Brett</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Messé</LastName>
+                    <ForeName>Steven R</ForeName>
+                    <Initials>SR</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3108-5441</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Hospital of the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>StrokeNet (U10)</GrantID>
+                    <Agency>American Heart Association</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neuroimaging</MedlineTA>
+            <NlmUniqueID>9102705</NlmUniqueID>
+            <ISSNLinking>1051-2284</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CT scan</Keyword>
+            <Keyword MajorTopicYN="N">Cerebral infarction</Keyword>
+            <Keyword MajorTopicYN="N">Imaging artifacts</Keyword>
+            <Keyword MajorTopicYN="N">Large vessel occlusion</Keyword>
+            <Keyword MajorTopicYN="N">Perfusion imaging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199025</ArticleId>
+            <ArticleId IdType="doi">10.1111/jon.12641</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199889</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1208-6002</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry and cell biology = Biochimie et biologie cellulaire</Title>
+                <ISOAbbreviation>Biochem. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Circ_RUSC2 upregulates the expression of miR-661 target gene SYK and regulates the function of vascular smooth muscle cells.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1139/bcb-2019-0031</ELocationID>
+            <Abstract>
+                <AbstractText>Nowadays, many studies have found that circRNA is a prospective direction in the field of cardiovascular researches. Detection of circRNA expression in different VSMC phenotypes revealed that circ_RUSC2 was upregulated in proliferative VSMCs. Sequence analysis of circ_RUSC2 showed that there were multiple binding sites of miR-661 on circ_RUSC2, and SYK was an important target gene of miR-661. MiR-661 expression was downregulated in proliferative VSMCs, while SYK expression was upregulated. Circ_RUSC2 and miR-661 did not affect each other expression, but circ_RUSC2 could promote SYK expression and inhibit SM22-alpha expression, while miR-661 had the opposite effects. At the same time, VSMC proliferation and migration could be promoted by SYK or circ_RUSC2, but the linear sequence of circ_RUSC2 could not. MiR-661 or circ_RUSC2 siRNAs inhibited VSMC proliferation and migration, and promoted cell apoptosis. When miR-661 mimics or SYK siRNAs were co-transfected with circ_RUSC2 overexpression vector, VSMC proliferation, apoptosis and migration were not changed significantly. Accordingly, circ_RUSC2 can promote the expression of SYK, a target gene of miR-661, so to regulate VSMC proliferation, apoptosis, phenotypic modulation and migration. These findings will supply a theoretical basis for studying circRNA function in VSMCs, and new ideas for the diagnosis and treatment of cardiovascular diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jin-Gang</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Linyi Central Hospital, Department of Cardiology, Linyi, China ; shuzhoux@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhi-Gang</ForeName>
+                    <Initials>ZG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Linyi Central Hospital, Department of Cardiology, Linyi, China ; 1126098858@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Shu-Guo</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Linyi Central Hospital, Department of Cardiology , 17# Health Road, Yishui County, Linyi 276400, Shandong Province, PRC. , Linyi, China , 276400 ; chengwe12345@sina.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>Biochem Cell Biol</MedlineTA>
+            <NlmUniqueID>8606068</NlmUniqueID>
+            <ISSNLinking>0829-8211</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199889</ArticleId>
+            <ArticleId IdType="doi">10.1139/bcb-2019-0031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199166</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-4970</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of respiratory and critical care medicine</Title>
+                <ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of Including Important Clinical Variables on Accuracy of the Lung Allocation Score for Cystic Fibrosis and Chronic Obstructive Pulmonary Disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1164/rccm.201902-0252OC</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Clinical variables associated with shortened survival in advanced-stage cystic fibrosis (CF) patients are not included in the lung allocation score (LAS).</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Identify variables associated with waitlist and posttransplant mortality for CF lung transplant candidates using a novel database; analyze the impact of including new CF-specific variables in the LAS.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A deterministic matching algorithm identified patients from the Scientific Registry of Transplant Recipients and the Cystic Fibrosis Foundation Patient Registry. LAS waitlist and posttransplant survival models were recalculated using CF-specific variables. This multi-center, retrospective, population-based study of lung transplant waitlist candidates aged ≥ 12 years, January 1, 2011-December 31, 2014, included 9043 patients on the lung transplant waiting list and 6110 lung transplant recipients, 2011-2014, 1020 and 677 with CF, respectively.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Measured outcomes were changes in LAS and lung allocation rank. For CF candidates, any Burkholderia sp. (hazard ratio 2.8, 95% confidence interval 1.2-6.6), 29-42 days hospitalized (2.8, 1.3-5.9), massive hemoptysis (2.1, 1.1-3.9), and relative drop in FEV1 ≥ 30% over 12 months (1.7, 1.0-2.8) increased waitlist mortality risk; pulmonary exacerbation time 15-28 days (1.8, 1.1-2.9) increased posttransplant mortality risk. A relative drop in FEV1 of ≥ 10% in chronic obstructive pulmonary disease (COPD) candidates was associated with increased waitlist mortality risk (2.6, 1.2-5.4). Variability in LAS score and rank increased in CF patients. Priority for transplant increased for COPD candidates. Access did not change for other diagnosis groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Adding CF-specific variables improved discrimination among waitlisted CF candidates, and benefitted COPD candidates.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lehr</LastName>
+                    <ForeName>Carli J</ForeName>
+                    <Initials>CJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2846-2242</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Cleveland Clinic , Respiratory Institute , Cleveland , Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skeans</LastName>
+                    <ForeName>Melissa</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hennepin Healthcare Research Institute, Chronic Disease Researdch Group, Minneapolis, Minnesota, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dasenbrook</LastName>
+                    <ForeName>Elliot C</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cleveland Clinic, 2569, Respiratory Institute, Cleveland, Ohio, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fink</LastName>
+                    <ForeName>Aliza</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cystic Fibrosis Foundation, Bethesda, Maryland, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandez</LastName>
+                    <ForeName>Gabriela</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cystic Fibrosis Foundation, 71458, Bethesda, Maryland, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faro</LastName>
+                    <ForeName>Albert</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cystic Fibrosis Foundation, 71458, Bethesda, Maryland, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valapour</LastName>
+                    <ForeName>Maryam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cleveland Clinic , Pulmonary Medicine , Cleveland, Ohio, United States ; valapom@ccf.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+            <NlmUniqueID>9421642</NlmUniqueID>
+            <ISSNLinking>1073-449X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cystic fiibrosis</Keyword>
+            <Keyword MajorTopicYN="N">lung allocation</Keyword>
+            <Keyword MajorTopicYN="N">lung transplant</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199166</ArticleId>
+            <ArticleId IdType="doi">10.1164/rccm.201902-0252OC</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

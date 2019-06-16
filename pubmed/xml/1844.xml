@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198292</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0974-620X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oman journal of ophthalmology</Title>
+                <ISOAbbreviation>Oman J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The feasibility and efficacy of intraoperative laser retinopexy in scleral buckling surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>84-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ojo.OJO_255_2017</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study was performed to assess the feasibility and efficacy of intraoperative laser retinopexy in scleral buckling (SB) surgery.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This was a retrospective, noncomparative, and interventional study. Records of 25 patients who had undergone intraoperative laser retinopexy during SB were retrospectively analyzed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All patients were phakic and macula was off in all cases. Adequate intraoperative laser retinopexy was achieved in 22 (88%) patients, and 3 (12%) patients required additional postoperative laser. Retina was attached in all patients at 6-month follow-up.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Intraoperative laser retinopexy can give comparable results to cryoretinopexy with lesser postoperative complications in SB surgery. Although further comparative studies are needed, this study establishes the feasibility of intraoperative laser retinopexy in SB which has never been described before in the literature as per our knowledge.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rijal</LastName>
+                    <ForeName>Roshija Khanal</ForeName>
+                    <Initials>RK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Vitreo Retinal Services, Lumbini Eye Institute, Bhairahawa, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mourya</LastName>
+                    <ForeName>Deepesh</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Vitreo Retinal Services, Akhand Jyoti Eye Hospital, Patna, Bihar, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Oman J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101519430</NlmUniqueID>
+            <ISSNLinking>0974-620X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Laser retinopexy</Keyword>
+            <Keyword MajorTopicYN="N">retinal detachment</Keyword>
+            <Keyword MajorTopicYN="N">scleral buckling</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198292</ArticleId>
+            <ArticleId IdType="doi">10.4103/ojo.OJO_255_2017</ArticleId>
+            <ArticleId IdType="pii">OJO-12-84</ArticleId>
+            <ArticleId IdType="pmc">PMC6561036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

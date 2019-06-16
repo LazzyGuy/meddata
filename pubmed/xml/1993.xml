@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198124</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-001X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal for the history of science</Title>
+                <ISOAbbreviation>Br J Hist Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>London 1600-1800: communities of natural knowledge and artificial practice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0007087419000189</ELocationID>
+            <Abstract>
+                <AbstractText>This essay introduces a special issue of the BJHS on communities of natural knowledge and artificial practice in seventeenth- and eighteenth-century London. In seeking to understand the rise of a learned and technical culture within a growing and changing city, our approach has been inclusive in terms of the activities, people and places we consider worth exploring but shaped by a sense of the importance of collective activity, training, storage of information and identity. London's knowledge culture was formed by the public, pragmatic and commercial spaces of the city rather than by the academy or the court. In this introduction, we outline the types of group and institution within our view and acknowledge the many locations that might be explored further. Above all, we introduce a particular vision of London's potential as a city of knowledge and practice, arising from its commercial and mercantile activity and fostered within its range of corporations, institutions and associations. This was recognized and promoted by contemporary authors, including natural and experimental philosophers, practical mathematicians, artisans and others, who sought to establish a place for and recognition of their individual and collective skills and knowledge within the metropolis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bennett</LastName>
+                    <ForeName>Jim</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>*Science Museum,Exhibition Road,London. Email:jim.bennett@mhs.ox.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higgitt</LastName>
+                    <ForeName>Rebekah</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>**School of History, Rutherford College,University of Kent,Canterbury,CT2 7NX,UK. Email:r.higgitt@kent.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Hist Sci</MedlineTA>
+            <NlmUniqueID>0144554</NlmUniqueID>
+            <ISSNLinking>0007-0874</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198124</ArticleId>
+            <ArticleId IdType="pii">S0007087419000189</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0007087419000189</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

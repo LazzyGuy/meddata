@@ -1,0 +1,162 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200025</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5894</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Magnetic resonance imaging</Title>
+                <ISOAbbreviation>Magn Reson Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluating a novel free-breathing accelerated cardiac MRI cine sequence in patients with cardiomyopathy.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0730-725X(19)30205-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mri.2019.06.008</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Cardiac magnetic resonance imaging (CMR) is the gold standard for the assessment of left ventricular (LV) function. However, traditional sequences are time-consuming and require breath-holding. Our aim was to evaluate the image quality of LV functional assessment with a novel, accelerated, free-breathing cine sequence and to compare LV functional parameters between it and a traditional sequence.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This was a prospective cohort study of 31 patients with cardiomyopathy. All studies were performed on a 1.5 Tesla scanner. LV function was first determined using contiguous short axis slices covering the left ventricle from the base to the apex acquired with the standard cine sequence. Next, the accelerated sequence was acquired for each patient. The Wilcoxon Matched-Pair Sign Rank Test was used to compare image quality between the accelerated and traditional cine imaging sequences. Standard and accelerated left ventricular volumes and ejection fraction were compared using linear regression. Bland-Altman plots were then constructed to evaluate agreement, interobserver and intraobserver variability for left ventricular volumes and ejection fraction.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean acquisition time was 29 s for the accelerated sequence vs. 410 s for the traditional sequence. Qualitative assessment of image quality was similar for both sequences (p = 0.23). There were no significant differences in terms of LVEDV, LVESV, LVSV, LV mass and LVEF when calculated from either sequence with very good agreement between the standard and accelerated sequences. The mean differences with 95% limits of agreement were as follows: LV mass (-0.6, -22.9 g, 21.6 g), LVEDV (5.1 mL, -18.4 mL, 28.9 mL), LVEF (-0.3, -5.4, 4.7), LVESV (4.0 mL, -12.0 mL, 20.0 mL), LVSV (1.1 mL, -13.3 mL, 15.5 mL). Interobserver variability ranged from 0.1 to 6.3% while intraobserver variability ranged from 0.1 to 1.8%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The accelerated free-breathing cine sequence performed similarly to standard of care multi breath-hold cine imaging and was acquired in a fraction of the time without the need for breath-holding. If applied to clinical practice, this sequence can significantly reduce scanning time and facilitate CMR scanning in those patients who are unable to breath-hold.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roifman</LastName>
+                    <ForeName>Idan</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada; Institute of Health Policy Management and Evaluation, University of Toronto, Toronto, Canada; Institute for Clinical Evaluative Sciences, University of Toronto, Toronto, Canada. Electronic address: idan.roifman@sunnybrook.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gutierrez</LastName>
+                    <ForeName>Jose</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Edison</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biswas</LastName>
+                    <ForeName>Labonny</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sparkes</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Connelly</LastName>
+                    <ForeName>Kim A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada; St. Michael's Hospital, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>Graham A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Health Sciences Center, University of Toronto, Toronto, Canada; Institute of Health Policy Management and Evaluation, University of Toronto, Toronto, Canada; Institute for Clinical Evaluative Sciences, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Magn Reson Imaging</MedlineTA>
+            <NlmUniqueID>8214883</NlmUniqueID>
+            <ISSNLinking>0730-725X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Accelerated magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">Cardiomyopathy</Keyword>
+            <Keyword MajorTopicYN="N">Free-breathing cine imaging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200025</ArticleId>
+            <ArticleId IdType="pii">S0730-725X(19)30205-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mri.2019.06.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

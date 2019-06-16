@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200009</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-5568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anaesthesia, critical care &amp; pain medicine</Title>
+                <ISOAbbreviation>Anaesth Crit Care Pain Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Description of practices and complications in the French centres that participated to APRICOT: A secondary analysis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S2352-5568(19)30134-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.accpm.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Analysing national patients' profile and organisation of human resources are important for improving the perioperative quality of care. The aim of the current study was to achieve these goals using the French data from the APRICOT study.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Data from the French centres that participated to the APRICOT study were extracted and analysed. The primary goal of the study was to describe patients' characteristics, procedures and perioperative anaesthetic management in France and compare them to the results of the European APRICOT trial. Secondary outcomes were the description of major perioperative complications and the determination of human resources organisation possibly associated with these perioperative complications.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall 3535 procedures collected in 20 facilities (17 teaching hospitals, one community hospital and two private institutions) were analysed. Comparison between the French and European APRICOT cohorts found differences related to the more specialised French centres participating to the study. Overall complications (respiratory complications, haemodynamic instability, cardiac arrest, drug errors, and anaphylactic reactions) were observed in 6.4 % [95% CI: 5.6; 6.3] of cases. Multivariate analysis identified the anaesthesiologist's experience of &lt; 15 years and the absence of an anaesthetic nurse as human factors independently associated with an increased risk for perioperative complications.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">The current study identified some important differences between the French and the whole APRICOT cohort in terms of preoperative evaluation, surgical specialties involved, and monitoring of neuromuscular blockade. It confirms that, in France, the presence of an anaesthetic nurse and of an experienced anaesthesiologist prevents anaesthetic complications.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Société française d'anesthésie et de réanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dahmani</LastName>
+                    <ForeName>Souhayl</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia and Intensive care, Robert Debré University Hospital, Assistance Publique Hôpitaux de Paris, Paris Diderot University Paris Sorbonne Cité, Paris, France; Paris Diderot University (Paris VII), PRES Paris Sorbonne Cité, Paris, France; DHU PROTECT. INSERM U1141, Robert Debré University Hospital, Paris, France. Electronic address: souhayl.dahmani@rdb.aphp.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laffargue</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia and Intensive care, Jeanne de Flandre University Hospital, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dadure</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia and Intensive care, Lapeyronie University hospital, Montpellier, France; Institut de Neuroscience de Montpellier, Unité INSERM, U1051, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veyckemans</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia and Intensive care, Jeanne de Flandre University Hospital, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>French Apricot Trial Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Anaesth Crit Care Pain Med</MedlineTA>
+            <NlmUniqueID>101652401</NlmUniqueID>
+            <ISSNLinking>2352-5568</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">paediatric anaesthesia</Keyword>
+            <Keyword MajorTopicYN="N">practice of anaesthesia</Keyword>
+            <Keyword MajorTopicYN="N">preoperative risks</Keyword>
+            <Keyword MajorTopicYN="N">safety</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200009</ArticleId>
+            <ArticleId IdType="pii">S2352-5568(19)30134-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.accpm.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

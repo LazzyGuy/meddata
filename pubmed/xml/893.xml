@@ -1,0 +1,152 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199444</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2574-3805</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA network open</Title>
+                <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of Rates of Child Maltreatment in States With Medicaid Expansion vs States Without Medicaid Expansion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e195529</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2019.5529</ELocationID>
+            <Abstract>
+                <AbstractText Label="Importance" NlmCategory="UNASSIGNED">Physical abuse and neglect affect a significant number of children in the United States. The 2014 Medicaid expansion, in which several states opted to expand their Medicaid programs, is associated with parental financial stability and access to mental health care.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To determine whether Medicaid expansion is associated with changes in physical abuse and neglect rates.</AbstractText>
+                <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">This ecological study used state-level National Child Abuse and Neglect Data Systems (NCANDS) data from January 1, 2010, through December 31, 2016, to compare the change in physical abuse and neglect rates in states that chose to expand Medicaid vs those that did not. All cases of physical abuse and neglect of children younger than 6 years during the study period that were referred to state-level Child Protective Services and screened in for further intervention after having met a maltreatment risk threshold were included. Cases with only documented sexual or emotional abuse were excluded. A difference-in-difference analysis was conducted from April 12, 2018, through March 26, 2019.</AbstractText>
+                <AbstractText Label="Exposures" NlmCategory="UNASSIGNED">State-level Medicaid expansion status.</AbstractText>
+                <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">Incidence rate of screened-in referrals for physical abuse or neglect per 100 000 children younger than 6 years per year by state.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Data were analyzed for 31 states and the District of Columbia that expanded Medicaid and 19 states that did not during the study period, with baseline neglect counts of 646 463 and 388 265, respectively. After Medicaid expansion, 422 fewer cases of neglect per 100 000 children younger than 6 years (95% CI, -753 to -91) were reported each year after adjusting for confounders for comparison of postexpansion and preexpansion rates in states that expanded Medicaid contrasting with the change during that time in nonexpansion states. From 2013 to 2016, Medicaid coverage for adults with dependent children increased a median 1.9% (interquartile range, 0.4% to 4.3%) in the states that did not expand Medicaid and 4.2% (interquartile range, 0.9% to 6.0%) in the states that did. No associations were found between Medicaid coverage or Medicaid eligibility criteria and physical abuse or neglect rates.</AbstractText>
+                <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">Medicaid expansion was associated with a reduction in the reported child neglect rate, but not the physical abuse rate. These findings suggest that expanding Medicaid may help prevent child neglect.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Emily C B</ForeName>
+                    <Initials>ECB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Seattle Children's Research Institute, Center for Child Health, Behavior, and Development, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Washington School of Medicine, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garrison</LastName>
+                    <ForeName>Michelle M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Seattle Children's Research Institute, Center for Child Health, Behavior, and Development, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Child Psychiatry, University of Washington School of Medicine, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bao</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Seattle Children's Research Institute, Center for Child Health, Behavior, and Development, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qu</LastName>
+                    <ForeName>Pingping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Seattle Children's Research Institute, Center for Child Health, Behavior, and Development, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenny</LastName>
+                    <ForeName>Carole</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Washington School of Medicine, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowhani-Rahbar</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Washington School of Medicine, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Washington School of Public Health, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Harborview Injury Prevention &amp; Research Center, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Netw Open</MedlineTA>
+            <NlmUniqueID>101729235</NlmUniqueID>
+            <ISSNLinking>2574-3805</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199444</ArticleId>
+            <ArticleId IdType="pii">2735758</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamanetworkopen.2019.5529</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

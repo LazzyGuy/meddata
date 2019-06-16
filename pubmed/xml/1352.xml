@@ -1,0 +1,203 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198933</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-6591</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</Title>
+                <ISOAbbreviation>Clin. Infect. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Optimizing strategies for Chlamydia trachomatis and Neisseriagonorrhoeae screening in men who have sex with men: a modelling study.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">ciz510</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/cid/ciz510</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">International guidelines recommend the systematic screening of Neisseria gonorrhoeae (NG) and Chlamydia trachomatis (CT) infections in all men who have sex with men (MSM) engaged in unprotected sex. However, the optimal screening strategy remains unclear. We developed a modeling approach to optimize NG/CT screening strategy in MSM.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A compartmental model of NG/CT screening and infection was implemented. NG/CT anal (A), pharyngeal (P) and urine (U) samples from MSM attending the STI clinic were used to estimate the screening rate, prevalence, and incidence in a base case scenario. Different screening strategies were then evaluated: APU samples /12 months (S1), APU samples /3 months (S2), APU samples /6 months (S3), AP samples /6 months (S4), AP samples/3 months (S5).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">2973 triplet APU samples from 1255 patients were analyzed. 485 NG and 379 CT diagnoses were observed. NG/CT prevalence and incidence estimates were 12.0%/11.1% and 40/100PY / 29/100PY respectively in the base case scenario. As compared to the S2 reference strategy, the proportion of missed NG/CT diagnoses was 42.0%/41.2% with S1, 21.8%/22.5% with S3, 25.6%/28.3% with S4 and 6.3%/10.5% withS5 strategy respectively. . As compared to S2 strategy, S1 reduced the cost of analysis by 74%, S3 by 50%, S4 by 66% and S5 by 33% respectively. The number needed to screen for catching up the missed NG/CT diagnoses was 49/67 with S1, 62/82 with S3, 71/87 with S4 and 143/118 with S5 strategy respectively.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">S5 appears to be the best strategy, missing only 6.3%/10.5% of NG/CT diagnoses for a cost reduction of 33%.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Voirin</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EPIMOD, Epidemiology and Modelling of Infectious Diseases, Dompierre sur Veyle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allam</LastName>
+                    <ForeName>Camille</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bacteriology Laboratory, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Lyon, Université Claude Bernard Lyon1, Villeurbanne, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre International de Recherche en Infectiologie (CIRI), Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Charre</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Lyon, Université Claude Bernard Lyon1, Villeurbanne, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Virology Laboratory, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre International de Recherche en Infectiologie (CIRI), Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandez</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEGIDD Croix-Rousse, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godinot</LastName>
+                    <ForeName>Matthieu</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEGIDD Croix-Rousse, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oria</LastName>
+                    <ForeName>Fatima</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEGIDD Croix-Rousse, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pansu</LastName>
+                    <ForeName>Aymeric</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEGIDD Croix-Rousse, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chidiac</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Lyon, Université Claude Bernard Lyon1, Villeurbanne, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salord</LastName>
+                    <ForeName>Hélène</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bacteriology Laboratory, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cotte</LastName>
+                    <ForeName>Laurent</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEGIDD Croix-Rousse, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM U1052, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Infect Dis</MedlineTA>
+            <NlmUniqueID>9203213</NlmUniqueID>
+            <ISSNLinking>1058-4838</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          Chlamydia trachomatis
+        </Keyword>
+            <Keyword MajorTopicYN="N">
+          Neisseria gonorrhoeae
+        </Keyword>
+            <Keyword MajorTopicYN="N">men who have sex with men</Keyword>
+            <Keyword MajorTopicYN="N">modelling</Keyword>
+            <Keyword MajorTopicYN="N">screening strategy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198933</ArticleId>
+            <ArticleId IdType="pii">5519038</ArticleId>
+            <ArticleId IdType="doi">10.1093/cid/ciz510</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

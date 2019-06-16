@@ -1,0 +1,105 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199258</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-254X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on medical imaging</Title>
+                <ISOAbbreviation>IEEE Trans Med Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Robust Multi-View 2-D/3-D Registration Using Point-To-Plane Correspondence Model.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TMI.2019.2922931</ELocationID>
+            <Abstract>
+                <AbstractText>In minimally invasive procedures, the clinician relies on image guidance to observe and navigate the operation site. In order to show structures which are not visible in the live X-ray images, such as vessels or planning annotations, X-ray images can be augmented with pre-operatively acquired images. Accurate image alignment is needed and can be provided by 2-D/3-D registration. In this paper, a multi-view registration method based on the point-to-plane correspondence model is proposed. The correspondence model is extended to be independent of the used camera coordinates and different multi-view registration schemes are introduced and compared. Evaluation is performed for a wide range of clinically relevant registration scenarios. We show for different applications that registration using correspondences from both views simultaneously provides accurate and robust registration, while the performance of the other schemes varies considerably. Our method also outperforms the state-of-the-art method for cerebral angiography registration, achieving a capture range of 18 mm and an accuracy of 0.22±0.07 mm. Furthermore, investigations on the minimum angle between the views are performed in order to provide accurate and robust registration, while minimizing the obstruction to the clinical workflow. We show that small angles around 30° are sufficient to provide reliable registration results.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schaffert</LastName>
+                    <ForeName>Roman</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fischer</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maier</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borsdorf</LastName>
+                    <ForeName>Anja</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Med Imaging</MedlineTA>
+            <NlmUniqueID>8310780</NlmUniqueID>
+            <ISSNLinking>0278-0062</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199258</ArticleId>
+            <ArticleId IdType="doi">10.1109/TMI.2019.2922931</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

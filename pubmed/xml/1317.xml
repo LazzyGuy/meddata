@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198975</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1651-2081</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of rehabilitation medicine</Title>
+                <ISOAbbreviation>J Rehabil Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Validity, internal consistency and self-rated change of the patient enablement instrument in patients with chronic musculoskeletal pain.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2340/16501977-2573</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Patient enablement reflects patient's understanding of and coping with illness. The aim of this study was to investigate the content validity, construct validity, internal consistency and self-rated change (SRC) of the Patient Enablement Instrument (PEI) in patients with whiplash-associated disorders, cervical radiculopathy and mixed chronic pain treated in different settings.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Psychometric analyses.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Patients with disabling non-malignant chronic musculoskeletal pain.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Participants answered questionnaires on disability (Neck Disability Index (NDI) or Functional Rating Index (FRI)), anxiety/depression (Hospital Anxiety and Depression Scale; HADS) and general health (EuroQol; EQ-5D). Content validity, construct validity (confirmatory factor analysis), internal consistency and cut-off for SRC were investigated for the PEI after treatment. The SRC value was the receiver operating characteristic (ROC) curve optimal cut-off point.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After treatment all items were completed by 516 patients (mean standard deviation (SD) age 45.1 years (SD 10.1), women 75% (n = 385)). The 1-factor PEI model had approximate fit to the data. The internal consistency Cronbach's alpha was between 0.878 and 0.929 for the 3 groups. Correlations between the PEI and the NDI/FRI, HADS and EQ-5D were fair to good. The SRCROC for whiplash-associated disorders, cervical radiculopathy and mixed chronic pain groups was 5, 6 and 4 points in the PEI, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The PEI showed fair content validity, construct validity and internal consistency. However, the scale needs further development to improve measurement of change.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Enthoven</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical and Health Sciences , Division of Physiotherapy, Linköping University, SE-581 83 Linköping, Sweden. paul.enthoven@liu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peolsson</LastName>
+                    <ForeName>Anneli</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Landén Ludvigsson</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wibault</LastName>
+                    <ForeName>Johanna</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peterson</LastName>
+                    <ForeName>Gunnel</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Öberg</LastName>
+                    <ForeName>Birgitta</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Sweden</Country>
+            <MedlineTA>J Rehabil Med</MedlineTA>
+            <NlmUniqueID>101088169</NlmUniqueID>
+            <ISSNLinking>1650-1977</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N"> chronic pain</Keyword>
+            <Keyword MajorTopicYN="N"> neck pain</Keyword>
+            <Keyword MajorTopicYN="N"> outcome assessment</Keyword>
+            <Keyword MajorTopicYN="N"> primary care</Keyword>
+            <Keyword MajorTopicYN="N"> reliability</Keyword>
+            <Keyword MajorTopicYN="N"> whiplash injury</Keyword>
+            <Keyword MajorTopicYN="N">validity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198975</ArticleId>
+            <ArticleId IdType="doi">10.2340/16501977-2573</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

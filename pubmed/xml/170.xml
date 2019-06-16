@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200241</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-8952</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology</Title>
+                <ISOAbbreviation>Clin Neurophysiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Probabilistic graphical model identifies clusters of EEG patterns in recordings from neonates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1342-1350</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1388-2457(19)30849-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clinph.2019.04.708</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">In this paper we introduce a novel method for the evaluation of neonatal brain function via multivariate EEG (electroencephalography) signal processing and embedding into a probabilistic graph, the so called Chow-Liu tree.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using 28 EEG recordings of preterm and term neonate infants the complex features of the EEG signals were constructed in the form of a Chow-Liu tree. The trees were embedded into a 3 dimensional Euclidean space. Clustering of specific EEG patterns was done by complete linkage algorithm.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our analytic tool was able to build clusters of patients with pathological EEG findings. In particular, we were able to make a visual proof on a 3d multidimensional scaling coordinate system with a good performance. The distances (graph edit distance) between Chow-Liu trees of different infants were proportional to the clinical findings of corresponding infants.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our method may provide a basis for the future development of a diagnostic/prognostic non-invasive brain monitoring tool which will be able to differentiate between a variety of complex clinical findings.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">This model addresses relevant issues in neonatology and neuropediatrics in terms of identification of possible clinical factors which interfere with normal brain development and will allow fast unbiased recognition of infants with specific pathological EEG findings.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 International Federation of Clinical Neurophysiology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sarishvili</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fraunhofer Institute for Industrial Mathematics, Kaiserslautern, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winter</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neonatology, University Medical Center of the Johannes Gutenberg University Mainz, Germany. Electronic address: julia.winter@unimedizin-mainz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luhmann</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physiology, University Medical Center of the Johannes Gutenberg University Mainz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mildenberger</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neonatology, University Medical Center of the Johannes Gutenberg University Mainz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Clin Neurophysiol</MedlineTA>
+            <NlmUniqueID>100883319</NlmUniqueID>
+            <ISSNLinking>1388-2457</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Automated detection</Keyword>
+            <Keyword MajorTopicYN="N">Brain monitoring</Keyword>
+            <Keyword MajorTopicYN="N">Chow-Liu tree</Keyword>
+            <Keyword MajorTopicYN="N">Electroencephalography</Keyword>
+            <Keyword MajorTopicYN="N">Multi-dimensional scaling</Keyword>
+            <Keyword MajorTopicYN="N">Neonate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200241</ArticleId>
+            <ArticleId IdType="pii">S1388-2457(19)30849-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clinph.2019.04.708</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

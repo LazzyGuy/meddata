@@ -1,0 +1,217 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199952</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular and cellular cardiology</Title>
+                <ISOAbbreviation>J. Mol. Cell. Cardiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>SESN2 protects against doxorubicin-induced cardiomyopathy via rescuing mitophagy and improving mitochondrial function.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-2828(19)30128-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yjmcc.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>The clinical application of doxorubicin (Dox) in cancer therapy is limited by its serious cardiotoxicity. Our previous studies and others have recognized that mitochondrial dysfunction is the common feature of Dox-induced cardiotoxicity. However, mechanisms underlying mitochondrial disorders remained largely unknown. SESN2, a highly conserved and stress-inducible protein, is involved in mitochondrial function and autophagy in cardiovascular diseases. This study aimed to investigate whether SESN2 affects Dox-induced cardiotoxicity and the underlying mechanisms. Sprague-Dawley rats and neonatal rat cardiomyocytes were treated with Dox. SESN2 expression was assessed. The effects of SESN2 on Dox-induced cardiotoxicity were assessed by functional gain and loss experiments. Echocardiographic parameters, morphological and histological analyses, transmission electron microscope and immunofluorescence assays were used to assess cardiac and mitochondrial function. The protein expression of SESN2 was significantly reduced following Dox stimulation. Both knockout of SESN2 by sgRNA and Dox treatment resulted in the inhibition of Parkin-mediated mitophagy, marked cardiomyocytes apoptosis and mitochondria dysfunction. Ectopic expression of SESN2 effectively protected against Dox-induced cardiomyocyte apoptosis, mitochondrial injury and cardiac dysfunction. Mechanistically, SESN2 interacted with Parkin and p62, promoted accumulation of Parkin to mitochondria and then alleviated Dox-caused inhibition of Parkin mediated mitophagy. Ultimately, the clearance of damaged mitochondria and mitochondrial function were improved following SESN2 overexpression. SESN2 protected against Dox-induced cardiotoxicity through improving mitochondria function and mitophagy. These results established SESN2 as a key player in mitochondrial function and provided a potential therapeutic approach to Dox-induced cardiomyopathy.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Panxia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Luping</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China; Laboratory of Hematopathology &amp; Drug Discovery, School of Medicine, South China University of Technology, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China. Electronic address: lujing0504@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Yuehuai</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qianqian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Zhenzhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Sidong</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Liying</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Kaiteng</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Jiyan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hepatobiliary Surgery, Sun Yat-sen Memorial Hospital, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Junjian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lan</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Pharmaceutical Bioactive Substances, Guangdong Pharmaceutical University, Guangzhou 510006, PR China. Electronic address: Shenjuan0412@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Peiqing</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, PR China. Electronic address: liupq@mail.sysu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Mol Cell Cardiol</MedlineTA>
+            <NlmUniqueID>0262322</NlmUniqueID>
+            <ISSNLinking>0022-2828</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiotoxicity</Keyword>
+            <Keyword MajorTopicYN="N">Doxorubicin</Keyword>
+            <Keyword MajorTopicYN="N">Mitophagy</Keyword>
+            <Keyword MajorTopicYN="N">Parkin</Keyword>
+            <Keyword MajorTopicYN="N">SESN2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199952</ArticleId>
+            <ArticleId IdType="pii">S0022-2828(19)30128-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

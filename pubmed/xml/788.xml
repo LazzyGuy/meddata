@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199568</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-9914</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied clinical medical physics</Title>
+                <ISOAbbreviation>J Appl Clin Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of Elekta Agility multi-leaf collimator performance using statistical process control tools.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/acm2.12660</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the performance and stability of Elekta Agility multi-leaf collimator (MLC) leaf positioning using a daily, automated quality control (QC) test based on megavoltage (MV) images in combination with statistical process control tools, and identify special causes of variations in performance.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Leaf positions were collected daily for 13 Elekta linear accelerators over 11-37 months using the automated QC test, which analyzes 23 MV images to determine the location of MLC leaves relative to radiation isocenter. Leaf positioning stability was assessed using individual and moving range control charts. Specification levels of ±0.5, ±1, and ±1.5 mm were tested to determine positional accuracy. The durations between out-of-control and out-of-specification events were determined. Peaks in out-of-control leaf positions were identified and correlated to servicing events recorded for the whole duration of data collection.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean leaf position error was -0.01 mm (range -1.3-1.6). Data stayed within ±1 mm specification for 457 days on average (range 3-838) and within ±1.5 mm for the entire date range. Measurements stayed within ±0.5 mm for 1 day on average (range 0-17); however, our MLC leaves were not calibrated to this level of accuracy. Leaf position varied little over time, as confirmed by tight individual (mean ±0.19 mm, range 0.09-0.43) and moving range (mean 0.23 mm, range 0.10-0.53) control limits. Due to sporadic out-of-control events, the mean in-control duration was 2.8 days (range 1-28.5). A number of factors were found to contribute to leaf position errors and out-of-control behavior, including servicing events, beam spot motion, and image artifacts.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The Elekta Agility MLC model was found to perform with high stability, as evidenced by the tight control limits. The in-specification durations support the current recommendation of monthly MLC QC tests with a ±1 mm tolerance. Future work is on-going to determine if performance can be optimized further using high-frequency QC test results to drive recalibration frequency.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Journal of Applied Clinical Medical Physics published by Wiley Periodicals, Inc. on behalf of American Association of Physicists in Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meyers</LastName>
+                    <ForeName>Sandra M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Medicine Program, Princess Margaret Cancer Center, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Medicine and Applied Sciences, Moores Cancer Center, University of California, San Diego, La Jolla, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balderson</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Medicine Program, Princess Margaret Cancer Center, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Létourneau</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Medicine Program, Princess Margaret Cancer Center, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Appl Clin Med Phys</MedlineTA>
+            <NlmUniqueID>101089176</NlmUniqueID>
+            <ISSNLinking>1526-9914</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">SBRT treatment delivery</Keyword>
+            <Keyword MajorTopicYN="N">control charts</Keyword>
+            <Keyword MajorTopicYN="N">multi-leaf collimator</Keyword>
+            <Keyword MajorTopicYN="N">quality control</Keyword>
+            <Keyword MajorTopicYN="N">statistical process control</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199568</ArticleId>
+            <ArticleId IdType="doi">10.1002/acm2.12660</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

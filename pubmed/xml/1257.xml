@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199041</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1440-1584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>27</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Australian journal of rural health</Title>
+                <ISOAbbreviation>Aust J Rural Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Otitis externa-climatic associations and evidence-based management strategies for Australian practice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>251-256</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ajr.12516</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">There is a lack of consensus for the management of otitis externa. In addition to looking at seasonal trends surrounding otitis externa, this article also reviews a collection of local and international guidelines on the management of this condition.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Retrospective case audit of clinician-diagnosed otitis externa at the Hedland Health Campus over 18 months. Review of 2007-2017 evidence-based guidelines relevant to area of practice.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Hedland Health Campus Emergency Department in the remote Pilbara region of Western Australia.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Two-hundred-thirty-six otitis externa cases in 193 individuals were seen by our service.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURED" NlmCategory="METHODS">Number of otitis externa presentations each month.</AbstractText>
+                <AbstractText Label="RESULT" NlmCategory="RESULTS">Nine guidelines were reviewed, which varied widely in recommendations. An overrepresentative proportion of patients identified as either Aboriginal or Torres Strait Islander. There was a strong positive correlation between the monthly rainfall and otitis externa, moderate correlation between higher monthly minimum temperatures and no correlation with maximum temperature. Given the variety of guidelines available, it was difficult to assess whether prescribing was always consistent with guidelines.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This research makes evidence-based suggestions for Australian practitioners. Patients should be treated with oral analgesia, ear toileting and targeted topical therapy. There is no evidence for swabs, ear wicks and oral antibiotics. The authors hypothesise that re-presentation rates might be in part attributable to freshwater pseudomonal infection.</AbstractText>
+                <CopyrightInformation>© 2019 National Rural Health Alliance Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chidlow</LastName>
+                    <ForeName>Caitlin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>South West Health Campus, Bunbury, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Bockxmeer</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2273-7658</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Hedland Health Campus, WA Country Health Service, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Aust J Rural Health</MedlineTA>
+            <NlmUniqueID>9305903</NlmUniqueID>
+            <ISSNLinking>1038-5282</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Pilbara region</Keyword>
+            <Keyword MajorTopicYN="N">ear infections</Keyword>
+            <Keyword MajorTopicYN="N">rainfall</Keyword>
+            <Keyword MajorTopicYN="N">seasonal trends</Keyword>
+            <Keyword MajorTopicYN="N">subtropics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199041</ArticleId>
+            <ArticleId IdType="doi">10.1111/ajr.12516</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

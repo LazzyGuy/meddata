@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199608</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interfacial Junctions Control Electrolyte Transport Through Charge-Patterned Membranes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsnano.9b00780</ELocationID>
+            <Abstract>
+                <AbstractText>Distinct transport mechanisms emerge when nanostructured substrates are patterned with multiple chemistries. For example, charge-patterned mosaic membranes possess surfaces functionalized with discrete domains of both positive and negative charge. These oppositely-charged domains provide pathways for both the cation and anion from a dissolved salt to permeate through the membrane without violating the macroscopic constraint of electroneutrality. Here, by systematically varying the geometry and size of the charge pattern, we elucidate the molecular interactions that promote the transport of salts under the action of pressure-driven flow. For patterns that consist of equivalent areal coverages of positively-charged and negatively-charged domains, the effects of the geometric parameters were encapsulated in a single variable, the interfacial packing density, that quantified the fraction of the membrane surface covered by junctions between oppositely-charged domains. Experimentally, the transport of symmetric electrolytes ( i.e., KCl and MgSO<sub>4</sub>) increased with the value of the interfacial packing density, while the interfacial packing density did not affect the transport of asymmetric electrolytes ( i.e., K<sub>2</sub>SO<sub>4</sub> and MgCl<sub>2</sub>). Simulations of the electrical potential near the membrane surface demonstrate that for symmetric electrolytes, the structural charge heterogeneity reduces the barrier to ion partitioning thereby promoting salt transport through the membranes. For asymmetric electrolytes, the charge heterogeneity skews the local availability of ions from the stoichiometric ratio of the salt thus hindering salt transport. These findings demonstrate the promise of accessing transport mechanisms, which could find utility in a diverse range of chemical separations and sensing applications, through chemical-patterning of membranes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Feng</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qu</LastName>
+                    <ForeName>Siyi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffman</LastName>
+                    <ForeName>John R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phillip</LastName>
+                    <ForeName>William A</ForeName>
+                    <Initials>WA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199608</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsnano.9b00780</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200152</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of health and economic impacts of PM<sub>2.5</sub> and ozone pollution in China.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104881</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)31053-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.075</ELocationID>
+            <Abstract>
+                <AbstractText>Many studies have reported associations between air pollution and health impacts, but few studies have explicitly differentiated the economic effects of PM<sub>2.5</sub> and ozone at China's regional level. This study compares the PM<sub>2.5</sub> and ozone pollution-related health impacts based on an integrated approach. The research framework combines an air pollutant emission projection model (GAINS), an air quality model (GEOS-Chem), a health model using the latest exposure-response functions, medical prices and value of statistical life (VSL), and a general equilibrium model (CGE). Results show that eastern provinces in China encounter severer loss from PM<sub>2.5</sub> and more benefit from mitigation policy, whereas the lower income western provinces encounter severer health impacts and economic burdens due to ozone pollution, and the impact in southern and central provinces is relatively lower. In 2030, without control policies, PM <sub>2.5</sub> pollution could lead to losses of 2.0% in Gross Domestic Production (GDP), 210 billion Chinese Yuan (CNY) in health expenditure and a life loss of around 10,000 billion, while ozone pollution could contribute to GDP loss by 0.09% (equivalent to 78 billion CNY), 310 billion CNY in health expenditure, and a life loss of 2300 billion CNY (equivalent to 2.7% of GDP). By contrast, with control policies, the GDP and VSLs loss in 2030 attributable to ambient air pollution could be reduced significantly. We also find that the health and economic impacts of ozone pollution are significantly lower than PM<sub>2.5</sub>, but are much more difficult to mitigate. The Chinese government should promote air pollution control policies that could jointly reduce PM<sub>2.5</sub> and ozone pollution.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Economics and Management, Beihang University, Beijing 100191, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Hancheng</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Sciences and Engineering, Peking University, Beijing 100871, China. Electronic address: dai.hancheng@pku.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yanxu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Atmospheric Sciences, Nanjing University, Nanjing, Jiangsu, China. Electronic address: zhangyx@nju.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yazhen</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Environmental Sciences and Engineering, Peking University, Beijing 100871, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanaoka</LastName>
+                    <ForeName>Tatsuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Social and Environmental Systems Research, National Institute for Environmental Studies, 16-2 Onogawa, Tsukuba-City, Ibaraki 305-8506, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masui</LastName>
+                    <ForeName>Toshihiko</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Social and Environmental Systems Research, National Institute for Environmental Studies, 16-2 Onogawa, Tsukuba-City, Ibaraki 305-8506, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Economic impact</Keyword>
+            <Keyword MajorTopicYN="N">Health assessment</Keyword>
+            <Keyword MajorTopicYN="N">IMED model</Keyword>
+            <Keyword MajorTopicYN="N">PM(2.5) and ozone pollution</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200152</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)31053-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.075</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

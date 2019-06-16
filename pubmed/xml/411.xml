@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199987</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7980</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer letters</Title>
+                <ISOAbbreviation>Cancer Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The circular RNA circ-Ccnb1 dissociates Ccnb1/Cdk1 complex suppressing cell invasion and tumorigenesis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3835(19)30331-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.canlet.2019.05.036</ELocationID>
+            <Abstract>
+                <AbstractText>Circular RNAs represent a large class of non-coding RNAs that are extensively expressed in mammals. However, the functions of circular RNAs are largely unknown. We recently reported that the circular RNA circ-Ccnb1 could bind with H2AX in p53 mutant cells and suppressed mutant p53 in tumor progression. Here we found that circ-Ccnb1 could interact with both Ccnb1 and Cdk1 proteins. Normally, Ccnb1 and Cdk1 proteins form a complex, allowing Ccnb1 to function as an all-or-none switch for cell mitosis. The interaction of circ-Ccnb1 with Ccnb1 and Cdk1 proteins dissociated the formation of Ccnb1-Cdk1 complex, by forming a large complex containing circ-Ccnb1, Ccnb1 and Cdk1. Formation of this large complex may occur in cytosol and nuclei, and Ccnb1 loses its roles in enhancing cell migration, invasion, proliferation and survival. In vivo, ectopic delivery of circ-Ccnb1 inhibited tumor growth and extended mouse viability. These results have added another layer of mechanisms for circ-Ccnb1 to regulate tumor progression in vitro and in vivo.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Research Institute, Toronto, Canada; China-Japan Union Hospital of Jilin University, Jilin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>William W</ForeName>
+                    <Initials>WW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Research Institute, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Awan</LastName>
+                    <ForeName>Faryal Mehwish</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Research Institute, Toronto, Canada; Atta-ur-Rahman School of Applied Biosciences (ASAB), National University of Sciences and Technology (NUST), H-12, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Research Institute, Toronto, Canada; The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China. Electronic address: dongjunrain@sina.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Burton B</ForeName>
+                    <Initials>BB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunnybrook Research Institute, Toronto, Canada; Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Canada. Electronic address: byang@sri.utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Cancer Lett</MedlineTA>
+            <NlmUniqueID>7600053</NlmUniqueID>
+            <ISSNLinking>0304-3835</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ccnb1</Keyword>
+            <Keyword MajorTopicYN="N">Cdk1</Keyword>
+            <Keyword MajorTopicYN="N">circ-Ccnb1</Keyword>
+            <Keyword MajorTopicYN="N">circular RNA</Keyword>
+            <Keyword MajorTopicYN="N">tumorigenesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199987</ArticleId>
+            <ArticleId IdType="pii">S0304-3835(19)30331-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.canlet.2019.05.036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

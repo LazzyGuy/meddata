@@ -1,0 +1,165 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198548</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2048-8505</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical kidney journal</Title>
+                <ISOAbbreviation>Clin Kidney J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Middle molecule elimination in expanded haemodialysis: only convective transport?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>447-455</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ckj/sfy097</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">New high-retention onset dialysers have shown improved efficacy in the elimination of uraemic toxins, and their depurative capacity has been compared with high convective volumes of online haemodiafiltration. Haemodialysis (HD) using high-flux membranes leads to convective transport by internal filtration [direct filtration (DF)/backfiltration (BF)] and allows the removal of middle molecules (MMs). The aim of this study was to assess solute transport mechanisms in expanded HD (HDx).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">In 14 4-h HDx sessions with Theranova-500 dialysers under similar dialysis conditions (blood flow 400 mL/min, dialysate flow 700 mL/min, dialysate temperature 35.5°C), pressures at the inlet and outlet of both dialyser compartments (<i>P</i><sub>bi</sub>, <i>P</i><sub>bo</sub>, <i>P</i><sub>di</sub> and <i>P</i><sub>do</sub>) were collected hourly to estimate DF/BF volumes by semi-empirical methods. Uraemic toxins with various molecular weights were measured pre-dialysis, at 1 h (pre-filter and post-filter) and post-dialysis to calculate molecules' reduction over time and dialyser <i>in vivo</i> clearances.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Ultrafiltration was 1.47 ± 0.9 L and Kt/V 1.74 ± 0.3. Hydrodynamic data (<i>P</i><sub>bi</sub>: 259 ± 39, <i>P</i><sub>bo</sub>: 155 ± 27, <i>P</i><sub>di</sub>: 271 ± 30, <i>P</i><sub>do</sub>: 145 ± 29 mmHg and oncotic pressure 22.0 ± 3.5 mmHg) allowed the estimation of DF/BF rates. DF flow ranged from 29.5 ± 4.2 to 31.3 ± 3.9 mL/min and BF flow ranged from 25.1 ± 2.3 to 23.4 ± 2.6 mL/min. The highest calculated DF volume was 7506.8 ± 935.3 mL/session. Diffusive clearances (<i>K</i><sub>d</sub>) of all solutes were higher than their convective transport (all P &lt; 0.001) except for prolactin (23 kDa) clearances, which showed no differences. Total clearances of all solutes were correlated with their <i>K</i><sub>d</sub> (ρ = 0.899-0.987, all P &lt; 0.001) and Kt/V correlated with all reduction rates (ρ = 0.661-0.941, P = 0.010 to &lt;0.001). DF flow was only associated with urea (ρ = -0.793, P = 0.001), creatinine (ρ = -0.675, P = 0.008) and myoglobin clearance (ρ = 0.653, P = 0.011).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Results suggest that diffusive transport is a main mechanism of MM elimination in HDx. HDx offers an efficient depuration of MM without the need for high convective volumes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Macías</LastName>
+                    <ForeName>Nicolás</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vega</LastName>
+                    <ForeName>Almudena</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abad</LastName>
+                    <ForeName>Soraya</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aragoncillo</LastName>
+                    <ForeName>Inés</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García-Prieto</LastName>
+                    <ForeName>Ana María</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Alba</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torres</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luño</LastName>
+                    <ForeName>Jose</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General Universitario Gregorio Marañón, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Kidney J</MedlineTA>
+            <NlmUniqueID>101579321</NlmUniqueID>
+            <ISSNLinking>2048-8505</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">backfiltration</Keyword>
+            <Keyword MajorTopicYN="N">expanded haemodialysis (HDx)</Keyword>
+            <Keyword MajorTopicYN="N">high-retention onset (HRO)</Keyword>
+            <Keyword MajorTopicYN="N">medium cut-off (MCO)</Keyword>
+            <Keyword MajorTopicYN="N">middle molecules</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198548</ArticleId>
+            <ArticleId IdType="doi">10.1093/ckj/sfy097</ArticleId>
+            <ArticleId IdType="pii">sfy097</ArticleId>
+            <ArticleId IdType="pmc">PMC6543970</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

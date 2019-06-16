@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199818</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Immunoglobulin G structure and rheumatoid factor epitopes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217624</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217624</ELocationID>
+            <Abstract>
+                <AbstractText>Antibodies are important for immunity and exist in several classes (IgM, IgD, IgA, IgG, IgE). They are composed of symmetric dimeric molecules with two antigen binding regions (Fab) and a constant part (Fc), usually depicted as Y-shaped molecules. Rheumatoid factors found in patients with rheumatoid arthritis are autoantibodies binding to IgG and paradoxically appear to circulate in blood alongside with their antigen (IgG) without reacting with it. Here, it is shown that rheumatoid factors do not react with native IgG in solution, and that their epitopes only become accessible upon certain physico-chemical treatments (e.g. heat treatment at 57 °C), by physical adsorption on a hydrophobic surface or by antigen binding. Moreover, chemical cross-linking in combination with mass spectrometry showed that the native state of IgG is a compact (closed) form and that the Fab parts of IgG shield the Fc region and thereby control access of rheumatoid factors and presumably also some effector functions. It can be inferred that antibody binding to pathogen surfaces induces a conformational change, which exposes the Fc part with its effector sites and rheumatoid factor epitopes. This has strong implications for understanding antibody structure and physiology and necessitates a conceptual reformulation of IgG models.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maibom-Thomsen</LastName>
+                    <ForeName>Sheila Lefoli</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trier</LastName>
+                    <ForeName>Nicole Hartwig</ForeName>
+                    <Initials>NH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Autoimmunology, Statens Serum Institut, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holm</LastName>
+                    <ForeName>Bettina Eide</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Autoimmunology, Statens Serum Institut, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansen</LastName>
+                    <ForeName>Kirsten Beth</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Autoimmunology, Statens Serum Institut, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasmussen</LastName>
+                    <ForeName>Morten Ib</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chailyan</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marcatili</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinformatics, Technical University of Denmark, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Højrup</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Houen</LastName>
+                    <ForeName>Gunnar</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5948-4156</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Autoimmunology, Statens Serum Institut, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Statens Serum Institut has filed a patent application (EP 18169502.4) on the use of heat-treated immunoglobulins in immunoassays with GH as inventor. This does not alter our adherence to PLOS ONE policies on sharing data and materials.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199818</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217624</ArticleId>
+            <ArticleId IdType="pii">PONE-D-18-35030</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198605</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2090-004X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of ophthalmology</Title>
+                <ISOAbbreviation>J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Threshold Values of Myopic Anisometropia Causing Loss of Stereopsis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2654170</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/2654170</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">The aim of the study was to determine the threshold values of myopic anisometropia that lead to the loss of stereoacuity in most of patients.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Forty healthy subjects were included in the study. The inclusion criteria were as follows: lack of any functional or morphological ophthalmological disorders, or detectable damage to the visual system, anisometropia equal or less than 0.25 D in a spherical equivalent, and full stereoscopic vision for near and for distance. Myopic anisometropia was evoked by placing different focusing lenses in front of the right eye of the subject in the trial frame. Stereoscopic vision was assessed with the use of the Titmus test (dots) (Stereo Fly Test Stereo Optical Co. Inc.) for near and the Randot test for distance (Distance Randot Stereotest Stereo Optical Co. Inc.).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The threshold values for different types of myopic anisometropia for the loss of stereopsis in more than 50% of patients were determined. For near, this value was 3 D for sphere and &quot;against the rule astigmatism&quot; and 4 D for &quot;with the rule astigmatism&quot;. For distance, the values were 2 D for sphere and &quot;against the rule astigmatism&quot; and 3 D for &quot;with the rule astigmatism.&quot; <i>Conclusions</i>. Myopic anisometropia of more than 2 D can cause a significant impairment of binocular vision. Stereoacuity at distance is more sensitive to myopic anisometropia than stereoacuity at near. Myopic anisometropia involving &quot;against the rule&quot; astigmatism potentially affects binocularity more than anisometropia with regular astigmatism. A prompt correction of anisometropia of more than 2 D is needed in children to prevent the development of amblyopia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gawęcki</LastName>
+                    <ForeName>Maciej</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">0000-0003-2901-0248</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dobry Wzrok Ophthalmological Clinic, Kliniczna 1B/2, 80-402 Gdansk, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101524199</NlmUniqueID>
+            <ISSNLinking>2090-004X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198605</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/2654170</ArticleId>
+            <ArticleId IdType="pmc">PMC6526573</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

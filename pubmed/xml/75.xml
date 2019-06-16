@@ -1,0 +1,172 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200339</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-1705</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>74</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International immunopharmacology</Title>
+                <ISOAbbreviation>Int. Immunopharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interleukin-25 is upregulated in patients with systemic lupus erythematosus and ameliorates murine lupus by inhibiting inflammatory cytokine production.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>105680</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-5769(19)30853-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.intimp.2019.105680</ELocationID>
+            <Abstract>
+                <AbstractText>Interleukin-25 (IL-25), an anti-inflammatory member of the IL-17 family of cytokines, has been extensively investigated in multiple autoimmune and inflammatory diseases. However, its pathogenic role in systemic lupus erythematosus (SLE) remains largely unknown. This study aimed to explore the expression and clinical significance of IL-25 in patients with SLE as well as its pathogenic role in lupus-prone MRL/lpr mice. The results showed that IL-25 mRNA and serum levels were increased in patients with SLE compared with those in healthy controls. Higher IL-25 mRNA and serum levels were found in patients with an active disease. IL-25 levels were positively associated with SLEDAI, anti-dsDNA, and IgG but negatively associated with C3 and C4. Ex vivo assay showed that IL-25 could inhibit the production of the inflammatory cytokines IL-1β, IL-17, IL-6, and IFN-γ as well as TNF-α in the peripheral blood mononuclear cells in patients with SLE. In vivo studies revealed that treatment with IL-25 significantly ameliorated lupus symptoms in lupus-prone MRL/lpr mice by suppressing the production of inflammatory cytokines, including IL-1α, IL-1β, IL-6, IL-12p70, IL-17A, and IFN-β. Cumulatively, our results suggest that IL-25 levels are increased in patients with SLE and associated with disease activity; IL-25 plays a potent immunosuppressive role in the pathogenesis of SLE by suppressing the production of inflammatory cytokines. IL-25 could potentially be used as a diagnostic and therapeutic target for SLE treatment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yongsheng</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, Lianshui County People's Hospital, No. 6 Hongri Road, Lianshui, Huai'an 224600, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Shanshan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Wenyou</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ju</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Deqian</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The Affiliated Huai'an No. 1 People's Hospital of Nanjing Medical University, No. 6 West Road, Huai'an, Beijing 223300, China. Electronic address: deqian03@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Immunopharmacol</MedlineTA>
+            <NlmUniqueID>100965259</NlmUniqueID>
+            <ISSNLinking>1567-5769</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Disease activity</Keyword>
+            <Keyword MajorTopicYN="N">Inflammatory cytokine</Keyword>
+            <Keyword MajorTopicYN="N">Interleukin-25</Keyword>
+            <Keyword MajorTopicYN="N">Systemic lupus erythematosus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200339</ArticleId>
+            <ArticleId IdType="pii">S1567-5769(19)30853-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.intimp.2019.105680</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

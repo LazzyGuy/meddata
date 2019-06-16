@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200287</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2120</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>89</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic chemistry</Title>
+                <ISOAbbreviation>Bioorg. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Potent inhibition of acetylcholinesterase by sargachromanol I from Sargassum siliquastrum and by selected natural compounds.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103043</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-2068(19)30483-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bioorg.2019.103043</ELocationID>
+            <Abstract>
+                <AbstractText>Six hundred forty natural compounds were tested for acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) inhibitory activities. Of those, sargachromanol I (SCI) and G (SCG) isolated from the brown alga Sargassum siliquastrum, dihydroberberine (DB) isolated from Coptis chinensis, and macelignan (ML) isolated from Myristica fragrans, potently and effectively inhibited AChE with IC<sub>50</sub> values of 0.79, 1.81, 1.18, and 4.16 µM, respectively. SCI, DB, and ML reversibly inhibited AChE and showed mixed, competitive, and noncompetitive inhibition, respectively, with K<sub>i</sub> values of 0.63, 0.77, and 4.46 µM, respectively. Broussonin A most potently inhibited BChE (IC<sub>50</sub> = 4.16 µM), followed by ML, SCG, and SCI (9.69, 10.79, and 13.69 µM, respectively). In dual-targeting experiments, ML effectively inhibited monoamine oxidase B with the greatest potency (IC<sub>50</sub> = 7.42 µM). Molecular docking simulation suggested the binding affinity of SCI (-8.6 kcal/mol) with AChE was greater than those of SCG (-7.9 kcal/mol) and DB (-8.2 kcal/mol). Docking simulation indicated SCI interacts with AChE at Trp81, and that SCG interacts at Ser119. No hydrogen bond was predicted for the interaction between AChE and DB. This study suggests SCI, SCG, DB, and ML be viewed as new reversible AChE inhibitors and useful lead compounds for the development for the treatment of Alzheimer's disease.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jae Pil</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, and Research Institute of Life Pharmaceutical Sciences, Sunchon National University, Suncheon 57922, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Myung-Gyun</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Predictive Toxicology, Korea Institute of Toxicology, Daejeon 34114, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joon Yeop</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Development Institute of Korean Medicine, Gyeongsan 38540, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Jong Min</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, and Research Institute of Life Pharmaceutical Sciences, Sunchon National University, Suncheon 57922, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baek</LastName>
+                    <ForeName>Seung Cheol</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, and Research Institute of Life Pharmaceutical Sciences, Sunchon National University, Suncheon 57922, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leem</LastName>
+                    <ForeName>Hyun Hee</ForeName>
+                    <Initials>HH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Development Institute of Korean Medicine, Gyeongsan 38540, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Daeui</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Predictive Toxicology, Korea Institute of Toxicology, Daejeon 34114, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Myoung-Lae</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Development Institute of Korean Medicine, Gyeongsan 38540, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hoon</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, and Research Institute of Life Pharmaceutical Sciences, Sunchon National University, Suncheon 57922, Republic of Korea. Electronic address: hoon@sunchon.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Bioorg Chem</MedlineTA>
+            <NlmUniqueID>1303703</NlmUniqueID>
+            <ISSNLinking>0045-2068</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acetylcholinesterase</Keyword>
+            <Keyword MajorTopicYN="N">Butyrylcholinesterase</Keyword>
+            <Keyword MajorTopicYN="N">Docking simulation</Keyword>
+            <Keyword MajorTopicYN="N">Monoamine oxidase</Keyword>
+            <Keyword MajorTopicYN="N">Sargachromanol I</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200287</ArticleId>
+            <ArticleId IdType="pii">S0045-2068(19)30483-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bioorg.2019.103043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

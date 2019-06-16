@@ -1,0 +1,163 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198984</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1897-5631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Folia histochemica et cytobiologica</Title>
+                <ISOAbbreviation>Folia Histochem. Cytobiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>WNT5A gene and protein expression in endometrial cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5603/FHC.a2019.0010</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">WNT5A (Wnt family member 5A) belongs to the WNT family of secreted signaling glycoproteins that play essential role in developmental, physiological and pathological processes. WNT5A was shown to take part in carcinogenesis process playing both oncogenic and suppressor functions in various types of human malignancies. This study aimed to assess the expression of the WNT5A gene at the mRNA and protein levels in the specimens derived from endometrial cancer (EC) or unchanged control endometrium. The associations between the WNT5A expression levels and clinicopathological characteristics and survival of EC patients were evaluated.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Total RNA was isolated in order to assess the relative amounts of WNT5A mRNA by quantitative polymerase chain reaction (QPCR) in samples of unchanged endometrial control (n = 8) and tumor tissues of EC patients (n = 28). Immunohistochemistry (IHC) was used to determine the presence of WNT5A protein in the sections of formalin-fixed, paraffin-embedded tissue specimens derived from unchanged endometrial controls (n = 6) and EC tumors (n = 19). Significance of differences in WNT5A expression levels between the studied groups of EC patients and correlations between the WNT5A and demographic data, pathological features, hematological parameters and overall survival of the patients were evaluated by statistical analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The level of WNT5A mRNA was decreased in EC in comparison to unchanged endometrium. WNT5A expression and influenced by was associated with primary tumor invasion status, exhibiting reduced level of transcripts in EC that involved organs beyond the uterus when compared to the uterus-confined cancers. WNT5A immunoreactivity was visualized in the cytoplasm and nuclei of EC cells as well as in the luminal and glandular epithelial cells of unchanged endometrium. WNT5A mRNA expression levels correlated negatively with cytoplasmic, and positively with nuclear immunoreactivity of the WNT5A protein in the EC cells. In addition, the relationships between blood leucocyte count (in particular granulocytes and lymphocytes) of patients with EC and their WNT5A mRNA and protein expression levels were established. A positive correlation between the nuclear immunoexpression of WNT5A protein in the cancer cells in cell nuclei and mean platelet volume in blood was also found.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of the first study of WNT5A expression at the transcript and protein levels indicate that it could be considered as a potential marker of molecular changes that take place during EC development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wasniewski</LastName>
+                    <ForeName>Tomasz</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics, Perinatology and Gynecology, School of Medicine, Collegium Medicum, University of Warmia and Mazury, Olsztyn, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiezun</LastName>
+                    <ForeName>Jacek</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Histology and Embryology, School of Medicine, Collegium Medicum, University of Warmia and Mazury, Olsztyn, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krazinski</LastName>
+                    <ForeName>Bartlomiej E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Histology and Embryology, School of Medicine, Collegium Medicum, University of Warmia and Mazury, Olsztyn, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kowalczyk</LastName>
+                    <ForeName>Anna E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Histology and Embryology, School of Medicine, Collegium Medicum, University of Warmia and Mazury, Olsztyn, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szostak</LastName>
+                    <ForeName>Blazej</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathomorphology, The Regional Specialist Hospital, Olsztyn, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wierzbicki</LastName>
+                    <ForeName>Piotr M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Histology, Medical University of Gdansk, Gdansk, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiewisz</LastName>
+                    <ForeName>Jolanta</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0002-2738-8952</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Histology and Embryology, School of Medicine, Collegium Medicum, University of Warmia and Mazury, Olsztyn, Poland. jolanta.kiewisz@uwm.edu.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Folia Histochem Cytobiol</MedlineTA>
+            <NlmUniqueID>8502651</NlmUniqueID>
+            <ISSNLinking>0239-8508</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IHC</Keyword>
+            <Keyword MajorTopicYN="N">QPCR</Keyword>
+            <Keyword MajorTopicYN="N">WNT5A expression</Keyword>
+            <Keyword MajorTopicYN="N">endometrial cancer</Keyword>
+            <Keyword MajorTopicYN="N">platelets volume</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198984</ArticleId>
+            <ArticleId IdType="pii">VM/OJS/J/64384</ArticleId>
+            <ArticleId IdType="doi">10.5603/FHC.a2019.0010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

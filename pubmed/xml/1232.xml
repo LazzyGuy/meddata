@@ -1,0 +1,176 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199066</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1582-4934</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular and molecular medicine</Title>
+                <ISOAbbreviation>J. Cell. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-140 modulates the inflammatory responses of Mycobacterium tuberculosis-infected macrophages by targeting TRAF6.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jcmm.14472</ELocationID>
+            <Abstract>
+                <AbstractText>This study aimed to examine miR-140 expression in clinical samples from tuberculosis (TB) patients and to explore the molecular mechanisms of miR-140 in host-bacterial interactions during Mycobacterium tuberculosis (M tb) infections. The miR-140 expression and relevant mRNA expression were detected by quantitative real-time PCR (qRT-PCR); the protein expression levels were analysed by ELISA and western blot; M tb survival was measured by colony formation unit assay; potential interactions between miR-140 and the 3' untranslated region (UTR) of tumour necrosis factor receptor-associated factor 6 (TRAF6) was confirmed by luciferase reporter assay. MiR-140 was up-regulated in the human peripheral blood mononuclear cells (PBMCs) from TB patients and in THP-1 and U937 cells with M tb infection. Overexpression of miR-140 promoted M tb survival; on the other hand, miR-140 knockdown attenuated M tb survival. The pro-inflammatory cytokines including interleukin 6, tumour necrosis-α, interleukin-1β and interferon-γ were enhanced by M tb infection in THP-1 and U937 cells. MiR-140 overexpression reduced these pro-inflammatory cytokines levels in THP-1 and U937 cells with M tb infection; while knockdown of miR-140 exerted the opposite actions. TRAF6 was identified to be a downstream target of miR-140 and was negatively modulated by miR-140. TRAF6 overexpression increased the pro-inflammatory cytokines levels and partially restored the suppressive effects of miR-140 overexpression on pro-inflammatory cytokines levels in THP-1 and U937 cells with M tb infection. In conclusion, our results implied that miR-140 promoted M tb survival and reduced the pro-inflammatory cytokines levels in macrophages with M tb infection partially via modulating TRAF6 expression.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &amp; Sons Ltd and Foundation for Cellular and Molecular Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xiaofei</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0912-2050</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Science and Technology, Xi'an Jiaotong University, Xi'an City, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Shan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Tingting</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Guiliang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hongwei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pu</LastName>
+                    <ForeName>Dong</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, The Third People's Hospital of Kunming City, Kunming, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Niancai</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Science and Technology, Xi'an Jiaotong University, Xi'an City, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Mechanical Engineering, Xi'an Jiaotong University, Xi'an City, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2017-1-S-14617</GrantID>
+                    <Agency>Science and Technology Program of Kunming City</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Mol Med</MedlineTA>
+            <NlmUniqueID>101083777</NlmUniqueID>
+            <ISSNLinking>1582-1838</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+Mycobacterium tuberculosis
+</Keyword>
+            <Keyword MajorTopicYN="N">M tb survival</Keyword>
+            <Keyword MajorTopicYN="N">TRAF6</Keyword>
+            <Keyword MajorTopicYN="N">human peripheral blood mononuclear cells</Keyword>
+            <Keyword MajorTopicYN="N">miR-140</Keyword>
+            <Keyword MajorTopicYN="N">pro-inflammatory cytokines</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199066</ArticleId>
+            <ArticleId IdType="doi">10.1111/jcmm.14472</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

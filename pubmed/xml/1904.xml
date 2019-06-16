@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198219</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-4668</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vestnik otorinolaringologii</Title>
+                <ISOAbbreviation>Vestn. Otorinolaringol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The research activities based at the Department of Otorhinolaryngology of the Rostov State Medical University].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>65-69</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17116/otorino20198402165</ELocationID>
+            <Abstract>
+                <AbstractText>This article reports the results of the main fields of the scientific activities carried out by the research personnel of the Department of Otorhinolaryngology of the Rostov State Medical University. In addition the data on the history of the Department are presented beginning from the time of its foundation, together with the characteristic of its ongoing work and the main tendencies of its further development. The most important publications of the scientists of the Department are listed, the new research areas and prospects for the future studies and practical works along these lines are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kiselev</LastName>
+                    <ForeName>V V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otorhinolaryngology of the Rostov State Medical University, Ministry of Health of the Russian Federation, Rostov-on-Don, Russia, 344022.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Nauchnaia rabota LOR-kafedry Rostovskogo gosudarstvennogo meditsinskogo universiteta.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Vestn Otorinolaringol</MedlineTA>
+            <NlmUniqueID>0416577</NlmUniqueID>
+            <ISSNLinking>0042-4668</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Проведен анализ основных направлений научной работы коллектива кафедры болезней уха, горла и носа РостГМУ. Отражена история кафедры, традиционные направления научной работы с момента основания кафедры, а также современное состояние и основные тенденции развития. Приведены наиболее важные публикации, определены новые направления и перспективы научной и практической работы коллектива.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Department of Otorhinolaryngology of the Rostov State Medical University</Keyword>
+            <Keyword MajorTopicYN="N">diseases of the nose and paranasal sinuses</Keyword>
+            <Keyword MajorTopicYN="N">history of the Department</Keyword>
+            <Keyword MajorTopicYN="N">nasal hemorrhage</Keyword>
+            <Keyword MajorTopicYN="N">scientific activities</Keyword>
+            <Keyword MajorTopicYN="N">sensorineural hearing impairment</Keyword>
+            <Keyword MajorTopicYN="N">vestibular research</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198219</ArticleId>
+            <ArticleId IdType="doi">10.17116/otorino20198402165</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

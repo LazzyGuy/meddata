@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199898</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-6259</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Annals of thoracic surgery</Title>
+                <ISOAbbreviation>Ann. Thorac. Surg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prognostic Value of Preoperative Red Cell Distribution Width: Fine-Tuning by Mean Corpuscular Volume.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0003-4975(19)30818-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.athoracsur.2019.04.072</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Abnormal red cell distribution width (RDW), reflecting heterogeneity of red blood cell (RBC) size, is associated with cardiovascular disease outcomes. However, it is unclear whether RBC size itself, expressed as mean corpuscular volume (MCV), provides additional prognostic value. Therefore, we investigated the relationship between outcomes after cardiac surgery and both RDW and MCV simultaneously.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">From 1/2010-1/2014, 16,097 patients underwent cardiac surgery at Cleveland Clinic and had complete blood count findings available for analysis. Outcomes included RBC transfusion, postoperative complications, and intensive care unit (ICU) and postoperative hospital lengths of stay. Risk-adjusted associations of RDW and MCV with outcomes and their relative importance in predicting outcome were identified by random forest machine learning.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">High RDW was associated with more RBC transfusions. Except for postoperative atrial fibrillation, risks of complications and ICU and postoperative lengths of stay were at their minimum when RDW was normal, 13%-14%. The relationship of MCV to complications was U-shaped: high (macrocytosis) and low (microcytosis) values were associated with higher risk. RDW was an important risk factor for most postoperative outcomes and lengths of stay; MCV less so, but it provided prognostic value in addition to RDW alone, particularly when there was macrocytosis.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Abnormal RDW and MCV is associated with higher risk of transfusion and postoperative outcomes after cardiac surgery. RDW is one of the most important variables in predicting outcomes, but MCV provides additional prognostic value. Both should be taken into consideration when estimating the perioperative risk of patients undergoing cardiac surgery.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Cleveland Clinic, Cleveland, OH.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mick</LastName>
+                    <ForeName>Stephanie L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic and Cardiovascular Surgery.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCrae</LastName>
+                    <ForeName>Keith R</ForeName>
+                    <Initials>KR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology and Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Houghtaling</LastName>
+                    <ForeName>Penny L</ForeName>
+                    <Initials>PL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Quantitative Health Sciences, Johns Hopkins Medicine, Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blackstone</LastName>
+                    <ForeName>Eugene H</ForeName>
+                    <Initials>EH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic and Cardiovascular Surgery; Department of Quantitative Health Sciences, Johns Hopkins Medicine, Baltimore, MD. Electronic address: blackse@ccf.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koch</LastName>
+                    <ForeName>Colleen G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology and Critical Care Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Ann Thorac Surg</MedlineTA>
+            <NlmUniqueID>15030100R</NlmUniqueID>
+            <ISSNLinking>0003-4975</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199898</ArticleId>
+            <ArticleId IdType="pii">S0003-4975(19)30818-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.athoracsur.2019.04.072</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

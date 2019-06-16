@@ -1,0 +1,201 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200124</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-5875</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The international journal of biochemistry &amp; cell biology</Title>
+                <ISOAbbreviation>Int. J. Biochem. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The RNA-binding protein SRSF1 is a key cell cycle regulator via stabilizing NEAT1 in glioma.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1357-2725(19)30126-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biocel.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>The relevance of RNA processing has been increasingly recognized in a variety of diseases. We previously identified serine/arginine-rich splicing factor 1 (SRSF1) as an oncodriver in glioma via splicing control. However, its splicing-independent roles and mechanisms are poorly defined in glioma. In this study, by integrating the data mining of SRSF1-co-expressed genes, SRSF1-affected genes and experimental studies, we demonstrated that SRSF1 was the most highly expressed SRSF in the 9 tumor types tested, and it was a crucial cell cycle regulator in glioma. Importantly, we identified nuclear paraspeckle assembly transcript1 (NEAT1), an upregulated long non-coding RNA (lncRNA) in glioma, as a target of SRSF1. Endogenous NEAT1 inhibition resembled the effect of SRSF1 knockdown on glioma cell proliferation by retarding cell cycle. Mechanistically, we proved that SRSF1 bound to NEAT1 and facilitated its RNA stability. The positive correlation between SRSF1 and NEAT1 levels in cancers further supported the positive regulation of NEAT1 by SRSF1. Collectively, our results provide novel insights on the splicing-independent mechanisms of SRSF1 in glioma, and confirm that NEAT1, whose stability maintained by SRSF1, implicates gliomagenesis by regulating cell cycle. Both SRSF1 and NEAT1 may serve as promising targets for antineoplastic therapies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Xuexia</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xuebing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment, Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences of Tianjin Medical University, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Run</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hua</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Cuijuan</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Cuiyun</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Wenjun</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Chun</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Zhendong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Shizhu</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropathology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, Tianjin, China; Tianjin Key Laboratory of Injuries, Variations and Regeneration of the Nervous System, Tianjin, China; Key Laboratory of Post-trauma Neuro-repair and Regeneration in Central Nervous System, Ministry of Education, Tianjin, China. Electronic address: tjyushizhu@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Biochem Cell Biol</MedlineTA>
+            <NlmUniqueID>9508482</NlmUniqueID>
+            <ISSNLinking>1357-2725</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Glioma</Keyword>
+            <Keyword MajorTopicYN="N">NEAT1</Keyword>
+            <Keyword MajorTopicYN="N">RNA stability</Keyword>
+            <Keyword MajorTopicYN="N">SRSF1</Keyword>
+            <Keyword MajorTopicYN="N">cell cycle progression</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200124</ArticleId>
+            <ArticleId IdType="pii">S1357-2725(19)30126-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biocel.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

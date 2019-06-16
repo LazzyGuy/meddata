@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198833</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-3409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Data in brief</Title>
+                <ISOAbbreviation>Data Brief</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Data on trace element concentrations in coal and host rock and leaching product in different pH values and open/closed environments.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104053</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dib.2019.104053</ELocationID>
+            <Abstract>
+                <AbstractText>The data presented in this article are related to the research article entitled &quot;Multivariate analysis of trace elements leaching from coal and host rock&quot; [1]. During coal mining, coal and host rock undergo water-rock interaction, leading to release of trace elements to surface and ground water. The batch experiments were designed and implemented to investigate the leaching behavior and mechanisms during the process of water-rock interaction. In different experimental sets, various types of leaching water, open/closed environments, temperature, and initial pH values were used to evaluate their impact on leaching of trace elements. These data could be used to analyze leaching mechanisms of trace elements from coal and host rock, and understand, predict, control trace elements' contamination to surrounding waters.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shan</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Safety Engineering, North China Institute of Science and Technology, Yanjiao, 101601, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Wenfeng</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Resource and Earth Science, China University of Mining and Technology, Xuzhou, 221116, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Resource and Earth Science, China University of Mining and Technology, Xuzhou, 221116, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Data Brief</MedlineTA>
+            <NlmUniqueID>101654995</NlmUniqueID>
+            <ISSNLinking>2352-3409</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Coal</Keyword>
+            <Keyword MajorTopicYN="N">Coal host rock</Keyword>
+            <Keyword MajorTopicYN="N">Leaching mechanism</Keyword>
+            <Keyword MajorTopicYN="N">Trace elements</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198833</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dib.2019.104053</ArticleId>
+            <ArticleId IdType="pii">S2352-3409(19)30406-8</ArticleId>
+            <ArticleId IdType="pii">104053</ArticleId>
+            <ArticleId IdType="pmc">PMC6556551</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

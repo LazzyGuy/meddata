@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199049</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0261</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular oncology</Title>
+                <ISOAbbreviation>Mol Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aberrantly expressed PLOD1 promotes cancer aggressiveness in bladder cancer: a potential prognostic marker and therapeutic target.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/1878-0261.12532</ELocationID>
+            <Abstract>
+                <AbstractText>Bladder cancer (BC) is the ninth most malignant tumor worldwide. Some BC patients will develop muscle-invasive BC (MIBC), which has a 5-year survival rate of approximately 60% due to metastasis. As such, there is an urgent need for novel therapeutic and diagnostic targets for MIBC. Analysis of novel antitumor-microRNA (miRNA)-mediated cancer networks is an effective strategy for exploring therapeutic targets and prognostic markers in cancers. Our previous miRNA analysis revealed that miR-140-5p acts as an antitumor miRNA in BC cells. Here, we investigated miR-140-5p regulation of BC molecular pathogenesis. Procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1 (PLOD1) was found to be directly regulated by miR-140-5p, and aberrant expression of PLOD1 was observed in BC clinical specimens. High PLOD1 expression was significantly associated with a poor prognosis (disease-free survival: P = 0.0204; overall survival: P = 0.000174). Multivariate analysis showed PLOD1 expression to be an independent prognostic factor in BC patients (hazard ratio = 1.51, P = 0.0099). Furthermore, downregulation of PLOD1 by siRNAs and a specific inhibitor significantly decreased BC cell aggressiveness. Aberrant expression of PLOD1 was closely associated with BC pathogenesis. In summary, the present study showed that PLOD1 may be a potential prognostic marker and therapeutic target for BC.</AbstractText>
+                <CopyrightInformation>Molecular Oncology 2019 © 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamada</LastName>
+                    <ForeName>Yasutaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Functional Genomics, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>Mayuko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Functional Genomics, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arai</LastName>
+                    <ForeName>Takayuki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Functional Genomics, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanada</LastName>
+                    <ForeName>Hiroki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pulmonary Medicine, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchida</LastName>
+                    <ForeName>Akifumi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pulmonary Medicine, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misono</LastName>
+                    <ForeName>Shunsuke</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pulmonary Medicine, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakamoto</LastName>
+                    <ForeName>Shinichi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Komiya</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ichikawa</LastName>
+                    <ForeName>Tomohiko</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seki</LastName>
+                    <ForeName>Naohiko</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Functional Genomics, Chiba University Graduate School of Medicine, Chiba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Oncol</MedlineTA>
+            <NlmUniqueID>101308230</NlmUniqueID>
+            <ISSNLinking>1574-7891</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PLOD1</Keyword>
+            <Keyword MajorTopicYN="N">bladder cancer</Keyword>
+            <Keyword MajorTopicYN="N">inhibitor</Keyword>
+            <Keyword MajorTopicYN="N">miR-140-5p</Keyword>
+            <Keyword MajorTopicYN="N">microRNA</Keyword>
+            <Keyword MajorTopicYN="N">passenger strand</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199049</ArticleId>
+            <ArticleId IdType="doi">10.1002/1878-0261.12532</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

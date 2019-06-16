@@ -1,0 +1,148 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200252</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-562X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>129</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioelectrochemistry (Amsterdam, Netherlands)</Title>
+                <ISOAbbreviation>Bioelectrochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of the number of electric pulses on cell electrochemotherapy in vitro: Limits of linearity and saturation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>218-227</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-5394(19)30161-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bioelechem.2019.05.021</ELocationID>
+            <Abstract>
+                <AbstractText>In this study the evolution in the efficiency of electrochemotherapy (reversible electroporation) with pulse number was assessed in vitro. Experiments were performed using 100 μs pulses at different electric field intensities and the chemotherapeutic agent bleomycin. Additionally, electrical impedance spectroscopy measurements were used as a different method to study in real time the changes produced on cells with pulse number during trains of consecutive pulses. Our results show that the relation between pulse number and the observed outcome is complex and difficult to fully characterize. This relation can display a highly linear behaviour up to a certain number of pulses and/or field intensity applied. However, the relation between the number of pulses and the observed outcome always evolves to a saturation or at least a reduction in the electric field effects that is displayed when either electric field intensity or pulse number are increased. An exponential model was found to best describe this relation within the range of experimental conditions considered. Electrical impedance measurements confirmed the results and gave a more precise quantification of this dependence. The study highlights the importance that pulse number has in the electrochemotherapy protocols and establishes some limits in the use of this parameter.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>García-Sánchez</LastName>
+                    <ForeName>Tomás</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vectorology and Anticancer Therapies, UMR 8203, CNRS, Univ. Paris-Sud, Gustave Roussy, Université Paris-Saclay, 94805 Villejuif, France. Electronic address: tomas.garcia-sanchez@outlook.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leray</LastName>
+                    <ForeName>Isabelle</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vectorology and Anticancer Therapies, UMR 8203, CNRS, Univ. Paris-Sud, Gustave Roussy, Université Paris-Saclay, 94805 Villejuif, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ronchetti</LastName>
+                    <ForeName>Mattia</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IGEA, Carpi, MO 41012, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cadossi</LastName>
+                    <ForeName>Ruggero</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IGEA, Carpi, MO 41012, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mir</LastName>
+                    <ForeName>Lluis M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vectorology and Anticancer Therapies, UMR 8203, CNRS, Univ. Paris-Sud, Gustave Roussy, Université Paris-Saclay, 94805 Villejuif, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Bioelectrochemistry</MedlineTA>
+            <NlmUniqueID>100953583</NlmUniqueID>
+            <ISSNLinking>1567-5394</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Electrochemotherapy</Keyword>
+            <Keyword MajorTopicYN="N">Number of pulses</Keyword>
+            <Keyword MajorTopicYN="N">Reversible electroporation</Keyword>
+            <Keyword MajorTopicYN="N">Saturation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200252</ArticleId>
+            <ArticleId IdType="pii">S1567-5394(19)30161-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bioelechem.2019.05.021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

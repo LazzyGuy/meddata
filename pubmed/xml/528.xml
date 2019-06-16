@@ -1,0 +1,271 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199860</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-2092</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology</Title>
+                <ISOAbbreviation>Europace</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Outcomes of cryoballoon or radiofrequency ablation in symptomatic paroxysmal or persistent atrial fibrillation.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">euz155</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/europace/euz155</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To evaluate the effectiveness and safety of cryoballoon ablation (CBA) compared with radiofrequency ablation (RFA) for symptomatic paroxysmal or drug-refractory persistent atrial fibrillation (AF).</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Prospective cluster cohort study in experienced CBA and RFA centres. Primary endpoint was 'atrial arrhythmia recurrence', secondary endpoints were as follows: procedural results, safety, and clinical course. A total of 4189 patients were included: CBA 2329 (55.6%) and RFA 1860 (44.4%). Cryoballoon ablation population was younger, with fewer comorbidities. Procedure time was longer in the RFA group (P = 0.01). Radiation exposure was 2487 (CBA) and 1792 cGycm2 (RFA) (P &lt; 0.001). Follow-up duration was 441 (CBA) and 511 days (RFA) (P &lt; 0.0001). Primary endpoint occurred in 30.7% (CBA) and 39.4% patients (RFA) [adjusted hazard ratio (adjHR) 0.85, 95% confidence interval (CI) 0.70-1.04; P = 0.12). In paroxysmal AF, CBA resulted in a lower risk of recurrence (adjHR 0.80, 95% CI 0.64-0.99; P = 0.047). In persistent AF, the primary outcome was not different between groups. Major adverse cardiovascular and cerebrovascular event rates were 1.0% (CBA) and 2.8% (RFA) (adjHR 0.53, 95% CI 0.26-1.10; P = 0.088). Re-ablations (adjHR 0.46, 95% CI 0.34-0.61; P &lt; 0.0001) and adverse events during follow-up (adjHR 0.64, 95% CI 0.48-0.88; P = 0.005) were less common after CBA. Higher rehospitalization rates with RFA were caused by re-ablations.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The primary endpoint did not differ between CBA and RFA. Cryoballoon ablation was completed rapidly; the radiation exposure was greater. Rehospitalization due to re-ablations and adverse events during follow-up were observed significantly less frequently after CBA than after RFA. Subgroup analysis suggested a lower risk of recurrence after CBA in paroxysmal AF.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov (NCT01360008), https://clinicaltrials.gov/ct2/show/NCT01360008.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the European Society of Cardiology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoffmann</LastName>
+                    <ForeName>Ellen</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology and Internal Intensive Care Medicine, Heart Center Munich-Bogenhausen - Munich Municipal Hospital Group, Englschalkinger Str. 77, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Straube</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology and Internal Intensive Care Medicine, Heart Center Munich-Bogenhausen - Munich Municipal Hospital Group, Englschalkinger Str. 77, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wegscheider</LastName>
+                    <ForeName>Karl</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Biometry and Epidemiology, University Medical Center Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuniss</LastName>
+                    <ForeName>Malte</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Kerckhoff Clinic, Bad Nauheim, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andresen</LastName>
+                    <ForeName>Dietrich</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology at Evangelisches Krankenhaus Hubertus, Paul Gerhardt Diakonie gAG, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Li-Qun</ForeName>
+                    <Initials>LQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Rui Jin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tebbenjohanns</LastName>
+                    <ForeName>Jürgen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>HELIOS Klinikum Hildesheim, Medizinische Klinik I - Kardiologie, Hildesheim, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noelker</LastName>
+                    <ForeName>Georg</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Herz-und Diabeteszentrum Nordrhein-Westfalen, Bad Oeynhausen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tilz</LastName>
+                    <ForeName>Roland Richard</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Angiology, and Intensive Care Medicine, University Heart Centre Luebeck, University Hospital Schleswig-Holstein, Luebeck, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Asklepios Clinic St. Georg, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chun</LastName>
+                    <ForeName>Julian Kyoung Ryul</ForeName>
+                    <Initials>JKR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardioangiologisches Centrum Bethanien, Markus Krankenhaus, Frankfurt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franke</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, KRH Klinikum Siloah-Oststadt-Heidehaus, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stellbrink</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Klinikum Bielefeld, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia-Alberola</LastName>
+                    <ForeName>Arcadi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, University Hospital Virgen de la Arrixaca, El-Palmar, Murcia, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorwarth</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology and Internal Intensive Care Medicine, Heart Center Munich-Bogenhausen - Munich Municipal Hospital Group, Englschalkinger Str. 77, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metzner</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Asklepios Clinic St. Georg, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouarrak</LastName>
+                    <ForeName>Taoufik</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stiftung Institut fuer Herzinfarktforschung, Ludwigshafen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brachmann</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, REGIOMED Kliniken, Coburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuck</LastName>
+                    <ForeName>Karl-Heinz</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Asklepios Clinic St. Georg, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Senges</LastName>
+                    <ForeName>Jochen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stiftung Institut fuer Herzinfarktforschung, Ludwigshafen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>FREEZE Cohort Study Investigators
+</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT01360008</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Europace</MedlineTA>
+            <NlmUniqueID>100883649</NlmUniqueID>
+            <ISSNLinking>1099-5129</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atrial fibrillation</Keyword>
+            <Keyword MajorTopicYN="N">Catheter ablation</Keyword>
+            <Keyword MajorTopicYN="N">Cryoballoon</Keyword>
+            <Keyword MajorTopicYN="N">Paroxysmal</Keyword>
+            <Keyword MajorTopicYN="N">Persistent</Keyword>
+            <Keyword MajorTopicYN="N">Radiofrequency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199860</ArticleId>
+            <ArticleId IdType="pii">5519195</ArticleId>
+            <ArticleId IdType="doi">10.1093/europace/euz155</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

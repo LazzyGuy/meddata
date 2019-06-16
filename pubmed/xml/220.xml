@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200187</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0372</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in immunology</Title>
+                <ISOAbbreviation>Curr. Opin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reactive nitrogen species in host-bacterial interactions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>96-102</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0952-7915(19)30013-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.coi.2019.05.008</ELocationID>
+            <Abstract>
+                <AbstractText>Reactive nitrogen species play diverse and essential roles in host-pathogen interactions. Here, we review selected recent discoveries regarding nitric oxide (NO) in host defense and the pathogenesis of infection, mechanisms of bacterial NO resistance, production of NO by human macrophages, NO-based antimicrobial therapeutics and NO interactions with the gut microbiota.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Ferric C</ForeName>
+                    <Initials>FC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Washington School of Medicine, Seattle, WA 98195-7735, USA; Department of Laboratory Medicine, University of Washington School of Medicine, Seattle, WA 98195-7110, USA. Electronic address: fcfang@uw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Torres</LastName>
+                    <ForeName>Andrés</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology and Microbiology, University of Colorado School of Medicine, Aurora, CO 80045, USA; Veterans Affairs Eastern Colorado Health Care System, Denver, CO 80220, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Immunol</MedlineTA>
+            <NlmUniqueID>8900118</NlmUniqueID>
+            <ISSNLinking>0952-7915</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200187</ArticleId>
+            <ArticleId IdType="pii">S0952-7915(19)30013-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.coi.2019.05.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

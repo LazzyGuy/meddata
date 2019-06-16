@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199944</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1570</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Resuscitation</Title>
+                <ISOAbbreviation>Resuscitation</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Socio-economic differences in incidence, bystander cardiopulmonary resuscitation and survival from out-of-hospital cardiac arrest: a systematic review.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0300-9572(19)30187-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.resuscitation.2019.05.018</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Individuals with a low socioeconomic status (SES) may have a greater mortality rate from out of hospital cardiac arrest (OHCA) than those with a high SES. We explored whether SES disparities in OHCA mortality manifest in the incidence of OHCA, the chance of receiving bystander cardiopulmonary resuscitation (CPR) or in the chance of surviving an OHCA. We also studied whether sex and age differences exist in such SES disparities.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The Medline, Embase and Scopus databases were searched from 01-01-1993 until 31-01-2019. Studies utilising any study design or population were included. Studies were included if the exposure was SES of the OHCA victim or the OHCA location and the outcome was either OHCA incidence, CPR provision and/or survival rate after OHCA. Study selection and quality assessment were conducted by two reviewers independently. Descriptive data and measures of association were extracted, both in the total study population and in subgroups stratified by age and/or sex. This review was carried out following the PRISMA guidelines.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall 32 studies were included. Twelve studies reported on OHCA incidence, thirteen on bystander CPR provision and fourteen on survival. Some evidence for SES differences was found in each identified stage. In all the studies on incidence, SES was measured over the area of the OHCA victims' residence and was consistently associated with OHCA. In studies on bystander CPR, SES of the area in which the OHCA occurred was associated with bystander CPR, while evidence on individual SES was lacking. In studies on OHCA survival, SES of the victim measured at the individual level and SES of the area in which the OHCA occurred were associated, while SES of the victim, measured at the area of residence was not. Studies reporting age and sex differences in the SES trends were scarce.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SES disparities in OHCA mortality likely manifest in OHCA incidence, bystander CPR provision and survival rate after OHCA. However, there is a distinct lack of data on SES measured at the individual level and on differences within subgroups, e.g. by sex and age.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van Nieuwenhuizen</LastName>
+                    <ForeName>Benjamin P</ForeName>
+                    <Initials>BP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands. Electronic address: b.p.vannieuwenhuizen@amc.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oving</LastName>
+                    <ForeName>Iris</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Cardiology, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kunst</LastName>
+                    <ForeName>Anton E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands; Department of Clinical and Experimental Cardiology, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daams</LastName>
+                    <ForeName>Joost</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Library, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blom</LastName>
+                    <ForeName>Marieke T</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Cardiology, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Hanno L</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Cardiology, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Valkengoed</LastName>
+                    <ForeName>Irene G M</ForeName>
+                    <Initials>IGM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Resuscitation</MedlineTA>
+            <NlmUniqueID>0332173</NlmUniqueID>
+            <ISSNLinking>0300-9572</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Out-of-hospital</Keyword>
+            <Keyword MajorTopicYN="N">arrhythmia</Keyword>
+            <Keyword MajorTopicYN="N">cardiac arrest</Keyword>
+            <Keyword MajorTopicYN="N">cardiopulmonary resuscitation</Keyword>
+            <Keyword MajorTopicYN="N">incidence</Keyword>
+            <Keyword MajorTopicYN="N">socioeconomic</Keyword>
+            <Keyword MajorTopicYN="N">survival</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199944</ArticleId>
+            <ArticleId IdType="pii">S0300-9572(19)30187-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.resuscitation.2019.05.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,175 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199320</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Relationship Between Patient-Reported Outcome Measures and the Severity of Chronic Obstructive Pulmonary Disease in the Context of an Innovative Digitally Supported 24-Hour Service: Longitudinal Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e10924</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/10924</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Individuals with chronic obstructive pulmonary disease (COPD) live with the burden of a progressive life-threatening condition that is often accompanied by anxiety and depression. The severity of the condition is usually considered from a clinical perspective and characterized according to the Global Initiative for Chronic Obstructive Lung Disease (GOLD) classification of severity (1-4) and a risk assessment (A through D) that focuses on the patient's symptoms and number of exacerbations, but information about perceived health or ability to manage the condition are rarely included.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We evaluated 3 patient-reported outcome measurements (PROMs) to examine how these can be used to report on individuals with COPD who were supported by a digitally assisted intervention that aims to increase the patient's management of their condition to improve their well-being.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 93 individuals with COPD were enrolled. At baseline and after 6 and 12 months, we measured self-reported self-management (Health Education Impact Questionnaire, heiQ) and health literacy (Health Literacy Questionnaire, HLQ), and physical and mental health (Short Form-36, SF-36) PROMs were collected. The scores of the 19 PROM dimensions were related to COPD severity, that is, GOLD risk assessment, pulmonary function at entry, and number of exacerbations of a period up to 12 months. The initial PROM scores were also compared with pulmonary function, exacerbations, and GOLD risk assessment to predict the number of contacts within the first 90 days.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, 2 dimensions from heiQ and SF-36 Physical health differed significantly between GOLD risk factor groups, indicating more distress and poorer attitudes and health status with increasing severity (GOLD risk assessment). Pulmonary function (FEV1) was negatively associated with the severity of the condition. After 6 months, we observed an increase in heiQ6 (skill and technique acquisition) and a reduction in emotional distress. The latter effect persisted after 12 months, where heiQ4 (self-monitoring and insight) also increased. HLQ3 (actively managing my health) decreased after 6 and 12 months. The number of exacerbations and the GOLD risk factor assessment predicted the number of contacts during the first 90 days. Furthermore, 2 of the PROMS heiQ6 (skill and technique acquisition) and HLQ8 (ability to find good health information) evaluated at baseline were associated with the number of contacts within the first 90 after enrollment. The pulmonary function was not associated with the number of contacts.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our data suggest that selected dimensions from HLQ, heiQ, and SF-36 can be used as PROMs in relation to COPD to provide researchers and clinicians with greater insight into how this condition affects individuals' ability to understand and manage their condition and perception of their physical and mental health. The PROMs add to the information obtained with the clinical characteristics including the GOLD risk factor assessment.</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">RR2-10.2196/resprot.6506.</AbstractText>
+                <CopyrightInformation>©Signe Lindskrog, Karl Bang Christensen, Richard H Osborne, Søren Vingtoft, Klaus Phanareth, Lars Kayser. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 02.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Lindskrog</LastName>
+                    <ForeName>Signe</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4662-7063</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christensen</LastName>
+                    <ForeName>Karl Bang</ForeName>
+                    <Initials>KB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4518-5187</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osborne</LastName>
+                    <ForeName>Richard H</ForeName>
+                    <Initials>RH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9081-2699</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health, Arts and Design, Swinburne University of Technology, Hawthorn, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vingtoft</LastName>
+                    <ForeName>Søren</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6999-1573</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Region Zeeland, Sorø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phanareth</LastName>
+                    <ForeName>Klaus</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4010-7083</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Region Zeeland, Sorø, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kayser</LastName>
+                    <ForeName>Lars</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0909-4088</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">SF-36</Keyword>
+            <Keyword MajorTopicYN="N">chronic obstructive pulmonary disease</Keyword>
+            <Keyword MajorTopicYN="N">empowerment</Keyword>
+            <Keyword MajorTopicYN="N">epital living lab</Keyword>
+            <Keyword MajorTopicYN="N">health education impact questionnaire</Keyword>
+            <Keyword MajorTopicYN="N">health literacy</Keyword>
+            <Keyword MajorTopicYN="N">health literacy questionnaire</Keyword>
+            <Keyword MajorTopicYN="N">patient reported outcome measures</Keyword>
+            <Keyword MajorTopicYN="N">self-reported mental and physical health</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199320</ArticleId>
+            <ArticleId IdType="pii">v21i6e10924</ArticleId>
+            <ArticleId IdType="doi">10.2196/10924</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

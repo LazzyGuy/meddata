@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198666</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-5072</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Taiwan journal of ophthalmology</Title>
+                <ISOAbbreviation>Taiwan J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Polypoidal choroidal vasculopathy: An update on current management and review of literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>72-92</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/tjo.tjo_35_18</ELocationID>
+            <Abstract>
+                <AbstractText>Polypoidal choroidal vasculopathy (PCV) is a subtype of neovascular age-related macular degeneration (nAMD), commonly seen in the Asian population. It is dissimilar in epidemiology, genetic heterogeneity, pathogenesis, natural history, and response to treatment in comparison to nAMD. Confocal scanning laser ophthalmoscopy-based simultaneous fluorescein angiography and indocyanine green angiography, spectral-domain optical coherence tomography (OCT) with enhanced depth imaging, swept-source OCT, and OCT angiography have improved the ability to detect PCV, understand its pathology, and monitor treatment response. A plethora of literature has discussed the efficacy of photodynamic therapy, anti-vascular endothelial growth factor (VEGF) monotherapy, and combination of both, but only a few studies with higher level of evidence and limited follow-up duration are available. This review discusses the understanding of PCV with respect to epidemiology, pathogenesis, clinical features, natural history, imaging techniques, and various treatment options. Recent clinical trials (EVEREST-II and PLANET study) have emphasized that either anti-VEGF monotherapy or combination treatment is equally capable to strike a balance between polyp regression and stabilization of visual acuity. The recurrent nature of the disease, the development of macular atrophy, and the long-term poor visual prognosis despite treatment are concerns that open avenues for further research.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Palkar</LastName>
+                    <ForeName>Amit Harishchandra</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Vitreoretinal Services, Shri Bhagwan Mahavir Vitreoretinal Services, Sankara Nethralaya, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khetan</LastName>
+                    <ForeName>Vikas</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Vitreoretinal Services, Shri Bhagwan Mahavir Vitreoretinal Services, Sankara Nethralaya, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Taiwan J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101582127</NlmUniqueID>
+            <ISSNLinking>2211-5056</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">imaging</Keyword>
+            <Keyword MajorTopicYN="N">natural history</Keyword>
+            <Keyword MajorTopicYN="N">pathogenesis</Keyword>
+            <Keyword MajorTopicYN="N">polypoidal choroidal vasculopathy</Keyword>
+            <Keyword MajorTopicYN="N">treatment</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that there are no conflicts of interests of this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198666</ArticleId>
+            <ArticleId IdType="doi">10.4103/tjo.tjo_35_18</ArticleId>
+            <ArticleId IdType="pii">TJO-9-72</ArticleId>
+            <ArticleId IdType="pmc">PMC6557071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

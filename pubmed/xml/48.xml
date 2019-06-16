@@ -1,0 +1,175 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200372</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modeling the return to consciousness after severe traumatic brain injury at a large academic level 1 trauma center.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.2.JNS183568</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.2.JNS183568</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Severe traumatic brain injury (sTBI) carries significant morbidity and mortality. It remains difficult to counsel families on functional prognosis and plan research initiatives aimed at treating traumatic coma. In order to better address these problems, the authors set out to develop statistical models using retrospective data to identify admission characteristics that correlate with time until the return of consciousness, defined as the time to follow commands (TFC). These results were then used to create a TFC score, allowing for rapid identification of patients with predicted prolonged TFC.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data were reviewed and collected from medical records of sTBI patients with Glasgow Coma Scale (GCS) motor subscores ≤ 5 who were admitted to Stony Brook University Hospital from January 2011 to July 2018. Data were used to calculate descriptive statistics and build binary logistic regression models to identify admission characteristics that correlated with in-hospital mortality and in-hospital command-following. A Cox proportional hazards model was used to identify admission characteristics that correlated with the length of TFC. A TFC score was developed using the significant variables identified in the Cox regression model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 402 adult patients who met the inclusion criteria for this study. The average age was 50.5 years, and 122 (30.3%) patients were women. In-hospital mortality was associated with older age, higher Injury Severity Score (ISS), higher Rotterdam score (head CT grading system), and the presence of bilateral fixed and dilated pupils (p &lt; 0.01). In-hospital command-following was anticorrelated with age, ISS, Rotterdam score, and the presence of a single fixed and dilated pupil (p &lt; 0.05). TFC was anticorrelated with age, ISS, Rotterdam score, and the presence of a single fixed and dilated pupil. Additionally, patients who sustained injuries from falls from standing height had a shorter average TFC. The 3 significant variables from the Cox regression model that explained the most variance were used to create a 4-point TFC score. The most significant of these characteristics were Rotterdam head CT scores, high impact traumas, and the presence of a single fixed and dilated pupil. Importantly, the presence of a single fixed and dilated pupil was correlated with longer TFC but no increase in likelihood of in-hospital mortality.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The creation of the 4-point TFC score will allow clinicians to quickly identify patients with predicted prolonged TFC and estimate the likelihood of command-following at different times after injury. Discussions with family members should take into account the likelihood that patients will return to consciousness and survive after TBI.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Winans</LastName>
+                    <ForeName>Nathan J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Justine J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashcroft</LastName>
+                    <ForeName>Bradley</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doyle</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Emergency Medicine, Christiana Care Health System, Newark, Delaware; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fry</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Department of Rehabilitation Medicine, Icahn School of Medicine at Mount Sinai, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fiore</LastName>
+                    <ForeName>Susan M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mofakham</LastName>
+                    <ForeName>Sima</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikell</LastName>
+                    <ForeName>Charles B</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Neurological Surgery, Stony Brook University School of Medicine, Stony Brook, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AIS = Abbreviated Injury Scale</Keyword>
+            <Keyword MajorTopicYN="N">AUC = area under the curve</Keyword>
+            <Keyword MajorTopicYN="N">GCS = Glasgow Coma Scale</Keyword>
+            <Keyword MajorTopicYN="N">ISS = Injury Severity Score</Keyword>
+            <Keyword MajorTopicYN="N">LOS = length of stay</Keyword>
+            <Keyword MajorTopicYN="N">TFC = time to follow commands</Keyword>
+            <Keyword MajorTopicYN="N">sTBI = severe traumatic brain injury</Keyword>
+            <Keyword MajorTopicYN="N">severe TBI</Keyword>
+            <Keyword MajorTopicYN="N">time to follow commands</Keyword>
+            <Keyword MajorTopicYN="N">traumatic brain injury</Keyword>
+            <Keyword MajorTopicYN="N">traumatic coma</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200372</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.2.JNS183568</ArticleId>
+            <ArticleId IdType="pii">2019.2.JNS183568</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

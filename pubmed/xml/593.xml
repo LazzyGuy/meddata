@@ -1,0 +1,196 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199789</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7404</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS genetics</Title>
+                <ISOAbbreviation>PLoS Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Profound analgesia is associated with a truncated peptide resulting from tissue specific alternative splicing of DRG CA8-204 regulated by an exon-level cis-eQTL.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1008226</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pgen.1008226</ELocationID>
+            <Abstract>
+                <AbstractText>Carbonic anhydrase-8 (CA8) is an intracellular protein that functions as an allosteric inhibitor of inositol trisphosphate receptor-1 (ITPR1) critical to intracellular Ca++ release, synaptic functions and neuronal excitability. We showed previously that murine nociception and analgesic responses are regulated by the expression of this gene in dorsal root ganglion (DRG) associated with a cis-eQTL. In this report, we identify an exon-level cis-eQTL (rs6471859) that regulates human DRG CA8 alternative splicing, producing a truncated 1,697bp transcript (e.g., CA8-204). Our functional genomic studies show the &quot;G&quot; allele at rs6471859 produces a cryptic 3'UTR splice site regulating expression of CA8-204. We developed constructs to study the expression and function of the naturally occurring CA8-204G transcript (G allele at rs6471859), CA8-204C (C allele at rs6471859 reversion mutation) and CA8-201 (full length transcript). CA8-204G transcript expression occurred predominantly in non-neuronal cells (HEK293), while CA8-204C expression was restricted to neuronal derived cells (NBL) in vitro. CA8-204G produced a stable truncated transcript in HEK293 cells that was barely detectable in NBL cells. We also show CA8-204 produces a stable peptide that inhibits pITPR1 and Ca++ release in HEK293 cells. These results imply homozygous G/G individuals at rs6471859, which are common in the general population, produce exclusively CA8-204G that is barely detectable in neuronal cells. CA8 null mutations that greatly impact neuronal functions are associated with severe forms of spinal cerebellar ataxia, and our data suggest G/G homozygotes should display a similar phenotype. To address this question, we show in vivo using AAV8-FLAG-CA8-204G and AAV8-V5-CA8-201 gene transfer delivered via intra-neural sciatic nerve injection (SN), that these viral constructs are able to transduce DRG cells and produce similar analgesic and anti-hyperalgesic responses to inflammatory pain. Immunohistochemistry (IHC) examinations of DRG tissues further show CA8-204G peptide is expressed in advillin expressing neuronal cells, but to a lesser extent compared to glial cells. These findings explain why G/G homozygotes that exclusively produce this truncated functional peptide in DRG evade a severe phenotype. These genomic studies significantly advance the literature regarding structure-function studies on CA8-ITPR1 critical to calcium signaling pathways, synaptic functioning, neuronal excitability and analgesic responses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Upadhyay</LastName>
+                    <ForeName>Udita</ForeName>
+                    <Initials>U</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8037-6993</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative Medicine and Pain Management, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhuang</LastName>
+                    <ForeName>Gerald Z</ForeName>
+                    <Initials>GZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative Medicine and Pain Management, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diatchenko</LastName>
+                    <ForeName>Luda</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1350-6727</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Alan Edwards Centre for Research on Pain, McGill University Department of Anesthesiology, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parisien</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alan Edwards Centre for Research on Pain, McGill University Department of Anesthesiology, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative Medicine and Pain Management, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarantopoulos</LastName>
+                    <ForeName>Konstantinos D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative Medicine and Pain Management, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Eden R</ForeName>
+                    <Initials>ER</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>John T. MacDonald Foundation Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>John P. Hussman Institute for Human Genomics, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Shad B</ForeName>
+                    <Initials>SB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2056-225X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Translational Pain Medicine, Department of Anesthesiology, Duke University School of Medicine, Durham, North Carolina, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maixner</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Translational Pain Medicine, Department of Anesthesiology, Duke University School of Medicine, Durham, North Carolina, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levitt</LastName>
+                    <ForeName>Roy C</ForeName>
+                    <Initials>RC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6168-2274</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology, Perioperative Medicine and Pain Management, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>John T. MacDonald Foundation Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>John P. Hussman Institute for Human Genomics, University of Miami Miller School of Medicine, Miami, Florida, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Genet</MedlineTA>
+            <NlmUniqueID>101239074</NlmUniqueID>
+            <ISSNLinking>1553-7390</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199789</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1008226</ArticleId>
+            <ArticleId IdType="pii">PGENETICS-D-18-02122</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

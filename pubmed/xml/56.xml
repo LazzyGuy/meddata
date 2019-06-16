@@ -1,0 +1,143 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200362</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-1413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Comprehensive Cancer Network : JNCCN</Title>
+                <ISOAbbreviation>J Natl Compr Canc Netw</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Population-Based Study on Cancer Subtypes, Guideline-Concordant Adjuvant Therapy, and Survival Among Women With Stage I-III Breast Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>676-686</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.6004/jnccn.2018.7272</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">jnccn18223</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Breast cancer subtype is a key determinant in treatment decision-making, and also effects survival outcome. In this population-based study, in-depth analyses were performed to examine the impact that breast cancer subtype and receipt of guideline-concordant adjuvant systemic therapy (AST) have on survival using a population-based cancer registry's data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Women aged ≥20 years with microscopically confirmed stage I-III breast cancer diagnosed in 2011 were identified from the Louisiana Tumor Registry. Breast cancer subtypes were categorized based on hormone receptor (HR) and HER2 status. Guideline-concordant treatment was defined using the NCCN Guidelines for Breast Cancer. Logistic regression was applied to identify factors associated with guideline-concordant AST receipt. Kaplan-Meier survival curves were generated to compare survival among subtypes by AST receipt status, and a semiparametric additive hazard model was used to verify the factors impacting survival outcome.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 2,214 eligible patients, most (70.8%) were HR+/HER2- followed by HR-/HER2- (14.4%), and 78.6% received guideline-concordant AST. Compared with patients with the HR+/HER2+ subtype, women with other subtypes were more likely to be guideline-concordant after adjusting for sociodemographic and clinical variables. Women with the HR-/HER2+ or HR-/HER2- subtype had a higher risk of any-cause and breast cancer-specific death than those with the HR+/HER2+ subtype. Those who did not receive AST had an additional adjusted hazard of 0.0191 (P=.0001) in overall survival and 0.0126 (P=.0011) in cause-specific survival compared with those who received AST.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Most patients received guideline-concordant AST, except for those with the HR+/HER2+ subtype. Patients receiving guideline-adherent adjuvant therapy had better survival outcomes across all breast cancer subtypes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hsieh</LastName>
+                    <ForeName>Mei-Chin</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aEpidemiology Program and Louisiana Tumor Registry, School of Public Health, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aEpidemiology Program and Louisiana Tumor Registry, School of Public Health, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiao-Cheng</ForeName>
+                    <Initials>XC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aEpidemiology Program and Louisiana Tumor Registry, School of Public Health, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Mary B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aEpidemiology Program and Louisiana Tumor Registry, School of Public Health, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loch</LastName>
+                    <ForeName>Michelle</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>bHematology and Oncology, School of Medicine, Louisiana State University Health Sciences Center, New Orleans, Louisiana.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Vivien W</ForeName>
+                    <Initials>VW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aEpidemiology Program and Louisiana Tumor Registry, School of Public Health, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Compr Canc Netw</MedlineTA>
+            <NlmUniqueID>101162515</NlmUniqueID>
+            <ISSNLinking>1540-1405</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200362</ArticleId>
+            <ArticleId IdType="doi">10.6004/jnccn.2018.7272</ArticleId>
+            <ArticleId IdType="pii">jnccn18223</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

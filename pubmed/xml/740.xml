@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199618</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Roughness-Controlled Cu<sub>2</sub>ZnSn(S,Se)<sub>4</sub> Thin Film Solar Cells with Reduced Charge Recombination.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b05852</ELocationID>
+            <Abstract>
+                <AbstractText>Copper zinc tin sulfo-selenide (CZTSSe) is a promising light absorbing material of thin film solar cells due to its low materials cost especially when it is prepared by cost-effective processes like the electrochemical deposition process. The CZTSSe thin film solar cells, however, suffer from the relatively low efficiency mostly due to the significant charge recombination. Given that the surface recombination is one of the major recombination paths, controlling the surface roughness, and thus the interfacial area is one of the key factors for improving their device performances. In this study, we demonstrated a simple but effective strategy for reducing the surface roughness during the electrochemical deposition process of the CZTSSe thin films. By adopting an initial nucleation stage with higher deposition currents ahead of the steady-state galvanostatic deposition, the surface of the CZT precursor and CZTSSe thin films became significantly smoother and uniform (ΔR<sub>rms</sub>: -43.8% for CZT, -28.9% for CZTSSe). The effects of the surface roughness on the photovoltaic properties of the CZTSSe thin film solar cells have been investigated systematically with various characterization techniques like the diode analysis, lifetime measurement, and the temperature dependency of the open-circuit voltage. The device with the smoother surface exhibited higher open-circuit voltage and fill factor mostly due to the significantly reduced charge recombination, leading to the high conversion efficiency of 8.64% (active).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cheon</LastName>
+                    <ForeName>Ki Beom</ForeName>
+                    <Initials>KB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Sun Kyung</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seo</LastName>
+                    <ForeName>Se Won</ForeName>
+                    <Initials>SW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jae Hyun</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Min Ah</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Jin Young</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199618</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b05852</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

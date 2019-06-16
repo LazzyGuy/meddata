@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199254</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-1756</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE computer graphics and applications</Title>
+                <ISOAbbreviation>IEEE Comput Graph Appl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tackling Similarity Search for Soccer Match Analysis: Multimodal Distance Measure and Interactive Query Definition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/MCG.2019.2922224</ELocationID>
+            <Abstract>
+                <AbstractText>Analysts and coaches in soccer sports need to investigate large sets of past matches of opposing teams in short time to prepare their teams for upcoming matches. Thus, they need appropriate methods and systems supporting them in searching for soccer moves for comparison and explanation. For the search of similar soccer moves, established distance and similarity measures typically only take spatio-temporal features like shape and speed of movement into account. However, movement in invasive team sports such as soccer, includes much more than just a sequence of spatial locations. We propose an enhanced similarity measure integrating spatial, player, event as well as high level context such as pressure into the process of similarity search. We present a visual search system supporting analysts in interactively identifying similar contextual enhanced soccer moves in a dataset containing more than 60 soccer matches. Our approach is evaluated by several expert studies. The results of the evaluation reveal the large potential of enhanced similarity measures in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stein</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janetzko</LastName>
+                    <ForeName>Halldor</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keim</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schreck</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Comput Graph Appl</MedlineTA>
+            <NlmUniqueID>9881869</NlmUniqueID>
+            <ISSNLinking>0272-1716</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199254</ArticleId>
+            <ArticleId IdType="doi">10.1109/MCG.2019.2922224</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

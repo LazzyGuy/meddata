@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199243</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2050-084X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>eLife</Title>
+                <ISOAbbreviation>Elife</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coding strategies in the otolith system differ for translational head motion vs static orientation relative to gravity.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.45573</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">e45573</ELocationID>
+            <Abstract>
+                <AbstractText>The detection of gravito-inertial forces by the otolith system is essential for our sense of balance and accurate perception. To date, however, how this system encodes self-motion stimuli experienced during everyday activities remains unknown. Here we directly addressed this fundamental question by recording from single otolith afferents in monkeys during naturalistic translational self-motion and changes in static head orientation. Otolith afferents with higher intrinsic variability transmitted overall more information about translational self-motion than their regular counterparts, due to stronger nonlinearities that enabled precise spike timing including phase locking. In contrast, more regular afferents better discriminated between different static head orientations relative to gravity. Using computational methods, we further demonstrated that coupled increases in intrinsic variability and sensitivity accounted for observed functional differences between afferent classes. Together, our results indicate that irregular and regular otolith afferents may use different strategies to encode naturalistic self-motion and static head orientation relative to gravity.</AbstractText>
+                <CopyrightInformation>© 2019, Jamali et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jamali</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carriot</LastName>
+                    <ForeName>Jerome</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chacron</LastName>
+                    <ForeName>Maurice J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3032-452X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cullen</LastName>
+                    <ForeName>Kathleen E</ForeName>
+                    <Initials>KE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9348-0933</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DC2390</GrantID>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Elife</MedlineTA>
+            <NlmUniqueID>101579614</NlmUniqueID>
+            <ISSNLinking>2050-084X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">neuroscience</Keyword>
+            <Keyword MajorTopicYN="N">rhesus macaque</Keyword>
+        </KeywordList>
+        <CoiStatement>MJ, JC, MC, KC The authors declare that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199243</ArticleId>
+            <ArticleId IdType="doi">10.7554/eLife.45573</ArticleId>
+            <ArticleId IdType="pii">45573</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

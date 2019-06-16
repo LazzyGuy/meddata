@@ -1,0 +1,273 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199488</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1462-0332</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rheumatology (Oxford, England)</Title>
+                <ISOAbbreviation>Rheumatology (Oxford)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Subglottic stenosis and endobronchial disease in granulomatosis with polyangiitis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">kez217</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/rheumatology/kez217</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To describe tracheobronchial disease in patients with granulomatosis with polyangiitis (GPA) and evaluate the utility of dynamic expiratory CT to detect large-airway disease.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Demographic and clinical features associated with the presence of subglottic stenosis (SGS) or endobronchial involvement were assessed in a multicentre, observational cohort of patients with GPA. A subset of patients with GPA from a single-centre cohort underwent dynamic chest CT to evaluate the airways.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 962 patients with GPA, SGS and endobronchial disease were identified in 95 (10%) and 59 (6%) patients, respectively. Patients with SGS were more likely to be female (72% vs 53%, P &lt; 0.01), younger at time of diagnosis (36 vs 49 years, P &lt; 0.01), and have saddle-nose deformities (28% vs 10%, P &lt; 0.01), but were less likely to have renal involvement (39% vs 62%, P &lt; 0.01). Patients with endobronchial disease were more likely to be PR3-ANCA positive (85% vs 66%, P &lt; 0.01), with more ENT involvement (97% vs 77%, P &lt; 0.01) and less renal involvement (42% vs 62%, P &lt; 0.01). Disease activity in patients with large-airway disease was commonly isolated to the subglottis/upper airway (57%) or bronchi (32%). Seven of 23 patients screened by dynamic chest CT had large-airway pathology, including four patients with chronic, unexplained cough, discovered to have tracheobronchomalacia.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SGS and endobronchial disease occur in 10% and 6% of patients with GPA, respectively, and may occur without disease activity in other organs. Dynamic expiratory chest CT is a potential non-invasive screening test for large-airway involvement in GPA.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quinn</LastName>
+                    <ForeName>Kaitlin A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, MedStar Georgetown University Hospital, Washington, DC.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Systemic Autoimmunity Branch, National Institutes of Health, NIAMS, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gelbard</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Vanderbilt University, Nashville, TN.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sibley</LastName>
+                    <ForeName>Cailin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Arthritis &amp; Rheumatic Diseases, Oregon Health &amp; Science University, Portland, OR.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sirajuddin</LastName>
+                    <ForeName>Arlene</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institutes of Health, NHLBI, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrada</LastName>
+                    <ForeName>Marcela A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Systemic Autoimmunity Branch, National Institutes of Health, NIAMS, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Marcus</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institutes of Health, NHLBI, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuthbertson</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics and Informatics, University of South Florida, Tampa, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carette</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Mount Sinai Hospital, Toronto.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khalidi</LastName>
+                    <ForeName>Nader A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, McMaster University, Hamilton, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koening</LastName>
+                    <ForeName>Curry L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, University of Utah, Salt Lake City, UT.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Langford</LastName>
+                    <ForeName>Carol A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatic and Immunologic Diseases, Cleveland Clinic, Cleveland, OH.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McAlear</LastName>
+                    <ForeName>Carol A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monach</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Brigham and Women's Hospital, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moreland</LastName>
+                    <ForeName>Larry W</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, University of Pittsburgh, Pittsburgh, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pagnoux</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Mount Sinai Hospital, Toronto.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seo</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Johns Hopkins University, Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Specks</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pulmonary and Critical Care Medicine, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sreih</LastName>
+                    <ForeName>Antoine G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ytterberg</LastName>
+                    <ForeName>Steven R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Mayo Clinic College of Medicine, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merkel</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology and Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grayson</LastName>
+                    <ForeName>Peter C</ForeName>
+                    <Initials>PC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Systemic Autoimmunity Branch, National Institutes of Health, NIAMS, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Rheumatology (Oxford)</MedlineTA>
+            <NlmUniqueID>100883501</NlmUniqueID>
+            <ISSNLinking>1462-0324</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ANCA-associated vasculitis</Keyword>
+            <Keyword MajorTopicYN="N">granulomatosis with polyangiitis</Keyword>
+            <Keyword MajorTopicYN="N">subglottic stenosis</Keyword>
+            <Keyword MajorTopicYN="N">tracheobronchomalacia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199488</ArticleId>
+            <ArticleId IdType="pii">5519012</ArticleId>
+            <ArticleId IdType="doi">10.1093/rheumatology/kez217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

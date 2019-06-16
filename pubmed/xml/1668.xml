@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198504</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2008-7802</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of preventive medicine</Title>
+                <ISOAbbreviation>Int J Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nonpharmacologic Treatments Alone are Enough to Prevent the Neurally Mediated Syncope: A 3 Years Follow-up Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>69</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijpvm.IJPVM_386_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Recurrences are common in neurally mediated syncope. The aim of this study is the evaluation of the effectiveness of nonpharmacologic treatments alone in preventing of syncope relapse.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">70 patients (age 5-20 years) with neurally mediated syncope were enrolled. Thirty patients received pharmacologic therapies along with nonpharmacological methods, and 40 patients received just nonpharmacological treatments then followed them for 36 months. The incidences of different outcomes were analyzed with descriptive statistics using percentages.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The recurrence rate of syncope was significantly higher in pharmacological group than in nonpharmacological group in each period of the follow-up (<i>P</i> &lt; 0.001).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Nonpharmacologic treatment is very effective in the prevention of syncope relapses and can be a substitute for pharmacologic drugs in the initiation of treatment and if done correctly.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dehghan</LastName>
+                    <ForeName>Bahar</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Cardiovascular Research Center, Cardiovascular Research Institute, Isfahan University of Medical Sciences, Isfahan, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabri</LastName>
+                    <ForeName>Mohammad Reza</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Cardiovascular Research Center, Cardiovascular Research Institute, Isfahan University of Medical Sciences, Isfahan, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansourian</LastName>
+                    <ForeName>Marjan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Cardiovascular Research Center, Cardiovascular Research Institute, Isfahan University of Medical Sciences, Isfahan, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Int J Prev Med</MedlineTA>
+            <NlmUniqueID>101535380</NlmUniqueID>
+            <ISSNLinking>2008-7802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Neurally mediated syncope</Keyword>
+            <Keyword MajorTopicYN="N">nonpharmacological treatment</Keyword>
+            <Keyword MajorTopicYN="N">recurrence</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198504</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijpvm.IJPVM_386_17</ArticleId>
+            <ArticleId IdType="pii">IJPVM-10-69</ArticleId>
+            <ArticleId IdType="pmc">PMC6547777</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,212 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199827</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of telephone delivered case-management on the effectiveness of collaborative care for depression and anti-depressant use: A systematic review and meta-regression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217948</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217948</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The health service delivery framework collaborative care is an effective intervention for depression. However, uncertainties remain about how to optimise its delivery at scale. Structured case management is a core component of collaborative care; its delivery via the telephone may improve access.</AbstractText>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To examine using meta-regression if telephone delivered case management diminishes the clinical effectiveness of collaborative care on depressive symptoms and anti-depressant use relative to face-to-face delivery methods.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Randomised controlled trials were eligible if they included collaborative care interventions for adults with depression identified using self-report measures or diagnostic interviews and reported depression outcomes. Sociodemographics, intervention characteristics, depressive symptoms, and anti-depressant use were extracted. Random effects univariable and multivariable meta-regression analyses were used to examine the moderating effect of telephone delivered case-management on outcomes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ninety-four trials were identified comprising of 103 comparisons across 24, 132 participants with depression outcomes and 67 comparisons from 15,367 participants with anti-depressant use outcomes. Telephone delivered case management did not diminish the effects of collaborative care on depressive symptoms (β = -0.01, 95% CI -0.12 to 0.10; p = 0.86). Telephone delivered case management decreased anti-depressant medication use (relative risk 0.76, 95% CI 0.63 to 0.92; p = 0.005); this effect remained when assessed simultaneously alongside other study-level moderators of collaborative care.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Using remote platforms such as the telephone to deliver case management may be a feasible way to implement collaborative care with no loss of effectiveness on depressive symptoms. However, adherence to anti-depressant medication may decrease when telephone case management is used.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hudson</LastName>
+                    <ForeName>Joanna L</ForeName>
+                    <Initials>JL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0672-2621</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>King's College London, Department of Psychology, Institute of Psychiatry, Psychology &amp; Neuroscience, De Crespigny Park, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bower</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR School for Primary Care Research, Centre for Primary Care and Centre for Health Informatics, Manchester Academic Health Science Centre, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kontopantelis</LastName>
+                    <ForeName>Evangelos</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR School for Primary Care Research, Centre for Primary Care and Centre for Health Informatics, Manchester Academic Health Science Centre, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bee</LastName>
+                    <ForeName>Penny</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nursing, Midwifery &amp; Social Work, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Archer</LastName>
+                    <ForeName>Janine</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health and Society, University of Salford, Salford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clarke</LastName>
+                    <ForeName>Rose</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sheffield NHS Improving Access to Psychological Therapies (IAPT), St George's Community Health Centre, Sheffield, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moriarty</LastName>
+                    <ForeName>Andrew S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences and Hull York Medical School, University of York, York, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richards</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Research, University of Exeter College of Medicine and Health, University of Exeter, Exeter, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbody</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences and Hull York Medical School, University of York, York, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lovell</LastName>
+                    <ForeName>Karina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nursing, Midwifery &amp; Social Work, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dickens</LastName>
+                    <ForeName>Chris</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Research, University of Exeter College of Medicine and Health, University of Exeter, Exeter, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gask</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR School for Primary Care Research, Centre for Primary Care and Centre for Health Informatics, Manchester Academic Health Science Centre, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waheed</LastName>
+                    <ForeName>Waquas</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR School for Primary Care Research, Centre for Primary Care and Centre for Health Informatics, Manchester Academic Health Science Centre, University of Manchester, Manchester, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coventry</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department for Health Sciences and Centre for Reviews and Dissemination, University of York, York, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199827</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217948</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-06417</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

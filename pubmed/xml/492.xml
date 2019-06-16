@@ -1,0 +1,210 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199900</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-564X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental biology</Title>
+                <ISOAbbreviation>Dev. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>foxc1 is required for embryonic head vascular smooth muscle differentiation in zebrafish.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0012-1606(19)30209-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ydbio.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>Vascular smooth muscle of the head derives from neural crest, but developmental mechanisms and early transcriptional drivers of the vSMC lineage are not well characterized. We find that in early development, the transcription factor foxc1b is expressed in mesenchymal cells that associate with the vascular endothelium. Using timelapse imaging, we observe that foxc1b expressing mesenchymal cells differentiate into acta2 expressing vascular mural cells. We show that in zebrafish, while foxc1b is co-expressed in acta2 positive smooth muscle cells that associate with large diameter vessels, it is not co-expressed in capillaries where pdgfrβ positive pericytes are located. In addition to being an early marker of the lineage, foxc1 is essential for vSMC differentiation; we find that foxc1 loss of function mutants have defective vSMC differentiation and that early genetic ablation of foxc1b or acta2 expressing populations blocks vSMC differentiation. Furthermore, foxc1 is expressed upstream of acta2 and is required for acta2 expression in vSMCs. Using RNA-Seq we determine an enriched intersectional gene expression profile using dual expression of foxc1b and acta2 to identify novel vSMC markers. Taken together, our data suggests that foxc1 is a marker of vSMCs and plays a critical functional role in promoting their differentiation.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Whitesell</LastName>
+                    <ForeName>Thomas R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alberta Children's Hospital Research Institute, Canada; Department of Biochemistry and Molecular Biology, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, Canada, T2N 4N1.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chrystal</LastName>
+                    <ForeName>Paul W</ForeName>
+                    <Initials>PW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Ophthalmology, and Medical Genetics, University of Alberta, Edmonton, Alberta, Canada; Department of Biological Sciences, CW405, Biological Sciences Bldg., 11455, Saskatchewan Dr., University of Alberta, Edmonton, AB, T6G 2E9, Canada; Women &amp; Children's Health Research Institute, ECHA 4-081, 11405 87, Ave NW, University of Alberta, Edmonton, AB, T6G 1C9, Canada; Neurosciences and Mental Health Institute, 4-120 Katz Group Centre, University of Alberta, Edmonton, AB, T6G 2E1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryu</LastName>
+                    <ForeName>Jae-Ryeon</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alberta Children's Hospital Research Institute, Canada; Department of Biochemistry and Molecular Biology, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, Canada, T2N 4N1.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munsie</LastName>
+                    <ForeName>Nicole</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alberta Children's Hospital Research Institute, Canada; Department of Biochemistry and Molecular Biology, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, Canada, T2N 4N1.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grosse</LastName>
+                    <ForeName>Ann</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Cancer Biology, University of Massachusetts Medical School, 364 Plantation Street, Worcester, MA, USA, 01605.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>French</LastName>
+                    <ForeName>Curtis R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, CW405, Biological Sciences Bldg., 11455, Saskatchewan Dr., University of Alberta, Edmonton, AB, T6G 2E9, Canada; Women &amp; Children's Health Research Institute, ECHA 4-081, 11405 87, Ave NW, University of Alberta, Edmonton, AB, T6G 1C9, Canada; Neurosciences and Mental Health Institute, 4-120 Katz Group Centre, University of Alberta, Edmonton, AB, T6G 2E1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Workentine</LastName>
+                    <ForeName>Matthew L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Veterinary Medicine, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, Canada, T2N 4N1.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Cancer Biology, University of Massachusetts Medical School, 364 Plantation Street, Worcester, MA, USA, 01605.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Lihua Julie</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Cancer Biology, University of Massachusetts Medical School, 364 Plantation Street, Worcester, MA, USA, 01605; Program in Bioinformatics and Integrative Biology, Program in Molecular Medicine, University of Massachusetts Medical School, Worcester, MA, USA, 01605.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waskiewicz</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, CW405, Biological Sciences Bldg., 11455, Saskatchewan Dr., University of Alberta, Edmonton, AB, T6G 2E9, Canada; Women &amp; Children's Health Research Institute, ECHA 4-081, 11405 87, Ave NW, University of Alberta, Edmonton, AB, T6G 1C9, Canada; Neurosciences and Mental Health Institute, 4-120 Katz Group Centre, University of Alberta, Edmonton, AB, T6G 2E1, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lehmann</LastName>
+                    <ForeName>Ordan J</ForeName>
+                    <Initials>OJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Ophthalmology, and Medical Genetics, University of Alberta, Edmonton, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lawson</LastName>
+                    <ForeName>Nathan D</ForeName>
+                    <Initials>ND</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Cancer Biology, University of Massachusetts Medical School, 364 Plantation Street, Worcester, MA, USA, 01605.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Childs</LastName>
+                    <ForeName>Sarah J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alberta Children's Hospital Research Institute, Canada; Department of Biochemistry and Molecular Biology, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, Canada, T2N 4N1. Electronic address: schilds@ucalgary.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Biol</MedlineTA>
+            <NlmUniqueID>0372762</NlmUniqueID>
+            <ISSNLinking>0012-1606</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CRISPR</Keyword>
+            <Keyword MajorTopicYN="N">RNA-Seq transcriptome</Keyword>
+            <Keyword MajorTopicYN="N">Vascular smooth muscle cell</Keyword>
+            <Keyword MajorTopicYN="N">Zebrafish</Keyword>
+            <Keyword MajorTopicYN="N">acta2</Keyword>
+            <Keyword MajorTopicYN="N">foxc1b</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199900</ArticleId>
+            <ArticleId IdType="pii">S0012-1606(19)30209-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

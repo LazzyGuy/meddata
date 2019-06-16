@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198206</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0039-4521</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>62</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sudebno-meditsinskaia ekspertiza</Title>
+                <ISOAbbreviation>Sud. Med. Ekspert.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Analysis of dissertations on specialty 14.03.05 'Legal Medicine' (2015-2018)].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>54-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17116/sudmed20196203154</ELocationID>
+            <Abstract>
+                <AbstractText>An analysis of the defended dissertations on the specialty 'Legal Medicine' for 2015-2018 is provided. The new Dissertation Council on the specialty 'Judicial Medicine' is presented.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pigolkin</LastName>
+                    <ForeName>Yu I</ForeName>
+                    <Initials>YI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of Russia, Moscow, Russia, 119991.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Achkasov</LastName>
+                    <ForeName>E E</ForeName>
+                    <Initials>EE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of Russia, Moscow, Russia, 119991.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Globa</LastName>
+                    <ForeName>I V</ForeName>
+                    <Initials>IV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of Russia, Moscow, Russia, 119991.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Analiz dissertatsionnykh rabot po spetsial'nosti 14.03.05 'Sudebnaia meditsina' (2015-2018).</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Sud Med Ekspert</MedlineTA>
+            <NlmUniqueID>0404546</NlmUniqueID>
+            <ISSNLinking>0039-4521</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Приведен анализ защищенных диссертационных работ по специальности 'Судебная медицина' за 2015-2018 гг. Представлен новый диссертационный совет по специальности 'Судебная медицина'.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dissertation works</Keyword>
+            <Keyword MajorTopicYN="N">forensic medicine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198206</ArticleId>
+            <ArticleId IdType="doi">10.17116/sudmed20196203154</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199629</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improved Size Determination by Nanoparticle Tracking Analysis: Influence of Recognition Radius.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.analchem.9b00454</ELocationID>
+            <Abstract>
+                <AbstractText>Nanoparticle tracking analysis (NTA) is a light scattering technique that measures the size distribution of suspended nanoparticles. A key parameter in NTA measurements is the recognition radius, which distinguishes individual, tracked particles from one another. However, by defining a finite radius, the displacement of tracked particles is effectively restricted, translating into an overestimation of particle size. Herein, we introduce a modified probability model that describes the restricted displacement of a tracked particle and enables more accurate nanoparticle size determination. The analytical performance of the modified displacement probability was validated through computational simulations and experimental measurements. While conventional models typically overestimated nanoparticle size by over 20%, the modified probability model estimated nanoparticle size with an error of less than 6%. The modified probability model is compatible with conventional NTA measurement readouts and thus should find wide application for more accurately determining the size distribution of suspended nanoparticles.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Ahram</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Materials Science and Engineering , Nanyang Technological University , 50 Nanyang Avenue 639798 , Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernt</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Particle Characterization Laboratories, Inc. , 845 Olive Ave , Suite A, Novato , California 94945 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Nam-Joon</ForeName>
+                    <Initials>NJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8692-8955</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Materials Science and Engineering , Nanyang Technological University , 50 Nanyang Avenue 639798 , Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Biomimetic Sensor Science , Nanyang Technological University , 50 Nanyang Drive 637553 , Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Biomedical Engineering , Nanyang Technological University , 62 Nanyang Drive 637459 , Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199629</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.analchem.9b00454</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

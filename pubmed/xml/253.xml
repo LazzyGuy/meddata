@@ -1,0 +1,175 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200153</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>County-level radon exposure and all-cause mortality risk among Medicare beneficiaries.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104865</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)30720-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.059</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Radon is an inert gas formed from the decay of naturally-occurring materials in the earth's crust. It infiltrates into homes from soil, water, and construction materials. Its decay products are radionuclides, which attach to ambient particles. Residential radon is one of the leading risk factors for lung cancer. The scarce evidence for associations with other mortality causes originates mostly from occupational studies.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In a cohort study with 14 years of follow-up (2000-2013), we evaluated the association between chronic radon exposure and all-cause mortality, and explored whether there are subpopulations who are more vulnerable to radon effects. We included 87,296,195 person-years of follow-up from all Medicare beneficiaries in the Mid-Atlantic and Northeastern U.S. states. We examined the association between the logarithm of county-averaged radon (ln(Rn)) and mortality and assessed effect modification by chronic conditions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">An interquartile range increase in the ln(Rn) was associated with a 2·62% increase (95% CI 2·52%; 2·73%) in mortality, independent of PM<sub>2.5</sub> exposure. Larger mortality risks were observed among individuals with respiratory, cardiovascular and metabolic diseases, with the highest associations observed among those with diabetes (4·98% increase), heart failure (4·58% increase), and chronic obstructive pulmonary disease (4·49% increase).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found an increased risk for all-cause mortality associated with increased radon exposure. The risk was enhanced among susceptible individuals with chronic conditions. We believe this is the first cohort study to identify populations at higher risk for non-malignant health consequences of radon exposure. Due to the limitations in exposure assessment and availability of individual confounders, these findings should be interpreted with caution.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yitshak-Sade</LastName>
+                    <ForeName>Maayan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA. Electronic address: myitshak@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blomberg</LastName>
+                    <ForeName>Annelise J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zanobetti</LastName>
+                    <ForeName>Antonella</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwartz</LastName>
+                    <ForeName>Joel D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coull</LastName>
+                    <ForeName>Brent A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kloog</LastName>
+                    <ForeName>Itai</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Geography and Environmental Development, Faculty of Humanities and Social Sciences, Ben-Gurion University, Beer-Sheva, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dominici</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koutrakis</LastName>
+                    <ForeName>Petros</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Mortality</Keyword>
+            <Keyword MajorTopicYN="N">PM(2.5)</Keyword>
+            <Keyword MajorTopicYN="N">Radiation</Keyword>
+            <Keyword MajorTopicYN="N">Radon</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200153</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)30720-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.059</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

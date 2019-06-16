@@ -1,0 +1,148 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199292</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Social Jetlag and Chronotypes in the Chinese Population: Analysis of Data Recorded by Wearable Devices.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13482</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13482</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Chronotype is the propensity for a person to sleep at a particular time during 24 hours. It is largely regulated by the circadian clock but constrained by work obligations to a specific sleep schedule. The discrepancy between biological and social time can be described as social jetlag (SJL), which is highly prevalent in modern society and associated with health problems. SJL and chronotypes have been widely studied in Western countries but have never been described in China.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We characterized the chronotypes and SJL in mainland China objectively by analyzing a database of Chinese sleep-wake pattern recorded by up-to-date wearable devices.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We analyzed 71,176 anonymous Chinese people who were continuously recorded by wearable devices for at least one week between April and July in 2017. Chronotypes were assessed (N=49,573) by the adjusted mid-point of sleep on free days (MSFsc). Early, intermediate, and late chronotypes were defined by arbitrary cut-offs of MSFsc &lt;3 hours, between 3-5 hours, and &gt;5 hours. In all subjects, SJL was calculated as the difference between mid-points of sleep on free days and work days. The correlations between SJL and age/body mass index/MSFsc were assessed by Pearson correlation. Random forest was used to characterize which factors (ie, age, body mass index, sex, nocturnal and daytime sleep durations, and exercise) mostly contribute to SJL and MSFsc.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean total sleep duration of this Chinese sample is about 7 hours, with females sleeping on average 17 minutes longer than males. People taking longer naps sleep less during the night, but they have longer total 24-hour sleep durations. MSFsc follows a normal distribution, and the percentages of early, intermediate, and late chronotypes are approximately 26.76% (13,266/49,573), 58.59% (29,045/49,573), and 14.64% (7257/49,573). Adolescents are later types compared to adults. Age is the most important predictor of MSFsc suggested by our random forest model (relative feature importance: 0.772). No gender differences are found in chronotypes. We found that SJL follows a normal distribution and 17.07% (12,151/71,176) of Chinese have SJL longer than 1 hour. Nearly a third (22,442/71,176, 31.53%) of Chinese have SJL&lt;0. The results showed that 53.72% (7127/13,266), 25.46% (7396/29,045), and 12.71% (922/7257) of the early, intermediate, and late chronotypes have SJL&lt;0, respectively. SJL correlates with MSFsc (r=0.54, P&lt;.001) but not with body mass index (r=0.004, P=.30). Random forest model suggests that age, nocturnal sleep, and daytime nap durations are the features contributing to SJL (their relative feature importance is 0.441, 0.349, and 0.204, respectively).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our data suggest a higher proportion of early compared to late chronotypes in Chinese. Chinese have less SJL than the results reported in European populations, and more than half of the early chronotypes have negative SJL. In the Chinese population, SJL is not associated with body mass index. People of later chronotypes and long sleepers suffer more from SJL.</AbstractText>
+                <CopyrightInformation>©Zhongxing Zhang, Christian Cajochen, Ramin Khatami. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 11.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhongxing</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0184-8882</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Sleep Medicine, Sleep Research and Epileptology, Clinic Barmelweid AG, Barmelweid, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cajochen</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2699-7171</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Chronobiology, Psychiatric Hospital of the University of Basel, Basel, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Transfaculty Research Platform Molecular and Cognitive Neurosciences, University of Basel, Basel, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khatami</LastName>
+                    <ForeName>Ramin</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1092-6160</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Sleep Medicine, Sleep Research and Epileptology, Clinic Barmelweid AG, Barmelweid, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">big data</Keyword>
+            <Keyword MajorTopicYN="N">cardiopulmonary coupling</Keyword>
+            <Keyword MajorTopicYN="N">chronotypes</Keyword>
+            <Keyword MajorTopicYN="N">nap</Keyword>
+            <Keyword MajorTopicYN="N">sleep</Keyword>
+            <Keyword MajorTopicYN="N">social jetlag</Keyword>
+            <Keyword MajorTopicYN="N">wearable devices</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199292</ArticleId>
+            <ArticleId IdType="pii">v21i6e13482</ArticleId>
+            <ArticleId IdType="doi">10.2196/13482</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

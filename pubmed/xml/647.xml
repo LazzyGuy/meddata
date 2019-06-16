@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199722</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Cost of Treating Caries-Related Complaints at a Children's Hospital Emergency Department.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>i5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine the number and diagnoses of caries-related complaints presenting at Canada's largest children's hospital emergency department (ED) and the costs associated with treatment over 5 years.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We carried out a retrospective review of the health records of all children who presented to The Hospital for Sick Children, Toronto, with caries-related emergency complaints from 1 January 2008 to 31 December 2012. A caries-related complaint was defined as a chief complaint of pain or swelling resulting from the sequelae of dental decay (reversible pulpitis, irreversible pulpitis, abscess or cellulitis), as recorded in the chart by the treating physician or dentist. Visit information included chief complaint, final diagnosis, treatment rendered and patient disposition at discharge. Decision Support Services, a hospital department that analyzes resource use and associated costs, calculated the institutional costs for the episodes of emergency care.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 1081 visits over the 5-year period, with a 19% increase in visits over that time. The most common presenting complaint was pain (50.8%) and the most common diagnosis abscess (35.6%). A dentist was consulted for 60.0% of the children and dental treatment in the ED was provided for 25.9%. The mean cost of treatment per patient was Can$575.17 (95% confidence interval $501.91-$648.43).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Over the 5-year study period, dental visits to this tertiary care pediatric hospital increased. The most common complaint was pain, and the diagnosis for about a third of these cases was abscess. Dental consultation was often included in the management of these patients and the resultant cost of these visits was about Can$600/patient.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Friedman</LastName>
+                    <ForeName>Molly Ehrlich</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quiñonez</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrett</LastName>
+                    <ForeName>Edward J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boutis</LastName>
+                    <ForeName>Kathy</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Casas</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199722</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198185</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Uncertainty and Cures: Discontinuation, Irreversibility, and Outcomes-Based Payments: What Is Different About a One-Off Treatment?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>677-683</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30187-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2019.03.013</ELocationID>
+            <Abstract>
+                <AbstractText>Payers are concerned that one-off &quot;cures&quot; bring great uncertainty with the consequential risk of incorrect adoption decisions, and significant budget impact from large one-off payments. Innovators worry about bias against &quot;cures&quot; in favor of repeat treatment, which is not in patients' interests. We find that even in the absence of a difference in uncertainty of outcomes, adverse pay-offs differ. The greater financial risk associated with a cure is related to the issue of treatment discontinuation, driven by irreversibility. This paper uses a stylized example to illustrate the need to separate three different elements of the issue: (i) one-off versus repeat or ongoing treatment, (ii) duration of treatment effect, and (iii) the potential role of financial arrangements or risk sharing to mitigate the financial risk to the payer. It concludes that: (i) prevalence and discontinuation issues mean that the impact on the payer of an incorrect decision is greater with a one-off treatment than a repeat therapy; (ii) with evidence collection this risk diminishes over time (a form of CED or OWR); and (iii) financial arrangements or risk sharing can eliminate differences for the payer as between one-off and repeat therapy. The impact of (iii) also addresses payer concerns about budget impact.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Towse</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office of Health Economics, London, England, UK. Electronic address: atowse@ohe.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fenwick</LastName>
+                    <ForeName>Elisabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmerit International, Oxford, England, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">curative therapies</Keyword>
+            <Keyword MajorTopicYN="N">economic evaluation</Keyword>
+            <Keyword MajorTopicYN="N">treatment discontinuation</Keyword>
+            <Keyword MajorTopicYN="N">uncertainty</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198185</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30187-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2019.03.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

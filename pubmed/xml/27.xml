@@ -1,0 +1,94 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200397</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-1651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>223</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift fur Geburtshilfe und Neonatologie</Title>
+                <ISOAbbreviation>Z Geburtshilfe Neonatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle/>
+            <Pagination>
+                <MedlinePgn>121</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0888-0030</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Singer</LastName>
+                    <ForeName>Dominique</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sektion Neonatologie und Pädiatrische Intensivmedizin, Zentrum für Geburtshilfe, Kinder- und Jugendmedizin, Universitätsklinikum Eppendorf (UKE).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Von den Tücken der Leitlinienentwicklung und den Lehren der Medizingeschichte.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Z Geburtshilfe Neonatol</MedlineTA>
+            <NlmUniqueID>9508901</NlmUniqueID>
+            <ISSNLinking>0948-2393</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="ger">
+            <AbstractText>Liebe Leserinnen und Leser,angesichts der Zunahme multiresistenter Erreger in der Bevölkerung und der medialen Aufmerksamkeit für „Killerkeime auf Frühchen-Intensivstationen“ bewegt sich der Umgang mit bakteriellen Infektionen bei Neugeborenen heute mehr denn je im Spannungsfeld zwischen einer präventiven Risikominimierung einerseits und einer präzisen therapeutischen Indikationsstellung andererseits. Dass dieses Spannungsfeld, zumal angesichts begrenzter bzw. uneindeutiger Evidenzen, nicht leicht zu bewältigen ist, davon zeugt allein der Umfang der aktualisierten AWMF-Leitlinie zu diesem Thema, die auf 15 Seiten des vorliegenden Heftes der Zeitschrift für Geburtshilfe und Neonatologie (ZGN) abgedruckt ist.</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Disclosure The authors report no conflicts of interest in this work.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200397</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0888-0030</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

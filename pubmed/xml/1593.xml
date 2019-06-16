@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198618</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2167-0102</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the ... SIAM International Conference on Data Mining. SIAM International Conference on Data Mining</Title>
+                <ISOAbbreviation>Proc SIAM Int Conf Data Min</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CP Tensor Decomposition with Cannot-Link Intermode Constraints.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>711-719</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1137/1.9781611975673.80</ELocationID>
+            <Abstract>
+                <AbstractText>Tensor factorization is a methodology that is applied in a variety of fields, ranging from climate modeling to medical informatics. A tensor is an <i>n</i>-way array that captures the relationship between <i>n</i> objects. These multiway arrays can be factored to study the underlying bases present in the data. Two challenges arising in tensor factorization are 1) the resulting factors can be noisy and highly overlapping with one another and 2) they may not map to insights within a domain. However, incorporating supervision to increase the number of insightful factors can be costly in terms of the time and domain expertise necessary for gathering labels or domain-specific constraints. To meet these challenges, we introduce CANDECOMP/PARAFAC (CP) tensor factorization with Cannot-Link Intermode Constraints (CP-CLIC), a framework that achieves succinct, diverse, interpretable factors. This is accomplished by gradually learning constraints that are verified with auxiliary information during the decomposition process. We demonstrate CP-CLIC's potential to extract sparse, diverse, and interpretable factors through experiments on simulated data and a real-world application in medical informatics.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henderson</LastName>
+                    <ForeName>Jette</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vanderbilt University.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Northwestern University.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Georgia Technical Institute.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Texas, Austin.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malin</LastName>
+                    <ForeName>Bradley A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vanderbilt University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Denny</LastName>
+                    <ForeName>Joshua C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vanderbilt University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kho</LastName>
+                    <ForeName>Abel N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Northwestern University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jimeng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Georgia Technical Institute.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Joydeep</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Texas, Austin.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ho</LastName>
+                    <ForeName>Joyce C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc SIAM Int Conf Data Min</MedlineTA>
+            <NlmUniqueID>101538813</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198618</ArticleId>
+            <ArticleId IdType="doi">10.1137/1.9781611975673.80</ArticleId>
+            <ArticleId IdType="pmc">PMC6563811</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+

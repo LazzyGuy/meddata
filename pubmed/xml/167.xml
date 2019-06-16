@@ -1,0 +1,165 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200244</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-376X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1124</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+                <ISOAbbreviation>J. Chromatogr. B Analyt. Technol. Biomed. Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural features guided &quot;fishing&quot; strategy to identification of flavonoids from lotus plumule in a self-built data &quot;pool&quot; by ultra-high performance liquid chromatography coupled with hybrid quadrupole-orbitrap high resolution mass spectrometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>122-134</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1570-0232(19)30660-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jchromb.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Lotus plumule, a traditional Chinese medicine, has significant pharmaceutical value to treat various health problems. Flavonoids are important bioactive ingredients in lotus plumule. In this study, we proposed an efficient &quot;fishing&quot; strategy to profile and identify non-targeted flavonoids from lotus plumule aqueous extract based on a self-built mass data &quot;pool&quot; with an untargeted mass data acquisition method in order to acquire comprehensive structural information of flavonoids in lotus plumule. This mass data acquisition method was applied by ultra-high performance liquid chromatography coupled with hybrid quadrupole orbitrap high-resolution mass spectrometry (UHPLC/Q-orbitrap HRMS) executed in full MS/dd-MS<sup>2</sup> mode with different collision energies in positive ionization mode. The self-built targeted data &quot;pool&quot; was constructed by the basic structure of flavonoids in lotus plumule, such as odd quasi-molecular ions, C<sub>6</sub>-C<sub>3</sub>-C<sub>6</sub> skeleton, molecular weight limit. The &quot;molecule lures&quot; of fishing are characterized by molecular features, fragmental patterns, characteristic fragments ions, relative abundance and retention times. More importantly, the special &quot;lures&quot; of PredRet (the tool of predicting the retention times) and ClogP (the calculated lipophilicity parameter) were adopted to distinguish some isomers and some compounds whose mass spectra are difficult to determine with no reference substances. The &quot;fished&quot; flavonoids were further confirmed by their molecular features and fragmental patterns. This developed analysis method was successfully applied to profile 29 flavonoids compounds in the aqueous extract of lotus plumule, and 3 of them were recognized for the first time in lotus plumule. To our knowledge, this is the first analytical screening methods without standard samples to systematically identify flavonoids in lotus plumule.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Institute for Rational and Safe Medication Practices, National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Xiangya School of Pharmaceutical Sciences, Central South University, Changsha 410008, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Yueping</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Institute for Rational and Safe Medication Practices, National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Institute for Rational and Safe Medication Practices, National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Manhua</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Institute for Rational and Safe Medication Practices, National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Lunzhao</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yunnan Institute of Food Safety, Kunming University of Science and Technology, Kunming 650500, Yunnan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liao</LastName>
+                    <ForeName>Naixuan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Xiangya School of Pharmaceutical Sciences, Central South University, Changsha 410008, Hunan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Shao</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China; Institute for Rational and Safe Medication Practices, National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha 410008, Hunan, China. Electronic address: liushao999@csu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+            <NlmUniqueID>101139554</NlmUniqueID>
+            <ISSNLinking>1570-0232</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Flavonoids</Keyword>
+            <Keyword MajorTopicYN="N">Lotus plumule</Keyword>
+            <Keyword MajorTopicYN="N">Self-built data pool</Keyword>
+            <Keyword MajorTopicYN="N">UHPLC/Q-orbitrap HRMS</Keyword>
+            <Keyword MajorTopicYN="N">“Fishing” strategy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200244</ArticleId>
+            <ArticleId IdType="pii">S1570-0232(19)30660-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jchromb.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

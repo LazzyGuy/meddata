@@ -1,0 +1,160 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198190</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Valuing Health Status in the First Year of Life: The Infant Health-Related Quality of Life Instrument.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>721-727</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30078-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2018.12.009</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Efforts to evaluate HRQoL and calculate quality-adjusted life years (QALYs) for infants less than 12 months of age are hampered by the lack of preference-based HRQoL instruments for this group. To fill this gap, we developed the Infant Quality of life Instrument (IQI), which is administered through a mobile application. This article explains how weights were derived for the 4 levels of each health item.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The IQI includes 7 health items: sleeping, feeding, breathing, stooling/poo, mood, skin, and interaction. In an online survey, respondents from the general population (n = 1409) and primary caregivers (n = 1229) from China, the United Kingdom, and the United States were presented with 10 discrete choice scenarios. Coefficients for the item levels were obtained with a conditional logit model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The highest coefficients were found for sleeping, feeding, and breathing. All coefficients for these items were negative and logically ordered, meaning that more extreme levels were less preferred. Stooling, mood, skin, and interaction showed some irregularities in the ordering of coefficients. Results for caregivers and the general population were about the same.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The IQI is the first generic instrument to assess overall HRQoL in infants up to 1 year of age. It is short and easy to administer through a mobile application. We demonstrated how to derive values for infant health states with a discrete choice methodology. Our next step will be to normalize these values into utilities ranging from 0 (dead) to 1 (best health state) and to collect IQI values in a clinical population.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jabrayilov</LastName>
+                    <ForeName>Ruslan</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vermeulen</LastName>
+                    <ForeName>Karin M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Detzel</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nestlé Research Center, Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dainelli</LastName>
+                    <ForeName>Livia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nestlé Research Center, Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Asselt</LastName>
+                    <ForeName>Antoinette D I</ForeName>
+                    <Initials>ADI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krabbe</LastName>
+                    <ForeName>Paul F M</ForeName>
+                    <Initials>PFM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands. Electronic address: p.f.m.krabbe@umcg.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">health states</Keyword>
+            <Keyword MajorTopicYN="N">health-related quality of life</Keyword>
+            <Keyword MajorTopicYN="N">infants</Keyword>
+            <Keyword MajorTopicYN="N">measurement</Keyword>
+            <Keyword MajorTopicYN="N">value</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198190</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30078-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2018.12.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

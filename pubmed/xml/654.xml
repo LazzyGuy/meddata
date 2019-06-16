@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199713</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-3824</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Research quarterly for exercise and sport</Title>
+                <ISOAbbreviation>Res Q Exerc Sport</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accelerometer and GPS Data to Analyze Built Environments and Physical Activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/02701367.2019.1609649</ELocationID>
+            <Abstract>
+                <AbstractText><b>Purpose</b>: Most built environment studies have quantified characteristics of the areas around participants' homes. However, the environmental exposures for physical activity (PA) are spatially dynamic rather than static. Thus, merged accelerometer and global positioning system (GPS) data were utilized to estimate associations between the built environment and PA among adults. <b>Methods</b>: Participants (<i>N</i> = 142) were recruited on trails in Massachusetts and wore an accelerometer and GPS unit for 1-4 days. Two binary outcomes were created: moderate-to-vigorous PA (MVPA vs. light PA-to-sedentary); and light-to-vigorous PA (LVPA vs. sedentary). Five built environment variables were created within 50-meter buffers around GPS points: population density, street density, land use mix (LUM), greenness, and walkability index. Generalized linear mixed models were fit to examine associations between environmental variables and both outcomes, adjusting for demographic covariates. <b>Results</b>: Overall, in the fully adjusted models, greenness was positively associated with MVPA and LVPA (odds ratios [ORs] = 1.15, 95% confidence interval [CI] = 1.03, 1.30 and 1.25, 95% CI = 1.12, 1.41, respectively). In contrast, street density and LUM were negatively associated with MVPA (ORs = 0.69, 95% CI = 0.67, 0.71 and 0.87, 95% CI = 0.78, 0.97, respectively) and LVPA (ORs = 0.79, 95% CI = 0.77, 0.81 and 0.81, 95% CI = 0.74, 0.90, respectively). Negative associations of population density and walkability with both outcomes reached statistical significance, yet the effect sizes were small. <b>Conclusions</b>: Concurrent monitoring of activity with accelerometers and GPS units allowed us to investigate relationships between objectively measured built environment around GPS points and minute-by-minute PA. Negative relationships between street density and LUM and PA contrast evidence from most built environment studies in adults. However, direct comparisons should be made with caution since most previous studies have focused on spatially fixed buffers around home locations, rather than the precise locations where PA occurs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tamura</LastName>
+                    <ForeName>Kosuke</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4920-2856</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a National Institutes of Health.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Jeffrey S</ForeName>
+                    <Initials>JS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1249-2968</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>b Indiana University-Purdue University Indianapolis.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldfeld</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c New York University School of Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puett</LastName>
+                    <ForeName>Robin C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d University of Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klenosky</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>e Purdue University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harper</LastName>
+                    <ForeName>William A</ForeName>
+                    <Initials>WA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>e Purdue University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Troped</LastName>
+                    <ForeName>Philip J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>f University of Massachusetts Boston.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Res Q Exerc Sport</MedlineTA>
+            <NlmUniqueID>8006373</NlmUniqueID>
+            <ISSNLinking>0270-1367</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Recreational and utilitarian activities</Keyword>
+            <Keyword MajorTopicYN="N">multilevel data analysis</Keyword>
+            <Keyword MajorTopicYN="N">neighborhood environment characteristics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199713</ArticleId>
+            <ArticleId IdType="doi">10.1080/02701367.2019.1609649</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

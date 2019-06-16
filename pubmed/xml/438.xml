@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199959</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5118</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Progress in neurobiology</Title>
+                <ISOAbbreviation>Prog. Neurobiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation of signaling proteins in the brain by light.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101638</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-0082(19)30024-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pneurobio.2019.101638</ELocationID>
+            <Abstract>
+                <AbstractText>In order to study the role of signaling proteins, such as kinases and GTPases, in brain functions it is necessary to control their activity at the appropriate spatiotemporal resolution and to examine the cellular and behavioral effects of such changes in activity. Reduced spatiotemporal resolution in the regulation of these proteins activity will impede the ability to understand the proteins normal functions as longer modification of their activity in non-normal locations could lead to effects different from their natural functions. To control intracellular signaling proteins at the highest temporal resolution recent innovative optogenetic approaches were developed to allow the control of photoactivable signaling proteins activity by light. These photoactivatable proteins can be activated in selected cell population in brain and in specific subcellular compartments. Minimal-invasive tools are being developed to photoactivate these proteins for study and therapy. Together these techniques afford an unprecedented spatiotemporal control of signaling proteins activity to unveil the function of brain proteins with high accuracy in behaving animals. As dysfunctional signaling proteins are involved in brain diseases, the optogenetic technique has also the potential to be used as a tool to treat brain diseases.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lamprecht</LastName>
+                    <ForeName>Raphael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sagol Department of Neurobiology, University of Haifa, Haifa, Israel. Electronic address: rlamp@research.haifa.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Prog Neurobiol</MedlineTA>
+            <NlmUniqueID>0370121</NlmUniqueID>
+            <ISSNLinking>0301-0082</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CRY2</Keyword>
+            <Keyword MajorTopicYN="N">EphB2</Keyword>
+            <Keyword MajorTopicYN="N">LOV2</Keyword>
+            <Keyword MajorTopicYN="N">Optogenetics</Keyword>
+            <Keyword MajorTopicYN="N">Rac1 GTPase</Keyword>
+            <Keyword MajorTopicYN="N">behavior</Keyword>
+            <Keyword MajorTopicYN="N">brain diseases</Keyword>
+            <Keyword MajorTopicYN="N">deep brain stimulation</Keyword>
+            <Keyword MajorTopicYN="N">memory</Keyword>
+            <Keyword MajorTopicYN="N">synaptic plasticity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199959</ArticleId>
+            <ArticleId IdType="pii">S0301-0082(19)30024-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pneurobio.2019.101638</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

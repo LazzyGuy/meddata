@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198585</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2056-3418</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Regenerative biomaterials</Title>
+                <ISOAbbreviation>Regen Biomater</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><i>In vitro</i> evaluation of 3D printed polycaprolactone scaffolds with angle-ply architecture for annulus fibrosus tissue engineering.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>175-184</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/rb/rbz011</ELocationID>
+            <Abstract>
+                <AbstractText>Tissue engineering of the annulus fibrosus (AF) is currently being investigated as a treatment for intervertebral disc degeneration, a condition frequently associated with low back pain. The objective of this work was to use 3D printing to generate a novel scaffold for AF repair that mimics the structural and biomechanical properties of the native tissue. Multi-layer scaffolds were fabricated by depositing polycaprolactone struts in opposing angular orientations, replicating the angle-ply arrangement of the native AF tissue. Scaffolds were printed with varied strut diameter and spacing. The constructs were characterized morphologically and by static and dynamic mechanical analyses. Scaffold surfaces were etched with unidirectional grooves and the influence on bovine AF cell metabolic activity, alignment, morphology and protein expression was studied <i>in vitro</i>. Overall, the axial compressive and circumferential tensile properties of the scaffolds were found to be in a similar range to the native AF tissue. Confocal microscopy images indicated that cells were able to attach and spread on the smooth polycaprolactone scaffolds, but the surface texture induced cellular alignment and proliferation. Furthermore, immunofluorescence analysis demonstrated the aligned deposition of collagen type I, aggrecan and the AF-specific protein marker tenomodulin on the etched scaffolds. Overall, results demonstrated the potential for using the scaffolds as a template for AF regeneration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Christiani</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Rowan University, 201 Mullica Hill Road, Glassboro, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baroncini</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Rowan University, 201 Mullica Hill Road, Glassboro, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanzione</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Rowan University, 201 Mullica Hill Road, Glassboro, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vernengo</LastName>
+                    <ForeName>A J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Rowan University, 201 Mullica Hill Road, Glassboro, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Rowan University, 201 Mullica Hill Road, Glassboro, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Regen Biomater</MedlineTA>
+            <NlmUniqueID>101652150</NlmUniqueID>
+            <ISSNLinking>2056-3426</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3D printing</Keyword>
+            <Keyword MajorTopicYN="N">materials structure</Keyword>
+            <Keyword MajorTopicYN="N">scaffolds</Keyword>
+            <Keyword MajorTopicYN="N">surface modification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198585</ArticleId>
+            <ArticleId IdType="doi">10.1093/rb/rbz011</ArticleId>
+            <ArticleId IdType="pii">rbz011</ArticleId>
+            <ArticleId IdType="pmc">PMC6547313</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

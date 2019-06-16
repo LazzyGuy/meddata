@@ -1,0 +1,95 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199610</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simultaneous Inverse-Design of Material and Structure via Deep-Learning: Demonstration of Dipole Resonance Engineering using Core-Shell Nanoparticles.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b05857</ELocationID>
+            <Abstract>
+                <AbstractText>Recent introduction of data-driven approaches based on deep-learning technology has revolutionized the field of nanophotonics by allowing efficient inverse design methods. In this paper, simultaneous inverse design of materials and structure parameters of core-shell nanoparticle is achieved for the first time using deep-learning of a neural network. A neural network to learn correlation between extinction spectra of electric and magnetic dipoles and core-shell nanoparticle designs, which include material information and shell thicknesses, is developed and trained. We demonstrate deep-learning-assisted inverse design of core-shell nanoparticle for 1) spectral tuning electric dipole resonances, 2) finding spectrally isolated pure magnetic dipole resonances, and 3) finding spectrally overlapped electric dipole and magnetic dipole resonances. Our finding paves the way of the rapid development of nanophotonics by allowing a practical utilization of a deep-learning technology for nanophotonic inverse design.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>So</LastName>
+                    <ForeName>Sunae</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mun</LastName>
+                    <ForeName>Jungho</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rho</LastName>
+                    <ForeName>Junsuk</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199610</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b05857</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

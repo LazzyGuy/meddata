@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199886</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1745-6924</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Perspectives on psychological science : a journal of the Association for Psychological Science</Title>
+                <ISOAbbreviation>Perspect Psychol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exploring Research-Methods Blogs in Psychology: Who Posts What About Whom, and With What Effect?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1745691619835216</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/1745691619835216</ELocationID>
+            <Abstract>
+                <AbstractText>During the methods crisis in psychology and other sciences, much discussion developed online in forums such as blogs and other social media. Hence, this increasingly popular channel of scientific discussion itself needs to be explored to inform current controversies, record the historical moment, improve methods communication, and address equity issues. Who posts what about whom, and with what effect? Does a particular generation or gender contribute more than another? Do blogs focus narrowly on methods, or do they cover a range of issues? How do they discuss individual researchers, and how do readers respond? What are some impacts? Web-scraping and text-analysis techniques provide a snapshot characterizing 41 current research-methods blogs in psychology. Bloggers mostly represented psychology's traditional leaderships' demographic categories: primarily male, mid- to late career, associated with American institutions, White, and with established citation counts. As methods blogs, their posts mainly concern statistics, replication (particularly statistical power), and research findings. The few posts that mentioned individual researchers substantially focused on replication issues; they received more views, social-media impact, comments, and citations. Male individual researchers were mentioned much more often than female researchers. Further data can inform perspectives about these new channels of scientific communication, with the shared aim of improving scientific practices.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nicolas</LastName>
+                    <ForeName>Gandalf</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8215-1758</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Princeton University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bai</LastName>
+                    <ForeName>Xuechunzi</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Princeton University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fiske</LastName>
+                    <ForeName>Susan T</ForeName>
+                    <Initials>ST</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Princeton University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Perspect Psychol Sci</MedlineTA>
+            <NlmUniqueID>101274347</NlmUniqueID>
+            <ISSNLinking>1745-6916</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">blogs</Keyword>
+            <Keyword MajorTopicYN="N">natural language processing</Keyword>
+            <Keyword MajorTopicYN="N">replicability</Keyword>
+            <Keyword MajorTopicYN="N">research methods</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199886</ArticleId>
+            <ArticleId IdType="doi">10.1177/1745691619835216</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

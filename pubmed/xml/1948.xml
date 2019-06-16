@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198169</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0301-0430</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nephrology</Title>
+                <ISOAbbreviation>Clin. Nephrol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Utility of a urine sediment score in hyperbilirubinemia/hyperbilirubinuria .</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5414/CN109673</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">Acute and chronic kidney dysfunction is common in patients with end-stage liver disease. Differentiation between acute kidney injury (AKI) due to hepatorenal syndrome (HRS) or acute tubular necrosis (ATN) remains difficult, however urine cast scoring systems using renal tubular epithelial cells (RTECs) and granular casts (GCs) can help to identify intrinsic kidney diseases. The objective of this study was to evaluate the urine sediment profile of patients with liver disease and hyperbilirubinemia/hyperbilirubinuria and the use of a urine sediment scoring system to identify the most common score in AKI patients and high urine bilirubin concentrations.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A retrospective study in the database of a large laboratory that assists a hospital-complex in Brazil was performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Urinary casts, in particular GCs, as well as RTECs were observed more frequently in patients with hyperbilirubinemia/hyperbilirubinuria, while hyaline casts were observed in patients without hyperbilirubinemia/hyperbilirubinuria. Regardless of the AKI or non-AKI condition, the relative risk for scores 2 or 3 (sediment consistent with tubular damage, with GCs and/or RTECs in different quantities) in group 4 was 3.61 times higher compared to patients in group 1.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In patients with higher urinary bilirubin levels, the urine sediment had greater numbers of GCs and RTECs and higher urine sediment scores (scores 2 or 3). The presence of a larger number of urine particles (RTECs and GCs) originating in the kidneys in the groups with higher levels of urinary bilirubin suggests an association between hyperbilirubinemia/hyperbilirubinuria and tubular injury independent of AKI or non-AKI. .</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Poloni</LastName>
+                    <ForeName>José A T</ForeName>
+                    <Initials>JAT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perazella</LastName>
+                    <ForeName>Mark A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keitel</LastName>
+                    <ForeName>Elizete</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marroni</LastName>
+                    <ForeName>Claudio A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leite</LastName>
+                    <ForeName>Samantha B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rotta</LastName>
+                    <ForeName>Liane N</ForeName>
+                    <Initials>LN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Nephrol</MedlineTA>
+            <NlmUniqueID>0364441</NlmUniqueID>
+            <ISSNLinking>0301-0430</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198169</ArticleId>
+            <ArticleId IdType="pii">CN109673</ArticleId>
+            <ArticleId IdType="doi">10.5414/CN109673</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

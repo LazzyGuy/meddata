@@ -1,0 +1,141 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198872</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2405-8440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heliyon</Title>
+                <ISOAbbreviation>Heliyon</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An alternative approach to study the enzymatic specificities of the CfrBI restriction-modification system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e01846</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.heliyon.2019.e01846</ELocationID>
+            <Abstract>
+                <AbstractText>Restriction-modification systems (RMS) are the main gene-engineering tools and a suitable model to study the molecular mechanisms of catalysis and DNA-protein interactions. Research into the catalytic properties of these enzymes, determination of hydrolysis and DNA-methylation sites remain topical. In our previous work we have cloned and sequenced the CfrBI restriction-modification system (strain <i>Citrobacter freundii)</i>, which recognizes the nucleotide sequence 5'-CCWWGG-3'. In this article we describe the cloning of the methyltransferase and restriction endonuclease genes (gene encoding CfrBI DNA methyltransferase (<i>cfrBIM)</i> and gene encoding CfrBI restriction endonuclease (<i>cfrBIR)</i>) separately to obtain strains overproducing the enzymes of this system. His<sub>6</sub>-CfrBI, which had been purified to homogeneity, was used to establish the DNA-hydrolysis point in its recognition site. CfrBI was shown to cleave DNA after just the first 5'C within the recognition site and then to generate 4-nt 3' cohesive ends (5'-C/CWWGG-3'). To map the site of methylation by M.CfrBI, we exploited the fact that the <i>Cfr</i>BI site partially overlaps with the recognition sites of the well-documented enzymes KpnI and ApaI. The M.CfrBI- induced hemimethylation of the internal C residue of the ApaI recognition sequence (GGGC<sup>N4m</sup>CC) was observed to block cleavage by ApaI. In contrast, KpnI was able to digest its M.CfrBI-hemimethylated site (GGTA<sup>N4m</sup>CC). KpnI was used to restrict a fragment of DNA harbouring the CfrBI and KpnI sites, in which the CfrBI site was methylated <i>in vitro</i> by His<sub>6</sub>-M.CfrBI using [<sup>3</sup>H]-SAM. The subsequent separation of hydrolysis products by electrophoresis and the enumeration of incorporated [H3]-methyl groups in each of the fragments made it possible to determine that external cytosine undergoes modification in the recognition site.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zakharova</LastName>
+                    <ForeName>Marina V</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FSBIS G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of Sciences, Pushchino, Moscow Region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beletskaya</LastName>
+                    <ForeName>Irina V</ForeName>
+                    <Initials>IV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FSBIS G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of Sciences, Pushchino, Moscow Region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ibryashkina</LastName>
+                    <ForeName>Elena M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FSBIS G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of Sciences, Pushchino, Moscow Region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solonin</LastName>
+                    <ForeName>Alexander S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FSBIS G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of Sciences, Pushchino, Moscow Region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Heliyon</MedlineTA>
+            <NlmUniqueID>101672560</NlmUniqueID>
+            <ISSNLinking>2405-8440</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biochemistry</Keyword>
+            <Keyword MajorTopicYN="N">Citrobacter freundii</Keyword>
+            <Keyword MajorTopicYN="N">DNA methylation</Keyword>
+            <Keyword MajorTopicYN="N">DNA methyltransferase</Keyword>
+            <Keyword MajorTopicYN="N">Restriction-modification system</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198872</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.heliyon.2019.e01846</ArticleId>
+            <ArticleId IdType="pii">S2405-8440(18)36730-6</ArticleId>
+            <ArticleId IdType="pii">e01846</ArticleId>
+            <ArticleId IdType="pmc">PMC6556831</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

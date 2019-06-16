@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200304</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of Escherichia coli genes associated with human sewage to track fecal contamination source in subtropical waters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1069-1075</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32240-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.05.201</ELocationID>
+            <Abstract>
+                <AbstractText>Escherichia coli (E. coli) is frequently used in assessment and regulation of recreational water quality, but it is a general fecal indicator that provides no information about fecal contamination source. Sewage-associated microorganisms and related marker genes have proven useful for microbial source tracking (MST) applications that link fecal contamination to host sources, but many MST marker genes are carried in taxa not used in regulatory contexts. A more direct connection with regulatory concerns, including human health risk and total maximum daily load (TMDL) assessments, could be accomplished with tools such as the human-associated marker genes of E. coli. We evaluated the performance of E. coli H8, H12, H14, and H24 marker genes for detection of domestic sewage at the E. coli isolate level in Florida. E. coli isolates (n = 1, 380) from reference fecal and wastewater samples were first tested by binary PCR for the presence of each H marker gene. H8 and H12 were &gt;90% specific and sensitive for domestic sewage, while H14 and H24 were ≤86% specific. Therefore, quantitative PCR (qPCR) assays were used to quantify H8 and H12 marker genes at the sample level. Specificity values for the H8 and H12 qPCR assays were 96 and 93%, respectively, while both marker genes showed 100% sensitivity. H12 concentrations were tenfold lower in wastewater than H8 (~6-7 log<sub>10</sub> gene copies (GC)/100 mL). H8 concentrations in wastewater and contaminated environmental water samples were correlated with the sewage-associated Bacteroides HF183 marker gene. This study suggests that E. coli H genes, and H8 in particular, can be useful for sewage contamination tracking and TMDL development in subtropical waters.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Senkbeil</LastName>
+                    <ForeName>Jacob K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of South Florida, Tampa, FL 33620, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmed</LastName>
+                    <ForeName>Warish</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CSIRO Land and Water, Ecosciences Precinct, 41 Boggo Road, Qld 4102, Australia. Electronic address: Warish.Ahmed@csiro.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conrad</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of South Florida, Tampa, FL 33620, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harwood</LastName>
+                    <ForeName>Valerie J</ForeName>
+                    <Initials>VJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of South Florida, Tampa, FL 33620, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">E. coli marker gene</Keyword>
+            <Keyword MajorTopicYN="N">Fecal contamination</Keyword>
+            <Keyword MajorTopicYN="N">Host-specificity</Keyword>
+            <Keyword MajorTopicYN="N">Microbial source tracking</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200304</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32240-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.05.201</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,178 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199512</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-9071</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical virology</Title>
+                <ISOAbbreviation>J. Med. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential expression profiling of lncRNAs related to Epstein-Barr virus infection in epithelial cells.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmv.25516</ELocationID>
+            <Abstract>
+                <AbstractText>Epstein-Barr virus (EBV) is a prevalent γ-herpesvirus associated with a variety of cancers, including epithelial nasopharyngeal carcinoma (NPC) and gastric carcinoma (GC). Long non-coding RNAs (lncRNAs) are emerging as powerful regulators that have been demonstrated to play crucial roles in cancer development. In this approach, based on genome-wide RNA sequencing, we examined the lncRNA expression profiles in four EBV genome-infected 293 cell lines and EBV-negative 293 cells. A series of lncRNAs were found to be dysregulated in a comparative analysis. Then, eight typical lncRNAs were selected for validation of expression levels by real-time qPCR, and were detected in EBV-positive or EBV-negative GC and NPC cells. The differential expression patterns of the eight lncRNAs for validation were fundamentally identical to those revealed in RNAseq. Particularly, the differential expression of these lncRNAs in GC cells and NPC cells indicated their possible roles in EBV infection and tumorigenesis. In addition, a predicted lncRNA-microRNA-mRNA network suggested their potential interactions. This study reveals the first lncRNAome related to EBV infection in epithelial cells and provides novel clues for the study of viral role in epithelial cancers through the interaction between EBV and host lncRNAs. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Siwei</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zuo</LastName>
+                    <ForeName>Lielian</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yue</LastName>
+                    <ForeName>Wenxing</ForeName>
+                    <Initials>W</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8369-0171</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Shen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xin</LastName>
+                    <ForeName>Shuyu</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Lingzhi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Jianhong</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4436-1217</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NHC Key Laboratory of Carcinogenesis, The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, 410080, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, School of Basic Medical Science, Central South University, Changsha, 410078, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Virol</MedlineTA>
+            <NlmUniqueID>7705876</NlmUniqueID>
+            <ISSNLinking>0146-6615</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Epstein-Barr virus</Keyword>
+            <Keyword MajorTopicYN="N">epithelial cancer</Keyword>
+            <Keyword MajorTopicYN="N">latent infection</Keyword>
+            <Keyword MajorTopicYN="N">long non-coding RNA</Keyword>
+            <Keyword MajorTopicYN="N">profiling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199512</ArticleId>
+            <ArticleId IdType="doi">10.1002/jmv.25516</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

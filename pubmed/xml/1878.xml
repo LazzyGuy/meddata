@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198246</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Exact Localization of Adductor Canal and Its Clinical Significance: A Cadaveric Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>284-286</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_35_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background and Objectives" NlmCategory="UNASSIGNED">Adductor canal block is a regional anesthetic block procedure commonly employed for knee surgeries. This study aims at locating the adductor canal precisely which will be of great use for the surgeons operating on knee.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Forty cadaveric lower limbs fixed with formalin were utilized for the study. The length of the lower limb from anterior superior iliac spine to the base of patella is measured, and the midpoint between the two is marked. Adductor canal is dissected and the distance between proximal foramen and the midpoint of thigh, the length of the adductor canal, and the distance between the distal foramen and the base of the patella are measured.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean value of the adductor canal is about 10.5 cm. The average distance from anterior superior iliac spine to proximal foramen is 25 cm. The average distance from base of patella to distal foramen is 8.5 cm. In 36 (90%) lower limbs, the proximal foramen is 3 cm distal to the midpoint of the thigh.</AbstractText>
+                <AbstractText Label="Interpretation and Conclusion" NlmCategory="UNASSIGNED">This study suggests that a point more than 3 cm below the midpoint of thigh will be the ideal location for the approach of adductor canal block.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thiayagarajan</LastName>
+                    <ForeName>Muthu Kumar</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy, Sri Ramachandra Medical College, Sri Ramachandra Institute of Higher Education and Research, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Singaram Vijaya</ForeName>
+                    <Initials>SV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy, Sri Ramachandra Medical College, Sri Ramachandra Institute of Higher Education and Research, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venkatesh</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia, Sri Ramachandra Medical College, Sri Ramachandra Institute of Higher Education and Research, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adductor canal block</Keyword>
+            <Keyword MajorTopicYN="N">anterior superior iliac spine</Keyword>
+            <Keyword MajorTopicYN="N">femoral vessels</Keyword>
+            <Keyword MajorTopicYN="N">hiatus magnus and saphenous nerve</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198246</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_35_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-284</ArticleId>
+            <ArticleId IdType="pmc">PMC6545962</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

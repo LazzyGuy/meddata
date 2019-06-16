@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200218</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2448</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>161</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Water research</Title>
+                <ISOAbbreviation>Water Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Literature-based, manually-curated database of PCR primers for the detection of antibiotic resistance genes in various environments.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211-221</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0043-1354(19)30514-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.watres.2019.06.009</ELocationID>
+            <Abstract>
+                <AbstractText>A literature-based, manually-curated database of PCR primers for the detection of antibiotic resistance genes in various environments was constructed (LCPDb-ARG; lcpdb.ddg.biol.uw.edu.pl and lcpdb.ddlemb.com). Currently, this database is comprised of 607 PCR primer pairs designed for the amplification of various genes conferring resistance to antibiotics representing 10 classes of antimicrobial agents. Three parameters were assigned for each primer pair: specificity, efficacy and taxonomic efficacy. These parameters were evaluated using a novel bioinformatic tool, UniPriVal, developed for this study. UniPriVal was used to validate each primer pair against various databases, including the Bacterial Antimicrobial Resistance Reference Gene Database (BARRGDB) and those of the National Center of Biotechnology Information (NCBI). Primer pairs specific for each antibiotic resistance gene were ranked based on their model success metric value. To validate the utility and correctness of the information collected in the LCPDb-ARG, selected primer pairs were tested in bioinformatic and experimental PCR surveys. To our knowledge, this is the first database designed to facilitate PCR monitoring of the occurrence and diversity of antibiotic resistance genes in environmental and clinical samples. The internal validation system of this user-friendly application enables the quantified ranking of PCR primer pairs, which assists selection of the best primers for each application.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gorecki</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Warsaw, Faculty of Biology, Institute of Microbiology, Department of Bacterial Genetics, Miecznikowa 1, 02-096, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Decewicz</LastName>
+                    <ForeName>Przemyslaw</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Warsaw, Faculty of Biology, Institute of Microbiology, Department of Bacterial Genetics, Miecznikowa 1, 02-096, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dziurzynski</LastName>
+                    <ForeName>Mikolaj</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Warsaw, Faculty of Biology, Institute of Microbiology, Department of Bacterial Genetics, Miecznikowa 1, 02-096, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janeczko</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Municipal and Industrial Wastewater Treatment Plant, Nadwislanska 46, 32-600, Oswiecim, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drewniak</LastName>
+                    <ForeName>Lukasz</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Warsaw, Faculty of Biology, Laboratory of Environmental Pollution Analysis, Miecznikowa 1, 02-096, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dziewit</LastName>
+                    <ForeName>Lukasz</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Warsaw, Faculty of Biology, Institute of Microbiology, Department of Bacterial Genetics, Miecznikowa 1, 02-096, Warsaw, Poland. Electronic address: ldziewit@biol.uw.edu.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Water Res</MedlineTA>
+            <NlmUniqueID>0105072</NlmUniqueID>
+            <ISSNLinking>0043-1354</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibiotic</Keyword>
+            <Keyword MajorTopicYN="N">Antibiotic resistance gene</Keyword>
+            <Keyword MajorTopicYN="N">Emerging pollutant</Keyword>
+            <Keyword MajorTopicYN="N">LCPDb-ARG</Keyword>
+            <Keyword MajorTopicYN="N">PCR screening</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200218</ArticleId>
+            <ArticleId IdType="pii">S0043-1354(19)30514-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.watres.2019.06.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

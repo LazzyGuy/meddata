@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200101</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular neurosciences</Title>
+                <ISOAbbreviation>Mol. Cell. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><sup>1</sup>H NMR profiling of the 6-OHDA parkinsonian rat brain reveals metabolic alterations and signs of recovery after N-acetylcysteine treatment.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1044-7431(19)30049-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mcn.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Parkinson's disease is the second most common neurodegenerative disease caused by degeneration of dopamine neurons in the substantia nigra. The origin and causes of dopamine neurodegeneration in Parkinson's disease are not well understood but oxidative stress may play an important role in its onset. Much effort has been dedicated to find biomarkers indicative of oxidative stress and neurodegenerative processes in parkinsonian brains. By using <sup>1</sup>H NMR (nuclear magnetic resonance) to identify and quantify key metabolites, it is now possible to elucidate the metabolic pathways affected by pathological conditions like neurodegeneration. The metabolic disturbances in the 6-hydroxydopamine (6-OHDA) hemiparkinsonian rat model were monitored and the nature and size of these metabolic alterations were analyzed. The results indicate that a unilateral injection of 6-OHDA into the striatum causes metabolic changes that not only affect the injected hemisphere but also the contralateral, non-lesioned side. We could clearly identify specific metabolic pathways that were affected, which were mostly related with oxidative stress and neurotransmission. In addition, a partial metabolic recovery by carrying out an antioxidant treatment with N-acetylcysteine (NAC) was observable.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Virel</LastName>
+                    <ForeName>Ana</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Medical Biology, Umeå University, Umeå, Sweden. Electronic address: ana.virel@umu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudka</LastName>
+                    <ForeName>Ilona</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Umeå University, Umeå, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laterveer</LastName>
+                    <ForeName>Rutger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Medical Biology, Umeå University, Umeå, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bjerkén</LastName>
+                    <ForeName>Sara Af</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Medical Biology, Umeå University, Umeå, Sweden; Department of Clinical Sciences, Neuroscience, Umeå University, Umeå, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Neurosci</MedlineTA>
+            <NlmUniqueID>9100095</NlmUniqueID>
+            <ISSNLinking>1044-7431</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">(1)H HR MAS NMR</Keyword>
+            <Keyword MajorTopicYN="N">6-OHDA</Keyword>
+            <Keyword MajorTopicYN="N">Metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">N-acetylcysteine</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">Parkinson's disease</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200101</ArticleId>
+            <ArticleId IdType="pii">S1044-7431(19)30049-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mcn.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

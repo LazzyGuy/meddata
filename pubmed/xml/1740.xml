@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198419</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1687-5443</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neural plasticity</Title>
+                <ISOAbbreviation>Neural Plast.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increased Insular Connectivity and Enhanced Empathic Ability Associated with Dance/Music Training.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9693109</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/9693109</ELocationID>
+            <Abstract>
+                <AbstractText>Dance and music are expressive art forms. Previous behavioural studies have reported that dancers/musicians show a better sensorimotor ability and emotional representation of others. However, the neural mechanism behind this phenomenon is not completely understood. Recently, intensive researches have identified that the insula is highly enrolled in the empathic process. Thus, to expand the knowledge of insular function associated with empathy under the dance/music training background, we mapped the insular network and its associated brain regions in 21 dancers, 20 musicians, and 24 healthy controls using resting-state functional connectivity (FC) analysis. Whole brain voxel-based analysis was performed using seeds from the posterior insula (PI), the ventral anterior insula (vAI), and the dorsal anterior insula (dAI). The training effects of dance and music on insular subnetworks were then evaluated using one-way analysis of variance ANOVA. Increased insular FC with those seeds was found in dancers/musicians, including PI and anterior cingulated cortex (ACC), vAI and middle temporal gyrus (MTG) and middle cingulated cortex (MCC), and dAI and ACC and MTG. In addition, significant associations were found between discrepant insular FC patterns and empathy scores in dancers and musicians. These results indicated that dance/music training might enhance insular subnetwork function, which would facilitate integration of intero/exteroceptive information and result in better affective sensitivity. Those changes might finally facilitate the subjects' empathic ability.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gujing</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0003-4700-5346</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hui</LastName>
+                    <ForeName>He</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">0000-0002-1918-1484</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xin</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0002-5992-6161</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lirong</LastName>
+                    <ForeName>Zhang</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Art and Culture Centre, University of Electronic Science and Technology of China, Chengdu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yutong</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-6368-8856</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Natural Sciences, University of Stirling, Stirling, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guofeng</LastName>
+                    <ForeName>Ye</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jing</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0002-3519-3055</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shulin</LastName>
+                    <ForeName>Zhou</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Music Education, Sichuan Music Conservatory, Chengdu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lei</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Drama, Sichuan Music Conservatory, Chengdu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Luo</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0003-0524-5886</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dezhong</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-8042-879X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Lab for Neuroinformation, Center for Information in Medicine, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neural Plast</MedlineTA>
+            <NlmUniqueID>100883417</NlmUniqueID>
+            <ISSNLinking>1687-5443</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198419</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/9693109</ArticleId>
+            <ArticleId IdType="pmc">PMC6526550</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

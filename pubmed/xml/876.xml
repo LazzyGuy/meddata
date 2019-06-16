@@ -1,0 +1,186 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199461</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of experimental botany</Title>
+                <ISOAbbreviation>J. Exp. Bot.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">erz271</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jxb/erz271</ELocationID>
+            <Abstract>
+                <AbstractText>Soil biota have important effects on crop productivity, but can be difficult to study in situ. Laser ablation tomography (LAT) is a novel method that allows for rapid, three-dimensional quantitative and qualitative analysis of root anatomy, providing new opportunities to investigate interactions between roots and edaphic organisms. LAT was used for analysis of maize roots colonized by arbuscular mycorrhizal fungi, maize roots herbivorized by western corn rootworm, barley roots parasitized by cereal cyst nematode, and common bean roots damaged by Fusarium. UV excitation of root tissues affected by edaphic organisms resulted in differential autofluorescence emission, facilitating the classification of tissues and anatomical features. Samples were spatially resolved in three-dimensions, enabling quantification of the volume and distribution of fungal colonization, western corn rootworm damage, nematode feeding sites, tissue compromised by Fusarium, and as well as root anatomical phenotypes. Owing to its capability for high throughput sample imaging, LAT serves as an excellent tool to conduct large, quantitative screens to characterize genetic control of root anatomy and interactions with edaphic organisms. Additionally, this technology improves interpretation of root-organism interactions in relatively large, opaque root segments, providing opportunities for novel research investigating the effects of root anatomical phenes on associations with edaphic organisms.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the Society for Experimental Biology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Strock</LastName>
+                    <ForeName>Christopher F</ForeName>
+                    <Initials>CF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Hannah M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galindo-Castañeda</LastName>
+                    <ForeName>Tania</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Benjamin T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lasers for Innovative Solutions, LLC, 200 Innovation Blvd. (Suite 214), State College, PA USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Gansbeke</LastName>
+                    <ForeName>Bart</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Agriculture, Food and Wine, Waite Research Institute, The University of Adelaide, PMB 1, Glen Osmond, SA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mather</LastName>
+                    <ForeName>Diane E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Agriculture, Food and Wine, Waite Research Institute, The University of Adelaide, PMB 1, Glen Osmond, SA, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roth</LastName>
+                    <ForeName>Mitchell G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant, Soil, and Microbial Sciences, Michigan State University, East Lansing, MI USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chilvers</LastName>
+                    <ForeName>Martin I</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant, Soil, and Microbial Sciences, Michigan State University, East Lansing, MI USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Xiangrong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Kathleen</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lynch</LastName>
+                    <ForeName>Jonathan P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Science, Pennsylvania State University, University Park, Pennsylvania USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Exp Bot</MedlineTA>
+            <NlmUniqueID>9882906</NlmUniqueID>
+            <ISSNLinking>0022-0957</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          Fusarium
+        </Keyword>
+            <Keyword MajorTopicYN="N">Cereal Cyst Nematode</Keyword>
+            <Keyword MajorTopicYN="N">Mycorrhizae</Keyword>
+            <Keyword MajorTopicYN="N">Root Anatomy</Keyword>
+            <Keyword MajorTopicYN="N">Root Phenotyping</Keyword>
+            <Keyword MajorTopicYN="N">Western Corn Rootworm</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199461</ArticleId>
+            <ArticleId IdType="pii">5519110</ArticleId>
+            <ArticleId IdType="doi">10.1093/jxb/erz271</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

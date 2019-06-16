@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199423</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-5528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Analyst</Title>
+                <ISOAbbreviation>Analyst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Advances in age-dating of individual uranium particles by large geometry secondary ion mass spectrometry.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9an00774a</ELocationID>
+            <Abstract>
+                <AbstractText>We present the ability to conduct single micrometer-sized uranium particle age-dating measurements on particles that are younger, smaller, and less enriched in 235U content than previously reported. Specifically, we use large geometry secondary ion mass spectrometry (LG-SIMS) to precisely measure the 230Th/234U radiochronometer, combined with a systematic treatment of relevant parameters such as particle size, enrichment, and age, to achieve this development. We describe the necessary requirements for instrument background, interference rejection, abundance sensitivity, and other instrumental conditions that allow for this advance in single-particle uranium age-dating. We introduce the use of statistics developed by Feldman and Cousins to generate 95% confidence intervals in particle age, even when 230Th daughter ions are not detected. For particles where counts are limited and are of identical isotopic signatures, we provide an option for aggregating individual measurements of single particles to reduce measurement uncertainty, as if the measurement had been performed on one larger particle. The methodology is validated on a range of certified reference materials and 'real-world' samples, ranging in age from 15 to 60 years, and on individual particles ranging in equivalent size from 0.6 to 6.8 micrometers. Additionally, we provide model age calculations for particles ranging in size from 1.0 to 3.0 micrometers across enrichments ranging from natural uranium to highly-enriched uranium and on ages ranging from 0 to 60 years. Experimental results compare well with the predicted model ages, providing realistic guidance for expectations of single micrometer-sized uranium particle age-dating measurements. The age-dating capabilities described herein are directly relevant to the International Atomic Energy Agency (IAEA) and its mission to safeguard nuclear materials and monitor member state nuclear programs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Szakal</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2050-9619</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Materials Measurement Science Division, National Institute of Standards and Technology, Gaithersburg, MD, USA. cszakal@nist.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simons</LastName>
+                    <ForeName>David S</ForeName>
+                    <Initials>DS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5719-836X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Materials Measurement Science Division, National Institute of Standards and Technology, Gaithersburg, MD, USA. cszakal@nist.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fassett</LastName>
+                    <ForeName>John D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Materials Measurement Science Division, National Institute of Standards and Technology, Gaithersburg, MD, USA. cszakal@nist.gov and Dakota Consulting, Inc., Silver Spring, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fahey</LastName>
+                    <ForeName>Albert J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Corning Inc., Corning, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Analyst</MedlineTA>
+            <NlmUniqueID>0372652</NlmUniqueID>
+            <ISSNLinking>0003-2654</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199423</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9an00774a</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

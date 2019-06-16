@@ -1,0 +1,212 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200145</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-5905</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>216</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomaterials</Title>
+                <ISOAbbreviation>Biomaterials</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reversing tumor stemness via orally targeted nanoparticles achieves efficient colon cancer treatment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>119247</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0142-9612(19)30346-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biomaterials.2019.119247</ELocationID>
+            <Abstract>
+                <AbstractText>The acquisition of stemness in colorectal cancer (CRC) attributed to the recurrence and metastasis in CRC treatment. Therefore, targeting the stemness of CRC forms a basis for the development of novel therapeutic approaches. However, the pain and systemic side effect from long-term of venipuncture injection remain great challenges to neoplastic treatment. Here, we introduce an oral drug delivery system for sustained release of BMI-1 inhibitor (PTC209) that reverses the stemness of CRC to overcome these obstacles. In this system, nanoparticles modified with hyaluronic acid (HA) showed high-affinity to CD44/CD168 overexpressed-CRC cells, and efficiently targeted to tumor site in a metastatic orthotropic colon cancer mouse model by oral administration. Significantly, the observed tumor growth inhibition is accompanied by decreased expression of stemness markers in the tumor tissues. Furthermore, HA-NPs-PTC209 also significantly prevented metastasis to the gastrointestinal system, while failing to exhibit acute side effects. In summary, we have developed an orally active, easily synthesized nanomedicine that shows promise for the treatment of colon cancer.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Jiaqi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yinlong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China. Electronic address: zhangyl@nanoctr.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Junchao</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Meifang</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; College of Pharmaceutical Science, Jilin University, Changchun 130021, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Guangna</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; College of Pharmaceutical Science, Jilin University, Changchun 130021, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiao</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>Yingqiu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Basic Medical Sciences, Zhengzhou University, Henan 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Keman</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>Sheng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of East Anglia, Norwich, Norfolk, NR4 7TJ, UK. Electronic address: Sheng.Qi@uea.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nie</LastName>
+                    <ForeName>Guangjun</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CAS Key Laboratory for Biomedical Effects of Nanomaterials &amp; Nanosafety, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China; Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: niegj@nanoctr.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biomaterials</MedlineTA>
+            <NlmUniqueID>8100316</NlmUniqueID>
+            <ISSNLinking>0142-9612</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Colorectal cancer</Keyword>
+            <Keyword MajorTopicYN="N">Oral drug delivery</Keyword>
+            <Keyword MajorTopicYN="N">PTC209</Keyword>
+            <Keyword MajorTopicYN="N">Stemness</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200145</ArticleId>
+            <ArticleId IdType="pii">S0142-9612(19)30346-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biomaterials.2019.119247</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198743</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2249-4863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of family medicine and primary care</Title>
+                <ISOAbbreviation>J Family Med Prim Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determinants contributing for poor adherence to antiretroviral therapy: A hospital record-based study in Balasore, Odisha.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1720-1724</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/jfmpc.jfmpc_40_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Over the years, because of the increase in the awareness among the population and strong political will, people have better access to services for diagnosis and treatment of the HIV and it is ensured that their confidentiality is maintained. To attain good results from Antiretoviral therapy (ART), high level of sustained adherence to ART is essential. High level of adherence to ART (at least 95%) is needed to ensure optimal benefits.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">The objective of the study is to find out the proportion of patients who did not adhere to ART and its associated factors among people living with HIV/AIDS attending ART center of a tertiary care government hospital in Balasore, Odisha.</AbstractText>
+                <AbstractText Label="Settings and Design" NlmCategory="UNASSIGNED">This was a hospital record-based study.</AbstractText>
+                <AbstractText Label="Subjects and Methods" NlmCategory="UNASSIGNED">Overall, 131 HIV-positive individuals were selected from hospital records using simple random sampling technique.</AbstractText>
+                <AbstractText Label="Statistical Analysis Used" NlmCategory="UNASSIGNED">Data analysis used SPSS version 20.0. Chi-square test and logistic regression were used to identify determinants affecting nonadherence to ART.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The mean age of the study participants was 33 years ± 7 SD. The study data revealed that 47.3% of the study subjects were on ART for less than 24 months. There was a statistically significant association between duration of ART and adherence rate (<i>P</i> = 0.036), and using logistic regression, we found that patients who were on ART for less than 24 months are 2.1 times more at risk of becoming nonadherent. Of the total, 48% of patients are suffering from the concurrent infection. There was also a statistically significant association found between opportunistic infection and nonadherence to ART.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study has shown that the duration of treatment and opportunistic infections were factors associated with nonadherence to medication.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Mallicka</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Medicine, Mayo Institute of Medical Sciences, Lucknow, Uttar pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Sai Chandan</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Medicine, Government Medical College and Hospital, Balasore, Odisha, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Family Med Prim Care</MedlineTA>
+            <NlmUniqueID>101610082</NlmUniqueID>
+            <ISSNLinking>2249-4863</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ART</Keyword>
+            <Keyword MajorTopicYN="N">determinants</Keyword>
+            <Keyword MajorTopicYN="N">poor adherence</Keyword>
+            <Keyword MajorTopicYN="N">proportion</Keyword>
+        </KeywordList>
+        <CoiStatement>There is no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198743</ArticleId>
+            <ArticleId IdType="doi">10.4103/jfmpc.jfmpc_40_19</ArticleId>
+            <ArticleId IdType="pii">JFMPC-8-1720</ArticleId>
+            <ArticleId IdType="pmc">PMC6559074</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

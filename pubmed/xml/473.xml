@@ -1,0 +1,138 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199922</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-2191</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of pathology</Title>
+                <ISOAbbreviation>Am. J. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Expression Profiling Reveals Involvement of WNT Pathway in the Malignant Progression of Sessile Serrated Adenomas.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0002-9440(18)31106-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajpath.2019.05.009</ELocationID>
+            <Abstract>
+                <AbstractText>Approximately 15% to 20% of colorectal cancers are developed through the serrated pathway of tumorigenesis which is associated with BRAF mutation, CpG island methylation phenotype, and MLH1 methylation. However, the detailed process of progression from sessile serrated adenoma (SSA) to dysplasia and carcinoma has not been elucidated. To further characterize mechanisms involved in the dysplastic progression of SSA, we investigated differential expressions of mRNAs between areas with and without dysplasia within same SSA polyps. Significantly dysregulated genes in paired samples were applied for functional annotation and biological significance using Ingenuity Pathway Analysis software and Database for Annotation, Visualization and Integrity Discovery (DAVID). The same lysates from a subset of matched samples were subjected for miRNA expression profiling. Differentially expressed miRNAs were determined, and their targeted mRNAs were compared in parallel to the list of differentially expressed mRNAs from RNA sequencing study. Fourteen common mRNA targets were identified, which include AXIN2, a known indicator of WNT/B-catenin pathway activation. Together, in this study, different genes/pathways/biological processes involved in the initiation and progression of dysplasia in the serrated pathway are documented. One of the most significant findings is the involvement of WNT/B-catenin pathway in the dysplastic progression of SSAs with different genes being targeted in early versus advanced dysplasia.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nourbakhsh</LastName>
+                    <ForeName>Mahra</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Calgary, Cumming School of Medicine and Alberta Public Laboratories.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansoor</LastName>
+                    <ForeName>Adnan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Calgary, Cumming School of Medicine and Alberta Public Laboratories.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koro</LastName>
+                    <ForeName>Konstantin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Calgary, Cumming School of Medicine and Alberta Public Laboratories.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Qingrun</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Calgary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minoo</LastName>
+                    <ForeName>Parham</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Calgary, Cumming School of Medicine and Alberta Public Laboratories. Electronic address: parham.minoo@cls.ab.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Pathol</MedlineTA>
+            <NlmUniqueID>0370502</NlmUniqueID>
+            <ISSNLinking>0002-9440</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199922</ArticleId>
+            <ArticleId IdType="pii">S0002-9440(18)31106-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ajpath.2019.05.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

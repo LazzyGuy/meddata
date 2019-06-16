@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200105</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7544</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience</Title>
+                <ISOAbbreviation>Neuroscience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reactive oxygen species in the regulation of the GABA mediated inhibitory neurotransmission.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0306-4522(19)30395-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroscience.2019.05.064</ELocationID>
+            <Abstract>
+                <AbstractText>Reactive oxygen species (ROS) are best known for being involved in cellular metabolism and oxidative stress, but also play important roles in cell communication. ROS signaling has become increasingly recognized as a mechanism implicated in the regulation of synaptic neurotransmission, under both physiological and pathological conditions. Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and superoxide anion are the main biologically relevant endogenous ROS in the nervous system. They are predominantly produced in the mitochondria of neurons and glial cells and their levels are tightly regulated by the antioxidant cell machinery, which allows for dynamic signaling through these agents. Physicochemical and biological properties of H<sub>2</sub>O<sub>2</sub> enable it to effectively play an important role in signaling. This review brings up some or the most significant evidence supporting ROS as signaling agents in the nervous system and summarizes data showing that ROS modulate γ-aminobutyric acid (GABA)-mediated neurotransmission by pre- and postsynaptic mechanisms. ROS induce changes on both, the activity of phasic and tonic GABA<sub>A</sub> receptors and GABA release from presynaptic terminals. Based on these facts, ROS signaling is discussed as a possible selective mechanism linking cellular metabolism to inhibitory neurotransmission through the direct or indirect modulation of the GABA<sub>A</sub> receptor function.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beltrán González</LastName>
+                    <ForeName>Andrea N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IFIBYNE-UBA-CONICET, Instituto de Fisiología, Biología Molecular y Neurociencias, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López Pazos</LastName>
+                    <ForeName>Manuel I</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IFIBYNE-UBA-CONICET, Instituto de Fisiología, Biología Molecular y Neurociencias, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calvo</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IFIBYNE-UBA-CONICET, Instituto de Fisiología, Biología Molecular y Neurociencias, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas. Electronic address: danieljcalvo@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroscience</MedlineTA>
+            <NlmUniqueID>7605074</NlmUniqueID>
+            <ISSNLinking>0306-4522</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GABA(A) receptor</Keyword>
+            <Keyword MajorTopicYN="N">Inhibitory neurotransmission</Keyword>
+            <Keyword MajorTopicYN="N">hydrogen peroxide.</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+            <Keyword MajorTopicYN="N">redox signaling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200105</ArticleId>
+            <ArticleId IdType="pii">S0306-4522(19)30395-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroscience.2019.05.064</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

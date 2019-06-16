@@ -1,0 +1,155 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199794</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7885</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS biology</Title>
+                <ISOAbbreviation>PLoS Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein interactions and consensus clustering analysis uncover insights into herpesvirus virion structure and function relationships.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e3000316</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pbio.3000316</ELocationID>
+            <Abstract>
+                <AbstractText>Infections with human herpesviruses are ubiquitous and a public health concern worldwide. Current treatments reduce the severity of some symptoms associated to herpetic infections but neither remove the viral reservoir from the infected host nor protect from the recurrent symptom outbreaks that characterise herpetic infections. The difficulty in therapeutically tackling these viral systems stems in part from their remarkably large proteomes and the complex networks of physical and functional associations that they tailor. This study presents our efforts to unravel the complexity of the interactome of herpes simplex virus type 1 (HSV1), the prototypical herpesvirus species. Inspired by our previous work, we present an improved and more integrative computational pipeline for the protein-protein interaction (PPI) network reconstruction in HSV1, together with a newly developed consensus clustering framework, which allowed us to extend the analysis beyond binary physical interactions and revealed a system-level layout of higher-order functional associations in the virion proteome. Additionally, the analysis provided new functional annotation for the currently undercharacterised protein in unique short region 10 (pUS10). In-depth bioinformatics sequence analysis unravelled structural features in pUS10 reminiscent of those observed in some capsid-associated proteins in tailed bacteriophages, with which herpesviruses are believed to share a common ancestry. Using immunoaffinity purification (IP)-mass spectrometry (MS), we obtained additional support for our bioinformatically predicted interaction between pUS10 and the inner tegument protein in unique long region 37 (pUL37), which binds cytosolic capsids, contributing to initial tegumentation and eventually virion maturation. In summary, this study unveils new, to our knowledge, insights at both the system and molecular levels that can help us better understand the complexity behind herpesvirus infections.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hernández Durán</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Structural and Molecular Biology, Birkbeck College, University of London, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, Wellcome Centre for Human Genetics, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greco</LastName>
+                    <ForeName>Todd M</ForeName>
+                    <Initials>TM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5845-713X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Princeton University, Lewis Thomas Laboratory, Princeton, New Jersey, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vollmer</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7526-0582</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, Wellcome Centre for Human Genetics, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cristea</LastName>
+                    <ForeName>Ileana M</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology, Princeton University, Lewis Thomas Laboratory, Princeton, New Jersey, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grünewald</LastName>
+                    <ForeName>Kay</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4788-2691</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, Wellcome Centre for Human Genetics, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Structural Cell Biology of Viruses, Centre for Structural Systems Biology, Heinrich Pette Institute, Leibnitz Institute of Experimental Virology, University of Hamburg, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Topf</LastName>
+                    <ForeName>Maya</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8185-1215</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Structural and Molecular Biology, Birkbeck College, University of London, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Biol</MedlineTA>
+            <NlmUniqueID>101183755</NlmUniqueID>
+            <ISSNLinking>1544-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199794</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pbio.3000316</ArticleId>
+            <ArticleId IdType="pii">PBIOLOGY-D-18-01171</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199153</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6992</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nano letters</Title>
+                <ISOAbbreviation>Nano Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>NIR-Responsive Polypeptide Nanocomposite Generates NO Gas, Mild Photothermia and Chemotherapy to Reverse Multidrug Resistant Cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.nanolett.9b00975</ELocationID>
+            <Abstract>
+                <AbstractText>Multidrug resistance (MDR) of cancers that results from overexpression of P-glycoprotein (P-gp) transporter mainly causes chemotherapy (CT) failure and hinders clinical transitions of current polypeptide nanomedicines. Herein, a novel polypeptide nanocomposite PNOC-PDA that integrates heat-sensitive NO gas delivery and photothermal conversion attributes can overcome MDR and maximize CT; meanwhile the optimized CT and intracellular high-concentration NO gas can assist a mild photothermal therapy (PTT) to eradicate cancer cells. The triple therapies produced superior and synergistic effect on MDR-reversal and killing MCF-7/ADR in vitro, and the P-gp expression level was downregulated to 46%, as confirmed by means of MTT, western blot, flow cytometry, and CLSM. Significantly, by using one intravenous injection of PNOC-PDA/DOX and a single NIR irradiation, the triple therapies of mild PTT, NO gas therapy, and CT achieved complete MCF-7/ADR tumor ablation without skin damage, scarring, and tumor recurrence within 30 days. This work provides a versatile method for the fabrication of NIR-responsive polypeptide nanocomposite with intrinsic photothermal conversion and NO-releasing attributes, opening up a new avenue for reversing MDR in tumor.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Chang</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>Jiwen</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Chang-Ming</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nano Lett</MedlineTA>
+            <NlmUniqueID>101088070</NlmUniqueID>
+            <ISSNLinking>1530-6984</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199153</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.nanolett.9b00975</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

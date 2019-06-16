@@ -1,0 +1,155 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200292</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2219</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>72</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gait &amp; posture</Title>
+                <ISOAbbreviation>Gait Posture</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modified gait patterns due to cam FAI syndrome remain unchanged after surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>135-141</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0966-6362(18)31519-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gaitpost.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In order to reduce the development of hip osteoarthritis related to cam-type femoroacetabular impingement syndrome (FAIS), corrective surgery has evolved to become a safe and effective treatment. Although corrective surgery produces high level of patient satisfaction, it is still unclear how it affects muscle and hip contact forces during level walking.</AbstractText>
+                <AbstractText Label="RESEARCH QUESTION" NlmCategory="OBJECTIVE">The purpose was to compare the muscle force contributions and hip contact forces in patients before and after surgical correction for cam FAIS with healthy control (CTRL) individuals during level walking.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Eleven male patients with symptomatic cam-type morphology, who underwent hip osteochondroplasty, had their level walking recorded pre- and at 2-year postoperatively. The patients were sex-, age-, BMI-matched to 11 CTRL individuals. Sagittal and frontal hip kinematics and kinetics were computed and, subsequently, muscle and hip contact forces were estimated using musculoskeletal modelling and static optimization.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patient-reported outcomes improved postoperatively. The pre- and postoperative FAIS walked slower and with shorter steps than the CTRL. Postoperative biceps femoris (CTRL: 0.35 ± 0.13 N/BW; pre-op: 0.28 ± 0.11 N/BW; post-op: 0.20 ± 0.07 N/BW) and semimembranosus forces (CTRL: 0.77 ± 0.24 N/BW; pre-op: 0.66 ± 0.24 N/BW; post-op: 0.41 ± 0.14 N/BW) were lower at ipsilateral foot-strike. Postoperative rectus femoris force (CTRL: 1.73 ± 0.35 N/BW; pre-op: 1.44 ± 0.24 N/BW; post-op: 1.18 ± 0.23 N/BW) was lower than the other two groups, and the pre- and postoperative FAIS had lower iliacus (CTRL: 1.17 ± 0.18 N/BW; pre-op: 0.93 ± 0.16 N/BW; post-op: 0.94 ± 0.21 N/BW) and psoas (CTRL: 1.55 ± 0.24 N/BW; pre-op: 1.14 ± 0.38 N/BW; post-op: 1.10 ± 0.46 N/BW) muscle forces at contralateral foot-strike compared with the CTRL. Pre- and postoperative FAIS demonstrated lower peak hip contact loading resultant than the CTRL.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">The altered gait parameters observed in the preoperative FAIS was not restored after surgery, and was still away from the CTRL. It is possible that the reduced dynamic muscle forces of the biceps femoris, semimembranosus and rectus femoris postoperatively were associated with the protected mechanism that involved the iliopsoas preoperatively. This is an indication that the gait adaptations affected by the FAIS do not restore to normal after surgical correction at the 2-years follow-up.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Catelli</LastName>
+                    <ForeName>Danilo S</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Human Kinetics, University of Ottawa, Canada; CAPES Foundation, Ministry of Education of Brazil, Brasilia, DF, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>K C Geoffrey</ForeName>
+                    <Initials>KCG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MSk Lab, Imperial College London, UK; Department of Surgery &amp; Cancer, Imperial College London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kowalski</LastName>
+                    <ForeName>Erik</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Human Kinetics, University of Ottawa, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beaulé</LastName>
+                    <ForeName>Paul E</ForeName>
+                    <Initials>PE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Orthopaedic Surgery, University of Ottawa, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lamontagne</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Human Kinetics, University of Ottawa, Canada; Department of Mechanical Engineering, University of Ottawa, Canada. Electronic address: mlamon@uottawa.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Gait Posture</MedlineTA>
+            <NlmUniqueID>9416830</NlmUniqueID>
+            <ISSNLinking>0966-6362</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Femoroacetabular impingement syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Gait parameters</Keyword>
+            <Keyword MajorTopicYN="N">Hip contact forces</Keyword>
+            <Keyword MajorTopicYN="N">Kinematics</Keyword>
+            <Keyword MajorTopicYN="N">Kinetics</Keyword>
+            <Keyword MajorTopicYN="N">Muscle forces</Keyword>
+            <Keyword MajorTopicYN="N">Osteochondroplasty</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200292</ArticleId>
+            <ArticleId IdType="pii">S0966-6362(18)31519-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gaitpost.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

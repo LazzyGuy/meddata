@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198638</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A mathematical landmark-based method for measuring worn molars in hominoid systematics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6990</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6990</ELocationID>
+            <Abstract>
+                <AbstractText>Worn teeth pose a major limitation to researchers in the fields of extinct and extant hominoid systematics because they lack clearly identifiable anatomical landmarks needed to take measurements on the crown enamel surface and are typically discarded from a study. This is particularly detrimental when sample sizes for some groups are already characteristically low, if there is an imbalance between samples representing populations, sexes or dietary strategies, or if the worn teeth in question are type specimens of fossil species or other key specimens. This study proposes a methodology based predominantly on mathematically-derived landmarks for measuring size and shape features of molars, irrespective of wear. With 110 specimens of lower second molars from five species of extant hominoids (<i>Pan troglodytes, P. paniscus, Gorilla gorilla, G. beringei, Homo sapiens</i>), <i>n</i> ≥ 20 per species, <i>n</i> ≥ 10 per subspecies, good species separation in morphospace is achieved in a principal components analysis. Classification accuracy in a discriminant function analysis is 96.4% at the species level and 88.2% at the subspecies level (92.7% and 79.1%, respectively, on cross-validation). The classification accuracy compares favorably to that achieved by anatomically-derived measurements based on published research (94% and 84% at the species and subspecies level respectively; 91% and 76% on cross-validation). The mathematical landmarking methodology is rapid and uncomplicated. The results support the use of mathematical landmarks to enable the inclusion of worn molar teeth in dental studies so as to maximize sample sizes and restore balance between populations and/or sexes in hominoid systematic studies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dykes</LastName>
+                    <ForeName>Susan J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Geosciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pilbrow</LastName>
+                    <ForeName>Varsha C</ForeName>
+                    <Initials>VC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy and Neuroscience, University of Melbourne, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dental morphometrics</Keyword>
+            <Keyword MajorTopicYN="N">Geometric morphometrics</Keyword>
+            <Keyword MajorTopicYN="N">Landmarks</Keyword>
+            <Keyword MajorTopicYN="N">Systematics</Keyword>
+            <Keyword MajorTopicYN="N">Taxonomy</Keyword>
+            <Keyword MajorTopicYN="N">Worn teeth</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198638</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6990</ArticleId>
+            <ArticleId IdType="pii">6990</ArticleId>
+            <ArticleId IdType="pmc">PMC6535218</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

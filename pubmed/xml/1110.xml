@@ -1,0 +1,121 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199208</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1475-2727</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Public health nutrition</Title>
+                <ISOAbbreviation>Public Health Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Socio-economic inequality in unhealthy snacks consumption among adolescent students in Iran: a concentration index decomposition analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S1368980019000740</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The present study aimed to assess and decompose the socio-economic inequality in unhealthy snacks consumption among adolescent students in Kerman, Iran.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">The data were obtained from a cross-sectional study. Principal component analysis was done to measure the socio-economic status (SES) of the adolescents' families and the normalized concentration index (NCI) was used to measure the inequality in unhealthy snacks consumption among adolescent students of different SES. The contributions of environmental and individual explanatory variables to inequality were assessed by decomposing the concentration index.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Forty secondary schools of Kerman Province in Iran in 2015.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Eighth-grade adolescent students (n 1320).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The data of 1242 adolescent students were completed for the current study. Unhealthy snacks consumption was unequally distributed among adolescent students and was concentrated mainly among the high-SES adolescents (NCI = 0·179; 95 % CI 0·056, 0·119). The decomposition showed that higher SES (62 %) and receiving pocket money allowance (31 %), as environmental variables, had the highest positive contributions to the measured inequality in unhealthy snacks consumption. Taste and sensory perception (7 %) as well as cost sensitivity (5 %), as individual variables, followed them in terms of their contribution importance.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">It is highly suggested that both environmental and individual factors should be addressed at different settings including schools, families and suppliers of unhealthy snacks. These findings can help future health promotion strategies in Iran to tackle the observed inequality in unhealthy snacks consumption.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yazdi-Feyzabadi</LastName>
+                    <ForeName>Vahid</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Services Management Research Center, Institute for Futures Studies in Health,Kerman University of Medical Sciences,Kerman,Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rashidian</LastName>
+                    <ForeName>Arash</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Management and Economics, School of Public Health,Tehran University of Medical Sciences,Tehran,Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amini Rarani</LastName>
+                    <ForeName>Mostafa</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4809-2237</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health Management and Economics Research Center, Isfahan University of Medical Sciences, Isfahan Iran, School of Management and Medical Information Sciences,Isfahan University of Medical Sciences,Hezar Jerib Avenue, 8174673461 Isfahan,Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Public Health Nutr</MedlineTA>
+            <NlmUniqueID>9808463</NlmUniqueID>
+            <ISSNLinking>1368-9800</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescents</Keyword>
+            <Keyword MajorTopicYN="N">Decomposition</Keyword>
+            <Keyword MajorTopicYN="N">Iran</Keyword>
+            <Keyword MajorTopicYN="N">Socio-economic inequality</Keyword>
+            <Keyword MajorTopicYN="N">Unhealthy snacks</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199208</ArticleId>
+            <ArticleId IdType="pii">S1368980019000740</ArticleId>
+            <ArticleId IdType="doi">10.1017/S1368980019000740</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

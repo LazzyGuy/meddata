@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198137</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Clinical significance on serum intestinal fatty acid binding protein and D-lactic acid levels in early intestinal injury of patients with sepsis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>545-550</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the changes and clinical significances of intestinal fatty acid binding protein (I-FABP) and D-lactic acid levels in early intestinal injury of patients with sepsis and septic shock.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A prospective observational study was conducted. Thirty septic patients (septic group) and 30 septic shock patients (septic shock group) were admitted to the intensive care unit (ICU) of General Hospital of Ningxia Medical University from August 2018 to December 2018, and 20 healthy adults were served as healthy control group. Serum samples were collected within 24 hours after ICU admission in septic shock and septic groups, and in healthy control group during physical examination. The serum I-FABP, D-lactic acid, endotoxin, hypersensitive C-reactive protein (hs-CRP), interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α) and lactic acid (Lac) were determined. Gender and age of all subjects, and basic diseases, the main area of infection and acute physiology and chronic health evaluation II (APACHE II) scores within 24 hours after ICU admission of all patients were recorded. At the same time, the survival of the patients was followed up for 28 days. Spearman correlation analysis was used to analyze the correlation between serum I-FABP, D-lactic acid and other parameters. Risk factors of death in patients with sepsis and septic shock were screened by multivariate Logistic regression analysis of bicategorized variables.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There was no significant difference in gender or age among the groups, as well as in the proportion of basic diseases, celiac infection or non-celiac infection between the sepsis group and the septic shock group, indicating that the general clinical baseline data among the groups were comparable. Serum levels of I-FABP and D-lactic acid in the sepsis group and the septic shock group were significantly higher than those in the healthy control group [I-FABP (μg/L): 27.46 (22.52, 34.39), 36.95 (29.82, 44.24) vs. 17.93 (14.65, 22.11), D-lactic acid (mg/L): 15.32 (9.84, 38.62), 27.95 (10.01, 47.69) vs. 9.38 (8.81, 14.48), all P &lt; 0.01]. The serum level of I-FABP in the septic shock group was significantly higher than that in the sepsis group (P &lt; 0.05), but the difference in serum D-lactic acid level between the two groups was not statistically significant (P &gt; 0.05). Serum I-FABP level in the celiac infection group (n = 40) was significantly higher than that in the non-celiac infection group [n = 20; μg/L: 34.76 (27.46, 43.90) vs. 25.71 (20.55, 37.77), P &lt; 0.01], but the difference in serum D-lactic acid level was not statistically significant [mg/L: 25.13 (9.83, 40.55) vs. 30.36 (10.17, 50.00), P &gt; 0.05]. There was no significant difference in serum I-FABP or D-lactic acid levels between the survival group (n = 34) and the death group [n = 26; I-FABP (μg/L): 33.39 (25.20, 39.50) vs. 29.26 (22.50, 43.81), D-lactic acid (mg/L): 14.83 (9.71, 38.45) vs. 33.90 (11.93, 45.34), both P &gt; 0.05]. Correlation analysis between serum I-FABP, D-lactic acid level and endotoxin, inflammatory factors, Lac and APACHE II score in septic and septic shock patients showed that only D-lactic acid was significantly positively correlated with TNF-α and Lac (r values were 0.455 and 0.406, respectively, both P &lt; 0.01), while I-FABP was not correlated with endotoxin, inflammatory factors, Lac or APACHE II score. Multivariable Logistic regression analysis showed the APACHE II score was an independent risk factor to affect the prognosis (death for 28 days) of septic and septic shock patients [odds ratio (OR) = 1.248, 95% confidence interval (95%CI) = 1.091-1.427, P = 0.001], while I-FABP, D-lactic acid, endotoxin, hs-CRP, TNF-α, IL-6, and Lac had no impact on 28-day prognosis of patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Serum I-FABP and D-lactic acid levels can evaluate early intestinal injury in patients with sepsis and septic shock, but neither of them is related to the prognosis of patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaobin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ningxia Medical University, Yinchuan 750004, Ningxia Hui Autonomous Region, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ningxia Medical University, Yinchuan 750004, Ningxia Hui Autonomous Region, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yanbai</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cerebrospinal Fluid Laboratory, General Hospital of Ningxia Medical University, Yinchuan 750004, Ningxia Hui Autonomous Region, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ningxia Medical University, Yinchuan 750004, Ningxia Hui Autonomous Region, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Xiaojun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Critical Care Medicine, General Hospital of Ningxia Medical University, Yinchuan 750004, Ningxia Hui Autonomous Region, China. Corresponding author: Yang Xiaojun, Email: yxjicu@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198137</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

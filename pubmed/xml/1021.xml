@@ -1,0 +1,230 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199308</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Using Temporal Features to Provide Data-Driven Clinical Early Warnings for Chronic Obstructive Pulmonary Disease and Asthma Care Management: Protocol for a Secondary Analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13783</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13783</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Both chronic obstructive pulmonary disease (COPD) and asthma incur heavy health care burdens. To support tailored preventive care for these 2 diseases, predictive modeling is widely used to give warnings and to identify patients for care management. However, 3 gaps exist in current modeling methods owing to rarely factoring in temporal aspects showing trends and early health change: (1) existing models seldom use temporal features and often give late warnings, making care reactive. A health risk is often found at a relatively late stage of declining health, when the risk of a poor outcome is high and resolving the issue is difficult and costly. A typical model predicts patient outcomes in the next 12 months. This often does not warn early enough. If a patient will actually be hospitalized for COPD next week, intervening now could be too late to avoid the hospitalization. If temporal features were used, this patient could potentially be identified a few weeks earlier to institute preventive therapy; (2) existing models often miss many temporal features with high predictive power and have low accuracy. This makes care management enroll many patients not needing it and overlook over half of the patients needing it the most; (3) existing models often give no information on why a patient is at high risk nor about possible interventions to mitigate risk, causing busy care managers to spend more time reviewing charts and to miss suited interventions. Typical automatic explanation methods cannot handle longitudinal attributes and fully address these issues.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To fill these gaps so that more COPD and asthma patients will receive more appropriate and timely care, we will develop comprehensible data-driven methods to provide accurate early warnings of poor outcomes and to suggest tailored interventions, making care more proactive, efficient, and effective.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">By conducting a secondary data analysis and surveys, the study will: (1) use temporal features to provide accurate early warnings of poor outcomes and assess the potential impact on prediction accuracy, risk warning timeliness, and outcomes; (2) automatically identify actionable temporal risk factors for each patient at high risk for future hospital use and assess the impact on prediction accuracy and outcomes; and (3) assess the impact of actionable information on clinicians' acceptance of early warnings and on perceived care plan quality.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We are obtaining clinical and administrative datasets from 3 leading health care systems' enterprise data warehouses. We plan to start data analysis in 2020 and finish our study in 2025.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Techniques to be developed in this study can boost risk warning timeliness, model accuracy, and generalizability; improve patient finding for preventive care; help form tailored care plans; advance machine learning for many clinical applications; and be generalized for many other chronic diseases.</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">PRR1-10.2196/13783.</AbstractText>
+                <CopyrightInformation>©Gang Luo, Bryan L Stone, Corinna Koebnick, Shan He, David H Au, Xiaoming Sheng, Maureen A Murtaugh, Katherine A Sward, Michael Schatz, Robert S Zeiger, Giana H Davidson, Flory L Nkoy. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 06.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7217-4008</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stone</LastName>
+                    <ForeName>Bryan L</ForeName>
+                    <Initials>BL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0912-5227</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Utah, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koebnick</LastName>
+                    <ForeName>Corinna</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8274-0309</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research &amp; Evaluation, Kaiser Permanente Southern California, Pasadena, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Shan</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7982-9625</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Care Transformation, Intermountain Healthcare, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Au</LastName>
+                    <ForeName>David H</ForeName>
+                    <Initials>DH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8207-4975</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Innovation for Veteran-Centered &amp; Value-Driven Care, VA Puget Sound Health Care System, Seattle, WA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pulmonary and Critical Care Medicine, Department of Medicine, University of Washington, Seattle, WA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheng</LastName>
+                    <ForeName>Xiaoming</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6576-3699</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Nursing, University of Utah, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murtaugh</LastName>
+                    <ForeName>Maureen A</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5281-0302</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family and Preventive Medicine, University of Utah, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sward</LastName>
+                    <ForeName>Katherine A</ForeName>
+                    <Initials>KA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6568-4031</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Nursing, University of Utah, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schatz</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7640-5560</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research &amp; Evaluation, Kaiser Permanente Southern California, Pasadena, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy, Kaiser Permanente Southern California, San Diego, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeiger</LastName>
+                    <ForeName>Robert S</ForeName>
+                    <Initials>RS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5788-5063</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Research &amp; Evaluation, Kaiser Permanente Southern California, Pasadena, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy, Kaiser Permanente Southern California, San Diego, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Giana H</ForeName>
+                    <Initials>GH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6197-2618</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Washington, Seattle, WA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nkoy</LastName>
+                    <ForeName>Flory L</ForeName>
+                    <Initials>FL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8954-8288</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, University of Utah, Salt Lake City, UT, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">decision support techniques</Keyword>
+            <Keyword MajorTopicYN="N">forecasting</Keyword>
+            <Keyword MajorTopicYN="N">machine learning</Keyword>
+            <Keyword MajorTopicYN="N">patient care management</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199308</ArticleId>
+            <ArticleId IdType="pii">v8i6e13783</ArticleId>
+            <ArticleId IdType="doi">10.2196/13783</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

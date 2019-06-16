@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198398</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1016-7315</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the Saudi Heart Association</Title>
+                <ISOAbbreviation>J Saudi Heart Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Management of monomorphic ventricular tachycardia electrical storm in structural heart disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>135-144</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jsha.2019.05.001</ELocationID>
+            <Abstract>
+                <AbstractText>Electrical storm (ES) is a life-threatening condition that is defined by three or more episodes of sustained ventricular tachycardia (VT), ventricular fibrillation (VF), or appropriate shocks from an implantable cardioverter defibrillator (ICD) within 24 hours. The most common form of ES is monomorphic VT. It carries poor outcome despite all available intervention therapies. The therapies include rapid recognition of the condition, treatment of the reversible causes, ICD-reprogramming, antiarrhythmic drugs, sedation, and catheter ablation (CA). The first line antiarrhythmic drugs are amiodarone and β-blockers with superiority of propranolol over the others. The long-term use of the antiarrhythmic drugs is limited due to their adverse effects and drug-related proarrhythmic effect. The basic mechanism of monomorphic VT is re-entry pathway which can be targeted by CA. CA should be considered in drug refractory ES and patients should be referred in early course of disease. There are reported studies which showed the superiority of CA over the medical treatment in reducing the arrythmia burden and ICD appropriate shock. The survival benefit has been reported after successful ablation of ES in case series but to date no randomized control trial shows mortality benefit.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>AlKalbani</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ibri Heart Center, Ibri Hospital, Ibri.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>AlRawahi</LastName>
+                    <ForeName>Najib</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Heart Center, Royal Hospital, MuscatOman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Saudi Heart Assoc</MedlineTA>
+            <NlmUniqueID>9887261</NlmUniqueID>
+            <ISSNLinking>1016-7315</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Electrical storm</Keyword>
+            <Keyword MajorTopicYN="N">Recurrent ventricular tachycardia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198398</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jsha.2019.05.001</ArticleId>
+            <ArticleId IdType="pii">S1016-7315(18)30346-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6556825</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

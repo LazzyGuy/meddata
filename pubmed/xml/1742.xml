@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198417</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1687-5443</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neural plasticity</Title>
+                <ISOAbbreviation>Neural Plast.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MMP-9 Contributes to Dendritic Spine Remodeling Following Traumatic Brain Injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3259295</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/3259295</ELocationID>
+            <Abstract>
+                <AbstractText>Traumatic brain injury (TBI) occurs when a blow to the head causes brain damage. Apart from physical trauma, it causes a wide range of cognitive, behavioral, and emotional deficits including impairments in learning and memory. On neuronal level, TBI may lead to circuitry remodeling and in effect imbalance between excitatory and inhibitory neurotransmissions. Such change in brain homeostasis may often lead to brain disorders. The basic units of neuronal connectivity are dendritic spines that are tiny protrusions forming synapses between two cells in a network. Spines are dynamic structures that undergo morphological transformation throughout life. Their shape is strictly related to an on/off state of synapse and the strength of synaptic transmission. Matrix metalloproteinase-9 (MMP-9) is an extrasynaptically operating enzyme that plays a role in spine remodeling and has been reported to be activated upon TBI. The aim of the present study was to evaluate the influence of MMP-9 on dendritic spine density and morphology following controlled cortical impact (CCI) as animal model of TBI. We examined spine density and dendritic spine shape in the cerebral cortex and the hippocampus. CCI caused a marked decrease in spine density as well as spine shrinkage in the cerebral cortex ipsilateral to the injury, when compared to sham animals and contralateral side both 1 day and 1 week after the insult. Decreased spine density was also observed in the dentate gyrus of the hippocampus; however, in contrast to the cerebral cortex, spines in the DG became more filopodia-like. In mice lacking MMP-9, no effects of TBI on spine density and morphology were observed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pijet</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">0000-0002-9268-5208</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Neurobiology, BRAINCITY, Nencki Institute of Experimental Biology of Polish Academy of Sciences, Pasteura 3, 02-093 Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stefaniuk</LastName>
+                    <ForeName>Marzena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Neurobiology, BRAINCITY, Nencki Institute of Experimental Biology of Polish Academy of Sciences, Pasteura 3, 02-093 Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaczmarek</LastName>
+                    <ForeName>Leszek</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0002-7207-3490</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Neurobiology, BRAINCITY, Nencki Institute of Experimental Biology of Polish Academy of Sciences, Pasteura 3, 02-093 Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neural Plast</MedlineTA>
+            <NlmUniqueID>100883417</NlmUniqueID>
+            <ISSNLinking>1687-5443</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198417</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/3259295</ArticleId>
+            <ArticleId IdType="pmc">PMC6526556</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

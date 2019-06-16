@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198824</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-3409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Data in brief</Title>
+                <ISOAbbreviation>Data Brief</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Longitudinal small and medium enterprise (SME) data on survival, research and development (R&amp;D) investment, and patent applications in Korea's innovation clusters from 2008 to 2014.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103967</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dib.2019.103967</ELocationID>
+            <Abstract>
+                <AbstractText>This article contains survey data from 588 firms on 1) their length of survival, 2) technological innovation related information, such as research and development (R&amp;D) investment, research manpower, and the number of patent applications, along with 3) other basic data on firm size and affiliated industry sector. The dataset was extracted from firms residing in three different innovation cluster regions of Korea. All the data in this article are based on firm level questionnaire in the innovation cluster regions, with the exception of the firm survival information extracted from the National Tax Service of Korea and industry information from &quot;Statistics Korea&quot;. The related research article using the current dataset was published under the following title: &quot;Does R&amp;D investment increase SME survival during a recession?&quot; Jung et al., 2018.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Byung-Keun</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Industrial Management, Korea University of Technology and Education, Cheonan, Chungcheongnam-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>JungTae</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Business Administration, Hallym University, Chuncheon, Gangwon-do, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Data Brief</MedlineTA>
+            <NlmUniqueID>101654995</NlmUniqueID>
+            <ISSNLinking>2352-3409</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Firm survival</Keyword>
+            <Keyword MajorTopicYN="N">Innovation cluster</Keyword>
+            <Keyword MajorTopicYN="N">Longitudinal data</Keyword>
+            <Keyword MajorTopicYN="N">Recession period</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198824</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dib.2019.103967</ArticleId>
+            <ArticleId IdType="pii">S2352-3409(19)30320-8</ArticleId>
+            <ArticleId IdType="pii">103967</ArticleId>
+            <ArticleId IdType="pmc">PMC6557752</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

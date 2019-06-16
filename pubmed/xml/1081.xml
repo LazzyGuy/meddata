@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199248</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-2531</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on bio-medical engineering</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Faster gait speeds reduce alpha and beta EEG spectral power from human sensorimotor cortex.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TBME.2019.2921766</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Our aim was to determine if walking speed affected human sensorimotor electrocortical dynamics using mobile high-density electroencephalography (EEG).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To overcome limitations associated with motion and muscle artifact contamination in EEG recordings, we compared solutions for artifact removal using novel dual layer EEG electrodes and alternative signal processing methods. Dual layer EEG simultaneously recorded human electrocortical signals and isolated motion artifacts using pairs of mechanically coupled and electrically independent electrodes. For electrical muscle activity removal, we incorporated electromyographic (EMG) recordings from the neck into our mobile EEG data processing pipeline. We compared artifact removal methods during treadmill walking at four speeds (0.5, 1.0, 1.5, and 2.0 m/s).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Left and right sensorimotor alpha and beta spectral power increased in contralateral limb single support and push off, and decreased during contralateral limb swing at each speed. At faster walking speeds, sensorimotor spectral power fluctuations were less pronounced across the gait cycle with reduced alpha and beta power (p&lt;0.05) compared to slower speeds. Isolated noise recordings and neck EMG spectral power fluctuations matched gait events and showed broadband spectral power increases at faster speeds.</AbstractText>
+                <AbstractText Label="CONCLUSION AND SIGNIFICANCE" NlmCategory="CONCLUSIONS">Dual layer EEG enabled us to isolate changes in human sensorimotor electrocortical dynamics across walking speeds. A comparison of signal processing approaches revealed similar intrastride cortical fluctuations when applying common (e.g. Artifact Subspace Reconstruction) and novel artifact rejection methods. Dual layer EEG, however, allowed us to document and rule out residual artifacts, which exposed sensorimotor spectral power changes across gait speeds.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nordin</LastName>
+                    <ForeName>Andrew D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hairston</LastName>
+                    <ForeName>W David</ForeName>
+                    <Initials>WD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferris</LastName>
+                    <ForeName>Daniel P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Eng</MedlineTA>
+            <NlmUniqueID>0012737</NlmUniqueID>
+            <ISSNLinking>0018-9294</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199248</ArticleId>
+            <ArticleId IdType="doi">10.1109/TBME.2019.2921766</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

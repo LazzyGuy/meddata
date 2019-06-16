@@ -1,0 +1,112 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199172</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1360-0567</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of mental health (Abingdon, England)</Title>
+                <ISOAbbreviation>J Ment Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Is Facebook use healthy for individuals experiencing homelessness? A scoping review on social networking and living in the streets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/09638237.2019.1608927</ELocationID>
+            <Abstract>
+                <AbstractText><b>Background:</b> Although they are faced with a situation of extreme social exclusion, individuals experiencing homelessness (IEH) have gradually begun to incorporate the use of social networking sites (SNS) into their everyday lives. <b>Aims:</b> To review the publications that have examined the use of SNS among IEH and to analyze the impact that this online activity has on the health of these individuals. <b>Methods:</b> This study employed a scoping review method, analyzing scientific literature published up to the end of 2016. <b>Results:</b> An analysis was performed on nineteen peer-reviewed articles and three grey literature publications. IEH, especially those who are younger, use SNS in a similar proportion to the overall population. When these individuals used the networks due to their own initiative, it was found to have a positive health effect in that it mitigated the consequences of living on the street. Interventions aimed at improving the participants' health achieved positive results, both in terms of preventing problems associated with drug abuse and high-risk sexual behavior and of promoting mental health. <b>Conclusions:</b> The use of SNS presents some health benefits for IEH. Virtual communication and information alternatives provide opportunities to improve the mental and general health of people in social exclusion situations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Calvo</LastName>
+                    <ForeName>Fran</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0300-8548</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a FPCEE Blanquerna, Universitat Ramon Llull , Barcelona , Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b FEP, Universitat de Girona , Girona , Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carbonell</LastName>
+                    <ForeName>Xavier</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9714-1568</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a FPCEE Blanquerna, Universitat Ramon Llull , Barcelona , Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Ment Health</MedlineTA>
+            <NlmUniqueID>9212352</NlmUniqueID>
+            <ISSNLinking>0963-8237</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Homeless person</Keyword>
+            <Keyword MajorTopicYN="N">Internet</Keyword>
+            <Keyword MajorTopicYN="N">homelessness</Keyword>
+            <Keyword MajorTopicYN="N">mental health</Keyword>
+            <Keyword MajorTopicYN="N">scoping review</Keyword>
+            <Keyword MajorTopicYN="N">social networking sites</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199172</ArticleId>
+            <ArticleId IdType="doi">10.1080/09638237.2019.1608927</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

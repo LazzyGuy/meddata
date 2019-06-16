@@ -1,0 +1,286 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199346</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mobile Messaging Support Versus Usual Care for People With Type 2 Diabetes on Glycemic Control: Protocol for a Multicenter Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12377</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12377</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Health outcomes for people treated for type 2 diabetes could be substantially improved in sub-Saharan Africa. Failure to take medicine regularly to treat diabetes has been identified as a major problem. Resources to identify and support patients who are not making the best use of medicine in low- and middle-income settings are scarce. Mobile phones are widely available in these settings, including among people with diabetes; linked technologies, such as short message service (SMS) text messaging, have shown promise in delivering low-cost interventions efficiently. However, evidence showing that these interventions will work when carried out at a larger scale and measuring the extent to which they will improve health outcomes when added to usual care is limited.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this trial is to test the effectiveness of sending brief, automated SMS text messages for improving health outcomes and medication adherence in patients with type 2 diabetes compared to an active control.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We will carry out a randomized trial recruiting from clinics in two contrasting settings in sub-Saharan Africa: Cape Town, South Africa, and Lilongwe, Malawi. Intervention messages will advise people about the benefits of their diabetes treatment and offer motivation and encouragement around lifestyle and use of medication. We allocated patients, using randomization with a minimization algorithm, to receive either three to four intervention messages per week or non-health-related messages every 6 weeks. We will follow up with participants for 12 months, measuring important risk factors for poor health outcomes and complications in diabetes. This will enable us to estimate potential health benefits, including the primary outcome of hemoglobin A<sub>1c</sub> (HbA<sub>1c</sub>) levels as a marker for long-term blood glucose control and a secondary outcome of blood pressure control. We will record the costs of performing these activities and estimate cost-effectiveness. We will also use process evaluation to capture the collection of medication and assess the reception of the intervention by participants and health care workers.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Recruitment to the trial began in September 2016 and follow-up of participants was completed in October 2018. Data collection from electronic health records and other routinely collected sources is continuing. The database lock is anticipated in June 2019, followed by analysis and disclosing of group allocation.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The knowledge gained from this study will have wide applications and advance the evidence base for effectiveness of mobile phone-based, brief text messaging on clinical outcomes and in large-scale, operational settings. It will provide evidence for cost-effectiveness and acceptability that will further inform policy development and decision making. We will work with a wide network that includes patients, clinicians, academics, industry, and policy makers to help us identify opportunities for informing people about the work and raise awareness of what is being developed and studied.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ISRCTN Registry ISRCTN70768808; http://www.isrctn.com/ISRCTN70768808 (Archived by WebCite at http://www.webcitation.org/786316Zqk).</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">DERR1-10.2196/12377.</AbstractText>
+                <CopyrightInformation>©Andrew Farmer, Kirsty Bobrow, Natalie Leon, Nicola Williams, Enita Phiri, Hazel Namadingo, Sara Cooper, John Prince, Amelia Crampin, Donela Besada, Emmanuelle Daviaud, Ly-Mee Yu, Jonathan Ngoma, David Springer, Bruno Pauly, Shane Norris, Lionel Tarassenko, Moffat Nyirenda, Naomi Levitt. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 30.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Farmer</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6170-4402</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Bobrow</LastName>
+                    <ForeName>Kirsty</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2452-2482</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Initiative for Africa, University of Cape Town, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leon</LastName>
+                    <ForeName>Natalie</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9392-3426</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>South African Medical Research Council, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7476-9715</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phiri</LastName>
+                    <ForeName>Enita</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1970-146X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Malawi Epidemiology and Intervention Research Unit, Lilongwe, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Namadingo</LastName>
+                    <ForeName>Hazel</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1799-8458</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Malawi Epidemiology and Intervention Research Unit, Lilongwe, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9894-236X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>South African Medical Research Council, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3203-8754</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical Engineering, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crampin</LastName>
+                    <ForeName>Amelia</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1513-4330</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Malawi Epidemiology and Intervention Research Unit, London School of Hygiene and Tropical Medicine, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Besada</LastName>
+                    <ForeName>Donela</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2020-5244</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>South African Medical Research Council, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daviaud</LastName>
+                    <ForeName>Emmanuelle</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6335-4581</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>South African Medical Research Council, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Ly-Mee</ForeName>
+                    <Initials>LM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0331-7364</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ngoma</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3469-4384</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Kamuzu Central Hospital, Lilongwe, Malawi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Springer</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7448-7398</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Boston Consulting Group, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pauly</LastName>
+                    <ForeName>Bruno</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3282-9863</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diabetes and Endocrinology, Chris Hani Baragwanath Academic Hospital, Johanesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Norris</LastName>
+                    <ForeName>Shane</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7124-3788</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>South African Medical Research Council, Developmental Pathways for Health Research Unit, University of Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tarassenko</LastName>
+                    <ForeName>Lionel</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0118-1646</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical Engineering, Oxford, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyirenda</LastName>
+                    <ForeName>Moffat</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2120-4806</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Malawi Epidemiology and Intervention Research Unit, London School of Hygiene and Tropical Medicine, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levitt</LastName>
+                    <ForeName>Naomi</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6480-8066</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Initiative for Africa, University of Cape Town, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">diabetes mellitus</Keyword>
+            <Keyword MajorTopicYN="N">mobile health</Keyword>
+            <Keyword MajorTopicYN="N">randomized controlled trial</Keyword>
+            <Keyword MajorTopicYN="N">treatment adherence</Keyword>
+            <Keyword MajorTopicYN="N">type 2 diabetes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199346</ArticleId>
+            <ArticleId IdType="pii">v8i6e12377</ArticleId>
+            <ArticleId IdType="doi">10.2196/12377</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

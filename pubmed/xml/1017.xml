@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199312</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Creating Consumer-Generated Health Data: Interviews and a Pilot Trial Exploring How and Why Patients Engage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12367</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12367</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Consumer-generated health data (CGHD) are any clinically relevant data collected by patients or their carers (consumers) that may improve health care outcomes. Like patient experience measures, these data reflect the consumer perspective and is part of a patient-centric agenda. The use of CGHD is believed to enhance diagnosis, patient engagement, and thus foster an improved therapeutic partnership with health care providers.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to further identify how these data were used by consumers and how it influences engagement via a validated framework. In addition, carer data has not been explored for the purpose of engagement.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Study 1 used interviews with CGHD-experienced patients, carers, and doctors to understand attitudes about data collection and use, developing an ontological framework. Study 2 was a pilot trial with carers (parents) of children undergoing laparoscopic appendectomy. For 10 days carers generated and emailed surgical site photographs to a tertiary children's hospital. Subsequently, carers were interviewed about the engagement framework. In total, 60 interviews were analyzed using theme and content analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">This study validates a framework anchored in engagement literature, which categorizes CGHD engagement outcomes into 4 domains: physiological, cognitive, emotional, and behavioral. CGHD use is complex, interconnected, and can be organized into 10 themes within these 4 domains.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">CGHD can instigate an ecosystem of engagement and provide clinicians with an enhanced therapeutic relationship through an extended view into the patient's world. In addition to clinical diagnosis and efficient use of health care resources, data offer another tool to manage consumers service experience, especially the emotions associated with the health care journey. Collection and use of data increases consumers sense of reassurance, improves communication with providers, and promotes greater personal responsibility, indicating an empowering consumer process. Finally, it can also improve confidence and satisfaction in the service.</AbstractText>
+                <CopyrightInformation>©Kara Burns, Craig A McBride, Bhaveshkumar Patel, Gerard FitzGerald, Shane Mathews, Judy Drennan. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 13.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Burns</LastName>
+                    <ForeName>Kara</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6491-4405</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>QUT Business School, Queensland University of Technology, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McBride</LastName>
+                    <ForeName>Craig A</ForeName>
+                    <Initials>CA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8377-1748</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Children's Hospital, Children's Health Queensland, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Bhaveshkumar</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5771-5339</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Children's Hospital, Children's Health Queensland, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>FitzGerald</LastName>
+                    <ForeName>Gerard</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0640-8288</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health &amp; Social Work, Queensland University of Technology, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathews</LastName>
+                    <ForeName>Shane</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5365-6586</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>QUT Business School, Queensland University of Technology, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drennan</LastName>
+                    <ForeName>Judy</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7389-2415</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>QUT Business School, Queensland University of Technology, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">patient engagement</Keyword>
+            <Keyword MajorTopicYN="N">patient generated health data</Keyword>
+            <Keyword MajorTopicYN="N">patient participation</Keyword>
+            <Keyword MajorTopicYN="N">photography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199312</ArticleId>
+            <ArticleId IdType="pii">v21i6e12367</ArticleId>
+            <ArticleId IdType="doi">10.2196/12367</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

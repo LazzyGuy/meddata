@@ -1,0 +1,187 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199317</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Uniform Noting for International Application of the Tumor-Stroma Ratio as an Easy Diagnostic Tool: Protocol for a Multicenter Prospective Cohort Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13464</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13464</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Colon cancer treatment is dependent on the stage at diagnosis. The current Tumor-Node-Metastasis (TNM) staging for the selection of patients for adjuvant chemotherapy needs additional prognostic and predictive biomarkers. Better decision making for chemotherapy will result in reducing over- and undertreatment. We developed a new, easy-to-apply, practice-changing method to select colon cancer patients for adjuvant chemotherapy: the tumor-stroma ratio (TSR). The TSR distinguishes within stage II-III patients who will likely benefit from adjuvant chemotherapy and those who will not.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of the study was to add, in addition to the TNM classification, the TSR to current routine pathology evaluation. Pathologists will be instructed for scoring the TSR in combination with a quality assessment program. An international multicenter study will validate the parameter prospectively.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study is designed for future implementation of the TSR to the current TNM guidelines, using routinely Haematoxylin- and Eosin-stained tumor tissue sections. In part 1 of the study, an electronic learning (e-learning) module with a quality assessment program using the European Society of Pathology framework will be developed. This module will be used to assess the reliability and reproducibility of the TSR, conducted by national and international pathologists. Part 2 will involve the validation of the TSR in a prospective cohort of colon cancer p-stage II-III patients in a multicenter setting. In total, 1500 patients will be included.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The results of part 1 will be expected in the first half of 2019. For part 2, the inclusion of patients in the prospective study, which started at the end of 2018, will take 3 years with an additional follow-up after another 3 years.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The main endpoints of this study are as follows: in part 1, trained (international) pathologists who are able to reliably score the TSR, resulting in low intra- and interobserver variation; in part 2, confirmation of significant survival differences for patients with a stroma-high tumor versus patients with a stroma-low tumor. On the basis of these findings, a modification in current treatment guidelines will be suggested.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Netherlands Trial Register NTR7270; https://www.trialregister.nl/trial/7072.</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">DERR1-10.2196/13464.</AbstractText>
+                <CopyrightInformation>©Marloes Smit, Gabi van Pelt, Annet Roodvoets, Elma Meershoek-Klein Kranenbarg, Hein Putter, Rob Tollenaar, J Han van Krieken, Wilma Mesker. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 14.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smit</LastName>
+                    <ForeName>Marloes</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3961-5040</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Pelt</LastName>
+                    <ForeName>Gabi</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1449-7348</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roodvoets</LastName>
+                    <ForeName>Annet</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0412-1075</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Datacenter Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meershoek-Klein Kranenbarg</LastName>
+                    <ForeName>Elma</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1750-2221</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Datacenter Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putter</LastName>
+                    <ForeName>Hein</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5395-1422</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Statistics, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tollenaar</LastName>
+                    <ForeName>Rob</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6831-6082</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Krieken</LastName>
+                    <ForeName>J Han</ForeName>
+                    <Initials>JH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8105-0450</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Radboud University Medical Center, Nijmegen, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mesker</LastName>
+                    <ForeName>Wilma</ForeName>
+                    <Initials>W</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5533-4778</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Leiden University Medical Center, Leiden, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">colon cancer</Keyword>
+            <Keyword MajorTopicYN="N">observer variation</Keyword>
+            <Keyword MajorTopicYN="N">pathology</Keyword>
+            <Keyword MajorTopicYN="N">prospective study</Keyword>
+            <Keyword MajorTopicYN="N">tumor-stroma ratio</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199317</ArticleId>
+            <ArticleId IdType="pii">v8i6e13464</ArticleId>
+            <ArticleId IdType="doi">10.2196/13464</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

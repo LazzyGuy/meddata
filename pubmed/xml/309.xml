@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200097</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2747</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain research bulletin</Title>
+                <ISOAbbreviation>Brain Res. Bull.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long-lasting changes in hippocampal GABA<sub>B</sub>-receptor mediated inhibition following early-life seizures in kindling-prone but not kindling-resistant rats.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0361-9230(19)30160-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brainresbull.2019.06.006</ELocationID>
+            <Abstract>
+                <AbstractText>The hypotheses that hippocampal GABA<sub>B</sub> receptor dysfunction is a long-lasting consequence of early-life seizures, and its dependence on genetic background, were tested. Two strains of rats bred to be prone (FAST) or resistant (SLOW) to amygdala kindling were used. On postnatal day (PND) 10, control rats were injected with saline, and seizure rats with kainic acid to induce status epilepticus (SE) for 2 hours. A significantly lower dose of kainic acid was found to induce SE in FAST as compared to SLOW rats. Population excitatory postsynaptic potentials (pEPSPs) and population spikes (PSs) were recorded in CA1 of hippocampal slices of adult rats in vitro, following stimulation of stratum radiatum. Input-output relation of the single-pulse pEPSP and PS did not show a significant difference between seizure and control rats, sex, or strain (FAST and SLOW). Paired-pulse PSs were significantly enhanced at 10-50 ms interpulse intervals, in FAST seizure male rats compared to FAST male controls, but not in other groups. In adult FAST but not SLOW rats, significantly lower suppression of pEPSPs at 250-300 ms following heterosynaptic burst stimulation was found in seizure rats compared to control rats; the heterosynaptic suppression of the pEPSP was blocked by selective GABA<sub>B</sub> receptor antagonist CGP55845A. The results provide evidence that an early-life SE has a long-lasting effect in decreasing GABA<sub>B</sub> receptor-mediated presynaptic inhibition in the hippocampus, in FAST but not in SLOW rats.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leung</LastName>
+                    <ForeName>L Stan</ForeName>
+                    <Initials>LS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Pharmacology, Medical Science Building, University of Western Ontario, London, Ontario, N6A 5C1, Canada. Electronic address: sleung@uwo.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brain Res Bull</MedlineTA>
+            <NlmUniqueID>7605818</NlmUniqueID>
+            <ISSNLinking>0361-9230</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GABA(B) receptor inhibition</Keyword>
+            <Keyword MajorTopicYN="N">early-life seizure</Keyword>
+            <Keyword MajorTopicYN="N">hippocampus</Keyword>
+            <Keyword MajorTopicYN="N">kindling-prone rats</Keyword>
+            <Keyword MajorTopicYN="N">population spikes</Keyword>
+            <Keyword MajorTopicYN="N">seizure consequences</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200097</ArticleId>
+            <ArticleId IdType="pii">S0361-9230(19)30160-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brainresbull.2019.06.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

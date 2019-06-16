@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198645</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><i>PTMphinder</i>: an R package for PTM site localization and motif extraction from proteomic datasets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7046</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7046</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Mass-spectrometry-based proteomics is a prominent field of study that allows for the unbiased quantification of thousands of proteins from a particular sample. A key advantage of these techniques is the ability to detect protein post-translational modifications (PTMs) and localize them to specific amino acid residues. These approaches have led to many significant findings in a wide range of biological disciplines, from developmental biology to cancer and infectious diseases. However, there is a current lack of tools available to connect raw PTM site information to biologically meaningful results in a high-throughput manner. Furthermore, many of the available tools require significant programming knowledge to implement.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The R package <i>PTMphinder</i> was designed to enable researchers, particularly those with minimal programming background, to thoroughly analyze PTMs in proteomic data sets. The package contains three functions: parseDB, phindPTMs and extractBackground. Together, these functions allow users to reformat proteome databases for easier analysis, localize PTMs within full proteins, extract motifs surrounding the identified sites and create proteome-specific motif backgrounds for statistical purposes. Beta-testing of this R package has demonstrated its simplicity and ease of integration with existing tools.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED"><i>PTMphinder</i> empowers researchers to fully analyze and interpret PTMs derived from proteomic data. This package is simple enough for researchers with limited programming experience to understand and implement. The data produced from this package can inform subsequent research by itself and also be used in conjunction with other tools, such as motif-x, for further analysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wozniak</LastName>
+                    <ForeName>Jacob M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, University of California, San Diego, La Jolla, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, La Jolla, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, University of California, San Diego, La Jolla, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, La Jolla, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Mass spectrometry</Keyword>
+            <Keyword MajorTopicYN="N">Motifs</Keyword>
+            <Keyword MajorTopicYN="N">PTMs</Keyword>
+            <Keyword MajorTopicYN="N">Post-translational modifications</Keyword>
+            <Keyword MajorTopicYN="N">Proteomics</Keyword>
+            <Keyword MajorTopicYN="N">R package</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198645</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7046</ArticleId>
+            <ArticleId IdType="pii">7046</ArticleId>
+            <ArticleId IdType="pmc">PMC6555389</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

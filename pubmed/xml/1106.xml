@@ -1,0 +1,118 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199212</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8714</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Visual neuroscience</Title>
+                <ISOAbbreviation>Vis. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for functional GABAA but not GABAC receptors in mouse cone photoreceptors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E005</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0952523819000038</ELocationID>
+            <Abstract>
+                <AbstractText>At the first retinal synapse, horizontal cells (HCs) contact both photoreceptor terminals and bipolar cell dendrites, modulating information transfer between these two cell types to enhance spatial contrast and mediate color opponency. The synaptic mechanisms through which these modulations occur are still debated. The initial hypothesis of a GABAergic feedback from HCs to cones has been challenged by pharmacological inconsistencies. Surround antagonism has been demonstrated to occur via a modulation of cone calcium channels through ephaptic signaling and pH changes in the synaptic cleft. GABAergic transmission between HCs and cones has been reported in some lower vertebrates, like the turtle and tiger salamander. In these reports, it was revealed that GABA is released from HCs through reverse transport and target GABA receptors are located at the cone terminals. In mammalian retinas, there is growing evidence that HCs can release GABA through conventional vesicular transmission, acting both on autaptic GABA receptors and on receptors expressed at the dendritic tips of the bipolar cells. The presence of GABA receptors on mammalian cone terminals remains equivocal. Here, we looked specifically for functional GABA receptors in mouse photoreceptors by recording in the whole-cell or amphotericin/gramicidin-perforated patch clamp configurations. Cones could be differentiated from rods through morphological criteria. Local GABA applications evoked a Cl- current in cones but not in rods. It was blocked by the GABAA receptor antagonist bicuculline methiodide and unaffected by the GABAC receptor antagonist TPMPA [(1,2,5,6-tetrahydropyridin-4-yl)methylphosphinic acid]. The voltage dependency of the current amplitude was as expected from a direct action of GABA on cone pedicles but not from an indirect modulation of cone currents following the activation of the GABA receptors of HCs. This supports a direct role of GABA released from HCs in the control of cone activity in the mouse retina.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deniz</LastName>
+                    <ForeName>Sercan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Génétique et de Biologie Moléculaire et Cellulaire,Department of Translational Medicine and Neurogenetics, F-67404, Illkirch,France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wersinger</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UMR1107 INSERM/UCA NEURO-DOL, Université Clermont Auvergne,F-63001 Clermont-Ferrand,France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Picaud</LastName>
+                    <ForeName>Serge</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sorbonne Université, INSERM, CNRS, Institut de la Vision,F-75012 Paris,France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roux</LastName>
+                    <ForeName>Michel J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5812-5215</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Génétique et de Biologie Moléculaire et Cellulaire,Department of Translational Medicine and Neurogenetics, F-67404, Illkirch,France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vis Neurosci</MedlineTA>
+            <NlmUniqueID>8809466</NlmUniqueID>
+            <ISSNLinking>0952-5238</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cone photoreceptor</Keyword>
+            <Keyword MajorTopicYN="N">Feedback</Keyword>
+            <Keyword MajorTopicYN="N">GABA</Keyword>
+            <Keyword MajorTopicYN="N">Horizontal cell</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199212</ArticleId>
+            <ArticleId IdType="pii">S0952523819000038</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0952523819000038</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

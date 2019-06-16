@@ -1,0 +1,161 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199323</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Early Detection of Depression: Social Network Analysis and Random Forest Techniques.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12554</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12554</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Major depressive disorder (MDD) or depression is among the most prevalent psychiatric disorders, affecting more than 300 million people globally. Early detection is critical for rapid intervention, which can potentially reduce the escalation of the disorder.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study used data from social media networks to explore various methods of early detection of MDDs based on machine learning. We performed a thorough analysis of the dataset to characterize the subjects' behavior based on different aspects of their writings: textual spreading, time gap, and time span.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We proposed 2 different approaches based on machine learning singleton and dual. The former uses 1 random forest (RF) classifier with 2 threshold functions, whereas the latter uses 2 independent RF classifiers, one to detect depressed subjects and another to identify nondepressed individuals. In both cases, features are defined from textual, semantic, and writing similarities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The evaluation follows a time-aware approach that rewards early detections and penalizes late detections. The results show how a dual model performs significantly better than the singleton model and is able to improve current state-of-the-art detection models by more than 10%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Given the results, we consider that this study can help in the development of new solutions to deal with the early detection of depression on social networks.</AbstractText>
+                <CopyrightInformation>©Fidel Cacheda, Diego Fernandez, Francisco J Novoa, Victor Carneiro. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 10.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cacheda</LastName>
+                    <ForeName>Fidel</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6438-1661</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, Faculty of Computer Science, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Information and Communications Technology Research, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Fernandez</LastName>
+                    <ForeName>Diego</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6577-8951</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, Faculty of Computer Science, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Information and Communications Technology Research, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Novoa</LastName>
+                    <ForeName>Francisco J</ForeName>
+                    <Initials>FJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3629-8120</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, Faculty of Computer Science, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Information and Communications Technology Research, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carneiro</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7536-9422</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, Faculty of Computer Science, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Information and Communications Technology Research, University of A Coruna, A Coruna, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+            <Keyword MajorTopicYN="N">depression</Keyword>
+            <Keyword MajorTopicYN="N">machine learning</Keyword>
+            <Keyword MajorTopicYN="N">major depressive disorder</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199323</ArticleId>
+            <ArticleId IdType="pii">v21i6e12554</ArticleId>
+            <ArticleId IdType="doi">10.2196/12554</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

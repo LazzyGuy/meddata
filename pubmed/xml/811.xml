@@ -1,0 +1,119 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199544</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0029</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microscopy research and technique</Title>
+                <ISOAbbreviation>Microsc. Res. Tech.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of microleakage in class v cavities prepared by different caries removal methods.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jemt.23322</ELocationID>
+            <Abstract>
+                <AbstractText>The purpose of this study was to comparatively evaluate the effects of different caries removal methods on microleakage success of class V adhesive restorations by means of light microscopy (stereomicroscope) and scanning electron microscopy (SEM) observations. Sixty-four human teeth with class V caries that measured with DIAGNOdent were used. The samples were divided into four groups (n = 16) randomly according to caries removing methods of conventional method, Carisolv, Papacarie, and Er,Cr:YSGG laser system. The self-etch Clearfıl SE Bond and Clearfıl Majesty Es-II were used as restoration materials. After thermal cycles of 2,000 (5 and 55°C) samples were immersed in a 50% wt/wt AgNO<sub>3.</sub> Samples were finally imaged and scored under light microscopy and SEM, respectively. The data were statistically analyzed using Kruskal-Wallis H, pairwise comparison and Wilcoxon's T tests at 5% significance level (p &lt; .05). Statistical analysis demonstrated that there was no significant difference between microleakage scores in dentin regions but there were significant difference between the Papacarie and Er,Cr:YSGGlaser in terms of leakage scores in enamel sites. No statistically significant difference in leakage scores emerged between light microscopy and SEM.</AbstractText>
+                <CopyrightInformation>© 2019 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ertürk Avunduk</LastName>
+                    <ForeName>Ayşe T</ForeName>
+                    <Initials>AT</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7879-8150</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Dentistry, Department of Restorative Dentistry, Mersin University, Mersin, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bağlar</LastName>
+                    <ForeName>Serdar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Dentistry, Department of Restorative Dentistry, Kırıkkale University, Kırıkkale, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microsc Res Tech</MedlineTA>
+            <NlmUniqueID>9203012</NlmUniqueID>
+            <ISSNLinking>1059-910X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Er,Cr:YSGG laser</Keyword>
+            <Keyword MajorTopicYN="N">Papacarie</Keyword>
+            <Keyword MajorTopicYN="N">chemomechanical method</Keyword>
+            <Keyword MajorTopicYN="N">microleakage</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199544</ArticleId>
+            <ArticleId IdType="doi">10.1002/jemt.23322</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

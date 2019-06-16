@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198730</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2249-4863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of family medicine and primary care</Title>
+                <ISOAbbreviation>J Family Med Prim Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Speech and language delay in children: Prevalence and risk factors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1642-1646</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/jfmpc.jfmpc_162_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Intelligible speech and language is a useful marker for the child's overall development and intellect. Timely identification of delay by primary care physicians can allow early intervention and reduce disability. Data from India on this subject is limited.</AbstractText>
+                <AbstractText Label="Aims" NlmCategory="UNASSIGNED">To study the prevalence and risk factors of speech-language delay among children aged 1-12 years.</AbstractText>
+                <AbstractText Label="Settings and Design" NlmCategory="UNASSIGNED">A cross sectional study was conducted at the Pediatric outpatient department of a teaching hospital.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Eighty four children (42 children with delayed speech and 42 controls) aged 1-12 years were included. The guardians of these children were requested to answer a questionnaire. History of the child's morbidity pattern and the risk factors for speech delay were recorded. The child's developmental milestones were assessed.</AbstractText>
+                <AbstractText Label="Statistical Analysis Used" NlmCategory="UNASSIGNED">Data entry was analyzed using SPSS software, version 16. Standard statistical tests were used. A <i>p</i> value of less than 0.05 was taken as statistically significant.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Speech and Language delay was found in 42 out of 1658 children who attended the OPD. The risk factors found to be significant were seizure disorder (<i>P</i>=&lt; 0.001)), birth asphyxia (<i>P</i>=0.019), oro-pharyngeal deformity (<i>P</i>=0.012), multilingual family environment (<i>P</i>=&lt; 0.001), family history (<i>P</i>=0.013), low paternal education (<i>P</i>=0.008), low maternal education (<i>P</i>=&lt; 0.001), consanguinity (<i>P</i>=&lt; 0.001) and inadequate stimulation (<i>P</i>=&lt; 0.001).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The prevalence of speech and language delay was 2.53%. and the medical risk factors were birth asphyxia, seizure disorder and oro-pharyngeal deformity. The familial causes were low parental education, consanguinity, positive family history, multilingual environment and inadequate stimulation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sunderajan</LastName>
+                    <ForeName>Trisha</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, K.J. Somaiya Medical College, Hospital and Research Centre, Mumbai, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanhere</LastName>
+                    <ForeName>Sujata V</ForeName>
+                    <Initials>SV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, K.J. Somaiya Medical College, Hospital and Research Centre, Mumbai, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Family Med Prim Care</MedlineTA>
+            <NlmUniqueID>101610082</NlmUniqueID>
+            <ISSNLinking>2249-4863</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Prevalence</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+            <Keyword MajorTopicYN="N">speech and language delay</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198730</ArticleId>
+            <ArticleId IdType="doi">10.4103/jfmpc.jfmpc_162_19</ArticleId>
+            <ArticleId IdType="pii">JFMPC-8-1642</ArticleId>
+            <ArticleId IdType="pmc">PMC6559061</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

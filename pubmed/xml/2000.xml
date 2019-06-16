@@ -1,0 +1,92 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198117</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-001X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal for the history of science</Title>
+                <ISOAbbreviation>Br J Hist Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Whaling intelligence: news, facts and US-American exploration in the Pacific.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0007087419000177</ELocationID>
+            <Abstract>
+                <AbstractText>This paper investigates the history of a discursive figure that one could call the intelligent whaler. I argue that this figure's success was made possible by the construal and public distribution of whaling intelligence in an important currency of science - facts - in the preparatory phase for the United States Exploring Expedition (1838-1842). The strongest case for the necessity of the enterprise was New England whalers who were said to cruise uncharted parts of the oceans and whose discoveries of uncharted islands were reported in the local press. The document that stood at the core of the lobbying for an expedition was a table that newspaperman and public lecturer Jeremiah Reynolds had compiled after interviewing whaling captains in the country's principal whaling ports. Presenting whalers' experience in tabular and synoptic form, Reynolds's table helped forge the figure of the 'intelligent whaler', a mariner who had better geographical knowledge than other seafarers. By investigating the paper technologies that produced the 'intelligent whaler', this paper shows how Reynolds's translation of 'whaling intelligence' from news into facts marks the beginning of the intelligent whaler's long career in US-American debates about expansionism, exploration and science.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lüttge</LastName>
+                    <ForeName>Felix</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>*University of Basel,Department of Media Studies,Holbeinstrasse 12,4051 Basel,Switzerland. Email:felix.luettge@unibas.ch.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Hist Sci</MedlineTA>
+            <NlmUniqueID>0144554</NlmUniqueID>
+            <ISSNLinking>0007-0874</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198117</ArticleId>
+            <ArticleId IdType="pii">S0007087419000177</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0007087419000177</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

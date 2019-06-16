@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200388</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-0447</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric research</Title>
+                <ISOAbbreviation>Pediatr. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Positive health: rebranding an old package with a new name?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41390-019-0454-0</ELocationID>
+            <Abstract>
+                <AbstractText>The authors take a longitudinal and intergenerational approach to studying infants born at extremely early gestational age, highlighting the extent to which a high-risk pregnancy is experienced by both mother and infant, with potentially lasting effects on the physical - and mental - health of the dyad. They focus their study on what the call positive child health outcomes at 10 years of age, measured using an index of chronic health problem. Yet concepts of positive health include attributes beyond the absence of disease, such as participation, resilience, and happiness. To study positive health outcomes - an endeavor that has much merit in light of the developmental plasticity children possess - we should use measures that explicitly and more fully encompass the many facets of well-being. Otherwise, we risk simply rebranding negative disease as positive health by providing it a new name.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Litt</LastName>
+                    <ForeName>Jonathan S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neonatology, Beth Israel Deaconess Medical Center, Boston, MA, USA. jlitt@bidmc.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neonatology, Harvard Medical School, Boston, MA, USA. jlitt@bidmc.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tiemeier</LastName>
+                    <ForeName>Henning</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Social and Behavioral Sciences, Harvard TH Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pediatr Res</MedlineTA>
+            <NlmUniqueID>0100714</NlmUniqueID>
+            <ISSNLinking>0031-3998</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200388</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41390-019-0454-0</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41390-019-0454-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

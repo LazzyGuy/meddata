@@ -1,0 +1,116 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199761</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-4331</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical chemistry and laboratory medicine</Title>
+                <ISOAbbreviation>Clin. Chem. Lab. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A step forward in identifying the right human chorionic gonadotropin assay for testicular cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/cclm-2019-0319</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/cclm.ahead-of-print/cclm-2019-0319/cclm-2019-0319.xml</ELocationID>
+            <Abstract>
+                <AbstractText>Clinical practice guidelines for the management of germ cell tumors recommend the measurements of human chorionic gonadotropin (hCG) and/or free hCGβ subunit for earlier diagnosis/recognition of the residual disease, for the prognostic evaluation and for the post-chemotherapy surveillance. However, the marketed hCG assays are validated and approved only for pregnancy purposes, with the sole exception of the Elecsys 'hCG+β' assay (Roche Diagnostics), cleared in Europe for oncological application. Theoretically, the hCG assay design for oncological purposes should fulfil the recommendations of the International Society of Oncology and Biomarkers requiring the use of antibodies displaying an equimolar recognition of both intact hCG and hCGβ monomer. Further analytical requirements should also be considered, such as optimal analytical sensitivity to allow an early tumor detection and low cross-reactivity for luteinizing hormone (LH). For the Elecsys assay, the detection limit (0.2 U/L) and the reported cross-reactivity for LH (0.12%) may be considered adequate if compared with the recommended requirements. Another issue is the definition of decision limits for oncologic purposes. After 3 years of clinical experience using the Elecsys assay in the oncology setting, we were able to define limits partitioned by sex and age as follows: males &lt;50 years, 0.3 U/L; males &gt;50 years, 2.3 U/L; female &lt;50 years, 2.1 U/L; female &gt;50 years, 5.6 U/L. There is an urgent need to disseminate appropriate educational information and to boost the clinical use of selective, highly sensitive and precise assays, specifically manufactured for cancer application.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ferraro</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical and Clinical Sciences 'Luigi Sacco', UOC Patologia Clinica, Ospedale &quot;Luigi Sacco&quot;, University of Milan, Via GB Grassi 74, 20157 Milano, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panteghini</LastName>
+                    <ForeName>Mauro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical and Clinical Sciences 'Luigi Sacco', University of Milan, Milano, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Chem Lab Med</MedlineTA>
+            <NlmUniqueID>9806306</NlmUniqueID>
+            <ISSNLinking>1434-6621</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">education</Keyword>
+            <Keyword MajorTopicYN="N">immunoassay</Keyword>
+            <Keyword MajorTopicYN="N">specificity</Keyword>
+            <Keyword MajorTopicYN="N">testicular cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199761</ArticleId>
+            <ArticleId IdType="doi">10.1515/cclm-2019-0319</ArticleId>
+            <ArticleId IdType="pii">/j/cclm.ahead-of-print/cclm-2019-0319/cclm-2019-0319.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

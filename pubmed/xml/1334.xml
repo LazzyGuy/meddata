@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198958</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-9053</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant &amp; cell physiology</Title>
+                <ISOAbbreviation>Plant Cell Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Developing heritable mutations in Arabidopsis thaliana using a modified CRISPR/Cas9 toolkit comprising PAM-altered Cas9 variants and gRNAs.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pcz118</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/pcp/pcz118</ELocationID>
+            <Abstract>
+                <AbstractText>CRISPR/Cas9, comprising an RNA-guided DNA endonuclease and a programmable guide RNA (gRNA), is currently recognized to be a powerful genome-editing tool and is widely used in biological science. Despite the usefulness of the system, a protospacer-adjacent motif (PAM) immediately downstream of the target sequence needs to be taken into account in the design of the gRNA, a requirement which limits the flexibility of the CRISPR-based genome editing system. To overcome this limitation, a Cas9 isolated from Streptococcus pyogenes, namely SpCas9, engineered to develop several variants of Cas9 nuclease, has been generated. SpCas9 recognizes the NGG sequence as the PAM, whereas its variants are capable of interacting with different PAMs. Despite the potential advantage of the Cas9 variants, their functionalities have not previously been tested in the widely used model plant, Arabidopsis thaliana. Here, we developed a plant-specific vector series harboring SpCas9-VQR (NGAN or NGNG) or SpCas9-EQR (NGAG) and evaluated their functionalities. These modified Cas9 nucleases efficiently introduced mutations into the CLV3 and AS1 target genes using gRNAs that were compatible with atypical PAMs. Furthermore, the generated mutations were passed on to their offspring. This study illustrated the usefulness of the SpCas9 variants because the ability to generate heritable mutations will be of great benefit in molecular genetic analyses. A greater number of potential SpCas9-variant-recognition sites in these genes are predicted, compared with those of conventional SpCas9. These results demonstrated the usefulness of the SpCas9 variants for genome editing in the field of plant science research.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Japanese Society of Plant Physiologists. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamamoto</LastName>
+                    <ForeName>Akihiro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Science and Technology, Kumamoto University, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishida</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Research Organization for Advanced Science and Technology (IROAST), Kumamoto University, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshimura</LastName>
+                    <ForeName>Mika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Research Organization for Advanced Science and Technology (IROAST), Kumamoto University, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kimura</LastName>
+                    <ForeName>Yuri</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Science and Technology, Kumamoto University, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sawa</LastName>
+                    <ForeName>Shinichiro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Science and Technology, Kumamoto University, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Plant Cell Physiol</MedlineTA>
+            <NlmUniqueID>9430925</NlmUniqueID>
+            <ISSNLinking>0032-0781</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          Arabidopsis thaliana (Arabidopsis)</Keyword>
+            <Keyword MajorTopicYN="N">CRISPR/Cas9</Keyword>
+            <Keyword MajorTopicYN="N">SpCas9 variant</Keyword>
+            <Keyword MajorTopicYN="N">altered PAM</Keyword>
+            <Keyword MajorTopicYN="N">genome editing</Keyword>
+            <Keyword MajorTopicYN="N">heritable mutation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198958</ArticleId>
+            <ArticleId IdType="pii">5518929</ArticleId>
+            <ArticleId IdType="doi">10.1093/pcp/pcz118</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

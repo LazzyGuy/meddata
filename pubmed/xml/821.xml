@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199534</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-9568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The European journal of neuroscience</Title>
+                <ISOAbbreviation>Eur. J. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Investigating the effects of muscle contraction and conditioning stimulus intensity on short-interval intracortical inhibition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ejn.14488</ELocationID>
+            <Abstract>
+                <AbstractText>A reduction in short-interval intracortical inhibition (SICI) has been shown to accompany acute or chronic resistance exercise, however little is known about how SICI is modulated under different contraction intensities. Therefore, the purpose of this study was to assess the effect of muscle contraction and conditioning stimulus intensity on the modulation of SICI. Single and paired-pulsed transcranial magnetic stimulation was applied to the primary motor cortex (M1) and motor evoked potentials (MEPs) were recorded from the biceps brachii in 16 adults (10M/6F). A conditioning-test stimulus paradigm (3ms inter-stimulus intervals) was delivered during 10, 20, 40 and 75% of maximal voluntary isometric contraction (MVIC). At each force level, conditioning stimulus intensities of 60, 70 and 80% of active motor threshold (AMT) were tested. Single-pulse MEPs were expressed as a proportion of the maximal muscle compound action potential, while SICI was quantified as a ratio of the unconditioned MEP. MEP amplitude increased with force output, with the greatest increase at 75% MVIC. A reduction in SICI was observed from 40-75% MVIC, but not 10-40% MVIC. There was no significant interaction between conditioning stimulus intensity and force level. The conditioning stimulus intensity (60, 70 or 80% AMT) did not alter the modulation of SICI. SICI was reduced at 75% MVIC compared to the lower force outputs, and the magnitude of SICI in individual participants at different force outputs was not related. The findings suggest that strong muscle contractions are accompanied by less inhibition, which may have implications for neuroplasticity in exercise interventions. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hendy</LastName>
+                    <ForeName>A M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Exercise and Nutrition Sciences, Institute for Physical Activity and Nutrition, Deakin University, Geelong, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekblom</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Swedish School of Sport and Health Sciences, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, Karolinska Institute, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Latella</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Exercise and Sports Science Research (CESSR), School of Medical and Health Sciences, Edith Cowan University, Joondalup, Western, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Teo</LastName>
+                    <ForeName>W P</ForeName>
+                    <Initials>WP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Exercise and Nutrition Sciences, Institute for Physical Activity and Nutrition, Deakin University, Geelong, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Eur J Neurosci</MedlineTA>
+            <NlmUniqueID>8918110</NlmUniqueID>
+            <ISSNLinking>0953-816X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biceps brachii</Keyword>
+            <Keyword MajorTopicYN="N">motor evoked potential</Keyword>
+            <Keyword MajorTopicYN="N">muscle force</Keyword>
+            <Keyword MajorTopicYN="N">transcranial magnetic stimulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199534</ArticleId>
+            <ArticleId IdType="doi">10.1111/ejn.14488</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

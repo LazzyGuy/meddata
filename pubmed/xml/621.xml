@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199755</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1868-503X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomolecular concepts</Title>
+                <ISOAbbreviation>Biomol Concepts</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnosis of Primary Hydatid Cyst of Thyroid Gland: A Case Report.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>106-110</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/bmc-2019-0013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/bmc.2019.10.issue-1/bmc-2019-0013/bmc-2019-0013.xml</ELocationID>
+            <Abstract>
+                <AbstractText>A 34-year-old female patient was presented to the general surgery clinic of the hospital complaining of a growing tangible swelling in her neck. In physical examination, the patient had two palpable soft nodules in the left lobe of the thyroid which hadn't invaded the surrounding tissues. The function of thyroid gland was normal and fine needle aspiration (FNA) result reported it benign. The patient went through a left lobectomy and isthmectomy. The histopathology report concluded a nodular hyperplasia and a Hydatid cyst. After surgery, the patient was examined searching for any other organs cyst, but there were no cystic lesion in the cranial, thoracic and abdominal cavities. Accordingly, the case was a primary thyroid hydatid cyst, which is rare, even in endemic regions like Iran.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eshraghi</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of surgery, Sh. Beheshty Hospital, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shahmoradi</LastName>
+                    <ForeName>Ladan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of surgery, Sh. Beheshty Hospital, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghoddoosi</LastName>
+                    <ForeName>Mahdiieh</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Clinical Pathology Sh. Beheshty Hospital, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadati</LastName>
+                    <ForeName>Seyed Jafar Adnani</ForeName>
+                    <Initials>SJA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Medical Microbiology and Immunology, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Biomol Concepts</MedlineTA>
+            <NlmUniqueID>101518829</NlmUniqueID>
+            <ISSNLinking>1868-5021</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Case report</Keyword>
+            <Keyword MajorTopicYN="N">Histopathology</Keyword>
+            <Keyword MajorTopicYN="N">Hydatid cyst</Keyword>
+            <Keyword MajorTopicYN="N">Isthmectomy</Keyword>
+            <Keyword MajorTopicYN="N">Thyroid gland</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199755</ArticleId>
+            <ArticleId IdType="doi">10.1515/bmc-2019-0013</ArticleId>
+            <ArticleId IdType="pii">/j/bmc.2019.10.issue-1/bmc-2019-0013/bmc-2019-0013.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

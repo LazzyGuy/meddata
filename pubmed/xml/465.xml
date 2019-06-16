@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199931</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta. Molecular cell research</Title>
+                <ISOAbbreviation>Biochim Biophys Acta Mol Cell Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DRG2 knockdown induces Golgi fragmentation via GSK3β phosphorylation and microtubule stabilization.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-4889(19)30096-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbamcr.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>The perinuclear stacks of the Golgi apparatus maintained by dynamic microtubules are essential for cell migration. Activation of Akt (protein kinase B, PKB) negatively regulates glycogen synthase kinase 3β (GSK3β)-mediated tau phosphorylation, which enhances tau binding to microtubules and microtubule stability. In this study, experiments were performed on developmentally regulated GTP-binding protein 2 (DRG2)-stably knockdown HeLa cells to determine whether knockdown of DRG2 in HeLa cells treated with epidermal growth factor (EGF) affects microtubule dynamics, perinuclear Golgi stacking, and cell migration. Here, we show that DRG2 plays a key role in regulating microtubule stability, perinuclear Golgi stack formation, and cell migration. DRG2 knockdown prolonged the EGF receptor (EGFR) localization in endosome, enhanced Akt activity and inhibitory phosphorylation of GSK3β. Tau, a target of GSK3β, was hypo-phosphorylated in DRG2-knockdown cells and showed greater association with microtubules, resulting in microtubule stabilization. DRG2-knockdown cells showed defects in microtubule growth and microtubule organizing centers (MTOC), Golgi fragmentation, and loss of directional cell migration. These results reveal a previously unappreciated role for DRG2 in the regulation of perinuclear Golgi stacking and cell migration via its effects on GSK3β phosphorylation, and microtubule stability.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mani</LastName>
+                    <ForeName>Muralidharan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thao</LastName>
+                    <ForeName>Dang Thi</ForeName>
+                    <Initials>DT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Beom Chang</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Unn Hwa</ForeName>
+                    <Initials>UH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dong Jun</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jang</LastName>
+                    <ForeName>Soo Hwa</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Back</LastName>
+                    <ForeName>Sung Hoon</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Byung Ju</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Wha Ja</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metainflammation Research Center, University of Ulsan, Ulsan 680-749, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>In-Seob</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea. Electronic address: ishan@ulsan.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jeong Woo</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Ulsan, Ulsan 680-749, Republic of Korea. Electronic address: jwpark@ulsan.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta Mol Cell Res</MedlineTA>
+            <NlmUniqueID>101731731</NlmUniqueID>
+            <ISSNLinking>0167-4889</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cell migration</Keyword>
+            <Keyword MajorTopicYN="N">DRG2</Keyword>
+            <Keyword MajorTopicYN="N">GSK3β</Keyword>
+            <Keyword MajorTopicYN="N">Golgi fragmentation</Keyword>
+            <Keyword MajorTopicYN="N">Microtubule stability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199931</ArticleId>
+            <ArticleId IdType="pii">S0167-4889(19)30096-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbamcr.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

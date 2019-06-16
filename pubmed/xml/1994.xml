@@ -1,0 +1,92 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198123</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-001X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal for the history of science</Title>
+                <ISOAbbreviation>Br J Hist Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Practical mathematicians and mathematical practice in later seventeenth-century London.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0007087419000207</ELocationID>
+            <Abstract>
+                <AbstractText>Mathematical practitioners in seventeenth-century London formed a cohesive knowledge community that intersected closely with instrument-makers, printers and booksellers. Many wrote books for an increasingly numerate metropolitan market on topics covering a wide range of mathematical disciplines, ranging from algebra to arithmetic, from merchants' accounts to the art of surveying. They were also teachers of mathematics like John Kersey or Euclid Speidell who would use their own rooms or the premises of instrument-makers for instruction. There was a high degree of interdependency even beyond their immediate milieu. Authors would cite not only each other, but also practitioners of other professions, especially those artisans with whom they collaborated closely. Practical mathematical books effectively served as an advertising medium for the increasingly self-conscious members of a new emerging professional class. Contemporaries would talk explicitly of 'the London mathematicians' in distinction to their academic counterparts at Oxford or Cambridge. The article takes a closer look at this metropolitan knowledge culture during the second half of the century, considering its locations, its meeting places and the mathematical clubs which helped forge the identity of its practitioners. It discusses their backgrounds, teaching practices and relations to the London book trade, which supplied inexpensive practical mathematical books to a seemingly insatiable public.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beeley</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>*Faculty of History,University of Oxford,UK. Email:philip.beeley@history.ox.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Hist Sci</MedlineTA>
+            <NlmUniqueID>0144554</NlmUniqueID>
+            <ISSNLinking>0007-0874</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198123</ArticleId>
+            <ArticleId IdType="pii">S0007087419000207</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0007087419000207</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

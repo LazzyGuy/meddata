@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199710</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-0257</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetic testing and molecular biomarkers</Title>
+                <ISOAbbreviation>Genet Test Mol Biomarkers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular Prognostic Value of Circulating Epstein-Barr Viral DNA in Nasopharyngeal Carcinoma: A Meta-Analysis of 27,235 Cases in the Endemic Area of Southeast Asia.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/gtmb.2018.0304</ELocationID>
+            <Abstract>
+                <AbstractText><b>
+                        <i>Aims:</i>
+                    </b> This meta-analysis evaluated the value of using Epstein-Barr virus (EBV) DNA titers as a predictive factor in assessing the clinical course of nasopharyngeal carcinoma (NPC) patients in Southeast Asia. <b>
+                        <i>Methods:</i>
+                    </b> A systematic search was performed using PubMed, the Cochrane Library, and Embase online databases. Eligible studies with complete baseline information and extractable hazard ratios (HRs), 95% confidence intervals (CIs), and other details were included in this analysis. All pooled statistics were calculated using RevMan 5.3 software with inverse variance methods, forest plots, or funnel plots directly; the results were analyzed both <i>in toto</i> and by subgroups using meta-regression and sensitivity analyses. <b>
+                        <i>Results:</i>
+                    </b> Forty studies involving 27,235 subjects were included in this meta-analysis. With the recommended cutoff values of 2,000, 0, and 0 copies/mL, respectively, were used higher levels of EBV DNA in the pretreatment, mid-treatment, and post-treatment groups were all associated with at least a 2.5-fold increased risk of death compared with patients with lower levels of EBV DNA (HRs and 95% CIs were 2.47 [2.10-2.89], 2.67 [1.50-4.75], and 5.25 [3.58-7.71], respectively, <i>p</i> &lt; 0.05). This finding could also explain heterogeneities among the studies. <b>
+                        <i>Conclusion:</i>
+                    </b> Higher pretreatment, mid-treatment, and post-treatment EBV DNA levels were all significantly correlated with poor outcomes for patients afflicted with NPCs. Further investigations of EBV DNA levels, combined with addressing TNM stages, are needed to determine whether they can be used as clinical guidelines for diagnosis and treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Xulin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>Yupei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Kun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genet Test Mol Biomarkers</MedlineTA>
+            <NlmUniqueID>101494210</NlmUniqueID>
+            <ISSNLinking>1945-0257</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Epstein–Barr viral DNA</Keyword>
+            <Keyword MajorTopicYN="N">endemic area</Keyword>
+            <Keyword MajorTopicYN="N">meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">nasopharyngeal carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">prognostic value</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199710</ArticleId>
+            <ArticleId IdType="doi">10.1089/gtmb.2018.0304</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

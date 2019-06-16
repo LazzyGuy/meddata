@@ -1,0 +1,124 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199018</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-108X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The International journal of eating disorders</Title>
+                <ISOAbbreviation>Int J Eat Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Investigating phenotypes of emotional eating based on weight categories: A latent profile analysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/eat.23119</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We aimed to investigate the phenotypes of individuals with emotional eating (EE) based on their levels of positive and negative EE, body mass index (BMI), and preoccupation with weight, and to assess differences in eating pathology and emotion regulation (ER) difficulties among them.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">A community sample of 605 women (mean age = 29.8 years, SD = 9.6; mean BMI = 23.4 kg/m<sup>2</sup> , SD = 4.7) filled out the Positive-Negative Emotional Eating Scale, Eating Disorders Assessment Scale, and Difficulties in Emotion Regulation Scale. Data of BMI, positive EE, negative EE, and preoccupation with body weight were submitted to a latent profile analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A four-profile model was discovered with normal weight individuals without EE (63%), normal weight individuals with EE (23%), overweight individuals without EE (9%), and obese individuals with EE (5%). A five-profile model was also included, as a class of normal weight individuals with positive EE was found. Obese and normal weight individuals with EE showed the highest level of ER difficulties and eating pathology. Overweight individuals without EE showed moderate levels of eating pathology and low levels of ER difficulties, suggesting that high BMI itself might not be related to eating disorder (ED) psychopathology. Normal weight individuals with positive EE showed low levels of eating pathology, but moderate levels of ER difficulties.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Our results suggest that negative EE could be an important risk factor for disordered eating, independent of BMI. Further, individuals with EE could benefit from learning adaptive ER strategies to prevent the onset or maintenance of ED or weight gain.</AbstractText>
+                <CopyrightInformation>© 2019 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sultson</LastName>
+                    <ForeName>Hedvig</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-1838-3188</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychology, University of Tartu, Tartu, Estonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akkermann</LastName>
+                    <ForeName>Kirsti</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Psychology, University of Tartu, Tartu, Estonia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Eat Disord</MedlineTA>
+            <NlmUniqueID>8111226</NlmUniqueID>
+            <ISSNLinking>0276-3478</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">emotion regulation</Keyword>
+            <Keyword MajorTopicYN="N">emotional eating</Keyword>
+            <Keyword MajorTopicYN="N">latent profile analysis</Keyword>
+            <Keyword MajorTopicYN="N">negative emotions</Keyword>
+            <Keyword MajorTopicYN="N">obesity</Keyword>
+            <Keyword MajorTopicYN="N">positive emotions</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199018</ArticleId>
+            <ArticleId IdType="doi">10.1002/eat.23119</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

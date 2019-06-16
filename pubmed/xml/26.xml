@@ -1,0 +1,94 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200399</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-1651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>223</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift fur Geburtshilfe und Neonatologie</Title>
+                <ISOAbbreviation>Z Geburtshilfe Neonatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle/>
+            <Pagination>
+                <MedlinePgn>145-146</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0825-9958</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Zemlin</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Allgemeine Pädiatrie und Neonatologie, Universitätsklinikum des Saarlandes, Homburg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Überarbeitung der S2k-Leitlinie „Bakterielle Infektionen des Neugeborenen“ (AWMF-Register-Nr. 024–008) – aus dem Nähkästchen geplaudert.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Z Geburtshilfe Neonatol</MedlineTA>
+            <NlmUniqueID>9508901</NlmUniqueID>
+            <ISSNLinking>0948-2393</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="ger">
+            <AbstractText>Ganze 12 Jahre hat es gedauert, bis die AWMF-Leitlinie 024–008 in der Neufassung erschienen ist 1. In dieser Zeit sind laut PubMed 6219 Publikationen zu den Suchworten „neonate AND sepsis“ erschienen. Da wirkt es fast sparsam, dass der Umfang der Leitlinie „nur“ von 7 auf 28 Seiten zugenommen hat. Allerdings führt der Fortschritt der Wissenschaften auch oft dazu, dass vermeintliche sichere Erkenntnisse widerlegt werden. Was früher noch als Behandlungsfehler angesehen wurde und zu emotionalen Erlebnissen bei der (Chef-)Visite führen konnte, ist möglicher Weise heute überholt.</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Die Autoren geben an, dass kein Interessenkonflikt besteht.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200399</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0825-9958</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

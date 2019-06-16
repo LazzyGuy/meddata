@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200418</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Epidemiological study on atopic dermatitis in Mexico].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>192-204</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.29262/ram.v66i2.591</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">There is limited epidemiological information on the treatment of atopic dermatitis (AD) from specialist physicians in Mexico.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To know the criteria that is used by specialists in Mexico to diagnose and treat AD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">An observational, descriptive and cross-sectional study, which was authorized by the ethics committee, was carried out through an electronic survey.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">114 surveys were carried out; 56% of the participants were allergists, 38% were dermatologists and 5% were pediatricians. It was identified that 54% used clinical criteria for the diagnosis of AD and 42% used the criteria of Hanifin-Rajka as a diagnostic complement; 38% requested total and/or specific IgE, blood biometry and blood chemistry tests. They recount that 90% of patients under the age of 18 had mild AD, 8% had moderate AD and 2% had severe AD; and, in patients over the age of 18, 89% had mild AD, 6% had moderate AD and 5% had severe AD. The patients' care was multidisciplinary, since 57% of the survey respondents requested assessments combined with ophthalmology, dermatology and allergology.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Knowledge of the disease will lead to a better control of the disease. The challenge is to have a patient registry, update treatment guidelines, consider comorbidities and have therapeutic options for its control.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Herrera-Sánchez</LastName>
+                    <ForeName>Diana Andrea</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Mexicano del Seguro Social, Centro Médico Nacional Siglo XXI, Hospital de Especialidades, Ciudad de México, México. dianaaherrera@outlook.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hernández-Ojeda</LastName>
+                    <ForeName>Mariana</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vivas-Rosales</LastName>
+                    <ForeName>Irving Jesús</ForeName>
+                    <Initials>IJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Estudio epidemiológico sobre dermatitis atópica en México.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+            <ISSNLinking>0002-5151</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="spa">
+            <AbstractText>Antecedentes: Existe escasa información epidemiológica sobre el tratamiento de la dermatitis atópica (DA) por parte de los médicos especialistas en México. Objetivo: Conocer los criterios utilizados para el diagnóstico y tratamiento de la DA por los especialistas en México. Método: Estudio observacional, descriptivo y transversal, autorizado por el comité de ética, mediante una encuesta electrónica. Resultados: Se realizaron 114 encuestas, 56 % de los participantes fueron alergólogos, 38 % dermatólogos y 5 % pediatras. Se identificó que 54 % utilizaba criterios clínicos para realizar el diagnóstico de DA y 42 %, los criterios de Hanifin-Rajka; como complemento diagnóstico, 38 % solicitaba IgE total o específica, biometría hemática y química sanguínea. Los encuestados refirieron que 90 % de los menores de 18 años presentaba DA leve, 8 % moderada y 2 % grave; y los mayores de esa edad, 89 % leve, 6 % moderada y 5 % grave. La atención del paciente era multidisciplinaria, ya que 57 % de los encuestados solicitaba valoraciones conjuntas con oftalmología, dermatología y alergología. Conclusión: El conocimiento de la DA propiciará un mejor control de la enfermedad. El reto es contar con un registro de pacientes, actualizar las guías de tratamiento, considerar comorbilidades y contar con opciones terapéuticas para su control.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atopic dermatitis</Keyword>
+            <Keyword MajorTopicYN="N">Eczematous skin diseases</Keyword>
+            <Keyword MajorTopicYN="N">Epidemiology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200418</ArticleId>
+            <ArticleId IdType="doi">10.29262/ram.v66i2.591</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

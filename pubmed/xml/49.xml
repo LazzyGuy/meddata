@@ -1,0 +1,220 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200371</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development and validation of the Skills Assessment in Microsurgery for Brain Aneurysms (SAMBA) instrument for predicting proficiency in aneurysm surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2018.7.JNS173007</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2018.7.JNS173007</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Surgical performance evaluation was first described with the OSATS (Objective Structured Assessment of Technical Skills) and modified for aneurysm microsurgery simulation with the OSAACS (Objective Structured Assessment of Aneurysm Clipping Skills). These methods rely on the subjective opinions of evaluators, however, and there is a lack of objective evaluation for proficiency in the microsurgical treatment of brain aneurysms. The authors present a new instrument, the Skill Assessment in Microsurgery for Brain Aneurysms (SAMBA) scale, which can be used similarly in a simulation model and in the treatment of unruptured middle cerebral artery (MCA) aneurysms to predict surgical performance; the authors also report on its validation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The SAMBA scale was created by consensus among 5 vascular neurosurgeons from 2 different neurosurgical departments. SAMBA results were analyzed using descriptive statistics, Cronbach's alpha indexes, and multivariate ANOVA analyses (p &lt; 0.05).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Expert, intermediate-level, and novice surgeons scored, respectively, an average of 33.9, 27.1, and 16.4 points in the real surgery and 33.3, 27.3, and 19.4 points in the simulation. The SAMBA interrater reliability index was 0.995 for the real surgery and 0.996 for the simulated surgery; the intrarater reliability was 0.983 (Cronbach's alpha). In both the simulation and the real surgery settings, the average scores achieved by members of each group (expert, intermediate level, and novice) were significantly different (p &lt; 0.001). Scores among novice surgeons were more diverse (coefficient of variation = 12.4).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Predictive validation of the placenta brain aneurysm model has been previously reported, but the SAMBA scale adds an objective scoring system to verify microsurgical ability in this complex operation, stratifying proficiency by points. The SAMBA scale can be used as an interface between learning and practicing, as it can be applied in a safe and controlled environment, such as is provided by a placenta model, with similar results obtained in real surgery, predicting real surgical performance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ribeiro de Oliveira</LastName>
+                    <ForeName>Marcelo Magaldi</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3Lyerly Neurosurgery, Baptist Neurological Institute, Jacksonville, Florida; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramos</LastName>
+                    <ForeName>Taise Mosso</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrarez</LastName>
+                    <ForeName>Carlos Eduardo</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Machado</LastName>
+                    <ForeName>Carla Jorge</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Preventive and Social Medicine, Federal University of Minas Gerais, Belo Horizonte, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vieira Costa</LastName>
+                    <ForeName>Pollyana Helena</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alvarenga</LastName>
+                    <ForeName>Daniel L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soares</LastName>
+                    <ForeName>Carolina K</ForeName>
+                    <Initials>CK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mainart</LastName>
+                    <ForeName>Luiza M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguilar-Salinas</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Lyerly Neurosurgery, Baptist Neurological Institute, Jacksonville, Florida; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gusmão</LastName>
+                    <ForeName>Sebastião</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Placentarium, Belo Horizonte.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sauvageau</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Lyerly Neurosurgery, Baptist Neurological Institute, Jacksonville, Florida; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanel</LastName>
+                    <ForeName>Ricardo A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3Lyerly Neurosurgery, Baptist Neurological Institute, Jacksonville, Florida; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lanzino</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CV = coefficient of variation</Keyword>
+            <Keyword MajorTopicYN="N">IQR = interquartile range</Keyword>
+            <Keyword MajorTopicYN="N">MANOVA = multivariate analysis of variance</Keyword>
+            <Keyword MajorTopicYN="N">MCA = middle cerebral artery</Keyword>
+            <Keyword MajorTopicYN="N">OSAACS = Objective Structured Assessment of Aneurysm Clipping Skills</Keyword>
+            <Keyword MajorTopicYN="N">SAMBA = Skill Assessment in Microsurgery for Brain Aneurysms</Keyword>
+            <Keyword MajorTopicYN="N">SD = standard deviation</Keyword>
+            <Keyword MajorTopicYN="N">aneurysm clipping</Keyword>
+            <Keyword MajorTopicYN="N">middle cerebral artery aneurysm</Keyword>
+            <Keyword MajorTopicYN="N">neurosurgical education</Keyword>
+            <Keyword MajorTopicYN="N">neurosurgical simulation</Keyword>
+            <Keyword MajorTopicYN="N">objective surgical assessment</Keyword>
+            <Keyword MajorTopicYN="N">sylvian fissure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200371</ArticleId>
+            <ArticleId IdType="doi">10.3171/2018.7.JNS173007</ArticleId>
+            <ArticleId IdType="pii">2018.7.JNS173007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

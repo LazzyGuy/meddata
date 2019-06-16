@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199828</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improving care for pregnant women with suspected influenza: A retrospective study before and after introduction of a rapid molecular assay.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217651</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217651</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">During winter, after excluding obvious sites of infection, the most important diagnoses of isolated fever or influenza-like illness (ILI) to rule out are listeriosis and influenza, because of their severe potential outcomes and the straightforward management available for each. While awaiting laboratory results, the recommended management strategy is usually hospitalization for intravenous antibiotic therapy against potential listeria. This study sought to assess the effect of the use of a rapid test on hospitalization and antibiotic therapy rates.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study included all pregnant women who consulted for ILI or isolated fever after clinical and laboratory investigations and had a molecular diagnostic assay for influenza during two time periods, both during influenza epidemics: before introduction of the rapid molecular assay use (period 1) and after this (period 2).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study included 38 women during period 1 and 124 during period 2. The influenza diagnosis was confirmed for 24 of 38 (63.2%) women during period 1 and 65 of 124 (52.4%) women during period 2 (P = 0.24). The hospitalization rate fell significantly from period 1 to period 2, both in the total population (71.0% versus 44.3%, P = 0.004) and among women with confirmed influenza (83.3% versus 38.5%, P&lt;0.001), as did the antibiotic therapy rate in both groups (respectively, 86.8% versus 56.1%, P = 0.001 and 91.7% versus 44.7%, P&lt;0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The use of a rapid molecular assay for the diagnosis of influenza improved the management of pregnant women with an isolated fever or ILI by reducing the rates of unnecessary hospitalization and antibiotic therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Anselem</LastName>
+                    <ForeName>Olivia</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1516-3203</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Maternité Port-Royal, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, DHU Risques et Grossesse, PRES Sorbonne Paris Cité, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baraud</LastName>
+                    <ForeName>Camille</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maternité Port-Royal, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, DHU Risques et Grossesse, PRES Sorbonne Paris Cité, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>L'Honneur</LastName>
+                    <ForeName>Anne-Sophie</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de Virologie, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, DHU Risques et Grossesse, PRES Sorbonne Paris Cité, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gobeaux</LastName>
+                    <ForeName>Camille</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de Diagnostic Biologique Automatisé, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rozenberg</LastName>
+                    <ForeName>Flore</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de Virologie, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, DHU Risques et Grossesse, PRES Sorbonne Paris Cité, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goffinet</LastName>
+                    <ForeName>François</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Maternité Port-Royal, Groupe hospitalier Cochin Broca Hôtel-Dieu, Assistance Publique Hôpitaux de Paris, Université Paris Descartes, DHU Risques et Grossesse, PRES Sorbonne Paris Cité, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>DiaSorin SA contributed to the funding of the study. The funder had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. This does not alter our adherence to PLOS ONE policies on sharing data and materials. There is no other relation that could constitute a competing interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199828</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217651</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-06565</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

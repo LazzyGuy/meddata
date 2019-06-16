@@ -1,0 +1,112 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31200402</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-2084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia laboratornaia diagnostika</Title>
+                <ISOAbbreviation>Klin. Lab. Diagn.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Insulin resistance is an alimentary deficiency of energy substrates (glucose) in the biological reaction of exotrophy and aphysiology compensation by fatty acids via the biological reaction of endothrophy.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>324-332</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18821/0869-2084-2019-64-6-324-332</ELocationID>
+            <Abstract>
+                <AbstractText>The deficiency of energy substrates in the biological function of trophology and biological reaction of exotrophy is formed by two factors. Excess of meat in the diet leads to high content of palmitic fatty acid (FA) in hepatocytes and formation of palmitic triglycerides (TG). Post heparin lipoprotein lipase slowly hydrolyzes palmitic TG in blood plasma lipoproteins and releases small amounts of FA. If dietary carbohydrate content is low, the biological function of exotrophy does not provide the substrate from which hepatocytes can rapidly produce oleic nonesterified FA de novo. Energy substrate deficiency activates the biological function of adaptation and the biological reaction of compensation. Under the effect of epinephrin NEFA deficiency is compensated via the biological reaction of endotrophy and lipolysis in omental visceral fat cells. In insulin resistance (IR) syndrome, the biological function of feeding is realized nonphysiologically while the biological reaction of adaptation is realized physiologically. An increase in NEFA blood content physiologically blocks glucose uptake in cells. Biological role of insulin consists in conversion of distant ocean-living carnivorous (fish-eating) ancestors of Homo sapiens with palmitic type of FA metabolism into herbivorous dry land-living species with oleic type metabolism of FA. The IR syndrome can be normalized. To this end a) the patient's will to activate the cognitive biological function (intellect) and b) comprehension of the fact that phylogenetically dry land-living Homo sapiens has developed as a herbivorous but not carnivorous species. Concerning death rate, cardiovascular pathologies are dominating in populations of many countries, while feeding function disorders prevail in frequency. These disorders form the pathophysiological basis for all metabolic pandemias: 1) atherosclerosis and atheromatosis, 2) essential arterial hypertension, 3) metabolic syndrome, 4) obesity, 5) insulin resistance syndrome, 6) nonalcoholic fatty liver disease, and 7) endogenous hyperuricemia. Persistent potential deficiency of energy for realization of all biological reactions and functions is the major metabolic disorders in diabetes mellitus. Insulin resistance is a pathology associated primarily with FA and secondarily with glucose.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Titov</LastName>
+                    <ForeName>V N</ForeName>
+                    <Initials>VN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Medical Research Center for Cardiology, 121552, Moscow.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karganov</LastName>
+                    <ForeName>M Yu</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FGBNU &quot;Research Institute of General Pathology and Pathophysiology&quot;, 125315, Moscow.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Lab Diagn</MedlineTA>
+            <NlmUniqueID>9432021</NlmUniqueID>
+            <ISSNLinking>0869-2084</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biological function of feeding</Keyword>
+            <Keyword MajorTopicYN="N">endotrophy</Keyword>
+            <Keyword MajorTopicYN="N">fatty acids</Keyword>
+            <Keyword MajorTopicYN="N">insulin resistance syndrome</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200402</ArticleId>
+            <ArticleId IdType="doi">10.18821/0869-2084-2019-64-6-324-332</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

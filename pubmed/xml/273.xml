@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200133</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1298</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>233</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemosphere</Title>
+                <ISOAbbreviation>Chemosphere</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Removal of triazines, triazoles and organophophates in biomixtures and application of a biopurification system for the treatment of laboratory wastewaters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>733-743</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-6535(19)31228-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chemosphere.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>Biopurification systems (BPS) have been barely explored for removing complex mixtures of pesticides. In this study, the potential of a biomixture to remove simultaneously a mixture of herbicides (triazines), fungicides (triazoles) and insecticides (organophosphates) is presented. Also, a BPS using the same biomixture was used for treating a pesticide testing laboratory wastewater containing a mixture of 38 compounds. Ecotoxicological assays were conducted on the BPS elutriates to investigate the mixture detoxification. A mixture (concentrations of 4-8 mg kg<sup>-1</sup>) run in small-scale biomixture systems (SSB) for 128 d showed 59.3% removal of triazines, 68.5% of organophosphates and no elimination of triazoles. The treatment of the laboratory wastewater (individual concentrations range: 0.0036-0.25 mg kg<sup>-1</sup>) in the pilot-scale BPS for 281 d resulted in the elimination pattern of organophosphates (90.0%) &gt; triazoles (73.4%) &gt; carbamates (71.3%) &gt; triazines (54.3%). Complete detoxification towards Daphnia magna and partial detoxification in Lactuca sativa seeds germination occurred in the BPS. Although the pesticide mixture complexity is higher in the BPS, the lower concentrations found in this matrix, could explain removal differences between SSB and BPS and the apparent inhibition in the elimination of carbamates and some triazines observed in the latter. These findings suggest that disposal of pesticide-containing laboratory-wastewater should be done in separate containers, according to chemical groups before their treatment in separate BPS, in order to reduce treatment periods. Monitoring the treatment process in the BPS with a battery of ecotoxicological tests is strongly recommended.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Masís-Mora</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación en Contaminación Ambiental (CICA), Universidad de Costa Rica, 2060, San José, Costa Rica.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lizano-Fallas</LastName>
+                    <ForeName>Verónica</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación en Contaminación Ambiental (CICA), Universidad de Costa Rica, 2060, San José, Costa Rica.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tortella</LastName>
+                    <ForeName>Gonzalo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Ingeniería Química, Universidad de La Frontera, Temuco, Chile; Centro de Excelencia en Investigación Biotecnológica Aplicada al Medio Ambiente (CIBAMA-BIOREN), Temuco, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beita-Sandí</LastName>
+                    <ForeName>Wilson</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación en Contaminación Ambiental (CICA), Universidad de Costa Rica, 2060, San José, Costa Rica.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez-Rodríguez</LastName>
+                    <ForeName>Carlos E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación en Contaminación Ambiental (CICA), Universidad de Costa Rica, 2060, San José, Costa Rica. Electronic address: carlos.rodriguezrodriguez@ucr.ac.cr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chemosphere</MedlineTA>
+            <NlmUniqueID>0320657</NlmUniqueID>
+            <ISSNLinking>0045-6535</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Degradation</Keyword>
+            <Keyword MajorTopicYN="N">Pesticides</Keyword>
+            <Keyword MajorTopicYN="N">Removal</Keyword>
+            <Keyword MajorTopicYN="N">Toxicity</Keyword>
+            <Keyword MajorTopicYN="N">Wastewater</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200133</ArticleId>
+            <ArticleId IdType="pii">S0045-6535(19)31228-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chemosphere.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

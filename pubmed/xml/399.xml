@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200002</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Life sciences</Title>
+                <ISOAbbreviation>Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long noncoding RNA TUSC7 inhibits cell proliferation, migration and invasion by regulating SOCS4 (SOCS5) expression through targeting miR-616 in endometrial carcinoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>116549</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0024-3205(19)30475-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.lfs.2019.116549</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Long non-coding RNA (lncRNA) is emerging as an important regulator in various physiological and pathological processes. Recently, it was found that lncRNA long non-coding RNA tumor suppressor candidate 7 (TUSC7) could play tumor suppressive roles in several cancers. However, the function and underlying regulatory mechanism of lncRNA TUSC7 in endometrial carcinoma (EC) remains largely unclear.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The expression levels of TUSC7 and microRNAs-616 (miR-616) were analyzed by real-time PCR and in situ hybridization. Cell cycle and cell metastasis associated protein expressions were determined by western blotting. Cell proliferation, cycle and metastasis were determined by CCK-8 cell viability, colony formation, flow cytometer, wound scratch and transwell assays respectively in vitro. RNA pull-down, luciferase and western blotting assays were used to examine the target relationship between TUSC7 and miR-616 or that between miR-616 and suppressors of cytokine signaling 4 (5) (SOCS4 (SOCS5)). The functional effects of TUSC7 through sponging miR-616 were further examined using a xenograft tumor mouse model in vivo.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">TUSC7 was downexpressed in EC tissues and cell lines, and TUSC7 upregulation could remarkably inhibit cell proliferation, cycle progression and metastasis in EC cells. Mechanistic investigations demonstrated that TUSC7 can interact with miR-616 and decrease its expression, thereby upregulating the expression of miR-616's targets SOCS4 (SOCS5). Additionally, in vivo experiments using a xenograft tumor mouse model revealed that TUSC7 can serve as a tumor suppressor through sponging miR-616, and upregulating SOCS4 (SOCS5) in EC.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this study, a newly identified regulatory mechanism of lncRNA TUSC7/miR-616/ SOCS4 (SOCS5) axis was systematically studied, which may hold promise as a promising target for EC treatment.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiaoling</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shanxi 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Dongge</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shanxi 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Fan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shanxi 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mu</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shanxi 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Qiuyuan</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shanxi 710004, China. Electronic address: QiuyuanWan17@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Life Sci</MedlineTA>
+            <NlmUniqueID>0375521</NlmUniqueID>
+            <ISSNLinking>0024-3205</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cell cycle</Keyword>
+            <Keyword MajorTopicYN="N">Cell metastasis</Keyword>
+            <Keyword MajorTopicYN="N">Cell proliferation</Keyword>
+            <Keyword MajorTopicYN="N">Endometrial carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">SOCS4/5</Keyword>
+            <Keyword MajorTopicYN="N">lncRNA TUSC7</Keyword>
+            <Keyword MajorTopicYN="N">miR-616</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200002</ArticleId>
+            <ArticleId IdType="pii">S0024-3205(19)30475-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.lfs.2019.116549</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

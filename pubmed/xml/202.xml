@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200208</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-5623</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cognitive psychology</Title>
+                <ISOAbbreviation>Cogn Psychol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simplicity and complexity preferences in causal explanation: An opponent heuristic account.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101222</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0010-0285(17)30057-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cogpsych.2019.05.004</ELocationID>
+            <Abstract>
+                <AbstractText>People often prefer simple to complex explanations because they generally have higher prior probability. However, simpler explanations are not always normatively superior because they often do not account for the data as well as complex explanations. How do people negotiate this trade-off between prior probability (favoring simple explanations) and goodness-of-fit (favoring complex explanations)? Here, we argue that people use opponent heuristics to simplify this problem-that people use simplicity as a cue to prior probability but complexity as a cue to goodness-of-fit. Study 1 finds direct evidence for this claim. In subsequent studies, we examine factors that lead one or the other heuristic to predominate in a given context. Studies 2 and 3 find that people have a stronger simplicity preference in deterministic rather than stochastic contexts, while Studies 4 and 5 find that people have a stronger simplicity preference for physical rather than social causal systems, suggesting that people use abstract expectations about causal texture to modulate their explanatory inferences. Together, we argue that these cues and contextual moderators act as powerful constraints that can help to specify the otherwise ill-defined problem of what distributions to use in Bayesian hypothesis comparison.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Samuel G B</ForeName>
+                    <Initials>SGB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Bath School of Management, United Kingdom. Electronic address: sgbjohnson@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valenti</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins University, Department of Psychological and Brain Sciences, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keil</LastName>
+                    <ForeName>Frank C</ForeName>
+                    <Initials>FC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yale University, Department of Psychology, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cogn Psychol</MedlineTA>
+            <NlmUniqueID>0241111</NlmUniqueID>
+            <ISSNLinking>0010-0285</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Causal reasoning</Keyword>
+            <Keyword MajorTopicYN="N">Explanation</Keyword>
+            <Keyword MajorTopicYN="N">Inference</Keyword>
+            <Keyword MajorTopicYN="N">Simplicity</Keyword>
+            <Keyword MajorTopicYN="N">Understanding</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200208</ArticleId>
+            <ArticleId IdType="pii">S0010-0285(17)30057-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cogpsych.2019.05.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

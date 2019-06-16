@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199138</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multi-Step Topochemical Pathway to Metastable Mo2AlB2 and Related Two-Dimensional Nanosheet Heterostructures.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b04726</ELocationID>
+            <Abstract>
+                <AbstractText>The rational synthesis of metastable inorganic solids, which is a grand challenge in solid-state chemistry, requires the development of kinetically controlled reaction pathways. Topotactic strategies can achieve this goal by chemically modifying reactive components of a parent structure under mild conditions to produce a closely related analogue that has otherwise inaccessible structures and/or compositions. Refractory materials, such as transition metal borides, are difficult to structurally manipulate at low temperatures because they generally are chemically inert and held together by strong covalent bonds. Here, we report a multi-step low-temperature topotactic pathway to bulk-scale Mo2AlB2, which is a metastable phase that has been predicted to be the precursor needed to access a synthetically elusive family of 2-D metal boride (MBene) nanosheets. Room-temperature chemical deintercalation of Al from the stable compound MoAlB (synthesized as a bulk powder at 1400 ºC) formed highly-strained and destabilized MoAl1-xB, which was size-selectively precipitated to isolate the most reactive submicron grains and then annealed at 600 ºC to deintercalate additional Al and crystallize Mo2AlB2. Further heating resulted in topotactic decomposition into bulk-scale Mo2AlB2-AlOx nanolaminates that contain Mo2AlB2 nanosheets with thickness of 1-3 nm interleaved by 1-3 nm of amorphous alumina. The combination of chemical destabilization, size-selective precipitation, and low-temperature annealing provides a potentially generalizable kinetic pathway to metastable variants of refractory compounds, including bulk Mo2AlB2 and Mo2AlB2-AlOx nanosheet heterostructures, and opens the door to other previously elusive 2-D materials such as 2-D MoB (MBene).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alameda</LastName>
+                    <ForeName>Lucas T</ForeName>
+                    <Initials>LT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lord</LastName>
+                    <ForeName>Robert W</ForeName>
+                    <Initials>RW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barr</LastName>
+                    <ForeName>Jordan A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moradifar</LastName>
+                    <ForeName>Parivash</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metzger</LastName>
+                    <ForeName>Zachary P</ForeName>
+                    <Initials>ZP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steimle</LastName>
+                    <ForeName>Benjamin C</ForeName>
+                    <Initials>BC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holder</LastName>
+                    <ForeName>Cameron F</ForeName>
+                    <Initials>CF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alem</LastName>
+                    <ForeName>Nasim</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sinnott</LastName>
+                    <ForeName>Susan B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaak</LastName>
+                    <ForeName>Raymond E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199138</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b04726</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

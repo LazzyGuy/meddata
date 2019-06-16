@@ -1,0 +1,176 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198421</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1687-6121</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gastroenterology research and practice</Title>
+                <ISOAbbreviation>Gastroenterol Res Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Demographics and Clinical and Endoscopic Characteristics of Patients with <i>Helicobacter pylori</i> Infection and Gastroesophageal Reflux Disease: A Case-Control Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3819893</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/3819893</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The correlation between <i>Helicobacter pylori</i> (<i>H. pylori</i>) and gastroesophageal reflux disease (GERD) is complex. Some studies showed a protective role of <i>H. pylori</i> infection against GERD. This study was aimed at assessing the role of <i>H. pylori</i> infection in GERD utilizing a large cohort of patients diagnosed with GERD.</AbstractText>
+                <AbstractText Label="Methods and Materials" NlmCategory="UNASSIGNED">All patients who underwent gastroscopy for an indication of GERD during the study period between 2015 and 2017 at the EMMS Nazareth Hospital were considered eligible for the study and therefore were included. <i>H. pylori</i> infection was determined by the rapid urease test or histology. Severity of esophagitis was assessed using the Los Angeles classification. Univariate analysis was performed to figure out differences between patients according to <i>H. pylori</i> infection status. Multivariate regression analysis was conducted to illustrate the predictors of positivity for <i>H. pylori</i> infection.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">2,508 GERD patients were included with a median age of 49.42 ± 17.96 years. <i>H. pylori</i> infection was detected in 299 (11.9%) patients. GERD patients with <i>H. pylori</i> infection were found to be younger (48.83 ± 17.42 years versus 44.57 ± 17.69 years, <i>p</i> &lt; 0.001), have the tendency to smoke more (1406 (63.6%) versus 266 (89.0%), <i>p</i> &lt; 0.001), and use more proton pump inhibitors or PPIs (1314 (59.5%) versus 242 (80.9%), <i>p</i> &lt; 0.001). In multivariate regression analysis, age (OR 0.987, <i>p</i> &lt; 0.001), smoking status (OR 0.190, <i>p</i> &lt; 0.001), use of ASA/NSAIDs (OR 1.652, <i>p</i> = 0.004), and use of statins (OR 0.499 (95%CI 0.295-0.846), <i>p</i> = 0.010) were found significant among <i>H. pylori</i>-positive individuals. <i>H. pylori</i>-positive subjects have less severe esophagitis and more hiatus hernia.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Patients with GERD and <i>H. pylori</i> infection were significantly younger, tended to smoke more, and used more PPIs and had significantly lower grades of esophagitis compared to noninfected ones.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mari</LastName>
+                    <ForeName>Amir</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0002-6828-4738</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Unit, Nazareth Hospital EMMS, 16100 Nazareth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Azrieli Faculty of Medicine, Bar-Ilan University, 13195 Safed, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahroum</LastName>
+                    <ForeName>Naim</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Sheba Medical Center, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sackler Faculty of Medicine, Tel Aviv University, 52621 Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bragazzi</LastName>
+                    <ForeName>Nicola Luigi</ForeName>
+                    <Initials>NL</Initials>
+                    <Identifier Source="ORCID">0000-0001-8409-868X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Department of Health Sciences, University of Genoa, 16132 Genoa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shalaata</LastName>
+                    <ForeName>Mahran</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Azrieli Faculty of Medicine, Bar-Ilan University, 13195 Safed, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, Nazareth Hospital EMMS, 16100 Nazareth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khoury</LastName>
+                    <ForeName>Tawfik</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">0000-0001-6699-8625</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Gastroenterology and Liver Diseases, Naharya Medical Centre, Bar-Ilan University, 13195 Safed, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watad</LastName>
+                    <ForeName>Abdulla</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sackler Faculty of Medicine, Tel Aviv University, 52621 Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine 'B', Sheba Medical Center, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahamid</LastName>
+                    <ForeName>Mahmud</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">0000-0001-5772-9052</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Unit, Nazareth Hospital EMMS, 16100 Nazareth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Azrieli Faculty of Medicine, Bar-Ilan University, 13195 Safed, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Egypt</Country>
+            <MedlineTA>Gastroenterol Res Pract</MedlineTA>
+            <NlmUniqueID>101475557</NlmUniqueID>
+            <ISSNLinking>1687-6121</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198421</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/3819893</ArticleId>
+            <ArticleId IdType="pmc">PMC6526568</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

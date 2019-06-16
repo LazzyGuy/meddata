@@ -1,0 +1,322 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199454</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain : a journal of neurology</Title>
+                <ISOAbbreviation>Brain</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations in C1orf194, encoding a calcium regulator, cause dominant Charcot-Marie-Tooth disease.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">awz151</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/awz151</ELocationID>
+            <Abstract>
+                <AbstractText>Charcot-Marie-Tooth disease is a hereditary motor and sensory neuropathy exhibiting great clinical and genetic heterogeneity. Here, the identification of two heterozygous missense mutations in the C1orf194 gene at 1p21.2-p13.2 with Charcot-Marie-Tooth disease are reported. Specifically, the p.I122N mutation was the cause of an intermediate form of Charcot-Marie-Tooth disease, and the p.K28I missense mutation predominately led to the demyelinating form. Functional studies demonstrated that the p.K28I variant significantly reduced expression of the protein, but the p.I122N variant increased. In addition, the p.I122N mutant protein exhibited the aggregation in neuroblastoma cell lines and the patient's peroneal nerve. Either gain-of-function or partial loss-of-function mutations to C1ORF194 can specify different causal mechanisms responsible for Charcot-Marie-Tooth disease with a wide range of clinical severity. Moreover, a knock-in mouse model confirmed that the C1orf194 missense mutation p.I121N led to impairments in motor and neuromuscular functions, and aberrant myelination and axonal phenotypes. The loss of normal C1ORF194 protein altered intracellular Ca2+ homeostasis and upregulated Ca2+ handling regulatory proteins. These findings describe a novel protein with vital functions in peripheral nervous systems and broaden the causes of Charcot-Marie-Tooth disease, which open new avenues for the diagnosis and treatment of related neuropathies.</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Shun-Chang</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Laboratory, Ruijin Hospital North, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Di</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mei-Yi</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ru-Xu</ForeName>
+                    <Initials>RX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, the Third Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Cheng</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Hua-Jie</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yong-Zhi</ForeName>
+                    <Initials>YZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, the Third Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhong-Ju</ForeName>
+                    <Initials>ZJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology and Institute of Neurology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>De-Cheng</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Cui-Xian</ForeName>
+                    <Initials>CX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bao</LastName>
+                    <ForeName>Fei-Xiang</ForeName>
+                    <Initials>FX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Regenerative Biology, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gong</LastName>
+                    <ForeName>Xiao-Li</ForeName>
+                    <Initials>XL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jie-Ru</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hui</LastName>
+                    <ForeName>Zheng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Nanfang Hospital, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Xiao-Feng</ForeName>
+                    <Initials>XF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhong</LastName>
+                    <ForeName>Jian-Mei</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Wan-Jun</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shang</LastName>
+                    <ForeName>Xuan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Cheng</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, First Affiliated Hospital, Sun Yat-sen University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xing-Guo</ForeName>
+                    <Initials>XG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Regenerative Biology, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Bei-Sha</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, the Third Xiangya Hospital, Central South University, Changsha, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Fu</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong-Hong Kong-Macao Greater Bay Area Center for Brain Science and Brain-Inspired Intelligence, Guangzhou 510515, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Single Cell Technology and Application, Guangzhou, Guangdong Province, P.R.China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiang-Min</ForeName>
+                    <Initials>XM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Basic Medical Sciences, Southern Medical University, Guangzhou, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong-Hong Kong-Macao Greater Bay Area Center for Brain Science and Brain-Inspired Intelligence, Guangzhou 510515, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Single Cell Technology and Application, Guangzhou, Guangdong Province, P.R.China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Mental Health of the Ministry of Education, Guangdong-Hong Kong-Macao Greater Bay Area Center for Brian Science and Brain-Inspired Intelligence, Southern Medical University, Guangzhou 510515, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Brain</MedlineTA>
+            <NlmUniqueID>0372537</NlmUniqueID>
+            <ISSNLinking>0006-8950</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          C1orf194
+        </Keyword>
+            <Keyword MajorTopicYN="N">Charcot-Marie-Tooth diseases</Keyword>
+            <Keyword MajorTopicYN="N">calcium regulator</Keyword>
+            <Keyword MajorTopicYN="N">mutation</Keyword>
+            <Keyword MajorTopicYN="N">neurodegeneration</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199454</ArticleId>
+            <ArticleId IdType="pii">5519015</ArticleId>
+            <ArticleId IdType="doi">10.1093/brain/awz151</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

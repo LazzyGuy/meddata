@@ -1,0 +1,103 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198160</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Possible protective role of melatonin on heat stress induced apoptosis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>658-661</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.028</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">During the onset of heat stroke, heat is the most fundamental cause of injury. It has been demonstrated in a number of animal and cell experiments that hyperthermia can directly induce tissue damage and cell death, and cells can activate apoptotic signals or direct necrosis depending on the extent of heat stress. In general, high heat stress activates apoptotic signals and induce apoptosis. Therefore, the form of damage of tissue cells during the onset of heat stroke is currently considered to be mainly apoptosis. In recent years, it has been found that the heat stress molecular biology research regulates the physiological activities of cells in a wide range and participates in the intracellular signal transduction process. Melatonin and its metabolites are broad-spectrum antioxidants and free radical scavengers that regulate a variety of molecular pathways, such as inflammation, proliferation, apoptosis, and metastasis, under different pathophysiological conditions. This article summarized the research on the effects of melatonin and heat shock on apoptosis, and evaluated the possible protective effects of melatonin on the pathogenesis of heat stroke, and provided new therapeutic ideas for the clinic.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gong</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Intensive Care Medicine, the Third People's Hospital of Longgang District, Shenzhen 518115, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gu</LastName>
+                    <ForeName>Zhengtao</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Intensive Care Medicine, Third Affiliated Hospital, Southern Medical University, Guangdong Provincial Key Laboratory of Shock and Microcirculation Research, Guangzhou 510630, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Intensive Care Medicine, General Hospital of Southern Theatre Command, Key Laboratory of Tropical Zone Trauma Care and Tissue Repair of PLA, Guangzhou 510010, Guangdong, China. Corresponding author: Su Lei, Email: sulei_icu@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198160</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.028</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

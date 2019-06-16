@@ -1,0 +1,198 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198741</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2249-4863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of family medicine and primary care</Title>
+                <ISOAbbreviation>J Family Med Prim Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum vitamin D level, sun-exposed area, dietary factors, and physical activity as predictors of invasive breast cancer risk among Sudanese women: A case-control study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1706-1714</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/jfmpc.jfmpc_197_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The role of vitamin D in the development, progression, and prognosis of breast cancer, though widely studied worldwide, has been inconclusive. This study intended to assess the role of some factors (including serum vitamin D level, sun-exposed area, dietary factors, and physical activity) as predictors of the development of invasive breast cancer (IBC) among Sudanese women.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A case-control study was conducted on 200 Sudanese women (100 with newly diagnosed IBC and 100 matched healthy females). Serum 25-hydroxyvitamin D was measured through a competitive electrochemiluminescence immunoassay. Matching analysis was adopted by R version 3.4.1 making use of the &quot;MatchIt&quot; package for calculating propensity scores to build a confounder-adjusted, multiple generalized, linear logistic regression model.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Participants' age ranged from 28 to 85 years with a mean [±standard deviation (SD)] of 48.10 (±12.11) years. The mean (±SD) serum vitamin D level was 12.97 (±8.60) and 13.79 (±6.79) ng/mL in breast cancer and noncancer Sudanese women, respectively [P = 0.013; odds ratio (OR) 0.862; 95% confidence interval (CI) 0.766-0.969; β = 0.149)]. Sun-exposed area (<i>P</i> = 0.038; OR 0.013; 95% CI 0.000-0.782; β = 4.339) is significantly and negatively associated with breast cancer development. While moderate physical activity (<i>P</i> = 0.0008; OR 2625.430; 95% CI 26.647-258673.001; β = 7.873) is significantly and positively associated with IBC risk. Occasional consumption of milk, dairy products, eggs, and fish reduces the risk of developing IBC by 78.1%, 75.0%, 78.4%, and 76.4%, respectively.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">The higher the plasma vitamin D level by one unit, the lower the risk of breast cancer by 13.84%. Sedentary lifestyle, reduced sun-exposed skin area, and low serum vitamin D levels can be considered as predictors of IBC. Encouraging moderate physical activity and consumption of certain foods may, in part, decrease the precipitating risks of breast cancer. More studies and research are needed to confirm these findings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Husain</LastName>
+                    <ForeName>Nazik Elmalaika</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Omdurman Islamic University, Omdurman, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suliman</LastName>
+                    <ForeName>Ahmed A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, National Ribat University, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdelrahman</LastName>
+                    <ForeName>Ismail</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, National Ribat University, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bedri</LastName>
+                    <ForeName>Shahinaz A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Faculty of Medicine, Ahfad University for Women, Omdurman, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Musa</LastName>
+                    <ForeName>Rasha M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Laboratories, National Ribat University Hospital, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osman</LastName>
+                    <ForeName>Hind E</ForeName>
+                    <Initials>HE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Faculty of Veterinary Medicine, Sudan University for Science and Technology, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mustafa</LastName>
+                    <ForeName>Ayda H</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Breast Combined Clinic, RICK and Department of Surgery, Alneelain University, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gafer</LastName>
+                    <ForeName>Nahla</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology and Palliative Care Unit, Radiation and Isotope Center, Khartoum, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farah</LastName>
+                    <ForeName>Ehab</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, Faculty of Sciences, University of Tabouk, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Satir</LastName>
+                    <ForeName>Ali Abdel</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Histo-center, Khartoum, Sudan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmed</LastName>
+                    <ForeName>Mohamed H</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine and HIV Metabolic Clinic, Milton Keynes University Hospital NHS Foundation Trust, Eaglestone, Milton Keynes, Buckinghamshire, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osman</LastName>
+                    <ForeName>Mugtaba</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Armed Forces Centre for Psychiatric Care, Taif, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agaimy</LastName>
+                    <ForeName>Abbas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Pathology, University of Erlangen, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Family Med Prim Care</MedlineTA>
+            <NlmUniqueID>101610082</NlmUniqueID>
+            <ISSNLinking>2249-4863</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">Sudan</Keyword>
+            <Keyword MajorTopicYN="N">diet</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+            <Keyword MajorTopicYN="N">sun-exposed area</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198741</ArticleId>
+            <ArticleId IdType="doi">10.4103/jfmpc.jfmpc_197_19</ArticleId>
+            <ArticleId IdType="pii">JFMPC-8-1706</ArticleId>
+            <ArticleId IdType="pmc">PMC6559091</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

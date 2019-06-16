@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198868</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2405-8440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heliyon</Title>
+                <ISOAbbreviation>Heliyon</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of the third-order structuring of Shalom Schwartz's theory of basic human values.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e01797</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.heliyon.2019.e01797</ELocationID>
+            <Abstract>
+                <AbstractText>Shalom Schwartz's Theory of Basic Human Values is one of the most commonly used and tested transcultural theories in the field of behavioural research. This theory has been refined since the 1980s to reach its most recent version, from 2012. The underlying reason for this theory's continuous evolution is that it assumes that values form a circular motivational continuum, meaning that the items do not have exact limits between the values and thus have a shared load on more than one, giving rise to multicollinearity. Additionally, measuring as they do different aspects, each value is multidimensional, thereby reducing internal consistency coefficients. The refined version represents an attempt to reduce or even eliminate these problems. Nevertheless, to date, on only one occasion has a confirmatory factor analysis been performed to permit validation of this refined version's third-order structuring. The objective of this study is, then, to perform a validation analysis of said structuring, albeit in a different social context and for another geographical scope of action.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Giménez</LastName>
+                    <ForeName>August Corrons</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Economics and Business, UOC, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamajón</LastName>
+                    <ForeName>Lluís Garay</ForeName>
+                    <Initials>LG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Economics and Business, UOC, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Heliyon</MedlineTA>
+            <NlmUniqueID>101672560</NlmUniqueID>
+            <ISSNLinking>2405-8440</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Confirmatory factor analysis</Keyword>
+            <Keyword MajorTopicYN="N">Human values</Keyword>
+            <Keyword MajorTopicYN="N">Psychology</Keyword>
+            <Keyword MajorTopicYN="N">Refined theory</Keyword>
+            <Keyword MajorTopicYN="N">Shalom schwartz</Keyword>
+            <Keyword MajorTopicYN="N">Sociology</Keyword>
+            <Keyword MajorTopicYN="N">Third-order structuring</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198868</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.heliyon.2019.e01797</ArticleId>
+            <ArticleId IdType="pii">S2405-8440(18)37277-3</ArticleId>
+            <ArticleId IdType="pii">e01797</ArticleId>
+            <ArticleId IdType="pmc">PMC6556815</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

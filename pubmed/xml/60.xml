@@ -1,0 +1,135 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31200357</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-1413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Comprehensive Cancer Network : JNCCN</Title>
+                <ISOAbbreviation>J Natl Compr Canc Netw</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cost-Effectiveness of Cabozantinib in the Second-Line Treatment of Advanced Hepatocellular Carcinoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>669-675</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.6004/jnccn.2018.7275</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">jnccn18217</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Treatment options are limited for patients with advanced hepatocellular carcinoma (HCC) that progresses after treatment with sorafenib. Cabozantinib, an oral small molecule inhibitor of multiple tyrosine kinase receptors, recently showed improved overall survival (OS) compared with placebo in sorafenib-pretreated patients with advanced HCC in the CELESTIAL trial. This study assessed the cost-effectiveness of cabozantinib for second-line treatment of patients with advanced HCC from a US healthcare system perspective.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Cost and utility data were extracted from the CELESTIAL trial and used to determine the cost-effectiveness of cabozantinib compared with placebo plus best supportive care. The main outcome of this study was the incremental cost-effectiveness ratio (ICER), expressed as cost per quality-adjusted life year (QALY) gained by using cabozantinib compared with placebo plus best supportive care in sorafenib-pretreated HCC.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the base-case analysis using data from the CELESTIAL trial, the incremental QALY and ICER were 0.067 and $1,040,675 for cabozantinib compared with placebo and best supportive care. OS reported in the CELESTIAL trial (hazard ratio, 0.76; 95% CI, 0.63-0.92) had the strongest association with the ICER. In one-way sensitivity analyses, there were no scenarios in which cabozantinib was cost-effective. In a cost-threshold analysis, cabozantinib would have to be priced at least $50 per pill to be cost-effective considering a willingness to pay of $100,000 per QALY. Although the CELESTIAL trial demonstrated that cabozantinib improves OS compared with placebo in patients with HCC that progresses after treatment with sorafenib, our analysis shows that cabozantinib is not a cost-effective therapy in this scenario.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">At current costs, cabozantinib is not cost-effective for second-line therapy of HCC in the United States.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Soto-Perez-de-Celis</LastName>
+                    <ForeName>Enrique</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>aDepartment of Geriatrics, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguiar</LastName>
+                    <ForeName>Pedro N</ForeName>
+                    <Initials>PN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>bCentro de Estudos e Pesquisa de Hematologia e Oncologia, Faculdade de Medicina do ABC, Santo André, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cordón</LastName>
+                    <ForeName>Mónica L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>cDepartment of Hemato-Oncology, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chavarri-Guerra</LastName>
+                    <ForeName>Yanin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>cDepartment of Hemato-Oncology, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes</LastName>
+                    <ForeName>Gilberto de Lima</ForeName>
+                    <Initials>GL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>dSylvester Comprehensive Cancer Center, University of Miami, Miami, Florida.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Compr Canc Netw</MedlineTA>
+            <NlmUniqueID>101162515</NlmUniqueID>
+            <ISSNLinking>1540-1405</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200357</ArticleId>
+            <ArticleId IdType="doi">10.6004/jnccn.2018.7275</ArticleId>
+            <ArticleId IdType="pii">jnccn18217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,181 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200228</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Comparative biochemistry and physiology. Part D, Genomics &amp; proteomics</Title>
+                <ISOAbbreviation>Comp. Biochem. Physiol. Part D Genomics Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative analysis of growth performance and liver transcriptome response of juvenile Ancherythroculter nigrocauda fed diets with different protein levels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100592</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1744-117X(18)30118-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cbd.2019.05.002</ELocationID>
+            <Abstract>
+                <AbstractText>This study aimed at investigating the effects of dietary protein levels on the growth and liver transcriptome in juvenile Ancherythroculter nigrocauda. Six semi-purified diets were formulated containing 25 (control), 30, 35, 40, 45, and 50% protein. Each diet was fed to three groups of 35 fish (mean initial weight: 5.86 ± 0.10 g) for 56 days. The rate of weight gain and specific growth rate increased with dietary protein levels from 25% to 40%, but remained unchanged when fed with 45 or 50% dietary protein. The feed conversion ratio was significantly influenced by the dietary protein levels, being the lowest in fish fed 40% protein. Illumina RNA-seq analysis was performed to investigate liver gene expression changes under different dietary protein treatments. A total of 367.78 million clean reads were obtained from the six libraries. Compared with 25% protein treatment library, there were 734, 1946, 1755, 2726, and 1523 upregulated genes, and 407, 1882, 1865, 2216 and 1624 downregulated genes in the 30, 35, 40, 45, and 50% protein treatment libraries, respectively. Trend analysis of these differentially expressed genes (DEGs) identified six statistically significant trends. A series of DEGs that related to protein metabolism, growth and development, lipid metabolism and immune and stress response were identified. Moreover, gene ontology enrichment analysis of the DEGs demonstrated that cellular process, single-organism process, metabolic process and biological regulation were the most highly overrepresented biological processes. Kyoto Encyclopedia of Genes and Genomes enrichment analysis revealed that protein processing in endoplasmic reticulum, PPAR signaling pathway, complement and coagulation cascades, and cytochrome P450 (CYP450s) were significantly enriched in the dietary protein treatment groups. Furthermore, qPCR results showed excellent agreement on those of RNA-seq for both up- and down-regulated genes (including fasn, accα, SCD, CPT-I, igf1, ST, AST, trdmt1, hsp70, cyp450, MHC-II, C4, tgfβ, ube4b, apoE and abcb7). Thus, our results provide the baseline information for the feed formulation and nutritional research for A. nigrocauda.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Xing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Wuhan 430223, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wen</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Wuhan 430223, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Qing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Wuhan Xianfeng Aquaculture Technology Co. Ltd, Wuhan 430207, China. Electronic address: xfsckj@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Guiying</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Wuhan Xianfeng Aquaculture Technology Co. Ltd, Wuhan 430207, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Pei</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Wuhan Xianfeng Aquaculture Technology Co. Ltd, Wuhan 430207, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Wuhan Xianfeng Aquaculture Technology Co. Ltd, Wuhan 430207, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Yanhong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fisheries Research Institute, Wuhan Academy of Agricultural Sciences, Wuhan 430207, Hubei, China; Wuhan Xianfeng Aquaculture Technology Co. Ltd, Wuhan 430207, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Changgeng</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Wuhan 430223, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Fan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Wuhan 430223, Hubei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Comp Biochem Physiol Part D Genomics Proteomics</MedlineTA>
+            <NlmUniqueID>101270611</NlmUniqueID>
+            <ISSNLinking>1744-117X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ancherythroculter nigrocauda</Keyword>
+            <Keyword MajorTopicYN="N">Dietary protein level</Keyword>
+            <Keyword MajorTopicYN="N">Gene expression</Keyword>
+            <Keyword MajorTopicYN="N">Growth performance</Keyword>
+            <Keyword MajorTopicYN="N">Liver transcriptome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200228</ArticleId>
+            <ArticleId IdType="pii">S1744-117X(18)30118-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cbd.2019.05.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

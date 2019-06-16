@@ -1,0 +1,115 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199274</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2162-2388</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on neural networks and learning systems</Title>
+                <ISOAbbreviation>IEEE Trans Neural Netw Learn Syst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Self-Paced Balance Learning for Clinical Skin Disease Recognition.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TNNLS.2019.2917524</ELocationID>
+            <Abstract>
+                <AbstractText>Class imbalance is a challenging problem in many classification tasks. It induces biased classification results for minority classes that contain less training samples than others. Most existing approaches aim to remedy the imbalanced number of instances among categories by resampling the majority and minority classes accordingly. However, the imbalanced level of difficulty of recognizing different categories is also crucial, especially for distinguishing samples with many classes. For example, in the task of clinical skin disease recognition, several rare diseases have a small number of training samples, but they are easy to diagnose because of their distinct visual properties. On the other hand, some common skin diseases, e.g., eczema, are hard to recognize due to the lack of special symptoms. To address this problem, we propose a self-paced balance learning (SPBL) algorithm in this paper. Specifically, we introduce a comprehensive metric termed the complexity of image category that is a combination of both sample number and recognition difficulty. First, the complexity is initialized using the model of the first pace, where the pace indicates one iteration in the self-paced learning paradigm. We then assign each class a penalty weight that is larger for more complex categories and smaller for easier ones, after which the curriculum is reconstructed by rearranging the training samples. Consequently, the model can iteratively learn discriminative representations via balancing the complexity in each pace. Experimental results on the SD-198 and SD-260 benchmark data sets demonstrate that the proposed SPBL algorithm performs favorably against the state-of-the-art methods. We also demonstrate the effectiveness of the SPBL algorithm's generalization capacity on various tasks, such as indoor scene image recognition and object classification.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jufeng</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiaoping</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaoxiao</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Ming-Ming</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosin</LastName>
+                    <ForeName>Paul L</ForeName>
+                    <Initials>PL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Liang</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Neural Netw Learn Syst</MedlineTA>
+            <NlmUniqueID>101616214</NlmUniqueID>
+            <ISSNLinking>2162-237X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199274</ArticleId>
+            <ArticleId IdType="doi">10.1109/TNNLS.2019.2917524</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

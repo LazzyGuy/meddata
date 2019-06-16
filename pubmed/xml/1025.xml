@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199304</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of a Sensor-Based Behavioral Monitoring Solution to Support Dementia Care.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12013</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12013</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mobile and wearable technology presents exciting opportunities for monitoring behavior using widely available sensor data. This could support clinical research and practice aimed at improving quality of life among the growing number of people with dementia. However, it requires suitable tools for measuring behavior in a natural real-life setting that can be easily implemented by others.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objectives of this study were to develop and test a set of algorithms for measuring mobility and activity and to describe a technical setup for collecting the sensor data that these algorithms require using off-the-shelf devices.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A mobility measurement module was developed to extract travel trajectories and home location from raw GPS (global positioning system) data and to use this information to calculate a set of spatial, temporal, and count-based mobility metrics. Activity measurement comprises activity bout extraction from recognized activity data and daily step counts. Location, activity, and step count data were collected using smartwatches and mobile phones, relying on open-source resources as far as possible for accessing data from device sensors. The behavioral monitoring solution was evaluated among 5 healthy subjects who simultaneously logged their movements for 1 week.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The evaluation showed that the behavioral monitoring solution successfully measures travel trajectories and mobility metrics from location data and extracts multimodal activity bouts during travel between locations. While step count could be used to indicate overall daily activity level, a concern was raised regarding device validity for step count measurement, which was substantially higher from the smartwatches than the mobile phones.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study contributes to clinical research and practice by providing a comprehensive behavioral monitoring solution for use in a real-life setting that can be replicated for a range of applications where knowledge about individual mobility and activity is relevant.</AbstractText>
+                <CopyrightInformation>©Julia Rosemary Thorpe, Birgitte Hysse Forchhammer, Anja M Maier. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 30.05.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thorpe</LastName>
+                    <ForeName>Julia Rosemary</ForeName>
+                    <Initials>JR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2536-9889</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Systems Group, DTU Management, Technical University of Denmark, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forchhammer</LastName>
+                    <ForeName>Birgitte Hysse</ForeName>
+                    <Initials>BH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1796-0855</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maier</LastName>
+                    <ForeName>Anja M</ForeName>
+                    <Initials>AM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3890-6452</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Engineering Systems Group, DTU Management, Technical University of Denmark, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">activity trackers</Keyword>
+            <Keyword MajorTopicYN="N">ambulatory monitoring</Keyword>
+            <Keyword MajorTopicYN="N">dementia</Keyword>
+            <Keyword MajorTopicYN="N">human behavior</Keyword>
+            <Keyword MajorTopicYN="N">mHealth</Keyword>
+            <Keyword MajorTopicYN="N">patient-centered care</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">system design</Keyword>
+            <Keyword MajorTopicYN="N">wearable electronics devices</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199304</ArticleId>
+            <ArticleId IdType="pii">v7i6e12013</ArticleId>
+            <ArticleId IdType="doi">10.2196/12013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

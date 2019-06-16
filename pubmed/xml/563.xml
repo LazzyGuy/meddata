@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199825</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Health system capacity in Sydney, Australia in the event of a biological attack with smallpox.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217704</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217704</ELocationID>
+            <Abstract>
+                <AbstractText>Planning for a re-emergent epidemic of smallpox requires surge capacity of space, resources and personnel within health systems. There are many uncertainties in such a scenario, including likelihood and size of an attack, speed of response and health system capacity. We used a model for smallpox transmission to determine requirements for hospital beds, contact tracing and health workers (HCWs) in Sydney, Australia, during a modelled epidemic of smallpox. Sensitivity analysis was done on attack size, speed of response and proportion of case isolation and contact tracing. We estimated 100638 clinical HCWs and 14595 public hospital beds in Sydney. Rapid response, case isolation and contact tracing are influential on epidemic size, with case isolation more influential than contact tracing. With 95% of cases isolated, outbreak control can be achieved within 100 days even with only 50% of contacts traced. However, if case isolation and contact tracing both fall to 50%, epidemic control is lost. With a smaller initial attack and a response commencing 20 days after the attack, health system impacts are modest. The requirement for hospital beds will vary from up to 4% to 100% of all available beds in best and worst case scenarios. If the response is delayed, or if the attack infects 10000 people, all available beds will be exceeded within 40 days, with corresponding surge requirements for clinical health care workers (HCWs). We estimated there are 330 public health workers in Sydney with up to 940,350 contacts to be traced. At least 3 million respirators will be needed for the first 100 days. To ensure adequate health system capacity, rapid response, high rates of case isolation, excellent contact tracing and vaccination, and protection of HCWs should be a priority. Surge capacity must be planned. Failures in any of these could cause health system failure, with inadequate beds, quarantine spaces, personnel, PPE and inability to manage other acute health conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>MacIntyre</LastName>
+                    <ForeName>Chandini Raina</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biosecurity Program, Kirby Institute, Faculty of Medicine, The University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Public Service and Community Solutions, Arizona State University, Tempe, Arizona, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costantino</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biosecurity Program, Kirby Institute, Faculty of Medicine, The University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kunasekaran</LastName>
+                    <ForeName>Mohana Priya</ForeName>
+                    <Initials>MP</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5779-7979</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biosecurity Program, Kirby Institute, Faculty of Medicine, The University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199825</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217704</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-00574</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198163</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-1151</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventing chronic disease</Title>
+                <ISOAbbreviation>Prev Chronic Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modeling the Importance of Within- and Between-County Effects in an Ecological Study of the Association Between Social Capital and Mental Distress.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E75</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5888/pcd16.180491</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Levels of mental distress in the United States are a health policy concern. The association between social capital and mental distress is well documented, but evidence comes primarily from individual-level studies. Our objective was to examine this association at the county level with advanced spatial econometric methods and to explore the importance of between-county effects.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used County Health Rankings and Roadmaps data for 3,106 counties of the contiguous United States. We used spatial Durbin modeling to assess the direct (within a county) and indirect (between neighboring counties) effects of social capital on mental distress. We also examined the spatial spillover effects from neighboring counties based on higher-order spatial weights matrices.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Counties with the highest prevalence of mental distress were found in regional clusters where levels of social capital were low, including the Black Belt, central/southern Appalachia, on the Mississippi River, and around some Indian Reservations. Most of the association between social capital and mental distress was indirect, from the neighboring counties, although significant direct effects showed the within-county association. Models also confirmed the importance of county-level socioeconomic status.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found that county social capital is negatively related to mental distress. Counties are not isolated places and are often part of wider labor and housing markets, so understanding spatial dependencies is important in addressing population-level mental distress.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Tse-Chuan</ForeName>
+                    <Initials>TC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sociology, University at Albany, SUNY, 315 AS, 1400 Washington Ave, Albany, NY 12222. Email: tyang3@albany.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matthews</LastName>
+                    <ForeName>Stephen A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sociology and Criminology, Pennsylvania State University, University Park, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Feinuo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sociology, University at Albany, SUNY, Albany, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Armendariz</LastName>
+                    <ForeName>Marina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biobehavioral Health, Pennsylvania State University, University Park, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prev Chronic Dis</MedlineTA>
+            <NlmUniqueID>101205018</NlmUniqueID>
+            <ISSNLinking>1545-1151</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198163</ArticleId>
+            <ArticleId IdType="doi">10.5888/pcd16.180491</ArticleId>
+            <ArticleId IdType="pii">E75</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

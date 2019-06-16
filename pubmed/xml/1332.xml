@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198960</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-9053</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant &amp; cell physiology</Title>
+                <ISOAbbreviation>Plant Cell Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phototropins mediate chloroplast movement in Phalaenopsis aphrodite (moth orchid).</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pcz116</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/pcp/pcz116</ELocationID>
+            <Abstract>
+                <AbstractText>Chloroplast movement is important for plants to avoid photodamage and to perform efficient photosynthesis. Phototropins are blue light receptors in plants that function in chloroplast movement, phototropism, stomatal opening, and they also affect plant growth and development. In this study, full-length cDNAs of two PHOTOTROPIN genes, PaPHOT1 and PaPHOT2, were cloned from a moth orchid Phalaenopsis aphrodite, and their functions in chloroplast movement were investigated. Phylogenetic analysis showed that PaPHOT1 and PaPHOT2 orthologues were highly similar to PHOT1 and PHOT2 of the close relative Phalaenopsis equestris, respectively, and clustered with monocots PHOT1 and PHOT2 orthologues, respectively. Phalaenopsis aphrodite expressed a moderate level of PaPHOT1 under low blue light of 5 μmol.m-2.s-1 (BL5) and a high levels of PaPHOT1 at &gt;BL100. However, PaPHOT2 was expressed at low levels at &lt;BL50 but expressed at high levels at &gt; BL100. Analysis of light-induced chloroplast movements using the SPAD method indicated that orchid accumulated chloroplasts at &lt;BL10. The chloroplast avoidance response was detectable at &gt;BL25 and significant chloroplast avoidance movement was observed at &gt;BL100. Virus-induced gene silencing of PaPHOTs in orchids showed decreased gene expression of PaPHOTs and reduced both chloroplast accumulation and avoidance responses. Heterologous expression of PaPHOT1 in Arabidopsis phot1phot2 double mutant recovered chloroplast accumulation response at BL5, but neither PaPHOT1 nor PaPHOT2 was able to restore mutant chloroplast avoidance at BL100. Overall, this study showed that phototropins mediate chloroplast movement in Phalaenopsis orchid is blue light-dependent but their function is slightly different from Arabidopsis which might be due to gene evolution.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Japanese Society of Plant Physiologists. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Yi-Jyun</ForeName>
+                    <Initials>YJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academia Sinica Biotechnology Center in Southern Taiwan, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yu-Chung</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academia Sinica Biotechnology Center in Southern Taiwan, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Tropical Plant Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Kuan-Chieh</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Wen-Chi</ForeName>
+                    <Initials>WC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Tropical Plant Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>Swee-Suak</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academia Sinica Biotechnology Center in Southern Taiwan, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Agricultural Biotechnology Research Center, Academia Sinica, Taipei, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Plant Cell Physiol</MedlineTA>
+            <NlmUniqueID>9430925</NlmUniqueID>
+            <ISSNLinking>0032-0781</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Blue-light receptors</Keyword>
+            <Keyword MajorTopicYN="N">chloroplast movement</Keyword>
+            <Keyword MajorTopicYN="N">in-situ hybridization</Keyword>
+            <Keyword MajorTopicYN="N">moth orchid</Keyword>
+            <Keyword MajorTopicYN="N">photodamage</Keyword>
+            <Keyword MajorTopicYN="N">virus-induced gene silencing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198960</ArticleId>
+            <ArticleId IdType="pii">5518931</ArticleId>
+            <ArticleId IdType="doi">10.1093/pcp/pcz116</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

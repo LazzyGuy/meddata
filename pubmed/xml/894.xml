@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199443</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2574-3805</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA network open</Title>
+                <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of Undifferentiated Dyspnea in Late Life With Cardiovascular and Noncardiovascular Dysfunction: A Cross-sectional Analysis From the ARIC Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e195321</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2019.5321</ELocationID>
+            <Abstract>
+                <AbstractText Label="Importance" NlmCategory="UNASSIGNED">Undifferentiated dyspnea is common in late life, but the relative contribution of subclinical cardiac dysfunction is unknown. Impairments in cardiac structure and function may be characteristics of undifferentiated dyspnea in elderly people, providing potential insights into occult heart failure (HF).</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To quantify the association of undifferentiated dyspnea with cardiac dysfunction after accounting for other potential contributors.</AbstractText>
+                <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">This cross-sectional study used data from Atherosclerosis Risk in Communities study participants 65 years and older who attended the fifth study visit (from 2011 to 2013) and had not been diagnosed with HF, chronic obstructive pulmonary disease, morbid obesity, or severe kidney disease. Analyses were conducted from October 2017 to June 2018.</AbstractText>
+                <AbstractText Label="Exposures" NlmCategory="UNASSIGNED">Dyspnea measured using the modified Medical Research Council scale, with a score less than 2 classified as none to mild and a score of 2 or more classified as moderate to severe.</AbstractText>
+                <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">Using multivariable logistic regression, the association of undifferentiated dyspnea was defined using cardiac structure, systolic and diastolic function, pulmonary pressure (echocardiography), pulmonary function (spirometry), glomerular filtration rate, hemoglobin, body mass index, depression, and physical performance. The population-attributable risk was calculated for each dysfunction metric.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Among 4342 participants (mean [SD] age, 75.9 [5.0] years; 2533 [58.3%] women), 1173 (27.0%) had undifferentiated dyspnea. Moderate to severe dyspnea was present in 574 participants (13.2%) and was associated with left ventricular (LV) hypertrophy (odds ratio [OR], 1.53; 95% CI, 1.25-1.87; P &lt; .001) and LV diastolic (OR, 1.46; 95% CI, 1.20-1.78; P &lt; .001) and systolic (OR, 1.28; 95% CI, 1.05-1.56; P = .02) dysfunction. Moderate to severe dyspnea was also associated with obstructive (OR, 1.59; 95% CI, 1.28-1.99; P &lt; .001) and restrictive (OR, 2.56; 95% CI, 1.99-3.27; P &lt; .001) findings on spirometry, renal impairment (OR, 1.32; 95% CI, 1.08-1.61; P = .01), anemia (OR, 1.72; 95% CI, 1.39-2.12; P &lt; .001), lower (OR, 2.77; 95% CI, 2.18-3.51; P &lt; .001) and upper (OR, 1.82; 95% CI, 1.49-2.23; P &lt; .001) extremity weakness, depression (OR, 3.01; 95% CI, 2.24-4.25; P &lt; .001), and obesity (OR, 2.35; 95% CI, 1.95-2.83; P &lt; .001). After accounting for these, moderate to severe dyspnea was associated with LV hypertrophy (OR, 1.30; 95% CI, 1.01-1.67; P = .04) and was not associated with systolic or diastolic function. In contrast, in the fully adjusted model, other organ system measures were associated with dyspnea, except for glomerular filtration rate and grip strength. The population-attributable risk of dyspnea associated with obesity alone was 22.6% compared with 5.8% for LV hypertrophy.</AbstractText>
+                <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">Undifferentiated dyspnea is multifactorial in older adults, and this study showed an association with obesity. When accounting for other relevant organ systems, cardiovascular function poorly discriminated those with vs those without dyspnea. Therefore, dyspnea should not be assumed to represent occult HF in this population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ramalho</LastName>
+                    <ForeName>Sergio H R</ForeName>
+                    <Initials>SHR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Sciences and Technologies Post-Graduation Program, University of Brasília, Brasília, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Cardiothoracic Surgery, Cardiovascular R&amp;D Unit, Faculty of Medicine, University of Porto, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claggett</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsushita</LastName>
+                    <ForeName>Kunihiro</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kitzman</LastName>
+                    <ForeName>Dalane W</ForeName>
+                    <Initials>DW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wake Forest School of Medicine, Winston-Salem, North Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loehr</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gillings School of Public Health, University of North Carolina at Chapel Hill, Chapel Hill.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solomon</LastName>
+                    <ForeName>Scott D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skali</LastName>
+                    <ForeName>Hicham</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Amil M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Medicine, Brigham and Women's Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Netw Open</MedlineTA>
+            <NlmUniqueID>101729235</NlmUniqueID>
+            <ISSNLinking>2574-3805</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199443</ArticleId>
+            <ArticleId IdType="pii">2735757</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamanetworkopen.2019.5321</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

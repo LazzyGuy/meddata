@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199661</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1543-8392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular pharmaceutics</Title>
+                <ISOAbbreviation>Mol. Pharm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Co-delivery of paclitaxel by a capsaicin prodrug micelle facilitating for combination therapy on breast cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.molpharmaceut.9b00209</ELocationID>
+            <Abstract>
+                <AbstractText>Poor anticancer ability, serious adverse reaction, and drug resistance against paclitaxel (PTX) have limited its clinical application. When a mouse breast carcinoma cell line (4T1) was treated with both PTX and capsaicin (CAP), there was a synergistic anti-proliferative effect demonstrated with a combination index of 0.28. Therefore, a novel polyethylene glycol-derivatized CAP (PEG-Fmoc-CAP2) polymeric prodrug micellar carrier was developed, and further encapsulated with PTX for anti-tumor combination treatment. The PEG-Fmoc-CAP2 polymeric micelles co-delivered with PTX achieved a 62.3 % fraction of apoptotic cells in comparison to 45.4 % fraction of apoptotic cells to that upon treatment with PTX alone. Comparable CAP amounts were found in the cell lysates treatment with PEG-Fmoc-CAP2 conjugated micelles to that of free CAP treated 4T1 cells after 12 h treatment. Pharmacokinetic and biodistribution study showed the micelles possessed much longer circulation time in blood, preferential tumor tissue accumulation compared to Taxol solution. Importantly, PTX/CAP loaded micelles exhibited superior in vivo anti-tumor activity on inhibition rate of tumor growth than other treatments (70.5% tumor growth reduction in PTX/CAP micelle treated mice vs 57.8%, 43.3% and 23.8% of tumor growth inhibition rate in PTX/PEG-Fmoc-OA2 micelles, Taxol and PEG-Fmoc-CAP2 micelle treated mice, respectively). Thus, the dual-functional PEG-Fmoc-CAP2 polymeric prodrug micelles is a promising co-delivery nano system for achieving synergistic anti-tumor efficacy of PTX and CAP. KEYWORDS: PTX; CAP; PEG-Fmoc-CAP2 prodrug micelles; breast cancer; combination chemotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lan</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Tong</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Xueqin</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Mei</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Shuangyu</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Aichen</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yanhua</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Pharm</MedlineTA>
+            <NlmUniqueID>101197791</NlmUniqueID>
+            <ISSNLinking>1543-8384</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199661</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.9b00209</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

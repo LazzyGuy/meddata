@@ -1,0 +1,95 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199632</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. A</Title>
+                <ISOAbbreviation>J Phys Chem A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Simplified Spin-Flip Time-Dependent Density Functional Theory (SF-sTD-DFT) Approach for the Electronic Excitation Spectra of Very Large Diradicals.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpca.9b03176</ELocationID>
+            <Abstract>
+                <AbstractText>Experimentalists working with diradicals are often facing the question of what kind of species among singlet or triplet diradicals or closed-shell molecules are observed. To treat large diradicals with a high density of electronic states, we propose a simplified version of the SF-TD-DFT method for a fast computation their state energies and absorption spectra with a similar accuracy as the non-simplified scheme. An ultra-fast tight-binding variant called SF-sTD-DFT-xTB is also developed to treat even larger systems. For a benchmark set of nine diradicals, good agreement between simplified and conventional SF excitation energies for standard functionals is found. This shows that the proposed parametrization is robust for a wide range of Fock exchange mixing values. With the asymptotically correct response integrals used in SF-sTD-DFT and a correction factor of √2 for the transition moments, the SF-sTD-DFT/B5050LYP/cc-pVDZ method outperforms the full scheme for absorption spectra for this set of diradicals while drastically reducing the computational effort. To showcase the actual performance of the method, absorption spectra of two μ-hydroxo-bridged dimers of corrole tape Ga(III) complexes derivatives were computed and compared to experiment, providing good qualitative agreement. Finally, a comparison with the high-spin triplet spectrum of a perylene bisimide biradical and the one determined at the SF-sTD-DFT level showed that at room temperature mostly triplet diradicals are present in solution.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Wergifosse</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bannwarth</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grimme</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem A</MedlineTA>
+            <NlmUniqueID>9890903</NlmUniqueID>
+            <ISSNLinking>1089-5639</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199632</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpca.9b03176</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

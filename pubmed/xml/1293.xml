@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199000</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1440-169X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Development, growth &amp; differentiation</Title>
+                <ISOAbbreviation>Dev. Growth Differ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Shortened G1 phase of cell cycle and decreased histone H3K27 methylation are associated with AKT-induced enhancement of primordial germ cell reprogramming.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/dgd.12621</ELocationID>
+            <Abstract>
+                <AbstractText>Primordial germ cells (PGCs) are reprogrammed into pluripotent embryonic germ cells (EGCs) under specific culture conditions, but the detailed mechanisms of PGC reprogramming have not yet been fully clarified. Previous studies have demonstrated that AKT, an important intracellular signaling molecule, promotes reprogramming of PGCs into EGCs. Because AKT likely inhibits p53 functions to enhance PGC reprogramming, and p53 negatively regulates cell cycle progression, we analyzed cell cycle changes in PGCs following AKT activation and found that the ratio of PGCs in the G1/G0 phase was decreased while that of PGCs in the G2/M phase was increased after AKT activation. We also showed that the expression of the CDK inhibitor p27<sup>kip1</sup> , which prevents the G1-S transition and is transcriptionally repressed by p53, was significantly downregulated by AKT activation. The results suggested that the characteristic cell cycle changes of PGCs by AKT activation are, at least in part, due to decreased expression of p27<sup>kip1</sup> . We also investigated changes in histone H3K27 tri-methylation (H3K27me3) by AKT activation in PGCs, because we previously found that decreased H3K27me3 was involved in PGC reprogramming via upregulation of cyclin D1. We observed that AKT activation in PGCs resulted in H3K27 hypomethylation. In addition, DZNeP, an inhibitor of the H3K27 trimethyl transferase Ezh2, stimulated EGC formation. These results together suggested that AKT activation promotes G1-S transition and downregulates H3K27me3 to enhance PGC reprogramming.</AbstractText>
+                <CopyrightInformation>© 2019 Japanese Society of Developmental Biologists.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takehara</LastName>
+                    <ForeName>Asuka</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cell Resource Center for Biomedical Research, Institute of Development, Aging and Cancer (IDAC), Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Life Sciences, Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Japan Agency for Medical Research and Development-Core Research for Evolutional Science and Technology (AMED-CREST), Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsui</LastName>
+                    <ForeName>Yasuhisa</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-7026-6355</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Cell Resource Center for Biomedical Research, Institute of Development, Aging and Cancer (IDAC), Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Life Sciences, Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Japan Agency for Medical Research and Development-Core Research for Evolutional Science and Technology (AMED-CREST), Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate School of Medicine, Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>(25114003)</GrantID>
+                    <Agency>Grant-in-Aid for Scientific Research in Innovative Areas</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>Ministry of Education, Culture, Sports, Science and Technology of Japan</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>JP17gm0510017h</GrantID>
+                    <Agency>AMED-CREST</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>Japan Agency for Medical Research and Development</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Dev Growth Differ</MedlineTA>
+            <NlmUniqueID>0356504</NlmUniqueID>
+            <ISSNLinking>0012-1592</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AKT</Keyword>
+            <Keyword MajorTopicYN="N">H3K27me3</Keyword>
+            <Keyword MajorTopicYN="N">cell-cycle</Keyword>
+            <Keyword MajorTopicYN="N">embryonic germ cell</Keyword>
+            <Keyword MajorTopicYN="N">pluripotent stem cell</Keyword>
+            <Keyword MajorTopicYN="N">primordial germ cell</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199000</ArticleId>
+            <ArticleId IdType="doi">10.1111/dgd.12621</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

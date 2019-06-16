@@ -1,0 +1,242 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199864</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2091</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of antimicrobial chemotherapy</Title>
+                <ISOAbbreviation>J. Antimicrob. Chemother.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Associations between antimicrobial use and the faecal resistome on broiler farms from nine European countries.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">dkz235</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jac/dkz235</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine associations between farm- and flock-level antimicrobial usage (AMU), farm biosecurity status and the abundance of faecal antimicrobial resistance genes (ARGs) on broiler farms.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In the cross-sectional pan-European EFFORT study, conventional broiler farms were visited and faeces, AMU information and biosecurity records were collected. The resistomes of pooled faecal samples were determined by metagenomic analysis for 176 farms. A meta-analysis approach was used to relate total and class-specific ARGs (expressed as fragments per kb reference per million bacterial fragments, FPKM) to AMU (treatment incidence per DDD, TIDDDvet) per country and subsequently across all countries. In a similar way, the association between biosecurity status (Biocheck.UGent) and the resistome was explored.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixty-six (38%) flocks did not report group treatments but showed a similar resistome composition and roughly similar ARG levels to antimicrobial-treated flocks. Nevertheless, we found significant positive associations between β-lactam, tetracycline, macrolide and lincosamide, trimethoprim and aminoglycoside antimicrobial flock treatments and ARG clusters conferring resistance to the same class. Similar associations were found with purchased products. In gene-level analysis for β-lactams and macrolides, lincosamides and streptogramins, a significant positive association was found with the most abundant gene clusters blaTEM and erm(B). Little evidence was found for associations with biosecurity.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The faecal microbiome in European broilers contains a high diversity of ARGs, even in the absence of current antimicrobial selection pressure. Despite this, the relative abundance of genes and the composition of the resistome is positively related to AMU in European broiler farms for several antimicrobial classes.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Antimicrobial Chemotherapy. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luiken</LastName>
+                    <ForeName>Roosmarijn E C</ForeName>
+                    <Initials>REC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Gompel</LastName>
+                    <ForeName>Liese</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munk</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section for Genomic Epidemiology, National Food Institute, Technical University of Denmark, Kemitorvet 204, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarrazin</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Reproduction, Obstetrics and Herd Health, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133, Merelbeke, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joosten</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Reproduction, Obstetrics and Herd Health, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133, Merelbeke, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorado-García</LastName>
+                    <ForeName>Alejandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borup Hansen</LastName>
+                    <ForeName>Rasmus</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Intomics A/S, Lottenborgvej 26, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knudsen</LastName>
+                    <ForeName>Berith E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section for Genomic Epidemiology, National Food Institute, Technical University of Denmark, Kemitorvet 204, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bossers</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Wageningen Bioveterinary Research, Houtribweg 39, RA Lelystad, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wagenaar</LastName>
+                    <ForeName>Jaap A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wageningen Bioveterinary Research, Houtribweg 39, RA Lelystad, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Yalelaan 1, CL Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aarestrup</LastName>
+                    <ForeName>Frank M</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section for Genomic Epidemiology, National Food Institute, Technical University of Denmark, Kemitorvet 204, Kongens Lyngby, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dewulf</LastName>
+                    <ForeName>Jeroen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Reproduction, Obstetrics and Herd Health, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133, Merelbeke, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mevius</LastName>
+                    <ForeName>Dik J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wageningen Bioveterinary Research, Houtribweg 39, RA Lelystad, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Yalelaan 1, CL Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heederik</LastName>
+                    <ForeName>Dick J J</ForeName>
+                    <Initials>DJJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smit</LastName>
+                    <ForeName>Lidwien A M</ForeName>
+                    <Initials>LAM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmitt</LastName>
+                    <ForeName>Heike</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, CM Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>EFFORT consortium
+</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Antimicrob Chemother</MedlineTA>
+            <NlmUniqueID>7513617</NlmUniqueID>
+            <ISSNLinking>0305-7453</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199864</ArticleId>
+            <ArticleId IdType="pii">5519196</ArticleId>
+            <ArticleId IdType="doi">10.1093/jac/dkz235</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

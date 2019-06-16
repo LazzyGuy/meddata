@@ -1,0 +1,163 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199293</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Designing a Distributed Ledger Technology System for Interoperable and General Data Protection Regulation-Compliant Health Data Exchange: A Use Case in Blood Glucose Data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13665</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13665</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Distributed ledger technology (DLT) holds great potential to improve health information exchange. However, the immutable and transparent character of this technology may conflict with data privacy regulations and data processing best practices.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this paper is to develop a proof-of-concept system for immutable, interoperable, and General Data Protection Regulation (GDPR)-compliant exchange of blood glucose data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Given that there is no ideal design for a DLT-based patient-provider data exchange solution, we proposed two different variations for our proof-of-concept system. One design was based purely on the public IOTA distributed ledger (a directed acyclic graph-based DLT) and the second used the same public IOTA ledger in combination with a private InterPlanetary File System (IPFS) cluster. Both designs were assessed according to (1) data reversal risk, (2) data linkability risks, (3) processing time, (4) file size compatibility, and (5) overall system complexity.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The public IOTA design slightly increased the risk of personal data linkability, had an overall low processing time (requiring mean 6.1, SD 1.9 seconds to upload one blood glucose data sample into the DLT), and was relatively simple to implement. The combination of the public IOTA with a private IPFS cluster minimized both reversal and linkability risks, allowed for the exchange of large files (3 months of blood glucose data were uploaded into the DLT in mean 38.1, SD 13.4 seconds), but involved a relatively higher setup complexity.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For the specific use case of blood glucose explored in this study, both designs presented a suitable performance in enabling the interoperable exchange of data between patients and providers. Additionally, both systems were designed considering the latest guidelines on personal data processing, thereby maximizing the alignment with recent GDPR requirements. For future works, these results suggest that the conflict between DLT and data privacy regulations can be addressed if careful considerations are made regarding the use case and the design of the data exchange system.</AbstractText>
+                <CopyrightInformation>©David Hawig, Chao Zhou, Sebastian Fuhrhop, Andre S Fialho, Navin Ramachandran. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 14.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Hawig</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9762-0163</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pact Care BV, Amsterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Chao</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2496-6892</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pact Care BV, Amsterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fuhrhop</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0968-5846</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pact Care BV, Amsterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fialho</LastName>
+                    <ForeName>Andre S</ForeName>
+                    <Initials>AS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0586-8680</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pact Care BV, Amsterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramachandran</LastName>
+                    <ForeName>Navin</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7063-7064</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Health Informatics &amp; Multiprofessional Education, University College London, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FHIR</Keyword>
+            <Keyword MajorTopicYN="N">IOTA</Keyword>
+            <Keyword MajorTopicYN="N">IPFS</Keyword>
+            <Keyword MajorTopicYN="N">Masked Authenticated Messaging, MAM</Keyword>
+            <Keyword MajorTopicYN="N">blockchain</Keyword>
+            <Keyword MajorTopicYN="N">blood glucose</Keyword>
+            <Keyword MajorTopicYN="N">diabetes</Keyword>
+            <Keyword MajorTopicYN="N">directed acyclic graph</Keyword>
+            <Keyword MajorTopicYN="N">distributed ledger technology</Keyword>
+            <Keyword MajorTopicYN="N">mobile health</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199293</ArticleId>
+            <ArticleId IdType="pii">v21i6e13665</ArticleId>
+            <ArticleId IdType="doi">10.2196/13665</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

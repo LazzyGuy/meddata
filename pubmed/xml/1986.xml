@@ -1,0 +1,84 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198131</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2165-0497</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbiology spectrum</Title>
+                <ISOAbbreviation>Microbiol Spectr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Respiration and Small Colony Variants of <i>Staphylococcus aureus</i>.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/microbiolspec.GPP3-0069-2019</ELocationID>
+            <Abstract>
+                <AbstractText>Respiratory mutants, both naturally occurring and genetically constructed, have taught us about the importance of metabolism in influencing virulence factor production, persistence, and antibiotic resistance. As we learn more about small colony variants, we find that <i>Staphylococcus aureus</i> has many pathways to produce small colony variants, although the respiratory variants are the best described clinically and in the laboratory.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Proctor</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology and Immunology University of Wisconsin School of Medicine and Public Health Madison, WI 53705.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microbiol Spectr</MedlineTA>
+            <NlmUniqueID>101634614</NlmUniqueID>
+            <ISSNLinking>2165-0497</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198131</ArticleId>
+            <ArticleId IdType="doi">10.1128/microbiolspec.GPP3-0069-2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

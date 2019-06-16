@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200274</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1874-9968</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>98</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ultrasonics</Title>
+                <ISOAbbreviation>Ultrasonics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simulation of crack induced nonlinear elasticity using the combined finite-discrete element method.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>51-61</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0041-624X(18)30800-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ultras.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Numerical simulation of nonlinear elastic wave propagation in solids with cracks is indispensable for decoding the complicated mechanisms associated with the nonlinear ultrasonic techniques in Non-Destructive Testing (NDT). Here, we introduce a two-dimensional implementation of the combined finite-discrete element method (FDEM), which merges the finite element method (FEM) and the discrete element method (DEM), to explicitly simulate the crack induced nonlinear elasticity in solids with both horizontal and inclined cracks. In the FDEM model, the solid is discretized into finite elements to capture the wave propagation in the bulk material, and the finite elements along the two sides of the crack also behave as discrete elements to track the normal and tangential interactions between crack surfaces. The simulation results show that for cracked models, nonlinear elasticity is generated only when the excitation amplitude is large enough to trigger the contact between crack surfaces, and the nonlinear behavior is very sensitive to the crack surface contact. The simulations reveal the influence of normal and tangential contact on the nonlinear elasticity generation. Moreover, the results demonstrate the capabilities of FDEM for decoding the causality of nonlinear elasticity in cracked solid and its potential to assist in Non-Destructive Testing (NDT).</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Ke</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geophysics, Los Alamos National Laboratory, NM, USA. Electronic address: kegao@lanl.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rougier</LastName>
+                    <ForeName>Esteban</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geophysics, Los Alamos National Laboratory, NM, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guyer</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geophysics, Los Alamos National Laboratory, NM, USA; Department of Physics, University of Nevada at Reno, NV, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lei</LastName>
+                    <ForeName>Zhou</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geophysics, Los Alamos National Laboratory, NM, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geophysics, Los Alamos National Laboratory, NM, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Ultrasonics</MedlineTA>
+            <NlmUniqueID>0050452</NlmUniqueID>
+            <ISSNLinking>0041-624X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Combined finite-discrete element method (FDEM)</Keyword>
+            <Keyword MajorTopicYN="N">Crack</Keyword>
+            <Keyword MajorTopicYN="N">Non-Destructive Testing (NDT)</Keyword>
+            <Keyword MajorTopicYN="N">Nonlinear elasticity</Keyword>
+            <Keyword MajorTopicYN="N">Wave propagation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200274</ArticleId>
+            <ArticleId IdType="pii">S0041-624X(18)30800-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ultras.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

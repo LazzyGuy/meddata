@@ -1,0 +1,153 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198989</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-2995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How do I audit intraoperative blood component utilization in cardiac surgery?</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/trf.15399</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patient blood management programs are tasked with auditing transfusions for appropriateness; however, cardiac surgical programs have high variability in blood utilization. After benchmarking intraoperative blood utilization as higher than expected, we devised effective methods for audits with feedback to the cardiac anesthesiologists that are described in this report.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">Red blood cell (RBC), plasma, platelet (PLT), and cryoprecipitate transfusion data were collected from the electronic record system for 2242 patients having cardiac surgery from July 2016 until July 2018. In July 2017, we performed audits with feedback using rank-order bar graphs displayed on the anesthesiology office door for intraoperative blood utilization. Individual providers were compared to their peers for all four major blood components, with the goal of improving practice by reducing variability.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After the audits with feedback, the intraoperative mean units/patient decreased for RBCs (from 1.9 to 1.2 units/patient; p = 0.0004), for plasma (from 1.8 to 1.2 units/patient; p = 0.0038), and for PLTs (from 0.7 to 0.4 units/patient; p &lt; 0.0001), but not for cryoprecipitate (from 0.24 to 0.18 units/patient; p = 0.13). Whole hospital (from admit to discharge) utilization decreased significantly for plasma and PLTs, but the changes for RBCs and cryoprecipitate were nonsignificant.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite challenges in abstracting data from the electronic medical record, using such data to create provider-specific audits with feedback can be an effective tool to promote quality improvement. Future plans include audits with feedback for providers who order transfusion outside the operating room.</AbstractText>
+                <CopyrightInformation>© 2019 AABB.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hensley</LastName>
+                    <ForeName>Nadia B</ForeName>
+                    <Initials>NB</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2074-8441</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Brian C</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Visagie</LastName>
+                    <ForeName>Mereze</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lester</LastName>
+                    <ForeName>Laeben C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abernathy</LastName>
+                    <ForeName>James H</ForeName>
+                    <Initials>JH</Initials>
+                    <Suffix>3rd</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frank</LastName>
+                    <ForeName>Steven M</ForeName>
+                    <Initials>SM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3533-3190</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesiology/Critical Care Medicine, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins Health System Blood Management Program, Armstrong Institute for Patient Safety and Quality, The Johns Hopkins Medical Institutions, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198989</ArticleId>
+            <ArticleId IdType="doi">10.1111/trf.15399</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

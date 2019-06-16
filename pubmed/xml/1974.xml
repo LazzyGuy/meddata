@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198143</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2095-4352</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua wei zhong bing ji jiu yi xue</Title>
+                <ISOAbbreviation>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Value of percutaneous oxygen partial pressure monitoring in evaluating the prognosis of patients with acute heart failure].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>577-581</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.2095-4352.2019.05.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the value of percutaneous oxygen partial pressure monitoring in prognosis evaluation of patients with acute heart failure (AHF).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 91 patients with AHF due to various reasons admitted to the emergency department of the First Affiliated Hospital of China Medical University from July 2017 to June 2018 were enrolled. Dynamic monitoring data of arterial blood gas, percutaneous oxygen partial pressure monitoring and noninvasive cardiac output monitoring (NICOM) of all of the patients at the time of diagnosis (before treatment) and 6 hours after treatment were recorded, including arterial partial pressure of oxygen (PaO<sub>2</sub>), arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>), blood lactic acid (Lac), percutaneous oxygen partial pressure (TcPO<sub>2</sub>), percutaneous carbon dioxide partial pressure (TcPCO<sub>2</sub>), cardiac output (CO) and stroke volume (SV). The 10-minute oxygen challenge test value (OCT), oxygen and carbon dioxide offsets were calculated. The patients were divided into survival group and non-survival group according to 28-day survival situation, and the differences in above parameters were compared between the two groups. The receiver operating characteristic (ROC) curve was drawn to analyze the predictive value of percutaneous partial oxygen pressure monitoring for the prognosis of patients with AHF.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All the 91 patients were enrolled in the analysis, among whom 26 died on 28 days and 65 survived, with a mortality of 28.6%. Before treatment, 10-minute OCT in the non-survival group was significantly lower than that in the survival group [mmHg (1 mmHg = 0.133 kPa): 41.0±3.9 vs. 45.6±3.2, P &lt; 0.01], and the carbon dioxide offset was significantly higher than that in the survival group [(0.51±0.11)% vs. (0.37±0.11)%, P &lt; 0.01]. However, there was no statistically significant difference in PaO<sub>2</sub>, PaCO<sub>2</sub>, TcPO<sub>2</sub>, TcPCO<sub>2</sub>, oxygen offset, CO, SV or Lac between the two groups. After 6 hours of treatment, TcPCO<sub>2</sub>, oxygen offset and carbon dioxide offset in the non-survival group were significantly higher than those in the survival group [TcPCO<sub>2</sub> (mmHg): 36.0±2.8 vs. 33.2±2.8, oxygen offset: (0.25±0.05)% vs. (0.22±0.06)%, carbon dioxide offset: (0.29±0.12)% vs. (0.16±0.13)%, all P &lt; 0.05], TcPO<sub>2</sub>, 10-minute OCT, CO and SV were significantly lower than those in the survival group [TcPCO<sub>2</sub> (mmHg): 36.0±2.8 vs. 33.2±2.8, 10-minute OCT (mmHg): 49.1±4.5 vs. 53.6±5.5, CO (L/min): 4.9±0.5 vs. 5.3±0.5, SV (mL): 57.8±3.5 vs. 64.4±4.8, all P &lt; 0.01]. However, there was no statistically significant difference in PaO<sub>2</sub>, PaCO<sub>2</sub> or Lac between the two groups. ROC curve analysis showed that the area under the ROC curve (AUC) of 10-minute OCT onset predicting the 28-day death of patients with AHF was 0.802; when the optimal cut-off value was 43.5 mmHg, the sensitivity and specificity was 77.3% and 68.0%, respectively. The AUC of carbon dioxide offset was 0.812; when the optimal cut-off value was 0.46%, the sensitivity and specificity was 86.4% and 68.0%, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Percutaneous oxygen partial pressure monitoring can be used as a reliable indicator for prognosis evaluation of patients with AHF. Increased carbon dioxide offset and decreased 10-minute OCT suggest poor prognosis, and the prognosis of patients with AHF should be evaluated by dynamic monitoring.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the First Affiliated Hospital of China Medical University, Shenyang 110001, Liaoning, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Mingzhe</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, Kim Ll Sung University Pyongyang Medical University, Pyongyang, North Korea. Corresponding author: Liu Zhi, Email: Liuzhicmu@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the First Affiliated Hospital of China Medical University, Shenyang 110001, Liaoning, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the First Affiliated Hospital of China Medical University, Shenyang 110001, Liaoning, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Zhi</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency, the First Affiliated Hospital of China Medical University, Shenyang 110001, Liaoning, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</MedlineTA>
+            <NlmUniqueID>101604552</NlmUniqueID>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198143</ArticleId>
+            <ArticleId IdType="doi">10.3760/cma.j.issn.2095-4352.2019.05.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

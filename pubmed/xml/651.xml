@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199716</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-8976</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Viral immunology</Title>
+                <ISOAbbreviation>Viral Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HPV18 E1 Protein Plus <i>α</i>-Galactosylceramide Elicit in Mice CD8<sup>+</sup> T Cell Cross-Reactivity Against Cells Expressing E1 from Diverse Human Papillomavirus Types.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/vim.2019.0020</ELocationID>
+            <Abstract>
+                <AbstractText>CD8<sup>+</sup> T cell immune response plays a critical role in the clearance of human papillomavirus (HPV)-infected cells. During the natural history of HPV infection, the E1 protein, an early-expressed helicase highly conserved among papillomaviruses, is involved in the replication of HPV genomes. We have previously shown, in a murine model, that immunization with HPV18 E1 protein combined with <i>α</i>-galactosylceramide elicits a specific CD8<sup>+</sup> T cell response. We further proved those findings by analyzing whether CD8<sup>+</sup> T cells from mice immunized with <i>α</i>-galactosylceramide plus HPV18 E1 protein could have a cytotoxic effect on cells expressing the carboxyl-terminal domain from the E1 proteins of other HPV types. Interestingly, CD8<sup>+</sup> T cells raised against HPV18 E1 antigen presented cross-reactivity against the E1 protein from HPV53, 33, 16, and 31. Poor cross-reactivity was observed for HPV11, and none for HPV6. This outcome may be relevant for the design of broad-spectrum immune-protective agents against HPV infections.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Amador-Molina</LastName>
+                    <ForeName>Alfredo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Unidad de Investigación Biomédica en Cáncer, Instituto Nacional de Cancerología, Tlalpan, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amador-Molina</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Tecnológico de Monterrey, Departamento de Bioingeniería, Campus Estado de México, Estado de México, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arciniega</LastName>
+                    <ForeName>Juan L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Biologics Consulting (Affiliate), Department of Pharmaceuticals and Biologics, Alexandria, Virginia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lizano</LastName>
+                    <ForeName>Marcela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Unidad de Investigación Biomédica en Cáncer, Instituto Nacional de Cancerología, Tlalpan, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4 Departamento de Medicina Genómica y Toxicología Ambiental, Instituto de Investigaciones Biomédicas, Universidad Nacional Autónoma de México, Ciudad Universitaria, Ciudad de México, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Viral Immunol</MedlineTA>
+            <NlmUniqueID>8801552</NlmUniqueID>
+            <ISSNLinking>0882-8245</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">-galactosylceramide</Keyword>
+            <Keyword MajorTopicYN="N">CD8 T cells</Keyword>
+            <Keyword MajorTopicYN="N">E1 protein</Keyword>
+            <Keyword MajorTopicYN="N">cross-reactivity</Keyword>
+            <Keyword MajorTopicYN="N">human papillomavirus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199716</ArticleId>
+            <ArticleId IdType="doi">10.1089/vim.2019.0020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

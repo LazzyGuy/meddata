@@ -1,0 +1,157 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200141</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1298</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>233</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemosphere</Title>
+                <ISOAbbreviation>Chemosphere</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Linking microbial diversity and population dynamics to the removal efficiency of pharmaceutically active compounds (PhACs) in an anaerobic/anoxic/aerobic (A<sup>2</sup>O) system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>828-842</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-6535(19)31240-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chemosphere.2019.06.017</ELocationID>
+            <Abstract>
+                <AbstractText>The removal efficiencies (REs) of nineteen pharmaceutically active compounds (PhACs) (six antibiotics-clarithromycin, ofloxacin, sulfadiazine, sulfamethazine, sulfamethoxazole and trimethoprim -, four β-blockers -atenolol, metoprolol, propranolol and sotalol-, two antihypertensives/diuretics -furosemide and hydrochlorothiazide-, three lipid regulators -bezafibrate, fenofibrate and gemfibrozil-, and four psychiatric medications -carbamazepine, diazepam, lorazepam and paroxetine) were ascertained in a pilot-scale anaerobic/anoxic/aerobic (A<sup>2</sup>O) system treating urban wastewater, long term operated during two experimental phases using different sets of environmental conditions and operating parameters. Illumina MiSeq sequencing was used to investigate the structure, diversity and population dynamics of bacteria, archaea and fungi communities in the activated sludge. The results showed that mixed liquor suspended solids (MLSS) and food-to-microorganisms ratio (F/M) were operational parameters significantly influencing the REs of five of the analyzed PhACs in the A<sup>2</sup>O system. Biota-environment (BIO-ENV) analysis revealed strong correlations between population shifts of the activated sludge community and the REs of PhACs of the different pharmaceutical families. Increased REs of clarithromycin, furosemide, bezafibrate and gemfibrozil were concomitant to higher relative abundances of bacterial phylotypes classified within the Rhodobacteraceae and Sphingomonadaceae (Alphaproteobacteria), while those of Betaproteobacteria, Chloroflexi and Methanomethylovorans (Euryarchaea) correlated positively with the REs of up to seven PhACs belonging to different therapeutic groups.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gallardo-Altamirano</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Microbiology Group, Institute of Water Research, University of Granada, C/ Ramón y Cajal, nº4, 18071, Granada, Spain; Department of Civil Engineering, University of Granada, 18071 Granada, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maza-Márquez</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Microbiology Group, Institute of Water Research, University of Granada, C/ Ramón y Cajal, nº4, 18071, Granada, Spain; Department of Microbiology, University of Granada, 18071 Granada, Spain. Electronic address: paulamaza@ugr.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montemurro</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Water, Environmental and Food Chemistry (ENFOCHEM), Institute of Environmental Assessment and Water Research (IDAEA-CSIC), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodelas</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Microbiology Group, Institute of Water Research, University of Granada, C/ Ramón y Cajal, nº4, 18071, Granada, Spain; Department of Microbiology, University of Granada, 18071 Granada, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osorio</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Microbiology Group, Institute of Water Research, University of Granada, C/ Ramón y Cajal, nº4, 18071, Granada, Spain; Department of Civil Engineering, University of Granada, 18071 Granada, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pozo</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Microbiology Group, Institute of Water Research, University of Granada, C/ Ramón y Cajal, nº4, 18071, Granada, Spain; Department of Microbiology, University of Granada, 18071 Granada, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chemosphere</MedlineTA>
+            <NlmUniqueID>0320657</NlmUniqueID>
+            <ISSNLinking>0045-6535</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">A(2)O system</Keyword>
+            <Keyword MajorTopicYN="N">Microbial diversity</Keyword>
+            <Keyword MajorTopicYN="N">Pharmaceutically active compounds</Keyword>
+            <Keyword MajorTopicYN="N">Removal efficiency</Keyword>
+            <Keyword MajorTopicYN="N">Wastewater treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200141</ArticleId>
+            <ArticleId IdType="pii">S0045-6535(19)31240-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chemosphere.2019.06.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

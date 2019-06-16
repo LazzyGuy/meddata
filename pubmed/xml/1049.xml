@@ -1,0 +1,95 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199280</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2275</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on cybernetics</Title>
+                <ISOAbbreviation>IEEE Trans Cybern</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Scalable Algorithm for Event-Triggered State Estimation With Unknown Parameters and Switching Topologies Over Sensor Networks.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TCYB.2019.2917543</ELocationID>
+            <Abstract>
+                <AbstractText>An event-triggered distributed state estimation problem is investigated for a class of discrete-time nonlinear stochastic systems with unknown parameters over sensor networks (SNs) subject to switched topologies. An event-triggered communication strategy is employed to govern the information broadcast and reduce the unnecessary resource consumption. Based on the adopted communication strategy, a distributed state estimator is designed to estimate the plant states and also identify the unknown parameters. In the framework of input-to-state stability, sufficient conditions with an average dwell time are established to ensure the boundedness of estimation errors in mean-square sense. In addition, the gains of the designed estimators are dependent on the solution of a set of matrix inequalities whose dimensions are unrelated to the scale of underlying SNs, thereby fulfill the scalability requirement. Finally, an illustrative simulation is utilized to verify the feasibility of the proposed design scheme.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ding</LastName>
+                    <ForeName>Derui</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zidong</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Qing-Long</ForeName>
+                    <Initials>QL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Cybern</MedlineTA>
+            <NlmUniqueID>101609393</NlmUniqueID>
+            <ISSNLinking>2168-2267</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199280</ArticleId>
+            <ArticleId IdType="doi">10.1109/TCYB.2019.2917543</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,96 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198664</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-5072</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Taiwan journal of ophthalmology</Title>
+                <ISOAbbreviation>Taiwan J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Superior segmental optic hypoplasia as a differential diagnosis of glaucoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/tjo.tjo_28_19</ELocationID>
+            <Abstract>
+                <AbstractText>Superior segmental optic hypoplasia (SSOH) is a congenital anomaly affecting the optic nerve head and retina. Although the conventional characterization of SSOH emphasizes the relatively superior entrance of the central retinal artery, the pallor of the superior optic disc, a superior peripapillary halo, and thinning of the superior nerve fiber layer, we encounter many cases with rim thinning in the superior nasal region that corresponds to a nerve fiber layer defect and an inferior wedge-shaped visual field defect connecting to the blind spot. However, among Asians, such cases usually lack pallor of the superior optic disc and more resemble glaucomatous optic neuropathy. We found the prevalence of SSOH to be 0.2%/eye and 0.3%/case among Japanese. We also noted that approximately half of all SSOH eyes show visual field changes. SSOH is an important differential diagnosis of glaucoma, especially normal-tension glaucoma, in Asian populations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamamoto</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Gifu University Graduate School of Medicine, Gifu, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Taiwan J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101582127</NlmUniqueID>
+            <ISSNLinking>2211-5056</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Glaucoma</Keyword>
+            <Keyword MajorTopicYN="N">nerve fiber layer defect</Keyword>
+            <Keyword MajorTopicYN="N">optic nerve head</Keyword>
+            <Keyword MajorTopicYN="N">superior segmental optic hypoplasia</Keyword>
+        </KeywordList>
+        <CoiStatement>T. Yamamoto, Grant Support (Alcon Japan, Alcon Pharma, Otsuka, Pfizer, Santen, Senju), Consultant/Advisor (Alcon Japan, Alcon Pharma, Astellas Pharma, Glaukos Japan, Inotek, Kowa, Otsuka, Pfizer, pH Pharma, Rohto, Santen, Seed, Senju), Lecture Fees (Alcon Japan, Alcon Pharma, AMO Japan, CREWT Medical Systems, Glaukos Japan, Johnson and Johnson, Kowa, Novartis, Otsuka, Pfizer, Santen, Senju).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198664</ArticleId>
+            <ArticleId IdType="doi">10.4103/tjo.tjo_28_19</ArticleId>
+            <ArticleId IdType="pii">TJO-9-63</ArticleId>
+            <ArticleId IdType="pmc">PMC6557073</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

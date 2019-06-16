@@ -1,0 +1,125 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200131</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1298</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>233</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemosphere</Title>
+                <ISOAbbreviation>Chemosphere</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integrative analysis of mRNAs, miRNAs and lncRNAs in urban particulate matter SRM 1648a-treated EA.hy926 human endothelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>711-723</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0045-6535(19)31216-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chemosphere.2019.05.294</ELocationID>
+            <Abstract>
+                <AbstractText>Considering the unique physiochemical properties of concentrated ambient particles (CAPs), it is extremely important to be aware of their toxic effect. A number of studies have investigated the vascular toxicity of CAPs, while potential mechanisms are still not clearly defined. Differentially expressed mRNAs, miRNAs and lncRNAs were analyzed in EA.hy926 endothelial cells after incubation with 2.5 and 10 μg/cm<sup>2</sup> urban particulate matter SRM 1648a for 24 h. As a result, the microarray profile showed that 97 mRNA, 18 miRNA, and 356 lncRNA transcripts are dysregulated in 2.5 μg/cm<sup>2</sup> group. And the expression of 440 mRNAs, 40 miRNAs, and 1283 lncRNAs significantly changes in 10 μg/cm<sup>2</sup> group. Through the miRNA-mRNA-transcription factor (TF) network, hsa-miR-128-3p, miR-18-5p and miR-376a-3p, miR-4306 as well, are key miRNAs in SRM 1648a-induced endothelial damage. Withal, lncRNA-mRNA-TF analysis hinted the importance of lncRNA T018951 and T200627. Subsequently, competing endogenous RNA (CeRNA) network was constructed for the comprehensive analysis of the regulation dogma between mRNAs and non-coding RNAs. It suggested that 35 GO terms and 1 KEGG pathway are significantly enriched in 2.5 μg/cm<sup>2</sup> group. Meanwhile, 185 terms and 18 pathways are important in 10 μg/cm<sup>2</sup> group. Pathway analysis revealed that Gap junction, Ras and MAPK signaling pathways are most significant in endothelial cell lesion. In conclusion, integrative analysis of mRNA and non-coding RNA in human endothelial cells suggests that a vast majority of non-coding RNAs regulate vascular toxicity in response to SRM 1648a. Moreover, it highlights the need for comprehensive analysis of latent mechanisms through a combination of signaling pathways with epigenetics studies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Environmental Medicine Engineering of Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu, 210009, China; Jiangsu Key Laboratory for Biomaterials and Devices, Southeast University, Nanjing, Jiangsu, 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Meng</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Environmental Medicine Engineering of Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu, 210009, China; Jiangsu Key Laboratory for Biomaterials and Devices, Southeast University, Nanjing, Jiangsu, 210009, China. Electronic address: tm@seu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chemosphere</MedlineTA>
+            <NlmUniqueID>0320657</NlmUniqueID>
+            <ISSNLinking>0045-6535</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiovascular toxicology</Keyword>
+            <Keyword MajorTopicYN="N">CeRNA</Keyword>
+            <Keyword MajorTopicYN="N">Fine particulate matter</Keyword>
+            <Keyword MajorTopicYN="N">Non-coding RNA</Keyword>
+            <Keyword MajorTopicYN="N">Transcription factor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200131</ArticleId>
+            <ArticleId IdType="pii">S0045-6535(19)31216-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chemosphere.2019.05.294</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

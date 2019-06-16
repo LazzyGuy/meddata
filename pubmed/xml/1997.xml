@@ -1,0 +1,162 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198120</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1467-1107</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiology in the young</Title>
+                <ISOAbbreviation>Cardiol Young</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Living the heart in three dimensions: applications of 3D printing in CHD.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S1047951119000398</ELocationID>
+            <Abstract>
+                <AbstractText>Advances in biomedical engineering have led to three-dimensional (3D)-printed models being used for a broad range of different applications. Teaching medical personnel, communicating with patients and relatives, planning complex heart surgery, or designing new techniques for repair of CHD via cardiac catheterisation are now options available using patient-specific 3D-printed models. The management of CHD can be challenging owing to the wide spectrum of morphological conditions and the differences between patients. Direct visualisation and manipulation of the patients' individual anatomy has opened new horizons in personalised treatment, providing the possibility of performing the whole procedure in vitro beforehand, thus anticipating complications and possible outcomes. In this review, we discuss the workflow to implement 3D printing in clinical practice, the imaging modalities used for anatomical segmentation, the applications of this emerging technique in patients with structural heart disease, and its limitations and future directions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Forte</LastName>
+                    <ForeName>Mari Nieves Velasco</ForeName>
+                    <Initials>MNV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Imaging Sciences and Biomedical Engineering,King's College,London,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hussain</LastName>
+                    <ForeName>Tarique</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics,UT Southwestern Medical Center,1935 Medical District Drive, Dallas, TX,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roest</LastName>
+                    <ForeName>Arno</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Cardiology,Leiden University Medical Center,Leiden,The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gomez</LastName>
+                    <ForeName>Gorka</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Pathology Unit,Institute of Biomedicine of Seville, IBIS, Virgen del Rocio University Hospital/CSIC/University of Seville,Sevilla,Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jongbloed</LastName>
+                    <ForeName>Monique</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Cardiology,Leiden University Medical Center,Leiden,The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simpson</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Imaging Sciences and Biomedical Engineering,King's College,London,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pushparajah</LastName>
+                    <ForeName>Kuberan</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Imaging Sciences and Biomedical Engineering,King's College,London,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Byrne</LastName>
+                    <ForeName>Nick</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Imaging Sciences and Biomedical Engineering,King's College,London,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valverde</LastName>
+                    <ForeName>Israel</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5661-9900</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Imaging Sciences and Biomedical Engineering,King's College,London,UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cardiol Young</MedlineTA>
+            <NlmUniqueID>9200019</NlmUniqueID>
+            <ISSNLinking>1047-9511</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3D printing</Keyword>
+            <Keyword MajorTopicYN="N">CHD</Keyword>
+            <Keyword MajorTopicYN="N">cardiac magnetic resonance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198120</ArticleId>
+            <ArticleId IdType="pii">S1047951119000398</ArticleId>
+            <ArticleId IdType="doi">10.1017/S1047951119000398</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

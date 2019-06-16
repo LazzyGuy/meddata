@@ -1,0 +1,202 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200106</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7544</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience</Title>
+                <ISOAbbreviation>Neuroscience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Galangin prevents increased susceptibility to pentylenetetrazol-stimulated seizures by prostaglandin E2.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0306-4522(19)30401-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroscience.2019.06.002</ELocationID>
+            <Abstract>
+                <AbstractText>Epilepsy is one of the most common chronic neurological diseases. It is characterized by recurrent epileptic seizures, where one-third of patients are refractory to existing treatments. Evidence revealed the association between neuroinflammation and increased susceptibility to seizures since there is a pronounced increase in the expression of key inflammatory mediators, such as prostaglandin E<sub>2</sub> (PGE<sub>2</sub>), during seizures. The purpose of this study was to investigate whether PGE<sub>2</sub> increases susceptibility to pentylenetetrazol-induced (PTZ) seizures. Subsequently, we evaluated if the flavonoid isolated from the plant Piper aleyreanum (galangin) presented any anticonvulsive effects. Our results demonstrated that the group treated with PGE<sub>2</sub> increased susceptibility to PTZ and caused myoclonic and generalized seizures, which increased seizure duration and electroencephalographic wave amplitudes. Furthermore, treatment with PGE<sub>2</sub> and PTZ increased IBA-1 (microglial marker), GFAP (astrocytic marker), 4-HNE (lipid peroxidation marker), VCAM-1 (vascular cell adhesion molecule 1), and p-PKAIIα (phosphorylated cAMP-dependent protein kinase) immunocontent. Indeed, galangin prevented behavioral and electroencephalographic seizures, reactive species production, decreased microglial and astrocytic immunocontent, as well as decreased VCAM-1 immunocontent and p-PKA/PKA ratio induced by PGE<sub>2</sub>/PTZ. Therefore, this study suggests galangin may have an antagonizing role on PGE<sub>2</sub>-induced effects, reducing cerebral inflammation and protecting from excitatory effects evidenced by administrating PGE<sub>2</sub> and PTZ. However, further studies are needed to investigate the clinical implications of the findings and their underlying mechanisms.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Zorzi</LastName>
+                    <ForeName>Viviane Nogueira</ForeName>
+                    <Initials>VN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Neuropsiquiatria, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Programa de Pós-graduação em Ciências Biológicas, Bioquímica Toxicológica, Centro de Ciências Naturais e Exatas, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haupenthal</LastName>
+                    <ForeName>Fernanda</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Neuropsiquiatria, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardoso</LastName>
+                    <ForeName>Alexandra Seide</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Neuropsiquiatria, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cassol</LastName>
+                    <ForeName>Gustavo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Facundo</LastName>
+                    <ForeName>Valdir A</ForeName>
+                    <Initials>VA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Química, Universidade Federal de Rondônia, Porto Velho, RO, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bálico</LastName>
+                    <ForeName>Laudir J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Química, Universidade Federal de Rondônia, Porto Velho, RO, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lima</LastName>
+                    <ForeName>Daniella K S</ForeName>
+                    <Initials>DKS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Química, Universidade Federal de Rondônia, Porto Velho, RO, Brazil; Laboratório de Neurobiologia da Dor e Inflamação, Centro de Ciências Biológicas, Universidade Federal de Santa Catarina, Florianópolis, SC, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Adair Roberto Soares</ForeName>
+                    <Initials>ARS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Neurobiologia da Dor e Inflamação, Centro de Ciências Biológicas, Universidade Federal de Santa Catarina, Florianópolis, SC, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Furian</LastName>
+                    <ForeName>Ana Flavia</ForeName>
+                    <Initials>AF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Neurotoxicidade e Psicofarmacologia, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oliveira</LastName>
+                    <ForeName>Mauro Schneider</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Neurotoxicidade e Psicofarmacologia, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Royes</LastName>
+                    <ForeName>Luiz Fernando Freire</ForeName>
+                    <Initials>LFF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Programa de Pós-graduação em Ciências Biológicas, Bioquímica Toxicológica, Centro de Ciências Naturais e Exatas, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fighera</LastName>
+                    <ForeName>Michele Rechia</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Neuropsiquiatria, Centro de Ciências da Saúde, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Laboratório de Bioquímica do Exercício, Centro de Educação Física e Desportos, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil; Programa de Pós-graduação em Ciências Biológicas, Bioquímica Toxicológica, Centro de Ciências Naturais e Exatas, Universidade Federal de Santa Maria, Santa Maria, RS, Brazil. Electronic address: mrfighera@yahoo.com.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroscience</MedlineTA>
+            <NlmUniqueID>7605074</NlmUniqueID>
+            <ISSNLinking>0306-4522</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cerebral cortex.</Keyword>
+            <Keyword MajorTopicYN="N">galangin</Keyword>
+            <Keyword MajorTopicYN="N">neuroinflammation</Keyword>
+            <Keyword MajorTopicYN="N">pentylenetetrazol</Keyword>
+            <Keyword MajorTopicYN="N">prostaglandin E(2)</Keyword>
+            <Keyword MajorTopicYN="N">seizures</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200106</ArticleId>
+            <ArticleId IdType="pii">S0306-4522(19)30401-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroscience.2019.06.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

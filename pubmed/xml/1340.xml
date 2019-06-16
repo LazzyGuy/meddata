@@ -1,0 +1,207 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198947</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1541-6100</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of nutrition</Title>
+                <ISOAbbreviation>J. Nutr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Relatively Low Maternal Aflatoxin Exposure Is Associated with Small-for-Gestational-Age but Not with Other Birth Outcomes in a Prospective Birth Cohort Study of Nepalese Infants.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">nxz122</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jn/nxz122</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Exposure to aflatoxin has garnered increased attention as a possible contributor to adverse birth outcomes.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to investigate the relation of maternal aflatoxin exposure with adverse birth outcomes such as birth weight, birth length, anthropometric z scores, low birth weight (LBW), small-for-gestational-age (SGA), stunting, and preterm birth (PTB).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This study used maternal and newborn data from the AflaCohort Study, an ongoing birth cohort study in Banke, Nepal (n = 1621). Data on aflatoxin B1 (AFB1)-lysine adducts in maternal serum were collected once during pregnancy (at mean ± SD: 136 ± 43 d of gestation). Maternal serum AFB1-lysine adduct concentration was measured via HPLC. Linear and logistic regression analyses were used to determine if maternal aflatoxin exposure was associated with 1) birth weight and length (primary outcomes) and 2) anthropometric z scores, LBW (weight &lt;2.5 kg), SGA (weight &lt;10th percentile for gestational age and sex), stunting at birth (length-for-age z score less than -2), or PTB (born &lt;37 weeks of gestation) (secondary outcomes).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The geometric mean of maternal serum AFB1-lysine adduct concentration was 1.37 pg/mg albumin (95% CI: 1.30, 1.44 pg/mg albumin). Twenty percent of infants were of LBW and 32% were SGA. Sixteen percent of infants were stunted at birth. In addition, 13% of infants were born preterm. In logistic multivariate regression models, mean maternal serum AFB1-lysine adduct concentrations were significantly associated with SGA (OR: 1.13; 95% CI: 1.00, 1.27; P &lt; 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Findings from this study suggest a small but significant association between serum AFB1-lysine adduct concentrations in pregnant women and SGA. Maternal aflatoxin exposure was not associated with other birth outcomes. These results highlight the need for future research on a threshold level of aflatoxin exposure needed to produce detectable adverse birth outcomes. This trial was registered at clinicaltrials.gov as NCT03312049.</AbstractText>
+                <CopyrightInformation>Copyright © American Society for Nutrition 2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andrews-Trevino</LastName>
+                    <ForeName>Johanna Y</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webb</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shively</LastName>
+                    <ForeName>Gerald</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Agricultural Economics, Purdue University, West Lafayette, IN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>Beatrice L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baral</LastName>
+                    <ForeName>Kedar</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Health Sciences, Patan Academy of Health Sciences, Lalitpur, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davis</LastName>
+                    <ForeName>Dale</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Keller International-Nepal, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paudel</LastName>
+                    <ForeName>Krishna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kanti Children's Hospital, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pokharel</LastName>
+                    <ForeName>Ashish</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Helen Keller International-Nepal, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shrestha</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jia-Sheng</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health Science, University of Georgia, Athens, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Shibani</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03312049</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nutr</MedlineTA>
+            <NlmUniqueID>0404243</NlmUniqueID>
+            <ISSNLinking>0022-3166</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Nepal</Keyword>
+            <Keyword MajorTopicYN="N">aflatoxin</Keyword>
+            <Keyword MajorTopicYN="N">birth outcomes</Keyword>
+            <Keyword MajorTopicYN="N">length</Keyword>
+            <Keyword MajorTopicYN="N">preterm</Keyword>
+            <Keyword MajorTopicYN="N">small-for-gestational-age</Keyword>
+            <Keyword MajorTopicYN="N">weight</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198947</ArticleId>
+            <ArticleId IdType="pii">5518965</ArticleId>
+            <ArticleId IdType="doi">10.1093/jn/nxz122</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

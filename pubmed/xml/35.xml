@@ -1,0 +1,177 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200385</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Magnetic resonance-guided focused ultrasound for ablation of mesial temporal epilepsy circuits: modeling and theoretical feasibility of a novel noninvasive approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.4.JNS182694</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.4.JNS182694</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The authors tested the feasibility of magnetic resonance-guided focused ultrasound (MRgFUS) ablation of mesial temporal lobe epilepsy (MTLE) seizure circuits. Up to one-third of patients with mesial temporal sclerosis (MTS) suffer from medically refractory epilepsy requiring surgery. Because current options such as open resection, laser ablation, and Gamma Knife radiosurgery pose potential risks, such as infection, hemorrhage, and ionizing radiation, and because they often produce visual or neuropsychological deficits, the authors developed a noninvasive MRgFUS ablation strategy for mesial temporal disconnection to mitigate these risks.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The authors retrospectively reviewed 3-T MRI scans obtained with diffusion tensor imaging (DTI). The study group included 10 patients with essential tremor (ET) who underwent pretreatment CT and MRI prior to MRgFUS, and 2 patients with MTS who underwent MRI. Fiber tracking of the fornix-fimbria pathway and inferior optic radiations was performed, ablation sites mimicking targets of open posterior hippocampal disconnection were modeled, and theoretical MRgFUS surgical plans were devised. Distances between the targets and optic radiations were measured, helmet angulations were prescribed, and the numbers of available MRgFUS array elements were calculated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Tractograms of fornix-fimbria and optic radiations were generated in all ET and MTS patients successfully. Of the 10 patients with both the CT and MRI data necessary for the analysis, 8 patients had adequate elements available to target the ablation site. A margin (mean 8.5 mm, range 6.5-9.8 mm) of separation was maintained between the target lesion and optic radiations.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">MRgFUS offers a noninvasive option for seizure tract disruption. DTI identifies fornix-fimbria and optic radiations to localize optimal ablation targets and critical surrounding structures, minimizing risk of postoperative visual field deficits. This theoretical modeling study provides the necessary groundwork for future clinical trials to apply this novel neurosurgical technique to patients with refractory MTLE and surgical contraindications, multiple prior surgeries, or other factors favoring noninvasive treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Parker</LastName>
+                    <ForeName>Whitney E</ForeName>
+                    <Initials>WE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Neurological Surgery and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weidman</LastName>
+                    <ForeName>Elizabeth K</ForeName>
+                    <Initials>EK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Radiology, NewYork-Presbyterian Hospital/Weill Cornell Medical Center, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chazen</LastName>
+                    <ForeName>J Levi</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Radiology, NewYork-Presbyterian Hospital/Weill Cornell Medical Center, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niogi</LastName>
+                    <ForeName>Sumit N</ForeName>
+                    <Initials>SN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Radiology, NewYork-Presbyterian Hospital/Weill Cornell Medical Center, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uribe-Cardenas</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Neurological Surgery and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaplitt</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Neurological Surgery and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffman</LastName>
+                    <ForeName>Caitlin E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of1Neurological Surgery and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AC-PC = anterior commissure–posterior commissure</Keyword>
+            <Keyword MajorTopicYN="N">ATL = anterior temporal lobectomy with an amygdalohippocampectomy</Keyword>
+            <Keyword MajorTopicYN="N">DTI = diffusion tensor imaging</Keyword>
+            <Keyword MajorTopicYN="N">ET = essential tremor</Keyword>
+            <Keyword MajorTopicYN="N">GK-SRS = Gamma Knife stereotactic radiosurgery</Keyword>
+            <Keyword MajorTopicYN="N">LITT = laser interstitial thermal therapy</Keyword>
+            <Keyword MajorTopicYN="N">MRgFUS = magnetic resonance–guided focused ultrasound</Keyword>
+            <Keyword MajorTopicYN="N">MTLE = mesial temporal lobe epilepsy</Keyword>
+            <Keyword MajorTopicYN="N">MTS = mesial temporal sclerosis</Keyword>
+            <Keyword MajorTopicYN="N">NCCT = noncontrast head CT</Keyword>
+            <Keyword MajorTopicYN="N">ROQS = Reproducible Objective Quantification Scheme</Keyword>
+            <Keyword MajorTopicYN="N">SAH = selective amygdalohippocampectomy</Keyword>
+            <Keyword MajorTopicYN="N">SLAH = stereotactic laser amygdalohippocampectomy</Keyword>
+            <Keyword MajorTopicYN="N">Vim = ventral intermediate thalamic nucleus</Keyword>
+            <Keyword MajorTopicYN="N">diffusion-tensor imaging</Keyword>
+            <Keyword MajorTopicYN="N">disconnection surgery</Keyword>
+            <Keyword MajorTopicYN="N">epilepsy</Keyword>
+            <Keyword MajorTopicYN="N">focused ultrasound</Keyword>
+            <Keyword MajorTopicYN="N">fornix-fimbria</Keyword>
+            <Keyword MajorTopicYN="N">mesial temporal sclerosis</Keyword>
+            <Keyword MajorTopicYN="N">tractography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200385</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.4.JNS182694</ArticleId>
+            <ArticleId IdType="pii">2019.4.JNS182694</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

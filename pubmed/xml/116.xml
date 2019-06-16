@@ -1,0 +1,136 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200297</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1271</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>68</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical biomechanics (Bristol, Avon)</Title>
+                <ISOAbbreviation>Clin Biomech (Bristol, Avon)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Forecasting the critical role of intermittent therapies for the control of bone resorption.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>128-136</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0268-0033(19)30020-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clinbiomech.2019.04.023</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Osteoporosis is a chronic metabolic disease characterized by an imbalance of bone resorption and formation, leading to bone fragility and increased susceptibility to fracture. Parathyroid hormone is approved therapy for the treatment of osteoporosis.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The intermittent therapy of parathyroid hormone requires accurate administration. Meta-analysis is conducted to draw a clear picture of the impact of intermittent therapy and dose rates relative to time, on the osteoporotic patients. A novel mathematical model is presented in this article synchronised with the parametric values, depicted from meta-analysis.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">Results obtained from the mathematical model are in close agreement with the results obtained from the clinical trials. The model can be used to forecast the drug potency and dosage rates, to control the vicious cycle of osteoporosis.</AbstractText>
+                <AbstractText Label="INTERPRETATIONS" NlmCategory="CONCLUSIONS">The intermittent administration of parathyroid hormone, rather than the continuous administration, is more effective, furthermore it is also concluded that a mathematical model, linked with the extensive literature of clinical trials, using meta-analysis can help in drug administration and future clinical studies of drug development.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Idrees</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Comsats University Islamabad, Lahore Campus, 54000, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohail</LastName>
+                    <ForeName>Ayesha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Comsats University Islamabad, Lahore Campus, 54000, Pakistan. Electronic address: asohail@ciitlahore.edu.pk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Javed</LastName>
+                    <ForeName>Sana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Comsats University Islamabad, Lahore Campus, 54000, Pakistan; Department of Computational Biology, Sci Life Lab., Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Biomech (Bristol, Avon)</MedlineTA>
+            <NlmUniqueID>8611877</NlmUniqueID>
+            <ISSNLinking>0268-0033</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomechanics</Keyword>
+            <Keyword MajorTopicYN="N">Bone remodeling</Keyword>
+            <Keyword MajorTopicYN="N">Mathematical modeling</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Osteoporosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200297</ArticleId>
+            <ArticleId IdType="pii">S0268-0033(19)30020-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clinbiomech.2019.04.023</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

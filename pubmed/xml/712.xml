@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199648</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5215</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. A</Title>
+                <ISOAbbreviation>J Phys Chem A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electronic Structure of Liquid Methanol and Ethanol From Polarization-Dependent Two-Photon Absorption Spectroscopy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpca.9b04040</ELocationID>
+            <Abstract>
+                <AbstractText>Two photon absorption (2PA) spectra of liquid methanol and ethanol are reported for the energy range 7-10 eV - from the first electronic excitation to close to the liquid phase ionization potential. The spectra give detailed information on the electronic structure of these alcohols in the bulk liquid. The focus of this paper is to examine the electronic structure change compared to water on substitution of a hydrogen by an alkyl group. Continuous 2PA spectra are recorded in the broadband pump-probe fashion, with a fixed pump pulse in the UV region and white light continuum as a probe. Pump pulses of two different energies, 4.6 eV and 6.2 eV are used to cover the spectral range up to 10 eV. In addition, theoretical 2PA cross sections for both molecules isolated in the gas phase are computed by the equation of motion coupled-cluster method with single and double substitutions (EOM-CCSD). These computational results are used to assign both the experimental 2PA and literature one-photon linear absorption spectra. The most intense spectral features are due to transitions to the Rydberg states and the 2PA spectra are dominated by the totally symmetric 3pz ← 2pz transition in both alcohols. The experimental 2PA spectra are compared with the simulated 2PA spectra based on ab initio calculations that reveal a general blue-shift of the excited transitions upon solvation. The effective 2PA thresholds in methanol and ethanol decrease to 6.9 eV, compared with 7.8 eV for water. Analysis of the 2PA polarization ratio leads us to conclude that the excited states of ethanol deviate more markedly from water in the lower energy region, compared with methanol. The polarization dependence of the 2PA spectra reveal the symmetries of the excited states within the measured energy range. Natural transition orbital calculations are performed to visualize the nature of the transitions and the orbitals participating during electronic excitation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharyya</LastName>
+                    <ForeName>Dhritiman</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yuyuan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elles</LastName>
+                    <ForeName>Christopher G</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bradforth</LastName>
+                    <ForeName>Stephen E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem A</MedlineTA>
+            <NlmUniqueID>9890903</NlmUniqueID>
+            <ISSNLinking>1089-5639</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199648</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpca.9b04040</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

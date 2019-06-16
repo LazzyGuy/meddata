@@ -1,0 +1,118 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198129</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-6348</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of technology assessment in health care</Title>
+                <ISOAbbreviation>Int J Technol Assess Health Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How to Deal with the Inevitable: Generating Real-World Data and Using Real-World Evidence for HTA Purposes - From Theory to Action.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0266462319000400</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Real-world evidence (RWE), derived from real-world data (RWD), is already used, to some extent, for health technology assessment (HTA) purposes. With the increased availability of RWD, there is potential for more widespread use but also challenges ensuring reliable RWE for HTA. Opportunities to overcome key challenges, identified at a scoping meeting, were discussed during the 2019 HTA international (HTAi) Global Policy Forum (GPF).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Reflection of discussions using Design Thinking (an interactive process aimed to solve complex problems) between seventy-three representatives from not-for-profit, for-profit organizations, and HTAi leadership. The discussions were informed by a background paper, and presentations from three invited keynote speakers and eleven GPF members.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Several options were listed for addressing the identified key challenges: quality and acceptability, governance and accountability, transferability, and informing decision making. The GPF emphasized that the HTA community should first understand what questions could be answered with RWE. Additionally, more clarity on methods, standards, streamlining RWD collection, data sharing across jurisdictions, replication of RWD, and expert analysis were mentioned as important priorities.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The HTA community is currently standing at a cross-road as it is not yet fully equipped to address these key challenges. It is, therefore, time for action. The community should start aligning on what is the best source of evidence according to purpose and how the data should be collected to create reliable evidence. It should also initiate the development of actions and guidance to properly develop and manage RWD/RWE to inform decision making across the technology lifecycle.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Oortwijn</LastName>
+                    <ForeName>Wija</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radboud University Medical Center,Department for Health Evidence,Nijmegen,The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sampietro-Colom</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Clinic de Barcelona,Barcelona,Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trowman</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Technology Assessment international,Edmonton,Alberta,Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Technol Assess Health Care</MedlineTA>
+            <NlmUniqueID>8508113</NlmUniqueID>
+            <ISSNLinking>0266-4623</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">challenges</Keyword>
+            <Keyword MajorTopicYN="N">health technology assessment</Keyword>
+            <Keyword MajorTopicYN="N">opportunities</Keyword>
+            <Keyword MajorTopicYN="N">real-world data</Keyword>
+            <Keyword MajorTopicYN="N">real-world evidence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198129</ArticleId>
+            <ArticleId IdType="pii">S0266462319000400</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0266462319000400</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

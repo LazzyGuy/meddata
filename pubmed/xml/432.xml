@@ -1,0 +1,145 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199965</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Free radical biology &amp; medicine</Title>
+                <ISOAbbreviation>Free Radic. Biol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Insight into the cellular effects of nitrated phospholipids: Evidence for pleiotropic mechanisms of action.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0891-5849(19)30364-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.freeradbiomed.2019.06.003</ELocationID>
+            <Abstract>
+                <AbstractText>Nitrated phospholipids have been recently identified in biological systems and showed to display anti-oxidant and anti-inflammatory potential in models of inflammation in vitro. Here, we have explored the effects of nitrated 1-palmitoyl-2-oleyl-phosphatidyl choline (NO<sub>2</sub>-POPC) in cellular models. We have observed that NO<sub>2</sub>-POPC, but not POPC, induces cellular changes consisting in cytoskeletal rearrangement and cell shrinking, and ultimately, loss of cell adhesion or impaired cell attachment. NO<sub>2</sub>-POPC releases NO in vitro and induces accumulation of NO in cells. Nevertheless, the effects of NO<sub>2</sub>-POPC are not superimposable with those of NO donors, which points to distinctive mechanisms of action. Notably, they show a stronger parallelism, although not complete overlap, with the effects of nitrated fatty acids. Interestingly, redistribution of vimentin by NO<sub>2</sub>-POPC is attenuated in a C328S mutant, thus indicating that this residue may be a target for direct or indirect modification in NO<sub>2</sub>-POPC-treated cells. Additionally, NO<sub>2</sub>-POPC interacts with several typical lipoxidation targets in vitro, including vimentin and PPARγ constructs, likely through cysteine residues. Therefore, nitrated phospholipids emerge as potential novel electrophilic lipid mediators with selective actions.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Duarte</LastName>
+                    <ForeName>Sofia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Structural and Chemical Biology, Centro de Investigaciones Biológicas, Consejo Superior de Investigaciones Científicas, 28040, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melo</LastName>
+                    <ForeName>Tânia</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mass Spectrometry Center &amp; QOPNA, Department of Chemistry, University of Aveiro, 3810-193 Aveiro, Portugal; Department of Chemistry &amp; CESAM&amp; ECOMARE, University of Aveiro, 3810-193, Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Domingues</LastName>
+                    <ForeName>Rosário</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mass Spectrometry Center &amp; QOPNA, Department of Chemistry, University of Aveiro, 3810-193 Aveiro, Portugal; Department of Chemistry &amp; CESAM&amp; ECOMARE, University of Aveiro, 3810-193, Aveiro, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Dios Alché</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Reproductive Biology and Advanced Imaging Laboratory, Estación Experimental del Zaidín, Consejo Superior de Investigaciones Científicas, 18008, Granada, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez-Sala</LastName>
+                    <ForeName>Dolores</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Structural and Chemical Biology, Centro de Investigaciones Biológicas, Consejo Superior de Investigaciones Científicas, 28040, Madrid, Spain. Electronic address: dperezsala@cib.csic.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Free Radic Biol Med</MedlineTA>
+            <NlmUniqueID>8709159</NlmUniqueID>
+            <ISSNLinking>0891-5849</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Actin</Keyword>
+            <Keyword MajorTopicYN="N">Electrophilic lipid mediators</Keyword>
+            <Keyword MajorTopicYN="N">Lipoxidation</Keyword>
+            <Keyword MajorTopicYN="N">Nitrated lipids</Keyword>
+            <Keyword MajorTopicYN="N">Vimentin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199965</ArticleId>
+            <ArticleId IdType="pii">S0891-5849(19)30364-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.freeradbiomed.2019.06.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

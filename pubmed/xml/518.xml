@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199871</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-1927</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of health politics, policy and law</Title>
+                <ISOAbbreviation>J Health Polit Policy Law</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Trends in State-Level Opinions toward the Affordable Care Act.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">7611635</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1215/03616878-7611635</ELocationID>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">This article argues that the devolution of the Affordable Care Act (ACA) to the states contributed to the slow progression of national public support for health care reform.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using small-area estimation techniques, the authors measured quarterly state ACA attitudes on five topics from 2009 to the start of the 2016 presidential election.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">Public support for the ACA increased after gubernatorial announcement of state-based exchanges. However, the adoption of federal or partnership marketplaces had virtually no effect on public opinion of the ACA and, in some cases, even decreased positive perceptions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The authors' analyses point to the complexities in mass preferences toward the ACA and policy feedback more generally. The slow movement of national ACA support was due partly to state-level variations in policy making. The findings suggest that, as time progresses, attitudes in Republican-leaning states with state-based marketplaces will become more positive toward the ACA, presumably as residents begin to experience the positive effects of the law. More broadly, this work highlights the importance of looking at state-level variations in opinions and policies.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 by Duke University Press.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pacheco</LastName>
+                    <ForeName>Julianna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Iowa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maltby</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Nevada, Las Vegas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Health Polit Policy Law</MedlineTA>
+            <NlmUniqueID>7609331</NlmUniqueID>
+            <ISSNLinking>0361-6878</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACA</Keyword>
+            <Keyword MajorTopicYN="N">health policy</Keyword>
+            <Keyword MajorTopicYN="N">policy feedback</Keyword>
+            <Keyword MajorTopicYN="N">public opinion</Keyword>
+            <Keyword MajorTopicYN="N">state trends in public opinion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199871</ArticleId>
+            <ArticleId IdType="pii">139048</ArticleId>
+            <ArticleId IdType="doi">10.1215/03616878-7611635</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

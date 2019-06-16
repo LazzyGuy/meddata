@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199421</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-3372</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nanoscale</Title>
+                <ISOAbbreviation>Nanoscale</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Thermal enhancement and quenching of upconversion emission in nanocrystals.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9nr02271f</ELocationID>
+            <Abstract>
+                <AbstractText>Photoluminescence is a powerful tool in temperature sensing. Recently, the application of upconversion (UC) nanocrystals (NCs) has shown great potential for nanothermometry due to high spatial resolution, superior accuracy, and its non-invasive nature. In addition to spectral changes upon heating, anomalous thermal enhancement of UC emission has been reported for UC NCs, but the underlying mechanism remains unclear. Here, we report on NaY(WO4)2 doped with the Er3+-Yb3+ UC couple in NCs and the bulk material, and investigate the temperature-dependent luminescence in both air and dry nitrogen. For UC NCs in air, strong thermal enhancement of UC emission is observed with good reversibility and accompanied by a lengthening of the decay time for the Er3+ UC emission and Yb3+ IR emission. In contrast, the measurements carried out on NCs in dry nitrogen demonstrate a transition from thermal enhancement in the first cycle to thermal quenching in the subsequent cycles. The thermal quenching is similar to that in bulk materials. Thermogravimetric analysis (TGA) and Fourier transform infrared (FT-IR) measurements reveal the presence of water coupled on the NC surface that evaporates upon heating up to ∼470 K but is readsorbed upon cooling. Based on these observations, we explain the anomalous thermal enhancement of UC NCs in air by quenching of the Yb3+ and Er3+ emissions via surface adsorbed water molecules. The present study highlights the importance of careful characterization of surface adsorbed molecules which is crucial for understanding the luminescence properties of NCs, and enables the exploration of UC NCs with higher quantum efficiencies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zijun</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8937-2975</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Condensed Matter and Interfaces, Debye Institute for Nanomaterials Science, Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands. A.Meijerink@uu.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christiansen</LastName>
+                    <ForeName>Jeppe</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy, Aarhus University, Ny Munkegade 120, DK-8000 Aarhus C, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wezendonk</LastName>
+                    <ForeName>Dennie</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inorganic Chemistry and Catalysis, Debye Institute for Nanomaterials Science, Utrecht University, Universiteitsweg 99, 3584 CG, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Xiaobin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Soft Condensed Matter, Debye Institute for Nanomaterials Science, Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Huis</LastName>
+                    <ForeName>Marijn A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Soft Condensed Matter, Debye Institute for Nanomaterials Science, Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meijerink</LastName>
+                    <ForeName>Andries</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3573-9289</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Condensed Matter and Interfaces, Debye Institute for Nanomaterials Science, Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands. A.Meijerink@uu.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nanoscale</MedlineTA>
+            <NlmUniqueID>101525249</NlmUniqueID>
+            <ISSNLinking>2040-3364</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199421</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9nr02271f</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

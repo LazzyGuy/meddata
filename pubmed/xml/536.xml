@@ -1,0 +1,178 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199852</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7374</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS pathogens</Title>
+                <ISOAbbreviation>PLoS Pathog.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rab32 GTPase, as a direct target of miR-30b/c, controls the intracellular survival of Burkholderia pseudomallei by regulating phagosome maturation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1007879</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.ppat.1007879</ELocationID>
+            <Abstract>
+                <AbstractText>Burkholderia pseudomallei is a gram-negative, facultative intracellular bacterium, which causes a disease known as melioidosis. Professional phagocytes represent a crucial first line of innate defense against invading pathogens. Uptake of pathogens by these cells involves the formation of a phagosome that matures by fusing with early and late endocytic vesicles, resulting in killing of ingested microbes. Host Rab GTPases are central regulators of vesicular trafficking following pathogen phagocytosis. However, it is unclear how Rab GTPases interact with B. pseudomallei to regulate the transport and maturation of bacterial-containing phagosomes. Here, we showed that the host Rab32 plays an important role in mediating antimicrobial activity by promoting phagosome maturation at an early phase of infection with B. pseudomallei. And we demonstrated that the expression level of Rab32 is increased through the downregulation of the synthesis of miR-30b/30c in B. pseudomallei infected macrophages. Subsequently, we showed that B. pseudomallei resides temporarily in Rab32-positive compartments with late endocytic features. And Rab32 enhances phagosome acidification and promotes the fusion of B. pseudomallei-containing phagosomes with lysosomes to activate cathepsin D, resulting in restricted intracellular growth of B. pseudomallei. Additionally, Rab32 mediates phagosome maturation depending on its guanosine triphosphate/guanosine diphosphate (GTP/GDP) binding state. Finally, we report the previously unrecognized role of miR-30b/30c in regulating B. pseudomallei-containing phagosome maturation by targeting Rab32 in macrophages. Altogether, we provide a novel insight into the host immune-regulated cellular pathway against B. pseudomallei infection is partially dependent on Rab32 trafficking pathway, which regulates phagosome maturation and enhances the killing of this bacterium in macrophages.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Zhi-Qiang</ForeName>
+                    <Initials>ZQ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2150-2643</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Cheng-Long</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Meng-Ling</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Xiao-Xue</ForeName>
+                    <Initials>XX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jian-Gao</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mao</LastName>
+                    <ForeName>Chan</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mao</LastName>
+                    <ForeName>Xu-Hu</ForeName>
+                    <Initials>XH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology and Immunology, College of Pharmacy and Medical Laboratory &amp; Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Pathog</MedlineTA>
+            <NlmUniqueID>101238921</NlmUniqueID>
+            <ISSNLinking>1553-7366</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199852</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1007879</ArticleId>
+            <ArticleId IdType="pii">PPATHOGENS-D-19-00013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

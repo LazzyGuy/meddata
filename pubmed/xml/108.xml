@@ -1,0 +1,167 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200305</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for unmonitored coal ash spills in Sutton Lake, North Carolina: Implications for contamination of lake ecosystems.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1090-1103</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32221-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.05.188</ELocationID>
+            <Abstract>
+                <AbstractText>Coal combustion residuals (CCRs, also known as &quot;coal ash&quot;) contain high concentrations of toxic and carcinogenic elements that can pose ecological and human health risks upon their release into the environment. About half of the CCRs that are generated annually in the U.S. are stored in coal ash impoundments and landfills, in most cases adjacent to coal plants and waterways. Leaking of coal ash ponds and CCR spills are major environmental concerns. One factor which may impact the safety of CCRs stored in impoundments and landfills is the storage area's predisposition to flooding. The southeastern U.S., in particular, has a large number of coal ash impoundments located in areas that are vulnerable to flooding. In order to test for the possible presence of CCR solids in lake sediments following Hurricane Florence, we analyzed the magnetic susceptibility, microscopic screening, trace element composition, and strontium isotope ratios of bottom sediments collected in 2015 and in 2018 from Sutton Lake in eastern North Carolina and compared them to a reference lake. The results suggest multiple, apparently previously unmonitored, CCR spills into Sutton Lake from adjacent CCR storage sites. The enrichment of metals in Sutton Lake sediments, particularly those with known ecological impact such as As, Se, Cu, Sb, Ni, Cd, V, and Tl, was similar to or even higher than those in stream sediments impacted by the Tennessee Valley Authority (TVA) in Kingston, Tennessee, and the Dan River, North Carolina coal ash spills, and exceeded ecological screening standards for sediments. High levels of contaminants were also found in leachates extracted from Sutton Lake sediments and co-occurring pore water, reflecting their mobilization to the ambient environment. These findings highlight the risks of large-scale unmonitored spills of coal ash solids from storage facilities following major storm events and contamination of nearby water resources throughout the southeastern U.S.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vengosh</LastName>
+                    <ForeName>Avner</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States. Electronic address: vengosh@duke.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cowan</LastName>
+                    <ForeName>Ellen A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Geological and Environmental Sciences, Appalachian State University, Boone, NC 28608, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coyte</LastName>
+                    <ForeName>Rachel M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kondash</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brandt</LastName>
+                    <ForeName>Jessica E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dwyer</LastName>
+                    <ForeName>Gary S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nicholas School of the Environment, Duke University, Durham, NC 27708, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Coal combustion residuals</Keyword>
+            <Keyword MajorTopicYN="N">Contamination</Keyword>
+            <Keyword MajorTopicYN="N">Geochemical tracers</Keyword>
+            <Keyword MajorTopicYN="N">Hurricane Florence</Keyword>
+            <Keyword MajorTopicYN="N">Lake sediments</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic susceptibility</Keyword>
+            <Keyword MajorTopicYN="N">Spills</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200305</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32221-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.05.188</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

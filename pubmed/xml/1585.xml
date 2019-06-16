@@ -1,0 +1,198 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198626</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification and characterization of mRNAs and lncRNAs in the uterus of polytocous and monotocous Small Tail Han sheep (<i>Ovis aries</i>).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6938</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6938</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Long non-coding RNAs (lncRNAs) regulate endometrial secretion and uterine volume. However, there is little research on the role of lncRNAs in the uterus of Small Tail Han sheep (<i>FecB</i>++). Herein, RNA-seq was used to comparatively analyze gene expression profiles of uterine tissue between polytocous and monotocous sheep (<i>FecB</i>++) in follicular and luteal phases.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">To identify lncRNA and mRNA expressed in the uterus, the expression of lncRNA and mRNA in the uterus of Small Tail Han sheep (<i>FecB</i>++) from the polytocous group (<i>n</i> = 6) and the monotocous group (<i>n</i> = 6) using RNA-sequencing and real-time polymerase chain reaction (RT-PCR). Identification of differentially expressed lncRNAs and mRNAs were performed between the two groups and two phases . Gene ontology (GO) and pathway enrichment analyses were performed to analyze the biological functions and pathways for the differentially expressed mRNAs. LncRNA-mRNA co-expression network was constructed to further analyses the function of related genes.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">In the follicular phase, 473 lncRNAs and 166 mRNAs were differentially expressed in polytocous and monotocous sheep; in the luteal phase, 967 lncRNAs and 505 mRNAs were differentially expressed in polytocous and monotocous sheep. GO and KEGG enrichment analysis showed that the differentially expressed lncRNAs and their target genes are mainly involved in ovarian steroidogenesis, retinol metabolism, the oxytocin signaling pathway, steroid hormone biosynthesis, and the Foxo signaling pathway. Key lncRNAs may regulate reproduction by regulating genes involved in these signaling pathways and biological processes. Specifically, <i>UGT1A1</i>, <i>LHB</i>, <i>TGFB1</i>, <i>TAB1</i>, and <i>RHOA</i>, which are targeted by <i>MSTRG</i>.<i>134747</i>, <i>MSTRG.82376</i>, <i>MSTRG.134749</i>, <i>MSTRG.134751</i>, and <i>MSTRG.134746</i>, may play key regulatory roles. These results offer insight into molecular mechanisms underlying sheep prolificacy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>La</LastName>
+                    <ForeName>Yongfu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gansu Agricultural University, College of Animal Science and Technology, Lanzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Jishun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Anhui Academy of Agricultural Sciences, Institute of Animal Husbandry and Veterinary Medicine, Hefei, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Xiaoyun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Di</LastName>
+                    <ForeName>Ran</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiangyu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Qiuyue</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Liping</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gansu Agricultural University, College of Animal Science and Technology, Lanzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaosheng</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Institute of Animal Sciences, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jinlong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Institute of Animal Sciences, Tianjin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Wenping</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chu</LastName>
+                    <ForeName>Mingxing</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chinese Academy of Agricultural Sciences, Key Laboratory of Animal Genetics and Breeding and Reproduction of Ministry of Agriculture, Institute of Animal Science, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">LncRNAs</Keyword>
+            <Keyword MajorTopicYN="N">Prolificacy</Keyword>
+            <Keyword MajorTopicYN="N">RNA-Seq</Keyword>
+            <Keyword MajorTopicYN="N">Small Tail Han sheep</Keyword>
+            <Keyword MajorTopicYN="N">Uterus</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198626</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6938</ArticleId>
+            <ArticleId IdType="pii">6938</ArticleId>
+            <ArticleId IdType="pmc">PMC6535221</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

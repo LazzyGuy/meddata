@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199458</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7197</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of clinical endocrinology and metabolism</Title>
+                <ISOAbbreviation>J. Clin. Endocrinol. Metab.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential effects of oral boluses of vitamin D2 versus vitamin D3 on vitamin D metabolism: a randomized controlled trial.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">jc.2019-00207</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/jc.2019-00207</ELocationID>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Vitamin D2 and vitamin D3 have been hypothesized to exert differential effects on vitamin D metabolism.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare the influence of administering vitamin D2 vs vitamin D3 on metabolism of vitamin D3.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We measured baseline and 4-month serum concentrations of vitamin D3, 25-hydroxyvitamin D3 (25[OH]D3), 25-hydroxyvitamin D2, 24R,25-dihydroxyvitamin D3 (24R,25[OH]2D3), 1α,25-dihydroxyvitamin D3 (1α,25[OH]2D3) and 4β,25-dihydroxyvitamin D3 (4β,25[OH]2D3) in 52 adults randomized to receive a total of four oral bolus doses of 2.5 mg vitamin D2 (n=28) or vitamin D3 (n=24) over four months. Metabolite-to-parent compound ratios were calculated to estimate hydroxylase activity. Pairwise before-versus-after comparisons were made to evaluate effects of vitamin D2 and vitamin D3 on metabolism of vitamin D. Mean post-supplementation metabolite-to-parent ratios were then compared between groups.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Vitamin D2 was less effective than vitamin D3 in elevating total 25(OH)D concentration. Vitamin D2 suppressed mean 4-month serum concentrations of 25(OH)D3, 24R,25(OH)2D3, 1α,25(OH)2D3 and 4β,25(OH)2D3 and mean ratios of 25(OH)D3-to-D3 and 1α,25(OH)2D3-to-25(OH)D3, while increasing the mean ratio of 24R,25(OH)2D3-to-25(OH)D3. Vitamin D3 increased mean 4-month serum concentrations of 25(OH)D3, 24R,25(OH)2D3, 1α,25(OH)2D3 and 4β,25(OH)2D3, and the mean ratio of 24R,25(OH)2D3-to-25(OH)D3. Participants receiving vitamin D2 had lower mean post-supplementation ratios of 25(OH)D3-to-vitamin D3 and 1α,25(OH)2D3-to-25(OH)D3 than those receiving vitamin D3. Mean post-supplementation ratios of 24R,25(OH)2D3-to-25(OH)D3 and 4β,25(OH)2D3-to-25(OH)D3 did not differ between groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Bolus-dose vitamin D2 is less effective than bolus-dose vitamin D3 in elevating total serum 25(OH)D concentration. Administration of vitamin D2 reduces 25-hydroxylation of vitamin D3 and 1-alpha hydroxylation of 25(OH)D3, while increasing 24R-hydroxylation of 25(OH)D3.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Endocrine Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martineau</LastName>
+                    <ForeName>Adrian R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thummel</LastName>
+                    <ForeName>Kenneth E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhican</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jolliffe</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boucher</LastName>
+                    <ForeName>Barbara J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffin</LastName>
+                    <ForeName>Simon J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Council Epidemiology Unit, University of Cambridge School of Clinical Medicine, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Primary Care Unit, Department of Public Health and Primary Care, University of Cambridge School of Clinical Medicine, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forouhi</LastName>
+                    <ForeName>Nita G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Council Epidemiology Unit, University of Cambridge School of Clinical Medicine, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hitman</LastName>
+                    <ForeName>Graham A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Endocrinol Metab</MedlineTA>
+            <NlmUniqueID>0375362</NlmUniqueID>
+            <ISSNLinking>0021-972X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199458</ArticleId>
+            <ArticleId IdType="pii">5518338</ArticleId>
+            <ArticleId IdType="doi">10.1210/jc.2019-00207</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

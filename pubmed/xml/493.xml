@@ -1,0 +1,114 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199899</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-6259</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Annals of thoracic surgery</Title>
+                <ISOAbbreviation>Ann. Thorac. Surg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Percutaneous Management of Coronary Button Kinking after Emergency Aortic Root Replacement.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0003-4975(19)30817-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.athoracsur.2019.04.071</ELocationID>
+            <Abstract>
+                <AbstractText>Surgical management of Type A acute aortic dissection by the Bentall procedure involves attachment of the native coronary arteries to a synthetic valved-graft conduit (mechanical or biological aortic valve). In patients with normal anatomy and with careful surgical technique, formation of coronary buttons has been successful and anastomotic complications after this procedure are rare (1). However, we describe the case of a 46-year-old man who developed postoperative myocardial ischaemia due to coronary button kinking after the Bentall procedure, and reflect how one may avoid returning to the operating theatre and still achieve a good outcome.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Mitul D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sussex Cardiac Centre, Brighton and Sussex University Hospitals NHS Trust, United Kingdom. Electronic address: mituldpatel1@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hyde</LastName>
+                    <ForeName>Jonathan A J</ForeName>
+                    <Initials>JAJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sussex Cardiac Centre, Brighton and Sussex University Hospitals NHS Trust, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Ann Thorac Surg</MedlineTA>
+            <NlmUniqueID>15030100R</NlmUniqueID>
+            <ISSNLinking>0003-4975</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199899</ArticleId>
+            <ArticleId IdType="pii">S0003-4975(19)30817-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.athoracsur.2019.04.071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

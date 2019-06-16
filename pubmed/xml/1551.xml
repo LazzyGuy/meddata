@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198670</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-5072</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Taiwan journal of ophthalmology</Title>
+                <ISOAbbreviation>Taiwan J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Semi-permanent smartphone adapter for microscopes: Design demonstration and workflow testing using a slit-lamp biomicroscope.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>111-117</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/tjo.tjo_19_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A smartphone microscope adapter is an alternative to a permanently mounted camera, which often requires a specially designed light path as well as a computer system for data storage and network connectivity. A common disadvantage of these adapters is that they need to be repeatedly mounted and dismounted; this is inconvenient during serial observations.</AbstractText>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The study purpose is to develop and test a semi-permanent microscope adapter.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Our prototype was designed using three-dimensional (3D) computer-aided design software and was 3D printed for testing. Two tests were designed to quantify the workflow improvement by measuring the time required to complete specific movements, which simulated the actions of capturing photographs by using an adapter and a slit-lamp biomicroscope. Our prototype was the experimental adapter, and two commercially available products were used as references. A single-shot test measured the average time required to complete a photographing cycle, in which a single photograph was recorded. A multiple-shot test measured the time required to complete cycles in which a different number of photographs were captured; thus, the time required specifically for the preparation phase of photographing was determined. Both tests were performed by 4 researchers.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The average time required to complete a cycle using our prototype in single-shot test was significantly shorter than that using one of the references. For the other reference, significances were shown in 2 testers' results. In the multiple-shot test, the linear regression analysis also showed that the preparation phase of our prototype was significantly shorter than the preparation phase of the two commercially available products (<i>P</i> &lt; 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The semi-permanent design may improve the workflow of photography using smartphone adapters, thereby reducing the time and effort required for preparing devices, particularly when making multiple consecutive observations or when the targets disappear fast.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yen</LastName>
+                    <ForeName>Chieh-Hung</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Chang Gung Memorial Hospital, Linkou Branch, Taoyuan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, College of Medicine, Chang Gung University, Taoyuan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Guo-Quan</ForeName>
+                    <Initials>GQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Sciences, National Cheng-Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Tommy Y</ForeName>
+                    <Initials>TY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wu-fu Eye Clinic, Yilan County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Chun-Hsiu</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Chang Gung Memorial Hospital, Linkou Branch, Taoyuan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, College of Medicine, Chang Gung University, Taoyuan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Taiwan J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101582127</NlmUniqueID>
+            <ISSNLinking>2211-5056</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Microscopy</Keyword>
+            <Keyword MajorTopicYN="N">photomicrography</Keyword>
+            <Keyword MajorTopicYN="N">slit lamp</Keyword>
+            <Keyword MajorTopicYN="N">slit-lamp microscopy</Keyword>
+            <Keyword MajorTopicYN="N">smartphone</Keyword>
+        </KeywordList>
+        <CoiStatement>Chieh-Hung Yen owns the patent of the semi-permanent adapter design. Chun-Hsiu Liu and Chieh-Hung Yen are colleagues. Other authors have no conflicts of interest to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198670</ArticleId>
+            <ArticleId IdType="doi">10.4103/tjo.tjo_19_18</ArticleId>
+            <ArticleId IdType="pii">TJO-9-111</ArticleId>
+            <ArticleId IdType="pmc">PMC6557070</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

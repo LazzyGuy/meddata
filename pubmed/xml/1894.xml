@@ -1,0 +1,108 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198230</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0259-1162</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anesthesia, essays and researches</Title>
+                <ISOAbbreviation>Anesth Essays Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Opioid-Free Total Intravenous Anesthesia Improves Postoperative Quality of Recovery after Ambulatory Gynecologic Laparoscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>199-203</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aer.AER_74_19</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Gynecological laparoscopic surgery is commonly performed on an ambulatory basis under general anesthesia. The postoperative quality of recovery (QOR) should be considered one of the principal endpoints after ambulatory surgery. Total intravenous anesthesia (TIVA) with opioids is known to improve postoperative QOR after ambulatory surgery. However, opioids can be associated with an increased incidence of postoperative complications, which can affect postoperative QOR. The primary aim of this study was to compare the patient recovery using the QOR-40 at 24 h postoperative in ambulatory gynecological laparoscopy between opioid-free (OF) TIVA and opioid-based TIVA.</AbstractText>
+                <AbstractText Label="Settings and Design" NlmCategory="UNASSIGNED">A prospective, randomized, controlled, comparative study was conducted at the day surgery center.</AbstractText>
+                <AbstractText Label="Patients and Methods" NlmCategory="UNASSIGNED">Eighty females were included in the study. They were randomized into two equal groups: OF TIVA group with dexmedetomidine and propofol or opioid-based TIVA (O) group with fentanyl and propofol. The primary outcome was QOR-40 at 24 h postoperative, and the secondary outcomes were postoperative numerical rating scale (NRS), time to first rescue analgesia, number of rescue tramadol analgesia, and the incidence of postoperative nausea and vomiting.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A statistically significant difference in total QOR-40 score at 24 h postoperative was observed between the groups (median [range] QOR-40 of 182.0 [164.0-192.0] in the OF TIVA group and 170.0 [156.0-185.0] in the O group; <i>P</i> = 0.03). OF group had significantly lower time to first rescue analgesia, maximum NRS pain scores, number of rescue tramadol analgesia, and ondansetron use.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">OF TIVA significantly improves postoperative QOR in patients undergoing ambulatory gynecological laparoscopic surgery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hakim</LastName>
+                    <ForeName>Karim Youssef Kamal</ForeName>
+                    <Initials>KYK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia, Faculty of Medicine, Ain Shams University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wahba</LastName>
+                    <ForeName>Wahba Zakaria Bekhet</ForeName>
+                    <Initials>WZB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anesthesia, Faculty of Medicine, Ain Shams University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Anesth Essays Res</MedlineTA>
+            <NlmUniqueID>101578762</NlmUniqueID>
+            <ISSNLinking>2229-7685</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ambulatory surgery</Keyword>
+            <Keyword MajorTopicYN="N">gynecological laparoscopy</Keyword>
+            <Keyword MajorTopicYN="N">opioid free</Keyword>
+            <Keyword MajorTopicYN="N">quality of recovery</Keyword>
+            <Keyword MajorTopicYN="N">total intravenous anesthesia</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198230</ArticleId>
+            <ArticleId IdType="doi">10.4103/aer.AER_74_19</ArticleId>
+            <ArticleId IdType="pii">AER-13-199</ArticleId>
+            <ArticleId IdType="pmc">PMC6545966</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

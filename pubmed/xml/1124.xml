@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199193</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-3614</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Assistive technology : the official journal of RESNA</Title>
+                <ISOAbbreviation>Assist Technol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Adapting ride-on toy cars as a tool to promote leisure: A feasibility study in Colombia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/10400435.2019.1611675</ELocationID>
+            <Abstract>
+                <AbstractText>Go Baby Go is a program at the University of Delaware that adapts ride-on toy cars for the recreation of children with disabilities. Colombia's health-care system faces many challenges in delivering early mobility devices to these children; thus, here (in Colombia), no dedicated programs such as Go Baby Go exist. In this study, we examined how feasible it would be to implement a Go Baby Go program in our country. Electronic and seating adaptations to the cars were made and described. We chose three participants from a pool of children with cerebral palsy (Gross Motor Function Classification System IV), according to a set of inclusion and exclusion criteria. Then, we measured theirs and their parent's level of satisfaction with the experience through a Likert scale. All of the parents described seeing their kids ride the adapted cars as &quot;extremely fun&quot;. They also said that it is &quot;extremely important&quot; to have these devices close by so that their children can get involved in recreational activities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Restrepo</LastName>
+                    <ForeName>Paulina</ForeName>
+                    <Initials>P</Initials>
+                    <Suffix>BME</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>a Biomedical Engineering , Universidad EIA , Envigado, Antioquia , Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velásquez</LastName>
+                    <ForeName>Juliana</ForeName>
+                    <Initials>J</Initials>
+                    <Suffix>MScEng</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>a Biomedical Engineering , Universidad EIA , Envigado, Antioquia , Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Múnera</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <Suffix>MRScT</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>b Assistive Technology , El Comité de Rehabilitación , Medellín, Antioquia , Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quintero Valencia</LastName>
+                    <ForeName>Carlos Alberto</ForeName>
+                    <Initials>CA</Initials>
+                    <Suffix>MSPH</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>c Medical Subdivision , El Comité de Rehabilitación , Medellín, Antioquia , Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Assist Technol</MedlineTA>
+            <NlmUniqueID>8917250</NlmUniqueID>
+            <ISSNLinking>1040-0435</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adaptation</Keyword>
+            <Keyword MajorTopicYN="N">disability</Keyword>
+            <Keyword MajorTopicYN="N">leisure</Keyword>
+            <Keyword MajorTopicYN="N">low-cost assistive technologies</Keyword>
+            <Keyword MajorTopicYN="N">ride-on toy car</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199193</ArticleId>
+            <ArticleId IdType="doi">10.1080/10400435.2019.1611675</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

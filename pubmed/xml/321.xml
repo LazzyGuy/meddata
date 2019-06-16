@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200084</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0038</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gene</Title>
+                <ISOAbbreviation>Gene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>De novo transcriptome assembly and co-expression network analysis of Cynanchum thesioides: Identification of genes involved in resistance to drought stress.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-1119(19)30542-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gene.2019.05.055</ELocationID>
+            <Abstract>
+                <AbstractText>Cynanchum thesioides are upright, xerophytic shrubs that are widely distributed in arid and semi-arid areas of China, North Korea, Mongolia and Siberia. To date, little is known about the molecular mechanisms of drought resistance in C. thesioides. To better understand drought resistance, we used transcriptome analysis and Illumina sequencing technology on C. thesioides, to identify drought-responsive genes. Using de novo assembly 55,268 unigenes were identified from 207.58 Gb of clean data. Amongst these, 36,265 were annotated with gene descriptions, conserved domains, gene ontology terms and metabolic pathways. The sequencing results showed that genes that were differentially expressed (DEGs) under drought stress were enriched in pathways such as carbon metabolism, starch and sucrose metabolism, amino acid biosynthesis, phenylpropanoid biosynthesis and plant hormone signal transduction. Moreover, many functional genes were up-regulated under severe drought stress to enhance tolerance. Weighted gene co-expression network analysis showed that there were key hub genes related to drought stress. Hundreds of candidate genes were identified under severe drought stress, including transcriptional factors such as MYB, G2-like, ERF, C2H2, NAC, NF-X1, GRF, HD-ZIP, HB-other, HSF, C3H, GRAS, WRKY, bHLH and Trihelix. These data are a valuable resource for further investigation into the molecular mechanism for drought stress in C. thesioides and will facilitate exploration of drought resistance genes.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaoyan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Horticultural and Plant Protection, Inner Mongolia Agricultural University, Inner Mongolia Key Laboratory of Wild Peculiar Vegetable Germplasm Resource and Germplasm Enhancement, Huhhot 010019, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Zhongren</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Horticultural and Plant Protection, Inner Mongolia Agricultural University, Inner Mongolia Key Laboratory of Wild Peculiar Vegetable Germplasm Resource and Germplasm Enhancement, Huhhot 010019, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Zhi</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Special Crops Institute, Inner Mongolia Academy of Agricultural and Animal Husbandry Sciences, Huhhot 010031, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Fenglan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Horticultural and Plant Protection, Inner Mongolia Agricultural University, Inner Mongolia Key Laboratory of Wild Peculiar Vegetable Germplasm Resource and Germplasm Enhancement, Huhhot 010019, China. Electronic address: zhangfenglan041105@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hao</LastName>
+                    <ForeName>Lizhen</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Horticultural and Plant Protection, Inner Mongolia Agricultural University, Inner Mongolia Key Laboratory of Wild Peculiar Vegetable Germplasm Resource and Germplasm Enhancement, Huhhot 010019, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Gene</MedlineTA>
+            <NlmUniqueID>7706761</NlmUniqueID>
+            <ISSNLinking>0378-1119</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cynanchum thesioides (Freyn) K. Schum.</Keyword>
+            <Keyword MajorTopicYN="N">Cynanchum thesioides (Freyn) K. Schum. var. australe (maxim.) Tsiang et P. T. Li.</Keyword>
+            <Keyword MajorTopicYN="N">Differentially expressed genes</Keyword>
+            <Keyword MajorTopicYN="N">Drought resistance</Keyword>
+            <Keyword MajorTopicYN="N">Illumina sequencing</Keyword>
+            <Keyword MajorTopicYN="N">Weighted gene co-expression network</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200084</ArticleId>
+            <ArticleId IdType="pii">S0378-1119(19)30542-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gene.2019.05.055</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

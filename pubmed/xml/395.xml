@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200006</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental and comparative immunology</Title>
+                <ISOAbbreviation>Dev. Comp. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long non-coding RNA and MicroRNA profiling provides comprehensive insight into non-coding RNA involved host immune responses in ALV-J-infected chicken primary macrophage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103414</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0145-305X(19)30192-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dci.2019.103414</ELocationID>
+            <Abstract>
+                <AbstractText>Avian leukosis virus subgroup J (ALV-J) infection can cause tumors and immunosuppression in infected chickens. Macrophages play a crucial role in host defense against invading pathogens. In the present study, whole transcriptome analysis was performed to analyze the host factors including genes, microRNA (miRNA), long non-coding RNA (lncRNA) and their regulatory network in chicken primary monocyte-derived macrophages (MDMs). In total, 128 differentially expressed (DE) lncRNAs and 15 DE miRNAs were identified in MDMs at 3 h post infection (hpi), and 30 DE lncRNAs and 8 DE miRNAs were identified in MDMs at 36 hpi during ALV-J infection. We further constructed the DE lncRNAs-mRNAs, miRNA-mRNAs and lncRNAs-miRNA-mRNAs interaction networks. The results suggested that DE lncRNAs and miRNAs are involved in the regulation of CCND3 and SOCS5 in Jak-STAT signaling pathway via ceRNA network in ALV-J-infected MDMs at 3 hpi. In addition, lncRNAs including XLOC_672329, ALDBGALG0000001429, XLOC_016500 and ALDBGALG0000000253 cis-regulating CH25H, CISH, IL-1β and CD80 respectively in MDMs at 3 hpi participated in host antiviral responses. Our findings give a comprehensive view of the connection between non-coding RNA and ALV-J in chicken primary macrophages, and provide an excellent resource for further studies of epigenetic effects on ALV-J disease resistance breeding as well as immune system and genomic researches.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Manman</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Veterinary Medicine, South China Agricultural University, Guangzhou, People's Republic of China. Electronic address: daimanman1229@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Agro-animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China. Electronic address: hunanfengmin@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Tingting</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Agro-animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China; Key Lab of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, 510642, Guangdong, China. Electronic address: 1084256498@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiquan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Guangdong Provincial Key Laboratory of Agro-animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China; Key Lab of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, 510642, Guangdong, China. Electronic address: xqzhang@scau.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Comp Immunol</MedlineTA>
+            <NlmUniqueID>7708205</NlmUniqueID>
+            <ISSNLinking>0145-305X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ALV-J</Keyword>
+            <Keyword MajorTopicYN="N">Immune response</Keyword>
+            <Keyword MajorTopicYN="N">Macrophage</Keyword>
+            <Keyword MajorTopicYN="N">lncRNA</Keyword>
+            <Keyword MajorTopicYN="N">miRNA</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200006</ArticleId>
+            <ArticleId IdType="pii">S0145-305X(19)30192-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dci.2019.103414</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

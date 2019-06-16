@@ -1,0 +1,111 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198521</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2008-7802</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of preventive medicine</Title>
+                <ISOAbbreviation>Int J Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oxidative Stress and Polycystic Ovary Syndrome: A Brief Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>86</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijpvm.IJPVM_576_17</ELocationID>
+            <Abstract>
+                <AbstractText>Polycystic ovary syndrome (PCOS) is one of the most common hormonal disorders, occurring in 5-10% women in reproductive ages. Despite a long history of studies on PCOS, its etiology is still unknown. Oxidative stress is now recognized to play a central role in the pathophysiology of many different disorders, including PCOS. Although intracellular reactive oxygen species (ROS) production and propagation are controlled by highly complex antioxidant enzymatic and non-enzymatic systems, understanding of mechanisms that oxidative stress is important to develop strategies for prevention and therapy of PCOS. This article reviews the literature data related to the mechanisms of oxidative stress in PCOS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mohammadi</LastName>
+                    <ForeName>Masoumeh</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Int J Prev Med</MedlineTA>
+            <NlmUniqueID>101535380</NlmUniqueID>
+            <ISSNLinking>2008-7802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antioxidant</Keyword>
+            <Keyword MajorTopicYN="N">oxidative marker</Keyword>
+            <Keyword MajorTopicYN="N">oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">polycystic ovary syndrome</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198521</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijpvm.IJPVM_576_17</ArticleId>
+            <ArticleId IdType="pii">IJPVM-10-86</ArticleId>
+            <ArticleId IdType="pmc">PMC6547785</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

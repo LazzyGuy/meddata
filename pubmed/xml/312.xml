@@ -1,0 +1,123 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200093</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1556-3871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heart rhythm</Title>
+                <ISOAbbreviation>Heart Rhythm</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extraction of Permanent His Bundle Pacing Lead: Safety Outcomes and Feasibility of Re-implantation.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1547-5271(19)30550-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.hrthm.2019.06.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Permanent His bundle pacing (HBP) is a physiologic alternative to right ventricular pacing. However concerns remain regarding the feasibility and safety of lead extraction from the His bundle region.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of our study is to assess the safety and feasibility of extraction of chronically implanted permanent HBP leads in addition to report on the feasibility of re-implanting in the His bundle region.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients undergoing extraction of leads from His bundle location for standard indications were studied. The primary outcomes were removal success rates, need for extraction tools and feasibility of re-implantation in the His bundle region.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty patients (Male 23, Age 73.3±14years) with permanent HBP leads of at least 6-month duration were included. Indication for removal of the HBP leads were infection 3, lead failure 22, nonfunctional lead 3 and upgrade to ICD 2. Mean duration of the implanted leads was 25±18 months (range 6-72 months). Removal of HBP leads was successful in 8 of 8 patients with ≤12 months duration and 21 of 22 (95%) patients with &gt;12 months duration. Extraction tools were used in 4 patients, while manual traction was successful in the remaining patients. Re-implantation in the His-Purkinje conduction system was successful in 19 of 22 (86%) patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this largest study of HBP lead extractions, the overall success rate of extraction of chronically implanted HBP leads was high with low complication rate. The need for mechanical extraction tools was low and re-implantation in the His-Purkinje conduction system was feasible.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vijayaraman</LastName>
+                    <ForeName>Pugazhendhi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geisinger Heart Institute, Geisinger Commonwealth School of Medicine, Wilkes Barre, PA, USA. Electronic address: pvijayaraman1@geisinger.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Subzposh</LastName>
+                    <ForeName>Faiz A</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geisinger Heart Institute, Geisinger Commonwealth School of Medicine, Wilkes Barre, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naperkowski</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geisinger Heart Institute, Geisinger Commonwealth School of Medicine, Wilkes Barre, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Heart Rhythm</MedlineTA>
+            <NlmUniqueID>101200317</NlmUniqueID>
+            <ISSNLinking>1547-5271</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">His bundle pacing</Keyword>
+            <Keyword MajorTopicYN="N">His bundle pacing lead failure</Keyword>
+            <Keyword MajorTopicYN="N">conduction system pacing</Keyword>
+            <Keyword MajorTopicYN="N">lead extraction</Keyword>
+            <Keyword MajorTopicYN="N">left bundle branch area pacing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200093</ArticleId>
+            <ArticleId IdType="pii">S1547-5271(19)30550-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.hrthm.2019.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

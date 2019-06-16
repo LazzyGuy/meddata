@@ -1,0 +1,211 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199131</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of Copper Peroxide Nanodots for H<sub>2</sub>O<sub>2</sub> Self-Supplying Chemodynamic Therapy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b03457</ELocationID>
+            <Abstract>
+                <AbstractText>Chemodynamic therapy (CDT) employs Fenton catalysts to kill cancer cells by converting intracellular H<sub>2</sub>O<sub>2</sub> into hydroxyl radical (•OH), but endogenous H<sub>2</sub>O<sub>2</sub> is insufficient to achieve satisfactory anticancer efficacy. Despite tremendous efforts, engineering CDT agents with specific and efficient H<sub>2</sub>O<sub>2</sub> self-supplying ability remains a great challenge. Here, we report the fabrication of copper peroxide (CP) nanodot, which is the first example of a Fenton-type metal peroxide nanomaterial, and its use as an activatable agent for enhanced CDT by self-supplying H<sub>2</sub>O<sub>2</sub>. The CP nanodots were prepared through coordination of H<sub>2</sub>O<sub>2</sub> to Cu<sup>2+</sup> with the aid of hydroxide ion, which could be reversed by acid treatment. After endocytosis into tumor cells, acidic environment of endo/lysosomes accelerated the dissociation of CP nanodots, allowing simultaneous release of Fenton catalytic Cu<sup>2+</sup> and H<sub>2</sub>O<sub>2</sub> accompanied by a Fenton-type reaction between them. The resulting •OH induced lysosomal membrane permeabilization through lipid peroxidation and thus caused cell death via a lysosome-associated pathway. In addition to pH-dependent •OH generation property, CP nanodots with small particle size showed high tumor accumulation after intravenous administration, which enabled effective tumor growth inhibition with minimal side effects in vivo. Our work not only provides the first paradigm for fabricating Fenton-type metal peroxide nanomaterials, but also presents a new strategy to improve CDT efficacy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Li-Sen</ForeName>
+                    <Initials>LS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology , the Fourth Hospital of Harbin Medical University , Harbin , Heilongjiang 150076 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Jibin</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4771-5006</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MOE Key Laboratory for Analytical Science of Food Safety and Biology, College of Chemistry , Fuzhou University , Fuzhou 350108 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ou</LastName>
+                    <ForeName>Xiang-Yu</ForeName>
+                    <Initials>XY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MOE Key Laboratory for Analytical Science of Food Safety and Biology, College of Chemistry , Fuzhou University , Fuzhou 350108 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhangtong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Hongzhang</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yijing</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jun-Feng</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ultrasound , the First Affiliated Hospital of Harbin Medical University , Harbin , Heilongjiang 150076 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Guocan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Zijian</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Sheng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niu</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Huang-Hao</ForeName>
+                    <Initials>HH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5894-0909</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MOE Key Laboratory for Analytical Science of Food Safety and Biology, College of Chemistry , Fuzhou University , Fuzhou 350108 , P. R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Xiaoyuan</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9622-0870</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Imaging and Nanomedicine (LOMIN), National Institute of Biomedical Imaging and Bioengineering (NIBIB) , National Institutes of Health (NIH) , Bethesda , Maryland 20892 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199131</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b03457</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

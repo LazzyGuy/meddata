@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199063</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-3773</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angewandte Chemie (International ed. in English)</Title>
+                <ISOAbbreviation>Angew. Chem. Int. Ed. Engl.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High Selectively Catalyzing Enamination of β-ketoesters by Interlocked [Cu8] and [Cu18] Nanocages.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/anie.201906306</ELocationID>
+            <Abstract>
+                <AbstractText>Interlocking cages have been of great interest due to their fascinating structures and potential applications. However, the interlocking of different cages has never been reported hitherto. Herein, quadruply interlocked [Cu8] and [Cu18] nanocages have been constructed and structurally characterized in cationic metal-organic framework {[CuICu4II(XN)4(PTA)4(H2O)4]0.5SO4·5H2O·EtOH}n (1). 1 can trap anionic pollutant CrO42- and radioactive contaminant simulant ReO4- with an uptake capacity of 83.2 and 218 mg/g respectively. Catalytic investigations reveal 1 can serve as an efficient heterogeneous catalyst for enamination reaction of ethyl acetoacetate with aniline, and the turnover frequency (TOF) can reach to a record value of 4000 h-1. More importantly, 1 represents the first example of catalyst in such condensation reaction to exhibit excellent size selectivity on different substrates. The robust catalyst can be reused at least ten runs without obvious loss in catalytic activity.</AbstractText>
+                <CopyrightInformation>© 2019 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nankai University, Department of Chemistry, weijin road 94#, 300071, tianjin city, CHINA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiao</LastName>
+                    <ForeName>Wan-Zhen</ForeName>
+                    <Initials>WZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CHINA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Tian-Qun</ForeName>
+                    <Initials>TQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CHINA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CHINA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+            <NlmUniqueID>0370543</NlmUniqueID>
+            <ISSNLinking>1433-7851</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">enamination</Keyword>
+            <Keyword MajorTopicYN="N">high turnover frequency</Keyword>
+            <Keyword MajorTopicYN="N">interlocked different cages</Keyword>
+            <Keyword MajorTopicYN="N">metal-organic framework</Keyword>
+            <Keyword MajorTopicYN="N">size-selectivity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199063</ArticleId>
+            <ArticleId IdType="doi">10.1002/anie.201906306</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

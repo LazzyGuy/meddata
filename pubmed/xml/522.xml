@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199867</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-1927</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of health politics, policy and law</Title>
+                <ISOAbbreviation>J Health Polit Policy Law</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Medicaid DSRIP in New Jersey: Trade-offs between Broad Hospital Participation and Safety Net Viability.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">7611659</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1215/03616878-7611659</ELocationID>
+            <Abstract>
+                <AbstractText>The Delivery System Reform Incentive Payment (DSRIP) program, an increasingly utilized payment strategy to foster population health management by hospitals and outpatient providers, may sometimes generate financial and operational hardships for safety net hospitals (SNHs). The authorsutilized a hospital survey and stakeholder interviews to examine impacts of the New Jersey DSRIP program, particularly focusing on its participatory structure that extended eligibility to all hospitals, and specific effects on SNHs. They found that the New Jersey DSRIP fulfilled its primary objective of conditioning receipt of Medicaid supplementary payments on quality and reporting of care by hospitals. It also provided an impetus to ongoing hospital-directed initiatives and introduced new areas of focus, including behavioral health and obesity. However, stakeholders reported that program implementation was not sensitive to specific constraints, priorities, and resource needs of SNHs. Some of the policies relating to outpatient partnerships, reporting of quality metrics, and monitoring low-income populations were perceived to have placed disproportionate burdens on SNHs. Despite appearing to meet its primary goals, the New Jersey DSRIP experience reveals a critical need to be responsive to problems faced by SNHs so as to limit their short-term transition costs and maintain financial viability for serving their patient populations.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 by Duke University Press.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chakravarty</LastName>
+                    <ForeName>Sujoy</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rutgers University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lloyd</LastName>
+                    <ForeName>Kristen</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rutgers University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farnham</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rutgers University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brownlee</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rutgers University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Health Polit Policy Law</MedlineTA>
+            <NlmUniqueID>7609331</NlmUniqueID>
+            <ISSNLinking>0361-6878</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Delivery System Reform Incentive Payment Program</Keyword>
+            <Keyword MajorTopicYN="N">Medicaid waiver</Keyword>
+            <Keyword MajorTopicYN="N">hospital financing</Keyword>
+            <Keyword MajorTopicYN="N">population health</Keyword>
+            <Keyword MajorTopicYN="N">safety net hospital</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199867</ArticleId>
+            <ArticleId IdType="pii">139049</ArticleId>
+            <ArticleId IdType="doi">10.1215/03616878-7611659</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

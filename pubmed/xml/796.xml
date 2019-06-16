@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199560</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-5463</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FEBS open bio</Title>
+                <ISOAbbreviation>FEBS Open Bio</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of potential diagnostic biomarkers for Parkinson's disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/2211-5463.12687</ELocationID>
+            <Abstract>
+                <AbstractText>The identification of biomarkers for early diagnosis of Parkinson's disease (PD) prior to the onset of symptoms may improve the effectiveness of therapy. To identify potential biomarkers, here we downloaded microarray datasets of PD from the Gene Expression Omnibus (GEO) database. Differentially expressed genes (DEGs) between PD and normal control (NC) groups were obtained, and the feature selection procedure and classification model was used to identify optimal diagnostic gene biomarkers for PD. A total of 1229 genes (640 up-regulated and 589 down-regulated) were obtained for PD, and 9 DEGs (PTGDS, GPX3, SLC25A20, CACNA1D, LRRN3, POLR1D, ARHGAP26, TNFSF14 and VPS11) were selected as optimal PD biomarkers with great diagnostic value. These 9 DEGs were significantly enriched in regulation of circadian sleep/wake cycle, sleep and GnRH signaling pathway. Finally, we examined the expression of GPX3, SLC25A20, LRRN3 and POLR1D in blood samples of patients with PD by qRT-PCR. GPX3, LRRN3 and POLR1D exhibited the same expression pattern as in our analysis. In conclusion, this study identified 9 DEGs which may serve as potential biomarkers of PD.</AbstractText>
+                <CopyrightInformation>FEBS Open Bio (2019) © 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Fenghua</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Dongying People's Hospital, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Qianqian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Dongying People's Hospital, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Shuqian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Dongying People's Hospital, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bi</LastName>
+                    <ForeName>Guanghui</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Dongying People's Hospital, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Dongying People's Hospital, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS Open Bio</MedlineTA>
+            <NlmUniqueID>101580716</NlmUniqueID>
+            <ISSNLinking>2211-5463</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Parkinson's disease</Keyword>
+            <Keyword MajorTopicYN="N">biomarker</Keyword>
+            <Keyword MajorTopicYN="N">differentially expressed genes</Keyword>
+            <Keyword MajorTopicYN="N">integrated analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199560</ArticleId>
+            <ArticleId IdType="doi">10.1002/2211-5463.12687</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

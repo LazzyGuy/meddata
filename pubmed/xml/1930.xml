@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198191</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Patient Preferences for Endometriosis Pain Treatments in the United States.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>728-738</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30080-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2018.12.010</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To quantify patient preferences for endometriosis-associated pain treatments and risk tolerance in exchange for pain reduction and to explore whether preferences vary on the basis of patient characteristics.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">US women with a self-reported physician diagnosis of endometriosis and moderate to severe dysmenorrhea and nonmenstrual pelvic pain (NMPP) completed an online discrete choice experiment survey. Each choice question had a pair of hypothetical treatments characterized by attributes with varying levels: improvements in severe dysmenorrhea, severe NMPP, and severe dyspareunia; mode of administration; and treatment-related risks of pregnancy-related problems, bone fracture later in life, and moderate to severe hot flashes. A random-parameters logit model was used to quantify preferences and the attributes' conditional relative importance.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 250 women (mean age 34 years) completed the survey. The conditional relative importance of attributes was 3.66 for risk of moderate to severe hot flashes among respondents with and 3.58 among respondents without experience with moderate to severe hot flashes; 1.70, 1.49, and 1.48 for improvements in dyspareunia, NMPP, and dysmenorrhea, respectively; 0.60 for risk of pregnancy-related problems; 0.53 for mode of administration; and 0.49 for bone fracture risk. Preference weights for bone fracture risk levels were not statistically significantly different. In exchange for a greater improvement in dysmenorrhea from severe to mild (vs moderate), respondents without a history of hot flashes accepted a greater increase in the risk of moderate to severe hot flashes (38%) than did respondents with this history (16%).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Respondents placed the greatest weight on risk of hot flashes, followed by improvements in dyspareunia, NMPP, dysmenorrhea. Bone fracture risk did not drive preferences.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Poulos</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>RTI Health Solutions, Research Triangle Park, NC, USA. Electronic address: cpoulos@rti.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soliman</LastName>
+                    <ForeName>Ahmed M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AbbVie, North Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Renz</LastName>
+                    <ForeName>Cheryl L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AbbVie, North Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Posner</LastName>
+                    <ForeName>Joshua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>RTI Health Solutions, Research Triangle Park, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Sanjay K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Endometriosis Research and Treatment, University of California San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">benefit-risk preferences</Keyword>
+            <Keyword MajorTopicYN="N">discrete choice</Keyword>
+            <Keyword MajorTopicYN="N">dysmenorrhea</Keyword>
+            <Keyword MajorTopicYN="N">dyspareunia</Keyword>
+            <Keyword MajorTopicYN="N">endometriosis</Keyword>
+            <Keyword MajorTopicYN="N">maximum acceptable risk</Keyword>
+            <Keyword MajorTopicYN="N">nonmenstrual pelvic pain</Keyword>
+            <Keyword MajorTopicYN="N">patient preferences</Keyword>
+            <Keyword MajorTopicYN="N">risk tolerance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198191</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30080-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2018.12.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

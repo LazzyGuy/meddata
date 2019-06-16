@@ -1,0 +1,166 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199561</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1467-7652</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant biotechnology journal</Title>
+                <ISOAbbreviation>Plant Biotechnol. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Engineering meiotic recombination pathways in rice.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/pbi.13189</ELocationID>
+            <Abstract>
+                <AbstractText>In the last 15 years, outstanding progress has been made in understanding the function of meiotic genes in the model dicot and monocot plants Arabidopsis and rice (Oryza sativa L.), respectively. This knowledge allowed to modulate meiotic recombination in Arabidopsis and, more recently, in rice. For instance, the overall frequency of crossovers (COs) has been stimulated 2.3 and 3.2-fold through the inactivation of the rice FANCM and RECQ4 DNA helicases, respectively, two genes involved in the repair of DNA double-strand breaks (DSBs) as non-crossovers (NCOs) of the Class II crossover pathway. Differently, the programmed induction of DSBs and COs at desired sites is currently explored by guiding the SPO11-1 topoisomerase-like transesterase, initiating meiotic recombination in all eukaryotes, to specific target regions of the rice genome. Furthermore, the inactivation of 3 meiosis-specific genes, namely, PAIR1, OsREC8 and OsOSD1, in the Mitosis instead of Meiosis (MiMe) mutant turned rice meiosis into mitosis, thereby abolishing recombination and achieving the first component of apomixis, apomeiosis. The successful translation of Arabidopsis results into a crop further allowed the implementation of two breakthrough strategies that triggered parthenogenesis from the MiMe unreduced clonal egg cell and completed the second component of diplosporous apomixis. Here, we review the most recent advances in and future prospects of the manipulation of meiotic recombination in rice and potentially other major crops, all essential for global food security. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fayos</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mieulet</LastName>
+                    <ForeName>Delphine</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petit</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meunier</LastName>
+                    <ForeName>Anne Cécile</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Périn</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicolas</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut Curie, CNRS, UMR 3244, University PSL, 26 rue d'Ulm, 75248, Paris, Cedex 05, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Meiogenix, 38 rue Servan, 75011, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guiderdoni</LastName>
+                    <ForeName>Emmanuel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cirad, UMR AGAP, 34398, Montpellier Cedex 5, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Montpellier, Cirad-Inra-Montpellier SupAgro, 34000, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Plant Biotechnol J</MedlineTA>
+            <NlmUniqueID>101201889</NlmUniqueID>
+            <ISSNLinking>1467-7644</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apomixis</Keyword>
+            <Keyword MajorTopicYN="N">Crossovers</Keyword>
+            <Keyword MajorTopicYN="N">Meiosis</Keyword>
+            <Keyword MajorTopicYN="N">Recombination</Keyword>
+            <Keyword MajorTopicYN="N">Rice</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199561</ArticleId>
+            <ArticleId IdType="doi">10.1111/pbi.13189</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

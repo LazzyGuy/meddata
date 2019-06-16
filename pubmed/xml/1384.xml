@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198896</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-2533</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of ophthalmology</Title>
+                <ISOAbbreviation>Rom J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Is LEA symbol better compared to Snellen chart for visual acuity assessment in preschool children?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText><b>Aim:</b> To compare visual acuity using the LEA symbol chart with Snellen E test chart in preschool children of age 3-5 years. <b>Patients and methods</b>: <b>Inclusion criteria:</b> 50 emmetropic children aged 3 to 5 years. <b>Exclusion criteria:</b> Strabismus, amblyopia, ametropia, and any organic eye disease. A pseudo randomized protocol was used to test visual acuity (VA) in each subject monocularly on both eyes using Snellen E chart and LEA symbol chart. Visual acuity for both charts was scored as smallest optotype size which the child correctly identified 3 of maximum 4 optotypes. The strength of agreement on VA between two charts was tested using Interclass correlation coefficient (ICC). A Mann-Whitney U test was applied to compare both the groups. <b>Results:</b> Boys: Girls = 26:24 with a mean age and standard deviation of 4.12 + 0.79 years. ICC between Snellen's and LEA symbol chart was 0.256 and 0.213 for right and left eye respectively. Analysis of the two samples using Mann-Whitney test showed a significant difference between the two charts (p value &lt;0.000). <b>Conclusion:</b> LEA symbol test showed only a fair agreement with Snellen E charts for visual acuity measurements. Visual acuity measurement with LEA symbol chart showed significantly higher scores as compared to Snellen's chart.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vivekanand</LastName>
+                    <ForeName>Undrakonda</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Alluri Sitaramaraju Academy of Medical Sciences, Andhra Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonsalves</LastName>
+                    <ForeName>Sarita</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Father Muller's Medical College, Mangalore, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhat</LastName>
+                    <ForeName>Shailaja S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Kasturba Medical College, Manipal, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Rom J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101677459</NlmUniqueID>
+            <ISSNLinking>2457-4325</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">LEA symbols</Keyword>
+            <Keyword MajorTopicYN="N">Snellen chart</Keyword>
+            <Keyword MajorTopicYN="N">preschool children</Keyword>
+            <Keyword MajorTopicYN="N">visual acuity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198896</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

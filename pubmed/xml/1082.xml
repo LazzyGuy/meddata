@@ -1,0 +1,154 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199247</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-2531</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on bio-medical engineering</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Foot Inertial Sensing for Combined Cognitive-Motor Exercise of the Sustained Attention Domain.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TBME.2019.2906758</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In the past decade, Cognitive training tools have been used to improve brain functioning and some have been applied to cognitive decline in Dementia. Recently, research studies have demonstrated that aerobic exercise could play an important restorative role toward cognitive impairments. Therefore, the main objective of this work is to present the innovative use of the SmartWalk tool, which combines aerobic exercise and cognitive protocols traditionally used to stimulate cognitive function.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The primary goal of this study to demonstrate if our tool is correlated with traditional computerized test in stimulating the cognitive system similarly, despite SmartWalk adds a supplementary physical load on the task. The SmartWalk tool was tested with a total of 49 subjects, 29 healthy subjects and 20 subjects with Mild Cognitive Impairments (MCI). The participants were asked to perform both the tests to fulfil the proposed goal.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The results obtained considering the overall population show a good and significant (p&lt;0.05) correlation for the &quot;correct&quot;, &quot;error&quot; and &quot;omitted&quot; scores (r=0.54, r=0.34, and r=0.39 respectively).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The results suggest a good correlation between the two approaches with the advantage of adding aerobic exercise to the traditional cognitive task.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">The results of this study may be useful in designing ecological and combined cognitive-physical tool to personalize interventions and delay the onset of cognitive disorders like dementia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fiorini</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maselli</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esposito</LastName>
+                    <ForeName>Raffaele</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castro</LastName>
+                    <ForeName>Emanuela</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mancioppi</LastName>
+                    <ForeName>Gianmaria</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cecchi</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laschi</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ottino</LastName>
+                    <ForeName>Saverio</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rossi</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinori</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tocchini</LastName>
+                    <ForeName>Stefania</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sportiello</LastName>
+                    <ForeName>Marco T</ForeName>
+                    <Initials>MT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dario</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavallo</LastName>
+                    <ForeName>Filippo</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Eng</MedlineTA>
+            <NlmUniqueID>0012737</NlmUniqueID>
+            <ISSNLinking>0018-9294</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199247</ArticleId>
+            <ArticleId IdType="doi">10.1109/TBME.2019.2906758</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

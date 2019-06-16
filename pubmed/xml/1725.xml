@@ -1,0 +1,156 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198436</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1752-1505</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Conflict and health</Title>
+                <ISOAbbreviation>Confl Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reproductive health in humanitarian settings in Lebanon and Iraq: results from four cross-sectional studies, 2014-2015.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13031-019-0210-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Reproductive health is an important component of humanitarian response. Displaced women need access to family planning, antenatal care, and the presence of a skilled birth attendant at delivery. Since the beginning of the Syrian conflict in 2011, Lebanon and Iraq have been hosting large numbers of refugees, thereby straining local capacities to provide these services. In order to identify salient health needs, Médecins Sans Frontières conducted a survey in several sites hosting refugees and internally displaced persons across the region. Here we describe the reproductive health profile of Syrian refugees, Iraqi displaced persons, and vulnerable Lebanese and their use of services.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We conducted four cross-sectional surveys in 2014-2015 in two sites in Lebanon and two sites in Iraq. Depending on the site, two-stage cluster sampling or systematic sampling was intended, but non-probability methods were employed at the second stage due to implementation challenges. We collected information on overall health (including reproductive health) and demographic information from heads of households on the basis of a standardized questionnaire. Pearson chi-square tests were used to compare proportions, and generalized linear models were used to calculate odds ratios with regard to risk factors. All analyses were performed using the survey suite of commands in Stata version 14.1.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 23,604 individuals were surveyed, including 5925 women of childbearing age. Overall, it was reported that 7.5% of women were currently pregnant and 12.8% had given birth within the previous 12 months. It was reported that pregnancy was unplanned for 57% of currently pregnant women and 66.7% of women who had delivered in the previous year. A slight majority of women from both groups had accessed antenatal care at least once. Amongst women who had delivered in the previous year, 84.5% had done so with a skilled birth attendant and 22.1% had had a cesarean section. Location and head of household education were predictors of unplanned pregnancy in multivariable analysis. Head of household education was also significantly associated with higher uptake of antenatal care.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Considering the large number of pregnant women and women having recently delivered in these settings, addressing their sexual and reproductive health needs emerges as a crucial aspect of humanitarian response. This study identified unmet needs for family planning and high cesarean section rates at all sites, suggesting both lack of access to certain services (contraception, antenatal care), but also over-recourse to cesarean section. These specific challenges can impact directly on maternal and child health and need today to be kept high on the humanitarian agenda.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balinska</LastName>
+                    <ForeName>Marta A</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">0000-0002-8210-2144</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>1Médecins Sans Frontières Switzerland, Rue de Lausanne 78, 1211 Geneva, Switzerland.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1012 9674</Identifier>
+                        <Identifier Source="GRID">grid.452586.8</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nesbitt</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Médecins Sans Frontières Switzerland, P. O. Box 527, Nhlangano, Swaziland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghantous</LastName>
+                    <ForeName>Zeina</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Médecins Sans Frontières France, Genifor Center, Clémenceau Street, Bloc C, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ciglenecki</LastName>
+                    <ForeName>Iza</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Médecins Sans Frontières Switzerland, Rue de Lausanne 78, 1211 Geneva, Switzerland.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1012 9674</Identifier>
+                        <Identifier Source="GRID">grid.452586.8</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Staderini</LastName>
+                    <ForeName>Nelly</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Médecins Sans Frontières Switzerland, Rue de Lausanne 78, 1211 Geneva, Switzerland.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 1012 9674</Identifier>
+                        <Identifier Source="GRID">grid.452586.8</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Confl Health</MedlineTA>
+            <NlmUniqueID>101286573</NlmUniqueID>
+            <ISSNLinking>1752-1505</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cesarean section</Keyword>
+            <Keyword MajorTopicYN="N">Delivery, obstetric</Keyword>
+            <Keyword MajorTopicYN="N">Family planning</Keyword>
+            <Keyword MajorTopicYN="N">Iraq</Keyword>
+            <Keyword MajorTopicYN="N">Lebanon</Keyword>
+            <Keyword MajorTopicYN="N">Pregnancy, unplanned</Keyword>
+            <Keyword MajorTopicYN="N">Prenatal care</Keyword>
+            <Keyword MajorTopicYN="N">Refugees</Keyword>
+            <Keyword MajorTopicYN="N">Syria</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interestsThe authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198436</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13031-019-0210-4</ArticleId>
+            <ArticleId IdType="pii">210</ArticleId>
+            <ArticleId IdType="pmc">PMC6556966</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

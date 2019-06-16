@@ -1,0 +1,98 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199613</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paper-Based Mechanical Sensors Enabled by Folding and Stacking.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.9b06071</ELocationID>
+            <Abstract>
+                <AbstractText>Electronics based on paper substrates can be foldable, inexpensive, and biodegradable, making such systems promising for low-cost sensors, smart packaging, and medical diagnostics. In this work, we saturate tissue paper with poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS) by using a simple and scalable process and construct pressure sensors that exhibit an enhanced response when the active material is folded or stacked. Nanoscale pressure actuation and current mapping reveals a sensing mechanism that takes advantage of the fibrous microstructure of the paper and relies on the formation and expansion of electrical contacts between fibers in adjacent paper layers as pressure is applied. The resulting paper-based pressure sensors respond to an impulse within 20 ms and are robust, showing only a 4.6% decrease in the operating current after 30 000 load/unload cycles. Pressure distribution mapping was achieved by using a sensor array with a stacked architecture, whereas folding was used to demonstrate multistate switching and to detect conformational change in a three-dimensional origami system. These strategies of folding and layering paper saturated with functional materials open up new avenues for building multifunctional paper electronics.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Tong</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mativetsky</LastName>
+                    <ForeName>Jeffrey M</ForeName>
+                    <Initials>JM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6574-9843</Identifier>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PEDOT:PSS</Keyword>
+            <Keyword MajorTopicYN="N">foldable electronics</Keyword>
+            <Keyword MajorTopicYN="N">mechanical sensor</Keyword>
+            <Keyword MajorTopicYN="N">paper composite</Keyword>
+            <Keyword MajorTopicYN="N">paper electronics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199613</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.9b06071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

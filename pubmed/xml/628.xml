@@ -1,0 +1,108 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199747</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical treatment of necrotizing ulcerative gingivitis: a case report with 10-year follow-up.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>62-65</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of this case report is to describe the diagnosis and treatment of a patient with necrotizing ulcerative gingivitis. An 18-year-old man with no systemic problems reported with chief complaints of gingival bleeding during toothbrushing and spontaneous pain. Clinical examination revealed significant plaque accumulation on the surfaces of all teeth as well as papillary necrosis involving mainly the anterior teeth. Treatment included an initial phase of supragingival plaque and calculus removal along with at-home use of 0.12% chlorhexidine gluconate mouthrinse twice a day for 30 days. After the initial phase, subgingival scaling was performed, and regular oral hygiene methods were resumed by the patient. After active therapy was completed, a periodontal maintenance regimen was established, and the patient was recalled for periodontal maintenance therapy. Follow-up occurred weekly throughout treatment, monthly for the first 6 months posttreatment, and 2-3 times a year during the periodontal maintenance therapy. Clinical results after 10 years showed that this approach controlled the acute phase and maintained the patient's periodontal health over time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martos</LastName>
+                    <ForeName>Josué</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn Pinto</LastName>
+                    <ForeName>Karoline Von</ForeName>
+                    <Initials>KV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feijó Miguelis</LastName>
+                    <ForeName>Tiago Martins</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavalcanti</LastName>
+                    <ForeName>Marília Cabral</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>César Neto</LastName>
+                    <ForeName>João Batista</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dental plaque</Keyword>
+            <Keyword MajorTopicYN="N">gingival bleeding</Keyword>
+            <Keyword MajorTopicYN="N">gingivitis</Keyword>
+            <Keyword MajorTopicYN="N">necrotizing</Keyword>
+            <Keyword MajorTopicYN="N">periodontal treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199747</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

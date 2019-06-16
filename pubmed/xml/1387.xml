@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198893</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-2533</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of ophthalmology</Title>
+                <ISOAbbreviation>Rom J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Corneal neovascularization: updates on pathophysiology, investigations &amp; management.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15-22</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText><b>Objective.</b> Corneal neovascularization is a sight-threatening condition affecting more than 1.4 million people per year. Left untreated, it can lead to tissue scarring, oedema, lipid deposition, and persistent inflammation that may significantly affect visual prognosis and quality of life. The aim was to review the recent evidence relating to the pathophysiology, investigations and management of corneal neovascularization. <b>Methods.</b> Literature review of prospective and retrospective studies, clinical trials and animal models relating to the pathophysiology, investigation and management of corneal neovascularization. <b>Results.</b> Corneal neovascularization is characterized by the invasion of new blood vessels into the cornea caused by an imbalance between angiogenic and antiangiogenic factors that preserve corneal transparency as a result of various ocular insults and hypoxic injuries. Risk factors that have been implicated in the pathogenesis of the disease include contact lens wear, ocular surface disease, trauma, previous surgery and herpes. The results highlighted the current and future management modalities of corneal neovascularization, which includes corneal transplantation, laser - phototherapy, injections and topical treatment. <b>Conclusion.</b> The future of corneal neovascularization is promising and this paper discusses the upcoming revolution in local gene therapy. <b>Abbreviations.</b> HSK = herpes stromal keratitis, VEGF = vascular endothelial growth factor, VEGFR-1 = VEGF Receptor-1, FGF = Fibroblast growth factor, PDGF = Platelet-derived growth factor, IL-6 = interleukin-6, IL-7 = interleukin-7, IL-8 = interleukin-8, IRS-1 = insulin receptor substrate-1.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sharif</LastName>
+                    <ForeName>Zuhair</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Royal Wolverhampton NHS Trust, Wolverhampton, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharif</LastName>
+                    <ForeName>Walid</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, University of Jordan Hospital, University of Jordan, Amman, Jordan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Rom J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101677459</NlmUniqueID>
+            <ISSNLinking>2457-4325</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anti-VEGF</Keyword>
+            <Keyword MajorTopicYN="N">cornea</Keyword>
+            <Keyword MajorTopicYN="N">gene therapy</Keyword>
+            <Keyword MajorTopicYN="N">keratoplasty</Keyword>
+            <Keyword MajorTopicYN="N">neovascularization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198893</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

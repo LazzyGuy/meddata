@@ -1,0 +1,212 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199663</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-3907</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteome research</Title>
+                <ISOAbbreviation>J. Proteome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lipidomics Reveals Triacylglycerol Accumulation Due to Impaired Fatty Acid Flux in Opa1-Disrupted Fibroblasts.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jproteome.9b00081</ELocationID>
+            <Abstract>
+                <AbstractText>OPA1 is a dynamin GTPase implicated in mitochondrial membrane fusion. Despite its involvement in lipid remodeling, the function of OPA1 has never been analyzed by whole-cell lipidomics. We used a nontargeted, reversed-phase lipidomics approach, validated for cell cultures, to investigate OPA1-inactivated mouse embryonic fibroblasts ( Opa1 <sup>-/-</sup> MEFs). This led to the identification of a wide range of 14 different lipid subclasses comprising 212 accurately detected lipids. Multivariate and univariate statistical analyses were then carried out to assess the differences between the Opa1 <sup>-/-</sup> and Opa1 <sup>+/+</sup> genotypes. Of the 212 lipids identified, 69 were found to discriminate between Opa1 <sup>-/-</sup> MEFs and Opa1 <sup>+/+</sup> MEFs. Among these lipids, 34 were triglycerides, all of which were at higher levels in Opa1 <sup>-/-</sup> MEFs with fold changes ranging from 3.60 to 17.93. Cell imaging with labeled fatty acids revealed a sharp alteration of the fatty acid flux with a reduced mitochondrial uptake. The other 35 discriminating lipids included phosphatidylcholines, lysophosphatidylcholines, phosphatidylethanolamine, and sphingomyelins, mainly involved in membrane remodeling, and ceramides, gangliosides, and phosphatidylinositols, mainly involved in apoptotic cell signaling. Our results show that the inactivation of OPA1 severely affects the mitochondrial uptake of fatty acids and lipids through membrane remodeling and apoptotic cell signaling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bocca</LastName>
+                    <ForeName>Cinzia</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8822-9832</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kane</LastName>
+                    <ForeName>Mariame Selma</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veyrat-Durebex</LastName>
+                    <ForeName>Charlotte</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nzoughet</LastName>
+                    <ForeName>Judith Kouassi</ForeName>
+                    <Initials>JK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4987-1889</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chao de la Barca</LastName>
+                    <ForeName>Juan Manuel</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chupin</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alban</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Procaccio</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonneau</LastName>
+                    <ForeName>Dominique</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simard</LastName>
+                    <ForeName>Gilles</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM U1063 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lenaers</LastName>
+                    <ForeName>Guy</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reynier</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Biochimie et Génétique , Centre Hospitalier Universitaire , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chevrollier</LastName>
+                    <ForeName>Arnaud</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equipe Mitolab, Institut MITOVASC, CNRS 6015, INSERM U1083 , Université d'Angers , 49933 Angers , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Proteome Res</MedlineTA>
+            <NlmUniqueID>101128775</NlmUniqueID>
+            <ISSNLinking>1535-3893</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dominant optic atrophy</Keyword>
+            <Keyword MajorTopicYN="N">fatty acid oxidation</Keyword>
+            <Keyword MajorTopicYN="N">lipid droplets</Keyword>
+            <Keyword MajorTopicYN="N">membrane/fusion</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">optic neuropathy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199663</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jproteome.9b00081</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

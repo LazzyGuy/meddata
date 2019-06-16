@@ -1,0 +1,148 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199634</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J. Am. Chem. Soc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ligand Charge Separation To Build Highly Stable Quasi-Isomer of MOF-74-Zn.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jacs.9b04432</ELocationID>
+            <Abstract>
+                <AbstractText>Built from an unusual high-charge-density ligand 2,5-dioxido-1,4-benzenedicarboxylate (dobdc<sup>4-</sup>), MOF-74 M (M<sub>2</sub>dobdc) have unsurpassed gas uptake and separation properties. It is thus intriguing to mimic or replicate such ligand properties in other chemical systems. Here, we show a ligand charge separation (LCS) model that could offer one pathway toward this goal. Two new materials (CPM-74 and -75, corresponding to MOF-74 and IRMOF-74-II, respectively) are presented here to illustrate this concept and its feasibility. Specifically, the dobdc<sup>4-</sup> ligand in MOF-74 can be conceptually broken down into OH<sup>-</sup> and obdc<sup>3-</sup> (H<sub>3</sub>obdc = 2-hydroxyterephthalic acid), which leads to CPM-74, Zn<sub>2</sub>(OH)(obdc), that is nearly isomeric with MOF-74-Zn. Different from MOF-74, CPM-74 is made from homohelical rod packing. Moreover, CPM-74 has high hydrothermal and thermal stability uncommon for Zn-MOFs. It contains open Zn sites on 4-coordinated Zn<sup>2+</sup> and its isosteric heat of adsorption for CO<sub>2</sub> is 22% higher than that of MOF-74-Zn at low pressures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Huajun</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4664-4042</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry , California State University , Long Beach , California 90840 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry , California State University , Long Beach , California 90840 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dang</LastName>
+                    <ForeName>Candy</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry , California State University , Long Beach , California 90840 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , University of California, Riverside , Riverside , California 92521 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Dandan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , University of California, Riverside , Riverside , California 92521 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7526-8261</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , University of California, Riverside , Riverside , California 92521 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Pingyun</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3684-577X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , University of California, Riverside , Riverside , California 92521 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bu</LastName>
+                    <ForeName>Xianhui</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2994-4051</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry , California State University , Long Beach , California 90840 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199634</ArticleId>
+            <ArticleId IdType="doi">10.1021/jacs.9b04432</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

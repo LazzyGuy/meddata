@@ -1,0 +1,164 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199799</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Scalp hair cortisol and testosterone levels in patients with sarcoidosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0215763</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0215763</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patients with sarcoidosis often experience fatigue and psychological distress, but little is known about the etiology of these conditions. While serum and saliva steroid hormones are used to monitor acute steroid levels, scalp hair analysis is a relatively new method enabling measurement of long-term steroid levels, including hair cortisol reflecting chronic stress. We investigated whether scalp hair cortisol and testosterone levels differ between sarcoidosis patients both with and without fatigue and general population controls. Additionally, we studied if these hormones could serve as objective biomarkers for psychological distress in patients with sarcoidosis.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We measured hair steroid levels using liquid chromatography-tandem mass spectrometry in glucocorticoid naïve sarcoidosis patients. Patients completed the Perceived Stress Scale, Fatigue Assessment Scale, Hospital Anxiety and Depression Scale and Short Form 36 (SF-36). Hair steroid levels from 293 participants of the population-based Lifelines cohort study served as controls.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-two patients (14 males) were included. Hair cortisol, but not testosterone, concentrations were significantly higher in patients with sarcoidosis than in general population controls (mean 6.6 versus 2.7 pg/mg, p&lt;0.001). No differences were found in hair cortisol and testosterone levels between fatigued and non-fatigued patients with sarcoidosis. Hair cortisol of sarcoidosis patients correlated significantly with anxiety (r = 0.47, p = 0.01), depression (r = 0.46, p = 0.01), and SF-36 mental domain (r = -0.38, p = 0.03), but not with fatigue.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Patients with sarcoidosis have chronically higher levels of the stress hormone cortisol than the normal population, while testosterone levels in hair did not differ. Hair cortisol levels were positively related to subjective measures of psychological distress, but not to fatigue. Our study shows that hair cortisol is a promising non-invasive biomarker for psychological distress in patients with sarcoidosis.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov: NCT03108547. Registered 31 March 2017, retrospectively registered.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van Manen</LastName>
+                    <ForeName>M J G</ForeName>
+                    <Initials>MJG</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9606-6271</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wester</LastName>
+                    <ForeName>V L</ForeName>
+                    <Initials>VL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Rossum</LastName>
+                    <ForeName>E F C</ForeName>
+                    <Initials>EFC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van den Toorn</LastName>
+                    <ForeName>L M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorst</LastName>
+                    <ForeName>K Y</ForeName>
+                    <Initials>KY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Chemistry, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Rijke</LastName>
+                    <ForeName>Y B</ForeName>
+                    <Initials>YB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Chemistry, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wijsenbeek</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Erasmus MC, University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03108547</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>MM, ER, VW, LT, KD, and YR declare that they have no competing interests. MW reports grants and other financial support from Intermune/Hoffman la Roche and Boehringer Ingelheim, outside the submitted work. This does not alter our adherence to PLOS ONE policies on sharing data and materials.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199799</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0215763</ArticleId>
+            <ArticleId IdType="pii">PONE-D-18-36501</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

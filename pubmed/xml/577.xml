@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199811</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HPV-based screening for cervical cancer among women 55-59 years of age.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0217108</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0217108</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">Many cervical cancers occurs among women over 65 and prevalence of HPV genotypes in this age cohort is sparingly studied. One aim of this study was to study the prevalence and distribution of HPV genotypes in women 55-59 years, with normal cytology when exiting the screening program. Secondly, HPV clearance as well as the value of HPV genotyping and/or liquid based cytology as triage tests for identifying histological dysplasia among women with persistent HPV was studied.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Women that exited the screening program with normal cytology, between the years 2012-2014, in Örebro County, Sweden, were invited to this study. A total of 2946 samples were analyzed with a broad-spectrum assay to detect both hrHPV and lrHPV in order to investigate the distribution of genotypes. In the consent group, women with a positive hrHPV test were offered a follow-up test and a cone biopsy for histological confirmation, and a follow up sample 6 months post cone.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall prevalence of hrHPV was 7.4% and 59% of them remained hrHPV positive in a follow-up test after 12 months. A total of 99 women had a cone biopsy done, where 19% showed histological dysplasia. HPV 53 was the most common genotype, and among women with histology confirmed LSIL or HSIL, HPV 31 was most common. A positive hrHPV result showed a PPV of 25% for LSIL+ and 12.5%for HSIL+. Using detection of HPV 16/18 genotypes as a triage test for hrHPV positive tests, indicated FNR for histological LSIL+ and HSIL+ of 94% and 87.5% respectively, whilst triage based on cervical cytology had a FNR of 69% for LSIL+ and 37.5% for HSIL+.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The most common hrHPV genotypes among women 55-59 years of age were non HPV16/18 genotypes, and in this population, these genotypes represented most of the histological verified HSIL lesions. This result does not support the proposition of a HPV 16/18 triaging test after a positive hrHPV test as a marker of histological HSIL+ cervical lesions in women over 55 years of age. Similarly, cytological triage after a positive hrHPV showed no additional benefit in this population. Specific triaging tests should be validated to follow post-menopausal women with a positive hrHPV test.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bergengren</LastName>
+                    <ForeName>Lovisa</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1458-1542</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dept of Women's Health, Faculty of Medicine and Health, Örebro University, Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lillsunde-Larsson</LastName>
+                    <ForeName>Gabriella</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Laboratory Medicine, Faculty of Medicine and Health, School of Health Sciences, Örebro University, Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Helenius</LastName>
+                    <ForeName>Gisela</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept of Laboratory Medicine, Faculty of Medicine and Health, Örebro University, Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karlsson</LastName>
+                    <ForeName>Mats G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept of Laboratory Medicine, Faculty of Medicine and Health, Örebro University, Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interest exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199811</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217108</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-02392</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

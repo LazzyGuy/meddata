@@ -1,0 +1,208 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199810</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel and known signals of selection for fat deposition in domestic sheep breeds from Africa and Eurasia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0209632</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0209632</ELocationID>
+            <Abstract>
+                <AbstractText>Genomic regions subjected to selection frequently show signatures such as within-population reduced nucleotide diversity and outlier values of differentiation among differentially selected populations. In this study, we analyzed 50K SNP genotype data of 373 animals belonging to 23 sheep breeds of different geographic origins using the Rsb (extended haplotype homozygosity) and FST statistical approaches, to identify loci associated with the fat-tail phenotype. We also checked if these putative selection signatures overlapped with regions of high-homozygosity (ROH). The analyses identified novel signals and confirmed the presence of selection signature in genomic regions that harbor candidate genes known to affect fat deposition. Several genomic regions that frequently appeared in ROH were also identified within each breed, but only two ROH islands overlapped with the putative selection signatures. The results reported herein provide the most complete genome-wide study of selection signatures for fat-tail in African and Eurasian sheep breeds; they also contribute insights into the genetic basis for the fat tail phenotype in sheep, and confirm the great complexity of the mechanisms that underlie quantitative traits, such as the fat-tail.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mastrangelo</LastName>
+                    <ForeName>Salvatore</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6511-1981</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Scienze Agrarie, Alimentari e Forestali, University of Palermo, Palermo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahbahani</LastName>
+                    <ForeName>Hussain</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Faculty of Science, Kuwait University, Safat, Kuwait.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moioli</LastName>
+                    <ForeName>Bianca</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA), Monterotondo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahbara</LastName>
+                    <ForeName>Abulgasim</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Nottingham, University Park, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, Faculty of Sciences, Misurata University, Misurata, Libya.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al Abri</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1708-3845</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal and Veterinary Sciences, Sultan Qaboos University, Oman.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almathen</LastName>
+                    <ForeName>Faisal</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health and Animal Welfare, College of Veterinary Medicine, King Faisal University, Alhufuf, Al-Ahsa, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>da Silva</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Université de Limoges, INRA, PEREINE EA7500, USC1061 GAMAA, Limoges, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belabdi</LastName>
+                    <ForeName>Ibrahim</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Science Veterinary Institute, University of Blida, Blida, Algeria.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biotechnology related to Animal Reproduction (LBRA), University of Blida, Blida, Algeria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Portolano</LastName>
+                    <ForeName>Baldassare</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Scienze Agrarie, Alimentari e Forestali, University of Palermo, Palermo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mwacharo</LastName>
+                    <ForeName>Joram M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Small Ruminant Genomics, International Center for Agricultural Research in the Dry Areas (ICARDA), Addis Ababa, Ethiopia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanotte</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Nottingham, University Park, Nottingham, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pilla</LastName>
+                    <ForeName>Fabio</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento Agricoltura, Ambiente e Alimenti, Università degli Studi del Molise, Campobasso, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ciani</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5673-0975</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Bioscienze, Biotecnologie e Biofarmaceutica, Università degli Studi di Bari Aldo Moro, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199810</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0209632</ArticleId>
+            <ArticleId IdType="pii">PONE-D-18-35124</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

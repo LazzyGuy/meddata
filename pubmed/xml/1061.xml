@@ -1,0 +1,100 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199268</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-9990</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on biomedical circuits and systems</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Circuits Syst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Comprehensive Study of Ultrasound Transducer Characteristics in Microscopic Ultrasound Neuromodulation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TBCAS.2019.2922027</ELocationID>
+            <Abstract>
+                <AbstractText>In order to improve the spatial resolution of transcranial focused ultrasound stimulation (tFUS), we have recently proposed microscopic ultrasound stimulation (μUS). In μUS, either an electronically phased array of ultrasound transducers or several millimeter-sized focused transducers are placed on the brain surface or sub-millimeter-sized transducers are implanted inside the brain tissue to steer and deliver a focused ultrasound pressure directly to the neural target. A key element in both tFUS and μUS is the ultrasound transducer that converts electrical power to acoustic pressure. The literature lacks a comprehensive study (in a quantitative manner) of the transducer characteristics, such as dimension, focusing, acoustic matching, backing material and sonication frequency ( f<sub>p</sub> ), in the μUS. This paper studies the impact of these design parameters on the acoustic beam profile of millimeter-sized transducers with the emphasis on the stimulation spatial resolution and energy efficiency, which is defined as the μUS figure-of-merit (FoM). For this purpose, disc-shaped focused and unfocused piezoelectric (PZT-5A) transducers with different dimension (diameter, thickness), backing material (PCB, air) and acoustic matching in the frequency range of 2.2-9.56 MHz were fabricated. Our experimental studies with both water and sheep brain phantom medium demonstrate that acoustically matched focused transducers with high quality factor are desirable for μUS, as they provide fine spatial resolution and high acoustic intensities with low input electrical power levels (i.e., high FoM).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sadeghi Gougheri</LastName>
+                    <ForeName>Hesam</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dangi</LastName>
+                    <ForeName>Ajay</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kothapalli</LastName>
+                    <ForeName>Sri-Rajasekhar</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiani</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Circuits Syst</MedlineTA>
+            <NlmUniqueID>101312520</NlmUniqueID>
+            <ISSNLinking>1932-4545</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199268</ArticleId>
+            <ArticleId IdType="doi">10.1109/TBCAS.2019.2922027</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

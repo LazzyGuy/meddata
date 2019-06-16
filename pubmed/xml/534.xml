@@ -1,0 +1,171 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199854</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>microRNA-200c regulates KLOTHO expression in human kidney cells under oxidative stress.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0218468</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0218468</ELocationID>
+            <Abstract>
+                <AbstractText>KLOTHO deficiency is associated with the progression of kidney dysfunction, whereas its overexpression exerts renoprotective effects. Oxidative stress suppresses KLOTHO expression in renal epithelial cells but upregulates microRNA-200c (miR-200c) in human umbilical vein endothelial cells. In this study, we investigated whether oxidative stress-induced miR-200c is implicated in KLOTHO downregulation in human renal tubular epithelium (HK-2) cells. HK-2 cells were stimulated with hydrogen peroxide (H2O2) to examine the effect of oxidative stress. A luciferase reporter containing the KLOTHO 3'-UTR was used to investigate the effect of miR-200c on KLOTHO mRNA metabolism. The expressions of KLOTHO, oxidative stress markers, and miR-200c were determined in human kidney biopsy specimens. H2O2 suppressed KLOTHO expression without a reduction in KLOTHO mRNA levels but upregulated miR-200c expression. Similarly, transfection of a miR-200c mimic reduced KLOTHO levels and luciferase activity without a reduction in KLOTHO mRNA levels. In contrast, transfection of a miR-200c inhibitor maintained KLOTHO expression. Immunofluorescent assay revealed KLOTHO was present in the cytosol and nuclei of HK-2 cells. In human kidney biopsies, KLOTHO expression was inversely correlated with levels of oxidative stress markers (8-hydroxy-2'-deoxyguanosine: ρ = -0.38, P = 0.026; 4-hydroxy-2-hexenal: ρ = -0.35, P = 0.038) and miR-200c (ρ = -0.34, P = 0.043). Oxidative stress-induced miR-200c binds to the KLOTHO mRNA 3'-UTR, resulting in reduced KLOTHO expression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Morii</LastName>
+                    <ForeName>Kenichi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamasaki</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Rheumatic Diseases, Kurume University Medical Center, Kurume, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doi</LastName>
+                    <ForeName>Shigehiro</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9420-4124</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Irifuku</LastName>
+                    <ForeName>Taisuke</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasaki</LastName>
+                    <ForeName>Kensuke</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doi</LastName>
+                    <ForeName>Toshiki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakashima</LastName>
+                    <ForeName>Ayumu</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Stem Cell Biology and Medicine, Graduate School of Biomedical &amp; Health Sciences, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arihiro</LastName>
+                    <ForeName>Koji</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomical Pathology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masaki</LastName>
+                    <ForeName>Takao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hiroshima University Hospital, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199854</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0218468</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-00829</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

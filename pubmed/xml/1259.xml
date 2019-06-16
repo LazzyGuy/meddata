@@ -1,0 +1,188 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199037</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2184</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell proliferation</Title>
+                <ISOAbbreviation>Cell Prolif.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Circ-SERPINE2 promotes the development of gastric carcinoma by sponging miR-375 and modulating YWHAZ.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12648</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/cpr.12648</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Circular RNAs (circRNAs) exist extensively in the eukaryotic genome. The study aimed to identify the role of hsa_circ_0008365 (Circ-SERPINE2) in gastric carcinoma (GC) cells and its downstream mechanisms.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Gene Expression Omnibus (GEO) database was applied to screen differentially expressed circRNAs. CircInteractome, TargetScan and miRecords websites were used to predict target relationships. qRT-PCR and RNase R treatment were utilised to detect molecule expression and confirm the existence of circ-SERPINE2. RNA pull-down assay and dual-luciferase reporter assay were performed for interaction between circRNA and miRNA or mRNA. EdU assay, colony formation assay, and flow cytometry for apoptosis and cell cycle detections were utilised to assess cell function. Western blot and immunohistochemistry (IHC) assays were applied for detection of proteins in tissues or cells.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Circ-SERPINE2 and YWHAZ were upregulated, and miR-375 was downregulated in GC tissues and cells. Circ-SERPINE2 and YWHAZ targetedly bound to miR-375. Circ-SERPINE2 promoted cell proliferation and cell cycle progress and inhibited cell apoptosis by sponging miR-375 and regulating YWHAZ expression in vitro. Circ-SERPINE2 repressed solid tumour growth through enhancing miR-375 expression and reducing YWHAZ expression in vivo.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Circ-SERPINE2 is a novel proliferative promoter through the regulation of miR-375/YWHAZ. Circ-SERPINE2/miR-375/YWHAZ axis might provide a novel therapeutic target of GC.</AbstractText>
+                <CopyrightInformation>© 2019 The Authors. Cell Proliferation Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jianing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thyroid and Pancreatic Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Suzhen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Shandong University of Traditional Chinese Medicine, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Sen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Mingbao</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Yating</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Dongdong</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Weihua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hongbo</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0260-425X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Disease, The Second Hospital of Shandong University, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2017GSF218022</GrantID>
+                    <Agency>Key R&amp;D Plan in Shandong Province</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>2017GSF218103</GrantID>
+                    <Agency>Key R&amp;D Plan in Shandong Province</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Prolif</MedlineTA>
+            <NlmUniqueID>9105195</NlmUniqueID>
+            <ISSNLinking>0960-7722</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+YWHAZ
+</Keyword>
+            <Keyword MajorTopicYN="N">14-3-3 zeta</Keyword>
+            <Keyword MajorTopicYN="N">circular RNA</Keyword>
+            <Keyword MajorTopicYN="N">gastric carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">miR-375</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199037</ArticleId>
+            <ArticleId IdType="doi">10.1111/cpr.12648</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

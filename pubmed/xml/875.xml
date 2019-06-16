@@ -1,0 +1,220 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199462</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain : a journal of neurology</Title>
+                <ISOAbbreviation>Brain</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stratifying drug treatment of cognitive impairments after traumatic brain injury using neuroimaging.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">awz149</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/awz149</ELocationID>
+            <Abstract>
+                <AbstractText>Cognitive impairment is common following traumatic brain injury. Dopaminergic drugs can enhance cognition after traumatic brain injury, but individual responses are highly variable. This may be due to variability in dopaminergic damage between patients. We investigate whether measuring dopamine transporter levels using 123I-ioflupane single-photon emission computed tomography (SPECT) predicts response to methylphenidate, a stimulant with dopaminergic effects. Forty patients with moderate-severe traumatic brain injury and cognitive impairments completed a randomized, double-blind, placebo-controlled, crossover study. 123I-ioflupane SPECT, MRI and neuropsychological testing were performed. Patients received 0.3 mg/kg of methylphenidate or placebo twice a day in 2-week blocks. Subjects received neuropsychological assessment after each block and completed daily home cognitive testing during the trial. The primary outcome measure was change in choice reaction time produced by methylphenidate and its relationship to stratification of patients into groups with normal and low dopamine transporter binding in the caudate. Overall, traumatic brain injury patients showed slow information processing speed. Patients with low caudate dopamine transporter binding showed improvement in response times with methylphenidate compared to placebo [median change = -16 ms; 95% confidence interval (CI): -28 to -3 ms; P = 0.02]. This represents a 27% improvement in the slowing produced by traumatic brain injury. Patients with normal dopamine transporter binding did not improve. Daily home-based choice reaction time results supported this: the low dopamine transporter group improved (median change -19 ms; 95% CI: -23 to -7 ms; P = 0.002) with no change in the normal dopamine transporter group (P = 0.50). The low dopamine transporter group also improved on self-reported and caregiver apathy assessments (P = 0.03 and P = 0.02, respectively). Both groups reported improvements in fatigue (P = 0.03 and P = 0.007). The cognitive effects of methylphenidate after traumatic brain injury were only seen in patients with low caudate dopamine transporter levels. This shows that identifying patients with a hypodopaminergic state after traumatic brain injury can help stratify the choice of cognitive enhancing therapy.</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jenkins</LastName>
+                    <ForeName>Peter O</ForeName>
+                    <Initials>PO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Simoni</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourke</LastName>
+                    <ForeName>Niall J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleminger</LastName>
+                    <ForeName>Jessica</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Gregory</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Towey</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Charing Cross Hospital, Imperial College Healthcare NHS Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svensson</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Charing Cross Hospital, Imperial College Healthcare NHS Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Sameer</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Charing Cross Hospital, Imperial College Healthcare NHS Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Maneesh C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Department, Charing Cross Hospital, Imperial College Healthcare NHS Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greenwood</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Neurology, Division of Clinical Neurology, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Friedland</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hampshire</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cole</LastName>
+                    <ForeName>James H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharp</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Computational, Cognitive and Clinical Neuroimaging Laboratory, Imperial College London, Division of Brain Sciences, Hammersmith Hospital, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>United Kingdom (UK) Dementia Research Institute, 6th Floor, UCL Maple House Tottenham Court Road, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Brain</MedlineTA>
+            <NlmUniqueID>0372537</NlmUniqueID>
+            <ISSNLinking>0006-8950</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cognitive enhancement</Keyword>
+            <Keyword MajorTopicYN="N">dopamine</Keyword>
+            <Keyword MajorTopicYN="N">methylphenidate</Keyword>
+            <Keyword MajorTopicYN="N">neuroimaging</Keyword>
+            <Keyword MajorTopicYN="N">traumatic brain injury</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199462</ArticleId>
+            <ArticleId IdType="pii">5519011</ArticleId>
+            <ArticleId IdType="doi">10.1093/brain/awz149</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

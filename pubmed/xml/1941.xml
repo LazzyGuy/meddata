@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31198180</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Are Payers Ready, Willing, and Able to Provide Access to New Durable Gene Therapies?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>642-647</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(19)30037-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2018.12.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore payer feedback regarding awareness of new gene therapies, sustainability of current financing mechanisms, unique challenges by payer segment, and need and preference for new financial models.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Qualitative interview with standardized interview guide.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Sixty-minute telephone interviews were conducted with financial decision makers from 15 US payers between August and September 2017.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">One-third of payers interviewed (n = 5) were newly aware and learning about new gene therapies, 40% (n = 6) described watchful waiting, whereas 26.7% (n = 4) were engaged in active management. New payment models-specifically, performance-based agreements and risk-pooling-were supported by 47% (n = 7) of payers, whereas the current payment model was supported by 53% (n = 8). Major challenges included uncertainty related to utilization, cost, and duration of cure. Payers cited regulation, plan turnover, and ability to track long-term outcomes as barriers to implementation of new models.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Access to new gene therapies may be impacted by payer ability to absorb the cost of coverage. Variation exists in awareness of new gene therapies and level of incorporation of new costs into future plan coverage. The sustainability of current financing mechanisms varies by payer segment, profitability, and size; smaller plans and Medicaid are likely to be impacted first. Government reinsurance, commercial reinsurance, and stop-loss insurance backstop current reimbursement models, dampening the need for urgent action. The tipping point for action may be severe premium inflation in stop loss and reinsurance. Payers are open to innovative financing models that improve financial predictability and reward clinical performance.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 ISPOR–The Professional Society for Health Economics and Outcomes Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barlow</LastName>
+                    <ForeName>Jane F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: jfbarlow@mit.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Mo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Teagarden</LastName>
+                    <ForeName>J Russell</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Innovation, Massachusetts Institute of Technology, Cambridge, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198180</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(19)30037-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2018.12.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,141 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200309</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diastereoisomer-specific neurotoxicity of hexabromocyclododecane in human SH-SY5Y neuroblastoma cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>893-902</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32562-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.06.008</ELocationID>
+            <Abstract>
+                <AbstractText>Hexabromocyclododecane (HBCD) is a widely applied brominated flame retardant (BFR) and is regarded as a persistent organic pollutant. It has been found in human tissues and has the potential to cause neurological disorders. However, our understanding of HBCD neurotoxicity at the diastereoisomer level remains lacking. Here, we investigated the neurotoxicity of three HBCD diastereoisomers, i.e., α-, β-, and γ-HBCD, in SH-SY5Y human neuroblastoma cells. Results showed that the HBCD diastereoisomers decreased cell viability, increased lactate dehydrogenase (LDH) release, and impaired cytoskeleton development. Typical morphological features and apoptosis rates showed that the HBCD diastereoisomers induced SH-SY5Y cell apoptosis. The expression levels of several cell apoptosis-related genes and proteins, including Bax, caspase-3, caspase-9, cytochrome c, Bcl-2, and X-linked inhibitor of apoptosis (XIAP), as well as the cell cycle arrest, DNA damage, adenosine triphosphate (ATP) consumption, reactive oxygen species (ROS) levels, and intracellular calcium ion (Ca<sup>2+</sup>) levels, were examined. Results showed that the HBCD diastereoisomer neurotoxicity was ranked β-HBCD &gt; γ-HBCD &gt; α-HBCD. The cell apoptosis and caspase expression levels of the three HBCD diastereoisomers followed the same order, suggesting that caspase-dependent apoptosis may be one mechanism responsible for the structure-selective HBCD diastereoisomer neurotoxicity. The levels of intracellular Ca<sup>2+</sup> and ROS increased significantly. The ROS levels were ordered β-HBCD &gt; γ-HBCD &gt; α-HBCD, whereas those of intracellular Ca<sup>2+</sup> were γ-HBCD &gt; β-HBCD &gt; α-HBCD. Thus, ROS may be a key factor regulating the neurotoxicity of HBCD diastereoisomers. To the best of our knowledge, this is the first study to report on the diastereoisomer-specific toxicity of HBCD in human neural cells and on the possible mechanisms responsible for the selective neurotoxicity of HBCD diastereoisomers.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Xiaoli</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China; University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zha</LastName>
+                    <ForeName>Jinmiao</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China; University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wen</LastName>
+                    <ForeName>Bei</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China. Electronic address: bwen@rcees.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Shuzhen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China; University of Chinese Academy of Sciences, Beijing 100049, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">Hexabromocyclododecane diastereoisomers</Keyword>
+            <Keyword MajorTopicYN="N">Neurotoxicity</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">SH-SY5Y cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200309</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32562-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.06.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

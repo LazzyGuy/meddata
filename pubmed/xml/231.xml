@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200176</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Testing an innovative first flush identification methodology against field data from an Italian catchment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>418-425</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(19)30792-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2019.06.007</ELocationID>
+            <Abstract>
+                <AbstractText>This paper studies in depth the first flush concept with the aim of exploiting the potential of this phenomenon for an effective and economical implementation of stormwater quality control practices. A quantitative first flush methodology recently proposed in the scientific literature is applied to discrete water quality data of different pollution parameters from an Italian database. The methodology is rigorous and effective for characterising the dynamics of different pollutant types in wet-weather runoff, allowing an assessment of the first flush strength and the detection of the runoff volume required to reduce concentrations to background levels peculiar of the catchment. A strong reduction in concentration is attained after 3 mm runoff, but the achievement of background levels for all pollutant parameters requires the transit of 6 mm runoff. Sensitivity analysis shows the crucial role of the event selection criteria for enhancing the robustness of the methodology. The advantages of the adopted procedure are also highlighted by comparison with the widely used Mass First Flush Ratio method. The results are also compared with Italian guidelines for the design of stormwater quality control measures, pointing out the fruitfulness and profitability of the methodology for decision making in this context.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Todeschini</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering and Architecture, University of Pavia, Via Ferrata 3, 27100, Pavia, Italy. Electronic address: sara.todeschini@unipv.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manenti</LastName>
+                    <ForeName>Sauro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering and Architecture, University of Pavia, Via Ferrata 3, 27100, Pavia, Italy. Electronic address: sauro.manenti@unipv.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Creaco</LastName>
+                    <ForeName>Enrico</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering and Architecture, University of Pavia, Via Ferrata 3, 27100, Pavia, Italy. Electronic address: creaco@unipv.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Best management practices</Keyword>
+            <Keyword MajorTopicYN="N">Detention tanks</Keyword>
+            <Keyword MajorTopicYN="N">First flush</Keyword>
+            <Keyword MajorTopicYN="N">Pollution</Keyword>
+            <Keyword MajorTopicYN="N">Sizing criteria</Keyword>
+            <Keyword MajorTopicYN="N">Stormwater runoff</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200176</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(19)30792-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2019.06.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

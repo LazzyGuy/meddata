@@ -1,0 +1,159 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199203</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1555-8584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>RNA biology</Title>
+                <ISOAbbreviation>RNA Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>¬¬¬Long non-coding RNA slincRAD functions in methylation regulation during the early stage of mouse adipogenesis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/15476286.2019.1631643</ELocationID>
+            <Abstract>
+                <AbstractText>Adipocyte differentiation is a coordinated cellular process, which involves a series of dynamic molecular events. Up-regulation of long noncoding RNA <i>slincRAD</i> expression was found to occur in the early differentiation stages of 3T3-L1 cell, prior to the regulation of major transcription factors. By interacting with DNMT1 in S phase, <i>slincRAD</i> guides this essentially epigenetic factor to mediate promoter methylation of a batch of cell cycle-related genes, including cyclin-dependent kinase inhibitor <i>p21</i>. The regulation promotes the growth-arrested cells to re-enter into cell cycle under hormone induction and thereby advances the process of differentiation to clonal expansion stage. The abolishment of the interaction between <i>slincRAD</i> and DNMT1 by <i>slincRAD</i> knockdown results in a defective epigenetic regulation and finally compromised adipogenesis. Collectively, our study characterizes the epigenetic regulation of lncRNA involved in the early stage of adipogenesis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Fan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Pei</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Yin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhengxi</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Weizhi</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Qing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Quan</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences , Peking University , Beijing 100871 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>RNA Biol</MedlineTA>
+            <NlmUniqueID>101235328</NlmUniqueID>
+            <ISSNLinking>1547-6286</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DNMT1</Keyword>
+            <Keyword MajorTopicYN="N">adipocyte differentiation</Keyword>
+            <Keyword MajorTopicYN="N">clonal expansion</Keyword>
+            <Keyword MajorTopicYN="N">long non-coding RNA</Keyword>
+            <Keyword MajorTopicYN="N">methylation regulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199203</ArticleId>
+            <ArticleId IdType="doi">10.1080/15476286.2019.1631643</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

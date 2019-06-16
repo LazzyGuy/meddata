@@ -1,0 +1,147 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199809</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1935-2735</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS neglected tropical diseases</Title>
+                <ISOAbbreviation>PLoS Negl Trop Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Downgrading disease transmission risk estimates using terminal importations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0007395</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pntd.0007395</ELocationID>
+            <Abstract>
+                <AbstractText>As emerging and re-emerging infectious arboviruses like dengue, chikungunya, and Zika threaten new populations worldwide, officials scramble to assess local severity and transmissibility, with little to no epidemiological history to draw upon. Indirect estimates of risk from vector habitat suitability maps are prone to great uncertainty, while direct estimates from epidemiological data are only possible after cases accumulate and, given environmental constraints on arbovirus transmission, cannot be widely generalized beyond the focal region. Combining these complementary methods, we use disease importation and transmission data to improve the accuracy and precision of a priori ecological risk estimates. We demonstrate this approach by estimating the spatiotemporal risks of Zika virus transmission throughout Texas, a high-risk region in the southern United States. Our estimates are, on average, 80% lower than published ecological estimates-with only six of 254 Texas counties deemed capable of sustaining a Zika epidemic-and they are consistent with the number of autochthonous cases detected in 2017. Importantly our method provides a framework for model comparison, as our mechanistic understanding of arbovirus transmission continues to improve. Real-time updating of prior risk estimates as importations and outbreaks arise can thereby provide critical, early insight into local transmission risks as emerging arboviruses expand their global reach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fox</LastName>
+                    <ForeName>Spencer J</ForeName>
+                    <Initials>SJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1969-3778</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of Texas at Austin, Austin, Texas, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellan</LastName>
+                    <ForeName>Steven E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, University of Georgia, Athens, Georgia, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Ecology of Infectious Diseases, University of Georgia, Athens, Gerogia, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perkins</LastName>
+                    <ForeName>T Alex</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences and Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johansson</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Vector-Borne Diseases, Centers for Disease Control and Prevention, San Juan, Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Communicable Disease Dynamics, Harvard TH Chan School of Public Health, Boston, Massachusetts, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyers</LastName>
+                    <ForeName>Lauren Ancel</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Integrative Biology, University of Texas at Austin, Austin, Texas, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Santa Fe Institute, Santa Fe, New Mexico, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Negl Trop Dis</MedlineTA>
+            <NlmUniqueID>101291488</NlmUniqueID>
+            <ISSNLinking>1935-2727</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199809</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pntd.0007395</ArticleId>
+            <ArticleId IdType="pii">PNTD-D-18-01094</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

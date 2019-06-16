@@ -1,0 +1,134 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199187</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-1539</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Heart and circulatory physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol. Heart Circ. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aldosterone impairs coronary adenosine-mediated vasodilation via reduced functional expression of Ca<sup>2+</sup>-activated K<sup>+</sup> channels.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/ajpheart.00081.2019</ELocationID>
+            <Abstract>
+                <AbstractText>Elevated plasma aldosterone (Aldo) levels are associated with greater risk of cardiac ischemic events and cardiovascular mortality. Adenosine-mediated coronary vasodilation is a critical cardioprotective mechanism during ischemia, however, whether this response is impaired by increased Aldo is unclear. We hypothesize that chronic Aldo impairs coronary adenosine-mediated vasodilation via downregulation of vascular K<sup>+</sup> channels. Male C57BL/6J mice were treated with vehicle (Con) or subpressor Aldo for 4 weeks. Coronary artery function, assessed by wire myography, revealed Aldo-induced reductions in vasodilation to adenosine and the endothelium-dependent vasodilator acetylcholine, but not to the nitric oxide donor sodium nitroprusside. Coronary vasoconstriction to endothelin-1 and the thromboxane A<sub>2</sub> mimetic U-46619 were unchanged by Aldo. Additional mechanistic studies revealed impaired adenosine A<sub>2A</sub>, not A<sub>2B</sub>, receptor-dependent vasodilation by Aldo with a tendency for Aldo-induced reduction of coronary A<sub>2A</sub> gene expression. Adenylate cyclase inhibition attenuated coronary adenosine dilation but did not eliminate group differences and adenosine-stimulated vascular cAMP production was similar between Con and Aldo mice. Similarly, blockade of inward rectifier K<sup>+</sup> channels reduced but did not eliminate group differences in adenosine dilation whereas group differences were eliminated by blockade of Ca<sup>2+</sup>-activated K<sup>+</sup> (K<sub>Ca</sub>) channels that blunted and abrogated adenosine and A<sub>2A</sub>-dependent dilation, respectively. Gene expression of several coronary K<sub>Ca</sub> channels was reduced by Aldo. Together, these data demonstrate Aldo-induced impairment of adenosine-mediated coronary vasodilation involving blunted A<sub>2A</sub>-K<sub>Ca</sub>-dependent vasodilation, independent of blood pressure, providing important insights into the link between plasma Aldo and cardiac mortality and rationale for aldosterone antagonist use to preserve coronary microvascular function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Maloree</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meuth</LastName>
+                    <ForeName>Alex I</ForeName>
+                    <Initials>AI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Scott M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chandrasekar</LastName>
+                    <ForeName>Bysani</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medicine, University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bowles</LastName>
+                    <ForeName>Douglas K</ForeName>
+                    <Initials>DK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences and Dalton Cardiovascular Research Center, University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bender</LastName>
+                    <ForeName>Shawn B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Sciences, University of Missouri, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Heart Circ Physiol</MedlineTA>
+            <NlmUniqueID>100901228</NlmUniqueID>
+            <ISSNLinking>0363-6135</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">acetylcholine</Keyword>
+            <Keyword MajorTopicYN="N">barium</Keyword>
+            <Keyword MajorTopicYN="N">cAMP</Keyword>
+            <Keyword MajorTopicYN="N">inward rectifier K+ channel</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199187</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.00081.2019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

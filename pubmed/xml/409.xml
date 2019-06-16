@@ -1,0 +1,140 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199990</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6351</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association</Title>
+                <ISOAbbreviation>Food Chem. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ivermectin decreases triglyceride accumulation by inhibiting differentiation of 3T3-L1 preadipocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>110576</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0278-6915(19)30365-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fct.2019.110576</ELocationID>
+            <Abstract>
+                <AbstractText>Ivermectin, a member of the avermectins, is one of the most used anti-parasitic agents, and acts by binding to glutamate-gated chloride channels in invertebrate nerve cells. There is limited information, however, on the effects of ivermectin in non-neural cell, such as adipocytes. The present work aimed to investigate the role of ivermectin in adipogenesis using 3T3-L1 preadipocytes. Ivermectin inhibited the differentiation of preadipocytes and triglyceride (TG) accumulation. In particular, the treatment of ivermectin at the middle to late adipogenic differentiation period (day 2-8) was correlated with the inhibition of fat accumulation. Ivermectin treatment also significantly modulated the mRNA expression of key markers in adipogenesis, fatty acid synthesis, uptake, and oxidation, and enhanced the gene expression of two subunits of the glycine receptor (GlyR). Specifically, the protein levels of peroxisome proliferator-activated receptor gamma (PPARγ), CCAAT/enhancer-binding protein alpha (C/EBPα), and acetyl-CoA carboxylase (ACC) were reduced. Interestingly, the suppression of TG accumulation by ivermectin was partially abolished by rosiglitazone, a specific PPARγ agonist, but Z-guggulsterone, a selective FXR antagonist, failed to rescue the ivermectin-induced effect on adipogenesis. Lastly, ivermectin prevented adipogenesis induced by permethrin and fipronil. In conclusion, ivermectin inhibits adipogenesis of 3T3-L1 preadipocytes partially via PPARγ &amp; GlyR-dependent, but not FXR-dependent, pathway.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>Weipeng</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science of Massachusetts, Amherst, MA, 01003, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary and Animal Sciences of Massachusetts, Amherst, MA, 01003, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suvorov</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health Sciences, University of Massachusetts, Amherst, MA, 01003, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Yeonhwa</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science of Massachusetts, Amherst, MA, 01003, United States. Electronic address: ypark@foodsci.umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Food Chem Toxicol</MedlineTA>
+            <NlmUniqueID>8207483</NlmUniqueID>
+            <ISSNLinking>0278-6915</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3T3-L1 preadipocyte</Keyword>
+            <Keyword MajorTopicYN="N">Differentiation</Keyword>
+            <Keyword MajorTopicYN="N">GlyR</Keyword>
+            <Keyword MajorTopicYN="N">Ivermectin</Keyword>
+            <Keyword MajorTopicYN="N">PPARγ</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199990</ArticleId>
+            <ArticleId IdType="pii">S0278-6915(19)30365-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fct.2019.110576</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,110 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199161</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Langmuir : the ACS journal of surfaces and colloids</Title>
+                <ISOAbbreviation>Langmuir</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modified Silica Adsorbents for Toluene Adsorptions under Dry and Humid Conditions: Impacts of Pore Size and Surface Chemistry.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.langmuir.9b01031</ELocationID>
+            <Abstract>
+                <AbstractText>The pore surface structure and chemistry of the ordered mesoporous silica adsorbent (KIT-6) were modified for toluene removal, including the substituent groups on silica surface and the pore size uniformity. Uniform pore size was obtained by the low-temperature heat treatment of template at 200 oC. In dynamic adsorption process, the better channel uniformity led to the higher adsorption capacity under no humidity condition because of the faster pore diffusion. However, the better channel uniformity resulted in the worse hydrophobicity under high humidity condition because it favors the adsorption of water vapor more extent. The result of Biot number indicated that triphenyl-grafted KIT-6 had a faster intraparticle mass transfer rate than pure KIT-6. Triphenyl-grafted KIT-6 had a higher adsorption capacity for toluene as compared to phenyl-grafted KIT-6 under no humidity condition because of its higher surface area (SA). The higher SA was owing to the less modification of phenyl, which was caused by the isolated grafting of silicon triphenyl rather than a more even coverage by silicon phenyl. As a result, triphenyl-grafted KIT-6 exposed more hydrophilic Si-O-Si groups, and therefore were less hydrophobic than phenyl-grafted KIT-6.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Shuai</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yani</LastName>
+                    <ForeName>Zhang</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crittenden</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Junhua</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Langmuir</MedlineTA>
+            <NlmUniqueID>9882736</NlmUniqueID>
+            <ISSNLinking>0743-7463</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199161</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.langmuir.9b01031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

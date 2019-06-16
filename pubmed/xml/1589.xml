@@ -1,0 +1,149 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198622</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>FunPred 3.0: improved protein function prediction using protein interaction network.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6830</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.6830</ELocationID>
+            <Abstract>
+                <AbstractText>Proteins are the most versatile macromolecules in living systems and perform crucial biological functions. In the advent of the post-genomic era, the next generation sequencing is done routinely at the population scale for a variety of species. The challenging problem is to massively determine the functions of proteins that are yet not characterized by detailed experimental studies. Identification of protein functions experimentally is a laborious and time-consuming task involving many resources. We therefore propose the automated protein function prediction methodology using in silico algorithms trained on carefully curated experimental datasets. We present the improved protein function prediction tool FunPred 3.0, an extended version of our previous methodology FunPred 2, which exploits neighborhood properties in protein-protein interaction network (PPIN) and physicochemical properties of amino acids. Our method is validated using the available functional annotations in the PPIN network of <i>Saccharomyces cerevisiae</i> in the latest Munich information center for protein (MIPS) dataset. The PPIN data of <i>S. cerevisiae</i> in MIPS dataset includes 4,554 unique proteins in 13,528 protein-protein interactions after the elimination of the self-replicating and the self-interacting protein pairs. Using the developed FunPred 3.0 tool, we are able to achieve the mean precision, the recall and the <i>F</i>-score values of 0.55, 0.82 and 0.66, respectively. FunPred 3.0 is then used to predict the functions of unpredicted protein pairs (incomplete and missing functional annotations) in MIPS dataset of <i>S. cerevisiae</i>. The method is also capable of predicting the subcellular localization of proteins along with its corresponding functions. The code and the complete prediction results are available freely at: https://github.com/SovanSaha/FunPred-3.0.git.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saha</LastName>
+                    <ForeName>Sovan</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">0000-0001-9251-8656</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science and Engineering, Dr. Sudhir Chandra Sur Degree Engineering College, Kolkata, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Piyali</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science and Engineering, Netaji Subhash Engineering College, Kolkata, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Basu</LastName>
+                    <ForeName>Subhadip</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">0000-0003-1780-0461</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science and Engineering, Jadavpur University, Kolkata, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nasipuri</LastName>
+                    <ForeName>Mita</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science and Engineering, Jadavpur University, Kolkata, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plewczynski</LastName>
+                    <ForeName>Dariusz</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0002-3840-7610</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Mathematics and Information Science, Warsaw University of Technology, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MIPS Database</Keyword>
+            <Keyword MajorTopicYN="N">Neighborhood approach</Keyword>
+            <Keyword MajorTopicYN="N">Physico-chemical properties</Keyword>
+            <Keyword MajorTopicYN="N">Protein function prediction</Keyword>
+            <Keyword MajorTopicYN="N">Protein interaction networks</Keyword>
+            <Keyword MajorTopicYN="N">Protein–protein interactions</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198622</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.6830</ArticleId>
+            <ArticleId IdType="pii">6830</ArticleId>
+            <ArticleId IdType="pmc">PMC6535044</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

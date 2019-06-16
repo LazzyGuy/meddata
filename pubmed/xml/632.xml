@@ -1,0 +1,102 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199743</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-6771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>General dentistry</Title>
+                <ISOAbbreviation>Gen Dent</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of the accuracy of CBCT effective radiation dose information in peer-reviewed journals and dental media.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-46</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Accessible sources of clinical information have proliferated over the past decade. Although these new sources that contextualize information for practice are user friendly, there are questions about their accuracy because much of the material is not peer reviewed. On the other hand, traditional peer-reviewed material can be somewhat removed from the needs of practicing dentists, and recently questions have been raised about the accuracy of journals. This study assessed the accuracy of cone beam computed tomography (CBCT) radiation safety information in both professional media and peer-reviewed journals. Articles introducing CBCT technology to dentists and published in peer-reviewed journals were compared to articles appearing in professional magazines, clinically oriented news sites, and blogs written by clinicians for clinicians. The reported radiation doses of CBCT and conventional dental radiographs were recorded, as were conclusions about the comparative doses of these 2 imaging modalities. The proportion of articles reporting CBCT dose to be greater than, equal to, or less than that of conventional dental radiographs was not different between the peer-reviewed and professional media articles during the period 2003-2016. There is weak evidence that the conclusions of peer-reviewed journal articles, but not professional media sources, became more conservative after the 2010 publication of an article in The New York Times that was critical of misinformation concerning the safety and efficacy of CBCT in dentistry. Professional media articles that were not peer reviewed were as accurate as peer-reviewed journals for this topic and during the time period assessed. However, the method used here necessitated a narrow focus, and more studies are needed to broaden understanding.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hicks</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melkers</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barna</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Isett</LastName>
+                    <ForeName>Kimberley R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbert</LastName>
+                    <ForeName>Gregg H</ForeName>
+                    <Initials>GH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gen Dent</MedlineTA>
+            <NlmUniqueID>7610466</NlmUniqueID>
+            <ISSNLinking>0363-6771</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>Opinions and assertions contained herein are those of the authors and are not to be construed as necessarily representing the views of their respective organizations or the National Institutes of Health.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199743</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

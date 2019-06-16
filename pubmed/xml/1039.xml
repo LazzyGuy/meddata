@@ -1,0 +1,142 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199290</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sentiment Analysis of Social Media on Childhood Vaccination: Development of an Ontology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13456</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13456</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although vaccination rates are above the threshold for herd immunity in South Korea, a growing number of parents have expressed concerns about the safety of vaccines. It is important to understand these concerns so that we can maintain high vaccination rates.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to develop a childhood vaccination ontology to serve as a framework for collecting and analyzing social data on childhood vaccination and to use this ontology for identifying concerns about and sentiments toward childhood vaccination from social data.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The domain and scope of the ontology were determined by developing competency questions. We checked if existing ontologies and conceptual frameworks related to vaccination can be reused for the childhood vaccination ontology. Terms were collected from clinical practice guidelines, research papers, and posts on social media platforms. Class concepts were extracted from these terms. A class hierarchy was developed using a top-down approach. The ontology was evaluated in terms of description logics, face and content validity, and coverage. In total, 40,359 Korean posts on childhood vaccination were collected from 27 social media channels between January and December 2015. Vaccination issues were identified and classified using the second-level class concepts of the ontology. The sentiments were classified in 3 ways: positive, negative or neutral. Posts were analyzed using frequency, trend, logistic regression, and association rules.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our childhood vaccination ontology comprised 9 superclasses with 137 subclasses and 431 synonyms for class, attribute, and value concepts. Parent's health belief appeared in 53.21% (15,709/29,521) of posts and positive sentiments appeared in 64.08% (17,454/27,236) of posts. Trends in sentiments toward vaccination were affected by news about vaccinations. Posts with parents' health belief, vaccination availability, and vaccination policy were associated with positive sentiments, whereas posts with experience of vaccine adverse events were associated with negative sentiments.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The childhood vaccination ontology developed in this study was useful for collecting and analyzing social data on childhood vaccination. We expect that practitioners and researchers in the field of childhood vaccination could use our ontology to identify concerns about and sentiments toward childhood vaccination from social data.</AbstractText>
+                <CopyrightInformation>©Jeongah On, Hyeoun-Ae Park, Tae-Min Song. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>On</LastName>
+                    <ForeName>Jeongah</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7164-7114</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Nursing, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Hyeoun-Ae</ForeName>
+                    <Initials>HA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3770-4998</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Nursing, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute of Nursing Science, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Tae-Min</ForeName>
+                    <Initials>TM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3612-4350</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Management, Sahmyook University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">health information interoperability</Keyword>
+            <Keyword MajorTopicYN="N">semantics</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+            <Keyword MajorTopicYN="N">vaccination</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199290</ArticleId>
+            <ArticleId IdType="pii">v21i6e13456</ArticleId>
+            <ArticleId IdType="doi">10.2196/13456</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

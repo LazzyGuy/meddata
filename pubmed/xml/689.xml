@@ -1,0 +1,133 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199673</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Involvement of BIG1 and BIG2 in regulating VEGF expression and angiogenesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>fj201900342RR</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.201900342RR</ELocationID>
+            <Abstract>
+                <AbstractText>VEGF stimulates the formation of new blood vessels by inducing endothelial cell (EC) proliferation and migration. Brefeldin A (BFA)-inhibited guanine nucleotide-exchange proteins (BIGs)1 and 2 accelerate the replacement of bound GDP with GTP to activate ADP-ribosylation factor (Arf)1, which regulates vesicular transport between the Golgi and plasma membrane. Although it has been reported that treating cells with BFA interferes with Arf1 activation to inhibit VEGF secretion, the role of BIG1 and BIG2 in VEGF trafficking and expression, EC migration and proliferation, and vascular development remains unknown. Here, we found that inactivation of Arf1 reduced VEGF secretion but did not affect the levels of VEGF protein. Interestingly, however, BIG1 and BIG2 knockdown significantly decreased the levels of VEGF mRNA and protein in glioblastoma U251 cells and HUVECs. Furthermore, depletion of BIG1 and BIG2 inhibited HUVEC angiogenesis by diminishing cell migration. Angioblast migration and intersegmental vessel sprouting were also impaired when the BIG2 homolog, Arf guanine nucleotide exchange factor (<i>arfgef</i>)<i>2</i>, was knocked down in zebrafish with endothelial expression of green fluorescent protein (GFP). Depletion of arfgef2 by clustered regularly interspaced short palindromic repeat/Cas9 also caused defects in vascular development of zebrafish embryos. Taken together, these data reveal that BIG1 and BIG2 participate in endothelial cell angiogenesis.-Lu, F.-I., Wang, Y.-T., Wang, Y.-S., Wu, C.-Y., Li, C.-C. Involvement of BIG1 and BIG2 in regulating VEGF expression and angiogenesis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Fu-I</ForeName>
+                    <Initials>FI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Integrative Evolutionary Galliforms Genomics Research (iEGG) and Animal Biotechnology Center, National Chung Hsing University, Taichung, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yi-Ting</ForeName>
+                    <Initials>YT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yi-Shan</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, National Sun Yat-sen University, Kaohsiung, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Chang-Yi</ForeName>
+                    <Initials>CY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, National Sun Yat-sen University, Kaohsiung, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chun-Chun</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Sciences, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ARF1</Keyword>
+            <Keyword MajorTopicYN="N">ARFGEF</Keyword>
+            <Keyword MajorTopicYN="N">cell migration</Keyword>
+            <Keyword MajorTopicYN="N">endothelial cell</Keyword>
+            <Keyword MajorTopicYN="N">small GTPase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199673</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.201900342RR</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

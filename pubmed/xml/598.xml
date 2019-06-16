@@ -1,0 +1,109 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199783</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1643-3750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical science monitor : international medical journal of experimental and clinical research</Title>
+                <ISOAbbreviation>Med. Sci. Monit.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of Maternal Nutrition in the Health Outcomes of Mothers and Their Children: A Retrospective Analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4430-4437</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.12659/MSM.914679</ELocationID>
+            <Abstract>
+                <AbstractText>BACKGROUND Low nutrition status of mothers plays an important role in increasing the prevalence of poor pregnancy outcomes. Poor pregnancy outcomes are the most common in the Guangzhou region of China. The objective of the study was to evaluate the role of maternal nutrition in the improvement of health outcomes for mothers and their children in the Guangzhou region of China. MATERIAL AND METHODS In this study, pregnancy medical records of women were analyzed. Data related to questionnaires which had been provided during hospital stays for nutritional consumption were gathered. Demographic characteristics and health outcomes of mothers and their children were recorded. Correlations of health outcomes with maternal nutrition were tested with respect to Z-scores at 95% confidence level. RESULTS Based on the health outcomes of mothers and their children, the study divided participants into 2 groups. The first group was mothers and their children with good health outcomes (live births with weighing ≥2.5 kg; the GHO group, n=130) and the second group was mothers and their children with poor health outcomes (miscarriage or premature birth with weighing less than 2.5 kg; the PHO group, n=70). These results showed positive correlation between financial status of the mother (salaried, P&lt;0.001), maternal body mass index (P=0.001), maternal nutrition (P&lt;0.001), maternal education (in years, P&lt;0.001), and maternal age (P=0.004)) with health outcomes of mothers and their children. CONCLUSIONS The financial status of the mother, maternal nutrition, maternal age, and maternal education were the key determinants for predicting health outcomes of mothers and their children.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China (mainland).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Jingguo</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China (mainland).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xun</LastName>
+                    <ForeName>Nan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China (mainland).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Sci Monit</MedlineTA>
+            <NlmUniqueID>9609063</NlmUniqueID>
+            <ISSNLinking>1234-1010</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199783</ArticleId>
+            <ArticleId IdType="pii">914679</ArticleId>
+            <ArticleId IdType="doi">10.12659/MSM.914679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

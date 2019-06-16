@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199721</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1488-2159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal (Canadian Dental Association)</Title>
+                <ISOAbbreviation>J Can Dent Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accuracy of Thermosensitive Microsensors Intended to Monitor Patient Use of Removable Oral Appliances.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>i2</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to evaluate the accuracy of 3 thermosensitive microsensors that record &quot;wear time&quot; of removable oral appliances (OAs).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">For in vitro testing, TheraMon (sensor T, n = 20), AIR-AID SLEEP (sensor A, n = 30) and DentiTrac (sensor D, n = 16) microsensors were placed in a water bath to simulate long and short durations of wear. Their accuracy was also assessed when they were embedded in 3 materials: acrylic, polyvinylchloride and thermoactive acrylic. In vivo testing included 14 volunteers, who wore maxillary retainers embedded with sensors A and D for 30 nights. Logs of appliance use were compared with readouts from the sensors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the in vitro long duration of wear assessment, sensor A, with a mean absolute response difference (MARD) of 1.67 min. (SD 1.41), was significantly more accurate than sensor T (MARD 3.53 min., SD 9.80) and sensor D (MARD 4.48 min., SD 8.46). For short duration of wear, sensor A (MARD 1.41 min., SD 3.60) and sensor T (MARD 1.68 min., SD 7.64) were equal in accuracy and significantly better than sensor D (MARD 14.07 min., SD 10.20). The embedding material had no effect on the recording accuracies of the microsensors. In vivo, there was no significant difference between sensors A and D.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">All 3 microsensors are highly accurate and reliable and can be used to record wear time of a removable OAs fabricated from various materials.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kirshenblatt</LastName>
+                    <ForeName>Stacey</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dieltjens</LastName>
+                    <ForeName>Marijke</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pliska</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almeida</LastName>
+                    <ForeName>Fernanda R</ForeName>
+                    <Initials>FR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Can Dent Assoc</MedlineTA>
+            <NlmUniqueID>7907605</NlmUniqueID>
+            <ISSNLinking>0709-8936</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199721</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,131 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199022</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-108X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The International journal of eating disorders</Title>
+                <ISOAbbreviation>Int J Eat Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enhanced cognitive behavioral therapy for adolescents with anorexia nervosa: Outcomes and predictors of change in a real-world setting.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/eat.23122</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The study aimed to establish the outcomes and predictors of change in a cohort of adolescents with anorexia nervosa treated via enhanced cognitive behavioral therapy (CBT-E) in a real-world clinical setting.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Forty-nine adolescent patients with anorexia nervosa were recruited from consecutive referrals to a clinical eating disorder service offering outpatient CBT-E. Body Mass Index centiles and Eating Disorder Examination Questionnaire, Brief Symptom Inventory, and Clinical Impairment Assessment scores were recorded at admission, at the end of treatment, and at 20-week follow-up.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-five patients (71.4%) who finished the program showed both considerable weight gain and reduced scores for clinical impairment and eating disorder and general psychopathology. Changes remained stable at 20 weeks. No baseline predictors of drop-out or treatment outcomes were detected.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Based on these results, CBT-E seems suitable for adolescent patients with anorexia nervosa seeking treatment in a real-world clinical setting.</AbstractText>
+                <CopyrightInformation>© 2019 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dalle Grave</LastName>
+                    <ForeName>Riccardo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Eating and Weight Disorders, Villa Garda Hospital, Garda, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sartirana</LastName>
+                    <ForeName>Massimiliano</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Eating and Weight Disorders, Villa Garda Hospital, Garda, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calugi</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4028-1877</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Eating and Weight Disorders, Villa Garda Hospital, Garda, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Eat Disord</MedlineTA>
+            <NlmUniqueID>8111226</NlmUniqueID>
+            <ISSNLinking>0276-3478</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adolescents</Keyword>
+            <Keyword MajorTopicYN="N">cognitive behavioral therapy</Keyword>
+            <Keyword MajorTopicYN="N">outpatient treatment</Keyword>
+            <Keyword MajorTopicYN="N">predictor</Keyword>
+            <Keyword MajorTopicYN="N">treatment outcomes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199022</ArticleId>
+            <ArticleId IdType="doi">10.1002/eat.23122</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,104 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199231</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-5034</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of systematic and evolutionary microbiology</Title>
+                <ISOAbbreviation>Int. J. Syst. Evol. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Erythrobacter marisflavi sp. nov., isolated from isolated from estuary water.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/ijsem.0.003510</ELocationID>
+            <Abstract>
+                <AbstractText>A Gram-stain-negative, aerobic, non-motile and coccoid-, ovoid- or rod-shaped bacterial strain, designated KEM-5<sup>T</sup>, was isolated from water sampled at an estuary environment on the Yellow Sea, Republic of Korea. The neighbour-joining phylogenetic tree based on 16S rRNA gene sequences showed that strain KEM-5<sup>T</sup> fell within the clade comprising the type strains of Erythrobacter species. Strain KEM-5<sup>T</sup> exhibited 16S rRNA gene sequence similarities of 97.01-97.66 % to the type strains of E.rythrobacter citreus, E.rythrobacter seohaensis and E.rythrobacter pelagi and of 94.18-96.95 % to the type strains of the other Erythrobacter species. The genomicaverage nucleotide identity values of strain KEM-5<sup>T</sup> with a non-type strain (LAMA 915) of E. citreus and E. seohaensis SW-135<sup>T</sup> were 76.04 and 74.98 %, respectively. Mean DNA-DNA relatedness values between strain KEM-5<sup>T</sup> and the type strains of E. citreus, E. seohaensis and E. pelagi were 10-18 %. Strain KEM-5<sup>T</sup> contained Q-10 as the predominant ubiquinone and C18 : 1 ω7c, summed feature 3 (C16 : 1ω7c and/or C16 : 1ω6c), C16 : 0 and C17 : 1ω6c as the major fatty acids. The major polar lipids of strain KEM-5<sup>T</sup> were phosphatidylcholine, phosphatidylethanolamine, phosphatidylglycerol and sphingoglycolipid. The DNA G+C content of strain KEM-5<sup>T</sup> was 62.4 mol%. Distinguishing phenotypic properties, together with the phylogenetic and genetic distinctiveness, revealed that strain KEM-5<sup>T</sup> is separated from recognized Erythrobacter species. On the basis of the data presented here, strain KEM-5<sup>T</sup> is considered to represent a novel species of the genus Erythrobacter, for which the name Erythrobacter marisflavi sp. nov. is proposed. The type strain is KEM-5<sup>T</sup> (=KACC 19865<sup>T</sup>=KCTC 62896<sup>T</sup>=NBRC 113546<sup>T</sup>).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Sooyeon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science and Biotechnology, Sungkyunkwan University, Jangan-gu, Suwon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Won</LastName>
+                    <ForeName>Sung Min</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science and Biotechnology, Sungkyunkwan University, Jangan-gu, Suwon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>Jung-Hoon</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science and Biotechnology, Sungkyunkwan University, Jangan-gu, Suwon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Syst Evol Microbiol</MedlineTA>
+            <NlmUniqueID>100899600</NlmUniqueID>
+            <ISSNLinking>1466-5026</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199231</ArticleId>
+            <ArticleId IdType="doi">10.1099/ijsem.0.003510</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

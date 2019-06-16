@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198827</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2352-3409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Data in brief</Title>
+                <ISOAbbreviation>Data Brief</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The SEOSS 33 dataset - Requirements, bug reports, code history, and trace links for entire projects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104005</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dib.2019.104005</ELocationID>
+            <Abstract>
+                <AbstractText>This paper provides a systematically retrieved dataset consisting of 33 open-source software projects containing a large number of typed artifacts and trace links between them. The artifacts stem from the projects' issue tracking system and source version control system to enable their joint analysis. Enriched with additional metadata, such as time stamps, release versions, component information, and developer comments, the dataset is highly suitable for empirical research, e.g., in requirements and software traceability analysis, software evolution, bug and feature localization, and stakeholder collaboration. It can stimulate new research directions, facilitate the replication of existing studies, and act as benchmark for the comparison of competing approaches. The data is hosted on Harvard Dataverse using DOI 10.7910/DVN/PDDZ4Q accessible via https://bit.ly/2wukCHc.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rath</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DLR Institute of Data Science, Jena, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Technische Universität Ilmenau, Ilmenau, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mäder</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Technische Universität Ilmenau, Ilmenau, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Data Brief</MedlineTA>
+            <NlmUniqueID>101654995</NlmUniqueID>
+            <ISSNLinking>2352-3409</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bug localization</Keyword>
+            <Keyword MajorTopicYN="N">Changeset data</Keyword>
+            <Keyword MajorTopicYN="N">Data collection</Keyword>
+            <Keyword MajorTopicYN="N">Data mining</Keyword>
+            <Keyword MajorTopicYN="N">Issue tracking</Keyword>
+            <Keyword MajorTopicYN="N">Mining software repositories</Keyword>
+            <Keyword MajorTopicYN="N">Requirements analysis</Keyword>
+            <Keyword MajorTopicYN="N">Traceability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198827</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dib.2019.104005</ArticleId>
+            <ArticleId IdType="pii">S2352-3409(19)30358-0</ArticleId>
+            <ArticleId IdType="pii">104005</ArticleId>
+            <ArticleId IdType="pmc">PMC6557728</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

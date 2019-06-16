@@ -1,0 +1,151 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199417</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem. Commun. (Camb.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exact distance measurements for structure and dynamics in solid proteins by fast-magic-angle-spinning NMR.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9cc02317h</ELocationID>
+            <Abstract>
+                <AbstractText>Fast-magic-angle-spinning solid-state NMR is a developing technique for determination of protein structure and dynamics. Proton-proton correlations usually lead to rough distance restraints, a serious hurdle towards high-resolution structures. Analogous to the &quot;eNOE&quot; concept in solution, an integrative approach for more accurate restraints enables improved structural accuracy with minimal analytical effort.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Grohe</LastName>
+                    <ForeName>Kristof</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3388-4741</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty for Chemistry and Pharmacy, Ludwig-Maximilians-University Munich, Butenandtstr. 5-13, 81377 Munich, Germany. rasmus.linser@lmu.de and Faculty of Chemistry and Chemical Biology, Technical University Dortmund, Otto-Hahn-Straße 4a, 44227 Dortmund, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nimerovsky</LastName>
+                    <ForeName>Evgeny</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3002-0718</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Illinois, 600 South Mathews Avenue, Urbana, IL 61801, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Himanshu</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2819-6282</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty for Chemistry and Pharmacy, Ludwig-Maximilians-University Munich, Butenandtstr. 5-13, 81377 Munich, Germany. rasmus.linser@lmu.de and Faculty of Chemistry and Chemical Biology, Technical University Dortmund, Otto-Hahn-Straße 4a, 44227 Dortmund, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasa</LastName>
+                    <ForeName>Suresh K</ForeName>
+                    <Initials>SK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8137-9344</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty for Chemistry and Pharmacy, Ludwig-Maximilians-University Munich, Butenandtstr. 5-13, 81377 Munich, Germany. rasmus.linser@lmu.de and Faculty of Chemistry and Chemical Biology, Technical University Dortmund, Otto-Hahn-Straße 4a, 44227 Dortmund, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Söldner</LastName>
+                    <ForeName>Benedikt</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty for Chemistry and Pharmacy, Ludwig-Maximilians-University Munich, Butenandtstr. 5-13, 81377 Munich, Germany. rasmus.linser@lmu.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vögeli</LastName>
+                    <ForeName>Beat</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1176-3137</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Genetics, University of Colorado Denver, 12801 East 17th Avenue, Aurora, CO 80045, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rienstra</LastName>
+                    <ForeName>Chad M</ForeName>
+                    <Initials>CM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9912-5596</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Illinois, 600 South Mathews Avenue, Urbana, IL 61801, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linser</LastName>
+                    <ForeName>Rasmus</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8983-2935</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty for Chemistry and Pharmacy, Ludwig-Maximilians-University Munich, Butenandtstr. 5-13, 81377 Munich, Germany. rasmus.linser@lmu.de and Faculty of Chemistry and Chemical Biology, Technical University Dortmund, Otto-Hahn-Straße 4a, 44227 Dortmund, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199417</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9cc02317h</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

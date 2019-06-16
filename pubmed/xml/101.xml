@@ -1,0 +1,127 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200313</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>686</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Current knowledge of seepage from oil sands tailings ponds and its environmental influence in northeastern Alberta.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>968-985</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0048-9697(19)32460-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2019.05.407</ELocationID>
+            <Abstract>
+                <AbstractText>Seepage of oil sand process-affected waters (OSPW) from tailings ponds into surface waters is a common concern in the minable oil sands region of northeast Alberta. Research on seepage has been extensive, but few comprehensive treatments evaluating all aspects relevant to the phenomenon are available. In this work, the current information relevant for understanding the state of seepage from tailings ponds was reviewed. The information suggests the infiltration of OSPW into groundwater occurs near some ponds. OSPW may also be present in sediments beneath the Athabasca River adjacent to one pond, but there are no clear observations of OSPW in the river water. Similarly, most water samples from tributaries also show no evidence of OSPW, but these observations are limited by the lack of systematic, systemic, and repeated surveys, missing baseline data, standard analytical approaches, and reference materials. Waters naturally influenced by bitumen, discharge of saline groundwaters, and dilution also potentially affect the consolidation of information and certainty of any conclusions. Despite these challenges, some data suggest OSPW may be present in two tributaries of the Athabasca River adjacent to tailings ponds: McLean Creek and Lower Beaver River. Irrespective of the possible source(s), constituents of OSPW often affect organisms exposed in laboratories, but research in all but one study suggests the concentrations of organics in the surface water bodies assessed are below the standard toxicological effect thresholds for these compounds. In contrast, many samples of groundwater, irrespective of source, likely affect biota. Biomonitoring of surface waters suggests generic responses to stressors, but the influence of natural phenomena and occasionally nutrient enrichment are often suggested by data. In summary, valuable research has been done on seepage. The data suggest infiltration into groundwater is common, seepage into surface waters is not, and anthropogenic biological impacts are not likely.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fennell</LastName>
+                    <ForeName>Jon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Integrated Sustainability, Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arciszewski</LastName>
+                    <ForeName>Tim J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kilgour &amp; Associates Ltd., Ottawa, ON, Canada. Electronic address: tim.arciszewski@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Athabasca</Keyword>
+            <Keyword MajorTopicYN="N">Naphthenic acids</Keyword>
+            <Keyword MajorTopicYN="N">Oil sands</Keyword>
+            <Keyword MajorTopicYN="N">Oil sands process-affected water</Keyword>
+            <Keyword MajorTopicYN="N">Seepage</Keyword>
+            <Keyword MajorTopicYN="N">Tailings ponds</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200313</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(19)32460-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2019.05.407</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

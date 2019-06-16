@@ -1,0 +1,96 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31199371</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1539-4794</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Asymmetric propagation and limited wavelength translation of optical pulses through a linear dispersive time-dynamic system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3022-3025</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.44.003022</ELocationID>
+            <Abstract>
+                <AbstractText>We study optical pulse propagation through a linear, dispersive, gain-loss-assisted bulk medium whose refractive index is time-varying. To analyze the dynamics, we have used a novel technique of time transformation that provides universal formulas of pulse propagation. Our analytical and numerical investigations reveal that optical pulses show asymmetric behavior while propagating in opposite direction through such a medium, in both the temporal and spectral domains. Moreover, the wavelength shift during this process is the most interesting outcome which is limited in range, but could be tuned by varying the refractive index with time. Phenomena that are observed in this Letter are novel and realizable in practical devices such as coupled waveguides where the refractive index is a function of time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Biswas</LastName>
+                    <ForeName>Piyali</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gandhi</LastName>
+                    <ForeName>Harsh K</ForeName>
+                    <Initials>HK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Somnath</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199371</ArticleId>
+            <ArticleId IdType="pii">413539</ArticleId>
+            <ArticleId IdType="doi">10.1364/OL.44.003022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

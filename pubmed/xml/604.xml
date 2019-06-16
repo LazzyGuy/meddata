@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199777</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-062X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of internal medicine = Revue roumaine de medecine interne</Title>
+                <ISOAbbreviation>Rom J Intern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Idiopathic thrombocytopenic purpura (ITP) - new era for an old disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2478/rjim-2019-0014</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/rjim.ahead-of-print/rjim-2019-0014/rjim-2019-0014.xml</ELocationID>
+            <Abstract>
+                <AbstractText>Immune thrombocytopenia is an autoimmune hematological disorder characterized by severely decreased platelet count of peripheral cause: platelet destruction via antiplatelet antibodies which may also affect marrow megakaryocytes. Patients may present in critical situations, with cutaneous and/or mucous bleeding and possibly life-threatening organ hemorrhages (cerebral, digestive, etc.) Therefore, rapid diagnosis and therapeutic intervention are mandatory. Corticotherapy represents the first treatment option, but as in any autoimmune disorder, there is a high risk of relapse. Second line therapy options include: intravenous immunoglobulins, thrombopoietin receptor agonists, rituximab or immunosuppression, but their benefit is usually temporary. Moreover, the disease generally affects young people who need repeated and prolonged treatment and hospitalization and therefore, it is preferred to choose a long term effect therapy. Splenectomy - removal of the site of platelet destruction - represents an effective and stable treatment, with 70-80% response rate and low complications incidence. A challenging situation is the association of ITP with pregnancy, which further increases the risk due to the immunodeficiency of pregnancy, major dangers of bleeding, vital risks for mother and fetus, potential risks of medication, necessity of prompt intervention in the setting of specific obstetrical situations - delivery, pregnancy loss, obstetrical complications, etc. We present an updated review of the current clinical and laboratory data, as well as a detailed analysis of the available therapeutic options with their benefits and risks, and also particular associations (pregnancy, relapsed and refractory disease, emergency treatment).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Onisâi</LastName>
+                    <ForeName>Minodora</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Clinic, Emergency University Hospital Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Medicine and Pharmacy Carol Davila Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlădăreanu</LastName>
+                    <ForeName>Ana-Maria</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Clinic, Emergency University Hospital Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Medicine and Pharmacy Carol Davila Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spînu</LastName>
+                    <ForeName>Andreea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Clinic, Emergency University Hospital Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Găman</LastName>
+                    <ForeName>Mihaela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Clinic, Emergency University Hospital Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Medicine and Pharmacy Carol Davila Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bumbea</LastName>
+                    <ForeName>Horia</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Clinic, Emergency University Hospital Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Medicine and Pharmacy Carol Davila Bucharest.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Rom J Intern Med</MedlineTA>
+            <NlmUniqueID>9304507</NlmUniqueID>
+            <ISSNLinking>1220-4749</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ITP</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">physiopathology</Keyword>
+            <Keyword MajorTopicYN="N">pregnancy</Keyword>
+            <Keyword MajorTopicYN="N">treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199777</ArticleId>
+            <ArticleId IdType="doi">10.2478/rjim-2019-0014</ArticleId>
+            <ArticleId IdType="pii">/j/rjim.ahead-of-print/rjim-2019-0014/rjim-2019-0014.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

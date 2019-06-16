@@ -1,0 +1,150 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199465</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1367-4811</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioinformatics (Oxford, England)</Title>
+                <ISOAbbreviation>Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>POsitive Multistate Protein design.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">btz497</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bioinformatics/btz497</ELocationID>
+            <Abstract>
+                <AbstractText Label="MOTIVATION" NlmCategory="BACKGROUND">Structure-based Computational Protein design (CPD) plays a critical role in advancing the field of protein engineering. Using an all-atom energy function, CPD tries to identify amino acid sequences that fold into a target structure and ultimately perform a desired function. The usual approach considers a single rigid backbone as a target, which ignores backbone flexibility. Multistate design (MSD) allows instead to consider several backbone states simultaneously, defining challenging computational problems.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We introduce efficient reductions of positive MSD problems to Cost Function Networks with two different fitness definitions and implement them in the Pompd (Positive Multistate Protein design) software. Pompd is able to identify guaranteed optimal sequences of positive multistate full protein redesign problems and exhaustively enumerate suboptimal sequences close to the MSD optimum. Applied to NMR and back-rubbed X-ray structures, we observe that the average energy fitness provides the best sequence recovery. Our method outperforms state-of-the-art guaranteed computational design approaches by orders of magnitudes and can solve MSD problems with sizes previously unreachable with guaranteed algorithms.</AbstractText>
+                <AbstractText Label="AVAILABILITY" NlmCategory="BACKGROUND">https://forgemia.inra.fr/thomas.schiex/pompd as documented Open Source.</AbstractText>
+                <AbstractText Label="SUPPLEMENTARY INFORMATION" NlmCategory="BACKGROUND">Supplementary data are available at Bioinformatics online.</AbstractText>
+                <CopyrightInformation>© The Author(s) (2019). Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vucinic</LastName>
+                    <ForeName>Jelena</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LISBP, Université de Toulouse, CNRS, INRA, INSA, Toulouse, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>MIAT, Université de Toulouse, INRA, Auzeville-Tolosane, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simoncini</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LISBP, Université de Toulouse, CNRS, INRA, INSA, Toulouse, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IRIT UMR 5505-CNRS, Université de Toulouse, 31042 Cedex 9, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruffini</LastName>
+                    <ForeName>Manon</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LISBP, Université de Toulouse, CNRS, INRA, INSA, Toulouse, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>MIAT, Université de Toulouse, INRA, Auzeville-Tolosane, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbe</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LISBP, Université de Toulouse, CNRS, INRA, INSA, Toulouse, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schiex</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIAT, Université de Toulouse, INRA, Auzeville-Tolosane, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioinformatics</MedlineTA>
+            <NlmUniqueID>9808944</NlmUniqueID>
+            <ISSNLinking>1367-4803</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199465</ArticleId>
+            <ArticleId IdType="pii">5519117</ArticleId>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btz497</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,163 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199345</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-9694</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR medical informatics</Title>
+                <ISOAbbreviation>JMIR Med Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Incorporating Social Determinants of Health in Electronic Health Records: Qualitative Study of Current Practices Among Top Vendors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13849</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13849</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Social determinants of health (SDH) are increasingly seen as important to understanding patient health and identifying appropriate interventions to improve health outcomes in what is a complex interplay between health system-, community-, and individual-level factors.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of the paper was to investigate the development of electronic health record (EHR) software products that allow health care providers to identify and address patients' SDH in health care settings.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted interviews with six EHR vendors with large market shares in both ambulatory and inpatient settings. We conducted thematic analysis of the interviews to (1) identify their motivations to develop such software products, (2) describe their products and uses, and (3) identify facilitators and challenges to collection and use of SDH data-through their products or otherwise-either at the point of care or in population health interventions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our findings indicate that vendor systems and their functionalities are influenced by client demand and initiative, federal initiatives, and the vendors' strategic vision about opportunities in the health care system. Among the small sample of vendors with large market shares, SDH is a new area for growth, and the vendors range in the number and sophistication of their SDH-related products. To enable better data analytics, population health management, and interoperability of SDH data, vendors recognized the need for more standardization of SDH performance measures across various federal and state programs, better mapping of SDH measures to multiple types of codes, and development of more codes for all SDH measures of interest.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Vendors indicate they are actively developing products to facilitate the collection and use of SDH data for their clients and are seeking solutions to data standardization and interoperability challenges through internal product decisions and collaboration with policymakers. Due to a lack of policy standards around SDH data, product-specific decisions may end up being de facto policies given the market shares of particular vendors. However, commercial vendors appear ready to collaboratively discuss policy solutions such as standards or guidelines with each other, health care systems, and government agencies in order to further promote integration of SDH data into the standard of care for all health systems.</AbstractText>
+                <CopyrightInformation>©Maysoun Freij, Prashila Dullabh, Sarah Lewis, Scott R Smith, Lauren Hovey, Rina Dhopeshwarkar. Originally published in JMIR Medical Informatics (http://medinform.jmir.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Freij</LastName>
+                    <ForeName>Maysoun</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5754-5699</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NORC at the University of Chicago, Bethesda, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dullabh</LastName>
+                    <ForeName>Prashila</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0241-0225</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NORC at the University of Chicago, Bethesda, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8145-5984</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centers for Medicare and Medicaid Innovation, Baltimore, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Scott R</ForeName>
+                    <Initials>SR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8870-6734</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Office of the Assistant Secretary for Planning and Evaluation, Washington, DC, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hovey</LastName>
+                    <ForeName>Lauren</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5711-0014</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NORC at the University of Chicago, Bethesda, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dhopeshwarkar</LastName>
+                    <ForeName>Rina</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1932-7367</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NORC at the University of Chicago, Bethesda, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Med Inform</MedlineTA>
+            <NlmUniqueID>101645109</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">electronic health records</Keyword>
+            <Keyword MajorTopicYN="N">social determinants of health</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199345</ArticleId>
+            <ArticleId IdType="pii">v7i2e13849</ArticleId>
+            <ArticleId IdType="doi">10.2196/13849</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

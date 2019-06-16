@@ -1,0 +1,124 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199628</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-510X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inorganic chemistry</Title>
+                <ISOAbbreviation>Inorg Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enhanced Yellow Persistent Luminescence in Sr<sub>3</sub>SiO<sub>5</sub>:Eu<sup>2+</sup> through Ge Incorporation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.inorgchem.9b01020</ELocationID>
+            <Abstract>
+                <AbstractText>The Sr<sub>3</sub>SiO<sub>5</sub>:Eu<sup>2+</sup> phosphor has attracted considerable attention for applications in white LEDs owing to its highly efficient yellow emission under violet-blue excitation. We report herein an enhancement of yellow persistent luminescence in Sr<sub>3</sub>SiO<sub>5</sub>:Eu<sup>2+</sup> through Ge incorporation. The strongest persistent luminescence intensity is observed for Sr<sub>3</sub>(Si<sub>1- x</sub>Ge <sub>x</sub>)O<sub>5</sub>:Eu<sup>2+</sup> with x = 0.005 with a peak emission wavelength at ∼580 nm and a persistent time of ∼7000 s at the 0.32 mcd/m<sup>2</sup> threshold value after UV radiation. A combination of thermoluminescence measurements and density functional theory (DFT) calculations reveals that the afterglow enhancement is due to a significant increase in the number of oxygen vacancies that act as electron trapping centers with appropriate trap depths. This investigation is anticipated to encourage more exploration of Ge<sub>Si</sub> substitution to design and improve Si-containing persistent phosphors with superior functionalities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhizhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Beijing Municipal Key Laboratory of New Energy Materials and Technologies, School of Materials Sciences and Engineering , University of Science and Technology Beijing , Beijing 100083 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7251-5703</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Beijing Municipal Key Laboratory of New Energy Materials and Technologies, School of Materials Sciences and Engineering , University of Science and Technology Beijing , Beijing 100083 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ning</LastName>
+                    <ForeName>Lixin</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2311-568X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Anhui Key Laboratory of Optoelectric Materials Science and Technology, Key Laboratory of Functional Molecular Solids, Ministry of Education , Anhui Normal University , Wuhu 241000 , PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Zhiguo</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9670-3223</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Beijing Municipal Key Laboratory of New Energy Materials and Technologies, School of Materials Sciences and Engineering , University of Science and Technology Beijing , Beijing 100083 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Quanlin</ForeName>
+                    <Initials>Q</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3533-7140</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The Beijing Municipal Key Laboratory of New Energy Materials and Technologies, School of Materials Sciences and Engineering , University of Science and Technology Beijing , Beijing 100083 , China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Inorg Chem</MedlineTA>
+            <NlmUniqueID>0366543</NlmUniqueID>
+            <ISSNLinking>0020-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199628</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.inorgchem.9b01020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

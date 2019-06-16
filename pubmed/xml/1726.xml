@@ -1,0 +1,122 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198435</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1749-7221</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of brachial plexus and peripheral nerve injury</Title>
+                <ISOAbbreviation>J Brachial Plex Peripher Nerve Inj</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of Brachial Plexus Using Combined Stereological Techniques of Diffusion Tensor Imaging and Fiber Tracking.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e16-e23</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0039-1687913</ELocationID>
+            <Abstract>
+                <AbstractText><b>Background</b>  Brachial plexus (BP) is composed of intercommunications among the ventral roots of the nerves C5, C6, C7, C8, and T1 in the neck. The in vivo and in vitro evaluation of axons of the peripheral nervous system is performed using different techniques. Recently, many studies describing the application of fiber tractography and stereological axon number estimation to peripheral nerves have been published. <b>Methods</b>  Various quantitative parameters of nerve fibers, including axon number, density, axonal area, and myelin thickness, can be estimated using stereological techniques. In vivo three-dimensional reconstruction of axons of BP can be visualized using a combined technique of diffusion tensor imaging (DTI) and fiber tracking with the potential to evaluate nerve fiber content. <b>Conclusion</b>  It is concluded that terminal branches of BP can be successfully visualized using DTI, which is a highly reproducible method for the evaluation of BP as it shows anatomical and functional features of neural structures. We believe that quantitative morphological findings obtained from BP will be useful for new experimental, developmental, and pathological studies in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Acer</LastName>
+                    <ForeName>Niyazi</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy, Erciyes University School of Medicine, Kayseri, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turgut</LastName>
+                    <ForeName>Mehmet</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosurgery, Adnan Menderes University School of Medicine, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Histology and Embryology, Adnan Menderes University Health Sciences Institute, Aydın, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Brachial Plex Peripher Nerve Inj</MedlineTA>
+            <NlmUniqueID>101265114</NlmUniqueID>
+            <ISSNLinking>1749-7221</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">axon number</Keyword>
+            <Keyword MajorTopicYN="N">brachial plexus</Keyword>
+            <Keyword MajorTopicYN="N">diffusion tensor imaging</Keyword>
+            <Keyword MajorTopicYN="N">stereology</Keyword>
+            <Keyword MajorTopicYN="N">tractography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198435</ArticleId>
+            <ArticleId IdType="doi">10.1055/s-0039-1687913</ArticleId>
+            <ArticleId IdType="pii">1800006</ArticleId>
+            <ArticleId IdType="pmc">PMC6561765</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

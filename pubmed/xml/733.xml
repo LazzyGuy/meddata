@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199627</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-510X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inorganic chemistry</Title>
+                <ISOAbbreviation>Inorg Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of the Electrolyte Solvent on Redox Processes in Mg-S Batteries.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.inorgchem.9b00891</ELocationID>
+            <Abstract>
+                <AbstractText>Mg-S batteries are attractive for next-generation energy storage because of their high theoretical capacity and low cost. The foremost challenge in Mg-S batteries is designing electrolytes that support reversible electrochemistry at both electrodes. Here, we target a solution-mediated reduction pathway for the S<sub>8</sub> cathode by tailoring the electrolyte solvent. Varying the solvent in Mg-based systems is complicated because of the active nature of the solvent in solvating Mg<sup>2+</sup> and the complex dynamics of electrolyte-Mg interfaces. To understand the effect of the solvent on the S<sub>8</sub> reduction processes in the Mg-S cell, the magnesium-aluminum chloride complex (MACC) electrolyte was prepared in different ethereal solvents. Reversible Mg electrodeposition is demonstrated in the MACC electrolyte in several solvent systems. The electrodeposition overpotentials and current densities are found to vary with the solvent, suggesting that the solvent plays a noninnocent role in the electrochemical processes at the Mg interface. Mg-S cells are prepared with the electrolytes to understand how the solvent affects the reduction of S<sub>8</sub>. A reductive wave is present in all linear-sweep voltammograms, and the peak potential varies with the solvent. The peak potential is approximately 0.8 V versus Mg/Mg<sup>2+</sup>, lower than the expected reduction potential of 1.7 V. We rule out passivation of the Mg anode as the cause for the low voltage peak potential, making processes at the S<sub>8</sub> cathode the likely culprit. The ability to oxidize MgS with the MACC electrolyte is also examined, and we find that  the oxidation current can be attributed to side reactions at the C-electrolyte interface.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bevilacqua</LastName>
+                    <ForeName>Sarah C</ForeName>
+                    <Initials>SC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6834-7145</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Chemistry and Chemical Engineering , California Institute of Technology , Pasadena , California 91125 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Kim H</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry , Brown University , Providence , Rhode Island 02912 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>See</LastName>
+                    <ForeName>Kimberly A</ForeName>
+                    <Initials>KA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0133-9693</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Chemistry and Chemical Engineering , California Institute of Technology , Pasadena , California 91125 , United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Inorg Chem</MedlineTA>
+            <NlmUniqueID>0366543</NlmUniqueID>
+            <ISSNLinking>0020-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199627</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.inorgchem.9b00891</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

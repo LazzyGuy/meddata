@@ -1,0 +1,129 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198204</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0039-4521</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>62</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sudebno-meditsinskaia ekspertiza</Title>
+                <ISOAbbreviation>Sud. Med. Ekspert.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Calculation of an individual's biological age with the use of the latest information technologies and construction of a promising intellectual hardware and software complex].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>42-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17116/sudmed20196203142</ELocationID>
+            <Abstract>
+                <AbstractText>This paper demonstrates the need for an integrated approach to improve the accuracy of corpse age calculation based on measurements of a heterogeneous nature and conditions of partially distorted or incomplete data, using modern information intelligent technologies. A generalized algorithm developed on the basis of various mathematical methods of primary data processing and the extraction of different structures is presented, in addition to the reliability of the information.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zolotenkova</LastName>
+                    <ForeName>G V</ForeName>
+                    <Initials>GV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of the Russia, Moscow, Russia, 119991; Center of Information Technologies in Design of the Russian Academy of Sciences, Odintsovo, Moscow Region, Russia, 143003.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gridina</LastName>
+                    <ForeName>N V</ForeName>
+                    <Initials>NV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of the Russia, Moscow, Russia, 119991; Center of Information Technologies in Design of the Russian Academy of Sciences, Odintsovo, Moscow Region, Russia, 143003.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solodovnikov</LastName>
+                    <ForeName>V I</ForeName>
+                    <Initials>VI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Information Technologies in Design of the Russian Academy of Sciences, Odintsovo, Moscow Region, Russia, 143003.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trufanov</LastName>
+                    <ForeName>M I</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Information Technologies in Design of the Russian Academy of Sciences, Odintsovo, Moscow Region, Russia, 143003.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pigolkin</LastName>
+                    <ForeName>Yu I</ForeName>
+                    <Initials>YI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine of the Sechenov First Moscow State Medical University under Ministry of Health of the Russia, Moscow, Russia, 119991.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Vychislenie biologicheskogo vozrasta individuuma s ispol'zovaniem noveĭshikh informatsionnykh tekhnologiĭ i postroenie perspektivnogo intellektual'nogo programmno-apparatnogo kompleksa.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Sud Med Ekspert</MedlineTA>
+            <NlmUniqueID>0404546</NlmUniqueID>
+            <ISSNLinking>0039-4521</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Показана актуальность разработки комплексного подхода для повышения точности вычисления возраста трупа по совокупности измерений параметров разнородного характера в условиях частично искаженных или неполных данных с использованием современных информационных интеллектуальных технологий. Представлен обобщенный алгоритм, разработанный на основании использования различных математических методов первичной обработки данных и извлечения разной по структуре и достоверности информации, который позволяет сформировать наиболее рациональную по критерию точности оценку возраста индивидуума.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">age of an individual</Keyword>
+            <Keyword MajorTopicYN="N">identification of personality</Keyword>
+            <Keyword MajorTopicYN="N">information intellectual technologies</Keyword>
+            <Keyword MajorTopicYN="N">primary data processing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198204</ArticleId>
+            <ArticleId IdType="doi">10.17116/sudmed20196203142</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

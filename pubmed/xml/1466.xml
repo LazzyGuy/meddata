@@ -1,0 +1,171 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198794</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2314-7156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology research</Title>
+                <ISOAbbreviation>J Immunol Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle><i>Neisseria meningitidis</i>-Induced Caspase-1 Activation in Human Innate Immune Cells Is LOS-Dependent.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6193186</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/6193186</ELocationID>
+            <Abstract>
+                <AbstractText>Meningococcal disease such as sepsis and meningitidis is hallmarked by an excessive inflammatory response. The causative agent, <i>Neisseria meningitidis</i>, expresses the endotoxin lipooligosaccharide (LOS) that is responsible for activation of immune cells and the release of proinflammatory cytokines. One of the most potent proinflammatory cytokines, interleukin-1<i>β</i> (IL-1<i>β</i>), is activated following caspase-1 activity in the intracellular multiprotein complex called inflammasome. Inflammasomes are activated by a number of microbial factors as well as danger molecules by a two-step mechanism-priming and licensing of inflammasome activation-but there are no data available regarding a role for inflammasome activation in meningococcal disease. The aim of this study was to investigate if <i>N. meningitidis</i> activates the inflammasome and, if so, the role of bacterial LOS in this activation. Cells were subjected to <i>N. meningitidis</i>, both wild-type (FAM20) and its LOS-deficient mutant (<i>lpxA</i>), and priming as well as licensing of inflammasome activation was investigated. The wild-type LOS-expressing parental FAM20 serogroup C <i>N. meningitidis</i> (FAM20) strain significantly enhanced the caspase-1 activity in human neutrophils and monocytes, whereas <i>lpxA</i> was unable to induce caspase-1 activity as well as to induce IL-1<i>β</i> release. While the <i>lpxA</i> mutant induced a priming response, measured as increased expression of <i>NLRP3</i> and <i>IL1B</i>, the LOS-expressing FAM20 further increased this priming. We conclude that although non-LOS components of <i>N. meningitidis</i> contribute to the priming of the inflammasome activity, LOS <i>per se</i> is to be considered as the central component of <i>N. meningitidis</i> virulence, responsible for both priming and licensing of inflammasome activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Idosa</LastName>
+                    <ForeName>Berhane Asfaw</ForeName>
+                    <Initials>BA</Initials>
+                    <Identifier Source="ORCID">0000-0002-8060-2049</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medical Sciences, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kelly</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Karolinska University Hospital, Solna, SE-171 76 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobsson</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demirel</LastName>
+                    <ForeName>Isak</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medical Sciences, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fredlund</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Särndahl</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medical Sciences, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Persson</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>iRiSC-Inflammatory Response and Infection Susceptibility Centre, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medical Sciences, Faculty of Medicine and Health, Örebro University, SE-701 82 Örebro, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Egypt</Country>
+            <MedlineTA>J Immunol Res</MedlineTA>
+            <NlmUniqueID>101627166</NlmUniqueID>
+            <ISSNLinking>2314-7156</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198794</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/6193186</ArticleId>
+            <ArticleId IdType="pmc">PMC6526529</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

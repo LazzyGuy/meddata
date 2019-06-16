@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31199311</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of Web-Based Health Services in Individuals With and Without Symptoms of Hypochondria: Survey Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e10980</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/10980</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">An increasing number of people consult physicians because of distressing information found online. Cyberchondria refers to the phenomenon of health anxiety because of online health information.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to examine online health research of individuals with and without symptoms of hypochondria and their impact on health anxiety as well as behavior.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">An online survey was conducted. Demographic data, health-related internet use, and general health behavior were assessed. The illness attitude scale was used to record symptoms of hypochondria.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The final sample consisted of N=471 participants. More than 40% (188/471) of participants showed at least some symptoms of hypochondria. Participants with symptoms of hypochondria used the internet more frequently for health-related purposes and also frequented more online services than individuals without symptoms. Most online health services were rated as more reliable by individuals with symptoms of hypochondria. Changes to behavior such as doctor hopping or ordering nonprescribed medicine online were considered more likely by individuals with symptoms of hypochondria.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results show that individuals with symptoms of hypochondria do not turn to online research as a result of lacking alternatives but rather consult health services on- as well as offline.</AbstractText>
+                <CopyrightInformation>©Christiane Eichenberg, Markus Schott. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 10.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eichenberg</LastName>
+                    <ForeName>Christiane</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5803-4965</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Sigmund Freud Privat Universität Wien, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schott</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2005-2150</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Sigmund Freud Privat Universität Wien, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">anxiety</Keyword>
+            <Keyword MajorTopicYN="N">eHealth</Keyword>
+            <Keyword MajorTopicYN="N">hypochondria</Keyword>
+            <Keyword MajorTopicYN="N">survey</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199311</ArticleId>
+            <ArticleId IdType="pii">v21i6e10980</ArticleId>
+            <ArticleId IdType="doi">10.2196/10980</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

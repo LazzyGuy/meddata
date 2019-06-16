@@ -1,0 +1,209 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199316</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Older People With Type 2 Diabetes-Individualizing Management With a Specialized (OPTIMISE) Community Team: Protocol for a Safety and Feasibility Mixed Methods Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13986</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13986</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The prevalence of diabetes is rising in older people. In 2018, over 574,000 Australians reported having diabetes. The highest prevalence (19.4%) of diabetes has been observed in people aged 85 years and older. Clinical guidelines recommend that diabetes management should be individualized; however, there is limited information regarding the current management patterns of diabetes in older people, given most clinical trials exclude participants from this age group. Available data identify that few individuals achieve optimal glycemic levels in the general population, potentially leading to adverse health outcomes and impact on quality of life. The data on glycemic profiles of older population are limited.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study is to examine individualized diabetes management intervention for older people through home visits with a credentialed diabetes educator (CDE) and telehealth consultations with an endocrinologist located at a tertiary hospital.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This paper describes the design and methodology of a mixed methods feasibility and safety study to identify the current management of type 2 diabetes in people aged 65 years or older. We will implement and evaluate a personalized approach to management in the community of an Australian metropolitan city. This management approach will utilize flash glucose monitoring and home visits with the support of a community home nursing service CDE and telehealth consultation with an endocrinologist located at a local tertiary hospital.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study commenced in February 2017 and has recruited 43 participants, with final data collection to be completed by July 2019. Data analysis will commence after final data collection, with results expected to be published by the end of 2019.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study is the first of its kind to explore individualized diabetes management for community-dwelling older people, with an aim to achieve optimal glycemic levels (glycated hemoglobin between 53 and 69 mmol/mol [7%-8.5%] depending on the fitness and frailness of the older individual). The data drawn from this study may be used to inform policy makers, service providers, clinicians, and older adults living with diabetes.</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">DERR1-10.2196/13986.</AbstractText>
+                <CopyrightInformation>©Rajna Ogrin, Sandra Neoh, Tracy Aylen, Ralph Audehm, Leonid Churilov, Lorenna Thurgood, Georgia Major, Jeffrey Zajac, Elif I Ekinci. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ogrin</LastName>
+                    <ForeName>Rajna</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4192-7254</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bolton Clarke Research Institute, Bolton Clarke, Bentleigh, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Austin Health Clinical School, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neoh</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9387-7079</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Austin Health, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aylen</LastName>
+                    <ForeName>Tracy</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7184-2166</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bolton Clarke, Forest Hill, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Audehm</LastName>
+                    <ForeName>Ralph</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9136-8772</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice, University of Melbourne, Parkville, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Churilov</LastName>
+                    <ForeName>Leonid</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9807-6606</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Florey Institute of Neuroscience and Mental Health, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>RMIT Unversity, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thurgood</LastName>
+                    <ForeName>Lorenna</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3229-0992</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bolton Clarke Research Institute, Bolton Clarke, Bentleigh, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Major</LastName>
+                    <ForeName>Georgia</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9767-7322</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bolton Clarke Research Institute, Bolton Clarke, Bentleigh, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>National Ageing Research Institute, Parkville, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zajac</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3933-5708</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Austin Health Clinical School, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, Austin Health, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekinci</LastName>
+                    <ForeName>Elif I</ForeName>
+                    <Initials>EI</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2372-395X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Austin Health Clinical School, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, Austin Health, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">aged</Keyword>
+            <Keyword MajorTopicYN="N">person-centered</Keyword>
+            <Keyword MajorTopicYN="N">telehealth</Keyword>
+            <Keyword MajorTopicYN="N">type 2 diabetes mellitus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199316</ArticleId>
+            <ArticleId IdType="pii">v8i6e13986</ArticleId>
+            <ArticleId IdType="doi">10.2196/13986</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

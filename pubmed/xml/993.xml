@@ -1,0 +1,201 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199336</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Estimating Maximal Oxygen Uptake From Daily Activity Data Measured by a Watch-Type Fitness Tracker: Cross-Sectional Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13327</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13327</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cardiorespiratory fitness (CRF), an important index of physical fitness, is the ability to inhale and provide oxygen to the exercising muscle. However, despite its importance, the current gold standard for measuring CRF is impractical, requiring maximal exercise from the participants.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to develop a convenient and practical estimation model for CRF using data collected from daily life with a wristwatch-type device.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 191 subjects, aged 20 to 65 years, participated in this study. Maximal oxygen uptake (VO<sub>2</sub> max), a standard measure of CRF, was measured with a maximal exercise test. Heart rate (HR) and physical activity data were collected using a commercial wristwatch-type fitness tracker (Fitbit; Fitbit Charge; Fitbit) for 3 consecutive days. Maximal activity energy expenditure (aEEmax) and slope between HR and physical activity were calculated using a linear regression. A VO<sub>2</sub> max estimation model was built using multiple linear regression with data on age, sex, height, percent body fat, aEEmax, and the slope. The result was validated with 2 different cross-validation methods.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">aEEmax showed a moderate correlation with VO<sub>2</sub> max (r=0.50). The correlation coefficient for the multiple linear regression model was 0.81, and the SE of estimate (SEE) was 3.518 mL/kg/min. The regression model was cross-validated through the predicted residual error sum of square (PRESS). The PRESS correlation coefficient was 0.79, and the PRESS SEE was 3.667 mL/kg/min. The model was further validated by dividing it into different subgroups and calculating the constant error (CE) where a low CE showed that the model does not significantly overestimate or underestimate VO<sub>2</sub> max.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study proposes a CRF estimation method using data collected by a wristwatch-type fitness tracker without any specific protocol for a wide range of the population.</AbstractText>
+                <CopyrightInformation>©Soon Bin Kwon, Joong Woo Ahn, Seung Min Lee, Joonnyong Lee, Dongheon Lee, Jeeyoung Hong, Hee Chan Kim, Hyung-Jin Yoon. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 13.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kwon</LastName>
+                    <ForeName>Soon Bin</ForeName>
+                    <Initials>SB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5076-0743</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Program in Bioengineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Joong Woo</ForeName>
+                    <Initials>JW</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0375-8530</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical &amp; Biological Engineering, Medical Research Center, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Seung Min</ForeName>
+                    <Initials>SM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5762-2618</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joonnyong</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3642-9891</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Program in Bioengineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Dongheon</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3121-7099</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Program in Bioengineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Jeeyoung</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8642-1847</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical &amp; Biological Engineering, Medical Research Center, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Research Institute, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hee Chan</ForeName>
+                    <Initials>HC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2112-426X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Program in Bioengineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical &amp; Biological Engineering, Medical Research Center, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>Hyung-Jin</ForeName>
+                    <Initials>HJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4432-4894</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Program in Bioengineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical &amp; Biological Engineering, Medical Research Center, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Research Institute, Seoul National University Hospital, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cardiorespiratory fitness</Keyword>
+            <Keyword MajorTopicYN="N">fitness tracker</Keyword>
+            <Keyword MajorTopicYN="N">oxygen consumption</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199336</ArticleId>
+            <ArticleId IdType="pii">v7i6e13327</ArticleId>
+            <ArticleId IdType="doi">10.2196/13327</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

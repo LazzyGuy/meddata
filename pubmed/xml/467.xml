@@ -1,0 +1,144 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199929</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7786</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemico-biological interactions</Title>
+                <ISOAbbreviation>Chem. Biol. Interact.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Downregulation of microRNA-302b-3p relieves oxygen-glucose deprivation/re-oxygenation induced injury in murine hippocampal neurons through up-regulating Nrf2 signaling by targeting fibroblast growth factor 15/19.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0009-2797(19)30619-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cbi.2019.06.018</ELocationID>
+            <Abstract>
+                <AbstractText>MicroRNAs have emerged as critical mediators of cerebral ischaemia/reperfusion injury. Recent studies have demonstrated that microRNA-302b-3p (miR-302b-3p) plays an important role in regulating apoptosis and oxidative stress in various cells. However, whether miR-302b-3p is involved in regulating cerebral ischaemia/reperfusion injury-induced neuronal apoptosis and oxidative stress remains unknown. In the present study, we explored the potential function and molecular mechanism of miR-302b-3p in oxygen-glucose deprivation/re-oxygenation (OGD/R)-induced neuronal injury, using an in vitro model of cerebral ischaemia/reperfusion injury. We found that miR-302b-3p expression was up-regulated by OGD/R treatment in neurons. The inhibition of miR-302b-3p improved cell viability, and reduced apoptosis and the production of reactive oxygen species, showing a protective effect against OGD/R-induced injury. Interestingly, miR-302b-3p was shown to target and modulate murine fibroblast growth factor 15 (FGF15). Moreover, our results showed that miR-302b-3p down-regulation contributed to the promotion of nuclear factor erythroid 2-related factor 2 (Nrf2)/antioxidant response element (ARE)-mediated antioxidant signaling associated with the inactivation of glycogen synthase kinase-3β. However, the knockdown of FGF15 significantly reversed the miR-302b-3p inhibition-mediated protective effect in OGD/R-treated neurons. Overall, these results demonstrated that miR-302b-3p inhibition confers a neuroprotective effect in OGD/R-treated neurons by up-regulating Nrf2/ARE antioxidant signaling via targeting FGF15, providing a novel target for neuroprotection in cerebral ischaemia/reperfusion injury.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhenni</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesia Department, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ning</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesia Department, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesia Department, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesia Department, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, 710004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Jianrui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesia Department, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, 710004, China. Electronic address: lvjianruiljr@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Chem Biol Interact</MedlineTA>
+            <NlmUniqueID>0227276</NlmUniqueID>
+            <ISSNLinking>0009-2797</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cerebral ischaemia/reperfusion injury</Keyword>
+            <Keyword MajorTopicYN="N">FGF15</Keyword>
+            <Keyword MajorTopicYN="N">GSK-3β</Keyword>
+            <Keyword MajorTopicYN="N">Nrf2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199929</ArticleId>
+            <ArticleId IdType="pii">S0009-2797(19)30619-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cbi.2019.06.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

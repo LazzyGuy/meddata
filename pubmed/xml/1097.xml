@@ -1,0 +1,176 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199222</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-5034</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of systematic and evolutionary microbiology</Title>
+                <ISOAbbreviation>Int. J. Syst. Evol. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clostridium prolinivorans sp. nov., a thermophilic bacterium isolated from an anaerobic reactor degrading propionate.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/ijsem.0.003523</ELocationID>
+            <Abstract>
+                <AbstractText>An anaerobic, Gram-stain-positive, spore-forming bacterium, designated strain PYR-10<sup>T</sup>, was isolated from a mesophilic methanogenic consortium. Cells were 0.7-1.2×6.0-6.3 µm, straight or slightly curved rods, with flagellar motility. Growth was observed in PYG (peptone-yeast glucose) medium at pH 5.5-8.0 (optimum, pH 6.5), 30-55 °C (45 °C) and in NaCl concentrations of 0-15 g l<sup>-1</sup> (0 g l<sup>-1</sup>). Phylogenetic analysis based on the 16S rRNA gene sequence indicated that strain PYR-10<sup>T</sup> belongs to the genus Clostridium. The strain showed 95.4, 93.7, 93.5 and 93.0 % 16S rRNA gene sequence similarity to Clostridium swellfunianum DSM 27788<sup>T</sup>, Clostridium pascui DSM 10365<sup>T</sup>, Clostridium pasteurianum DSM 525<sup>T</sup> and Clostridium punense DSM 28650<sup>T</sup>, respectively. The genomic DNA G+C content was 27.7 mol%. The major cellular fatty acids of strain PYR-10<sup>T</sup> were iso-C15 : 0, C16 : 0, C16 : 0 DMA, anteiso-C15 : 0 and C14 : 0. The main polar lipids were glycolipid, phosphoaminoglycolipid, diphosphatidylglycerol, phosphatidylglycerol, phospholipids, phosphatidylethanolamine and lipids. An unknown menaquinone was detected. 2,6-Diaminopimelic acid was not detected. The whole-cell sugars contained ribose and lower amounts of glucose. Based on the results of phylogenetic, chemotaxonomic and phenotypic analyses, strain PYR-10<sup>T</sup> represents a novel species of the genus Clostridium, for which the name Clostridium prolinivorans sp. nov. is proposed. The type strain is strain PYR-10<sup>T</sup> (=JCM 33161<sup>T</sup>=CCAM 531<sup>T</sup>=CGMCC 1.5286<sup>T</sup>).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Zhixian</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cong</LastName>
+                    <ForeName>Lulu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing 210008, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiu</LastName>
+                    <ForeName>Zhongwei</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yinggang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Shichun</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Development and Application of Rural Renewable Energy of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan, 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​Biogas Institute of Ministry of Agriculture, Section 4-13, Chengdu, Sichuan 610041, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Syst Evol Microbiol</MedlineTA>
+            <NlmUniqueID>100899600</NlmUniqueID>
+            <ISSNLinking>1466-5026</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199222</ArticleId>
+            <ArticleId IdType="doi">10.1099/ijsem.0.003523</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

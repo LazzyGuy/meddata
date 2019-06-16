@@ -1,0 +1,97 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31198891</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2501-2533</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Romanian journal of ophthalmology</Title>
+                <ISOAbbreviation>Rom J Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Eyelid laxity and sleep apnea syndrome: a review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The purpose of this paper is to review the association between a medical entity called the floppy eyelid syndrome (FES) and a very serious respiratory disease with repercussions on various other body organs and systems: the obstructive sleep apnea syndrome. The epidemiology, pathophysiology, and treatment of these two diseases are intertwined but still not enough recognized. Eye disorders affect a great number of patients in modern societies and the cause of their suffering is often left undiscovered, practitioners preferring a symptomatic treatment. However, the ophthalmologist should be aware of the possibility of a sleep disorder in their patients with certain pathologies, as well as sleep physicians, who should be aware of the possibility of eye problems and refer them for a checkup. Finally, a review of literature is undergone, evaluating the possibility that the treatment of one or the other disease may benefit both.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cristescu Teodor</LastName>
+                    <ForeName>Razvan</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre Hospitalier Bourges, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mihaltan</LastName>
+                    <ForeName>Florin Dumitru</ForeName>
+                    <Initials>FD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Marius Nasta Pneumophtisiology Institute, Bucharest, Romania; &quot;Carol Davila&quot; University of Medicine and Pharmacy, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Rom J Ophthalmol</MedlineTA>
+            <NlmUniqueID>101677459</NlmUniqueID>
+            <ISSNLinking>2457-4325</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">floppy eyelid syndrome</Keyword>
+            <Keyword MajorTopicYN="N">sleep apnea syndrome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198891</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,130 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199420</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-0189</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lab on a chip</Title>
+                <ISOAbbreviation>Lab Chip</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electronic profiling of membrane antigen expression via immunomagnetic cell manipulation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9lc00297a</ELocationID>
+            <Abstract>
+                <AbstractText>Membrane antigens control cell function by regulating biochemical interactions and hence are routinely used as diagnostic and prognostic targets in biomedicine. Fluorescent labeling and subsequent optical interrogation of cell membrane antigens, while highly effective, limit expression profiling to centralized facilities that can afford and operate complex instrumentation. Here, we introduce a cytometry technique that computes surface expression of immunomagnetically labeled cells by electrically tracking their trajectory under a magnetic field gradient on a microfluidic chip with a throughput of &gt;500 cells per min. In addition to enabling the creation of a frugal cytometry platform, this immunomagnetic cell manipulation-based measurement approach allows direct expression profiling of target subpopulations from non-purified samples. We applied our technology to measure epithelial cell adhesion molecule expression on human breast cancer cells. Once calibrated, surface expression and size measurements match remarkably well with fluorescence-based measurements from a commercial flow cytometer. Quantitative measurements of biochemical and biophysical cell characteristics with a disposable cytometer have the potential to impact point of care testing of clinical samples particularly in resource limited settings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Civelekoglu</LastName>
+                    <ForeName>Ozgun</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ningquan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boya</LastName>
+                    <ForeName>Mert</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozkaya-Ahmadov</LastName>
+                    <ForeName>Tevhide</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Ruxiu</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8094-7987</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarioglu</LastName>
+                    <ForeName>A Fatih</ForeName>
+                    <Initials>AF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7191-4342</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. sarioglu@gatech.edu and Petit Institute for Bioengineering and Biosciences, Georgia Institute of Technology, Atlanta, Georgia 30332, USA and Institute for Electronics and Nanotechnology, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lab Chip</MedlineTA>
+            <NlmUniqueID>101128948</NlmUniqueID>
+            <ISSNLinking>1473-0189</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199420</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9lc00297a</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

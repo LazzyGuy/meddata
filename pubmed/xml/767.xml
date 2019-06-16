@@ -1,0 +1,207 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199590</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2151-4658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arthritis care &amp; research</Title>
+                <ISOAbbreviation>Arthritis Care Res (Hoboken)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Low Disease Activity State/Remission Predicts a Better Health-Related Quality of Life in Systemic Lupus Erythematosus Patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/acr.24009</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine if low disease activity state (LDAS)/Remission predicts a better health-related quality of life (HRQoL).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Systemic lupus erythematosus (SLE) patients from a single center with at least two visits were included. Visits were performed every six months. HRQoL was measured with the LupusQoL. Remission: a SLEDAI-2K=0, prednisone daily dose≤5mg/d and immunosuppressive drugs on maintenance dose. LDAS: a SLEDAI-2K≤4, prednisone daily dose≤7.5mg/d and immunosuppressive drugs on maintenance dose; for these analyses, remission and LDAS were combined. Generalized estimating equations were performed, using as outcome each one of the eight components of the LupusQoL in the subsequent visit, and the activity state in the previous visit; multivariable models were adjusted for possible confounders.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Two hundred and forty-three patients were included. During the follow-up, 590 (61.6%) visits were categorized as LDAS/remission. LDAS/Remission predicted a better HRQoL in the components of physical health [B=4.17 (95%CI:1.20; 7.14); p=0.006], pain [B=6.47 (95%CI:3.18; 9.76); p&lt;0.001], planning [B=4.97 (95%CI:1.43; 8.52); p=0.006], burden to others [B=4.12 (95%CI:0.24; 8.01); p=0.037], emotional health [B=4.50 (95%CI:1.56; 7.44); p=0.003] and fatigue [B=3.25 (95%CI:0.04; 6.47); p=0.048].</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Being on LDAS/Remission predicts a better HRQoL, especially in the components of physical health, pain, planning, burden to others, emotional health and fatigue. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ugarte-Gil</LastName>
+                    <ForeName>Manuel F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Científica del Sur. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gamboa-Cárdenas</LastName>
+                    <ForeName>Rocío V</ForeName>
+                    <Initials>RV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reátegui-Sokolova</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de Investigación para la Generación y Síntesis de Evidencias en Salud, Universidad San Ignacio de Loyola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medina-Chinchón</LastName>
+                    <ForeName>Mariela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zevallos</LastName>
+                    <ForeName>Francisco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elera-Fitzcarrald</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Científica del Sur. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pimentel-Quiroz</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cucho-Venegas</LastName>
+                    <ForeName>Jorge M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez-Bellido</LastName>
+                    <ForeName>Zoila</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Nacional Mayor de San Marcos. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pastor-Asurza</LastName>
+                    <ForeName>César A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Nacional Mayor de San Marcos. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alarcón</LastName>
+                    <ForeName>Graciela S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, The University of Alabama at Birmingham, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Peruana Cayetano Heredia. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perich-Campos</LastName>
+                    <ForeName>Risto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Department, Hospital Guillermo Almenara Irigoyen. EsSalud, Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Universidad Nacional Mayor de San Marcos. Lima, Peru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arthritis Care Res (Hoboken)</MedlineTA>
+            <NlmUniqueID>101518086</NlmUniqueID>
+            <ISSNLinking>2151-464X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Systemic lupus erythematosus</Keyword>
+            <Keyword MajorTopicYN="N">health-related quality of life</Keyword>
+            <Keyword MajorTopicYN="N">low disease activity state</Keyword>
+            <Keyword MajorTopicYN="N">remission</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199590</ArticleId>
+            <ArticleId IdType="doi">10.1002/acr.24009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

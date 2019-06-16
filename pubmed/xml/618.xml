@@ -1,0 +1,162 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199758</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-4331</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical chemistry and laboratory medicine</Title>
+                <ISOAbbreviation>Clin. Chem. Lab. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Copeptin - a biomarker of short-term mortality risk (7 days) in patients with end-stage liver disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/cclm-2019-0023</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/cclm.ahead-of-print/cclm-2019-0023/cclm-2019-0023.xml</ELocationID>
+            <Abstract>
+                <AbstractText>Background For many patients with end-stage liver disease, liver transplantation represents the only curative therapy. Transplant recipients are scored and ranked using the model for end-stage liver disease (MELD/MELD-Na). Circulatory impairment is known to deteriorate outcomes; however, it is not incorporated into the current allocation system's score. The aim of our study is to analyze the predictive value of copeptin as a biomarker of circulatory impairment and increased short-term mortality risk in patients with end-stage liver disease. Methods We conducted a retrospective observational study of 615 patients with end-stage liver disease. Patients were recruited using assessments performed during the evaluation process for liver transplantation. Copeptin values were analyzed in comparison to MELD-Na, interleukin 6 (IL-6), and C-reactive protein (CRP). Results Elevated levels of copeptin, IL-6 and CRP, as well as high MELD-Na scores, were significantly correlated with mortality. In a comparison of copeptin-tertiles, patients in group T3 (16.3 pmol/L or more) showed a significantly higher mortality risk (hazard ratio 11.2, p &lt; 0.001). After adjusting for MELD-Na, copeptin remains an independent predictor of mortality. It shows its greatest prognostic strength in short-term mortality, where it performs comparable to MELD-Na (AUROC for 7 day-mortality, 0.941/0.939; p = 0.981) and shows an additional predictive value to MELD-Na for short-term mortality (7 days, p: 0.046; 30 days, p: 0.006). Conclusions Copeptin presents a valuable individual biomarker in detecting patients at risk for short-term mortality. Further studies should be performed to confirm our findings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostics, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Remmler</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostics, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Netto</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostics, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seehofer</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Visceral, Transplant, Thoracic and Vascular, Surgery, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Engelmann</LastName>
+                    <ForeName>Cornelius</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Hepatology, Clinic for Gastroenterology, University Clinic Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Hepatology, Clinic for Gastroenterology, University Clinic Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thiery</LastName>
+                    <ForeName>Joachim</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostics, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaiser</LastName>
+                    <ForeName>Thorsten</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostics, University Hospital Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Chem Lab Med</MedlineTA>
+            <NlmUniqueID>9806306</NlmUniqueID>
+            <ISSNLinking>1434-6621</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cholesterol esterification</Keyword>
+            <Keyword MajorTopicYN="N">interleukin-6 (IL-6)</Keyword>
+            <Keyword MajorTopicYN="N">liver transplantation</Keyword>
+            <Keyword MajorTopicYN="N">model of end-stage liver disease (MELD) score</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199758</ArticleId>
+            <ArticleId IdType="doi">10.1515/cclm-2019-0023</ArticleId>
+            <ArticleId IdType="pii">/j/cclm.ahead-of-print/cclm-2019-0023/cclm-2019-0023.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

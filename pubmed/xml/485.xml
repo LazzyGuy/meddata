@@ -1,0 +1,129 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199908</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-6240</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain research</Title>
+                <ISOAbbreviation>Brain Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Block-wise and trial-wise analyses of the Late Positive Potential reveal distinct affective trajectories as a function of neuroticism.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0006-8993(19)30337-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brainres.2019.06.011</ELocationID>
+            <Abstract>
+                <AbstractText>The late positive potential (LPP), an event-related potential that is modulated by affective stimuli, is often employed as an objective measure of momentary emotional reactivity in affective neuroscience research. A wide range of tasks are used to elicit the LPP, yet relatively few studies assess how task-specific methodological differences influence observed effects on LPP amplitude. The present study tested whether the LPP systematically varies across repeated blocks of affective stimuli in terms of block-wise averages and trial-wise slopes, as well as if this variability relates to trait affective style. Participants (N=112) completed a passive-viewing task designed to assess carry-over effects from one fixed valence block to the next. Rather than single scores for each image type averaged across all trials, as is typically done, the LPP was investigated first as averages across single blocks organized by valence and arousal categories and then trial-wise within these blocks. Traditional analyses and multilevel modeling procedures were employed to investigate effects. Results revealed that average LPP amplitude increased for the second versus the first blocks for affective but not neutral images. Moreover, trial-wise variation in the LPP systematically related to trait affective style: neuroticism moderated slopes of reactivity to pleasant and unpleasant images and produced affective carry-over effects for those higher in neuroticism. Together, results suggest that LPP amplitude is systematically modulated by block sequence, which could explain discrepancies across studies. Furthermore, block-wise averages capture only a portion of reactivity, obscuring trial-wise dynamics that are more closely aligned with theoretical frameworks of emotion.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hill</LastName>
+                    <ForeName>Kaylin E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Purdue University, United States. Electronic address: kbeckwit@purdue.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lane</LastName>
+                    <ForeName>Sean P</ForeName>
+                    <Initials>SP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Purdue University, United States. Electronic address: seanlane@purdue.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foti</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Purdue University, United States. Electronic address: foti@purdue.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Brain Res</MedlineTA>
+            <NlmUniqueID>0045503</NlmUniqueID>
+            <ISSNLinking>0006-8993</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ERP</Keyword>
+            <Keyword MajorTopicYN="N">LPP</Keyword>
+            <Keyword MajorTopicYN="N">emotion</Keyword>
+            <Keyword MajorTopicYN="N">multilevel modeling</Keyword>
+            <Keyword MajorTopicYN="N">neuroticism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199908</ArticleId>
+            <ArticleId IdType="pii">S0006-8993(19)30337-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brainres.2019.06.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

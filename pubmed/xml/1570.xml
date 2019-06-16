@@ -1,0 +1,209 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31198641</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of therapeutic effects of different mesenchymal stem cells on rheumatoid arthritis in mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7023</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7023</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Rheumatoid arthritis (RA) is a chronic and nonspecific autoimmune disease, which leads to joint destruction and deformity. To investigate the potential of human mesenchymal stem cells (MSCs) as a new therapeutic strategy for patients with RA, we compared the therapeutic effects of bone marrow derived MSCs (BMSCs), umbilical cord derived MSCs (UCs), and stem cells derived from human exfoliated deciduous teeth (SHED) on collagen-induced arthritis (CIA) in mice.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A total of 24 DBA/1 mice were infused with type II collagen to induce RA in the experimental model. MSC-treated mice were infused with UCs, BMSCs, and SHED, respectively. Bone erosion and joint destruction were measured by micro-computed tomographic (micro-CT) analysis and hematoxylin and eosin staining. The levels of tumor necrosis factor α (TNF-α) and interleukin-1β (IL-1β) were measured by immunohistochemistry and Enzyme-Linked Immunosorbent Assay (ELISA).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Systemic delivery of MSCs significantly improved the severity of the symptoms related to CIA to greater extent compared with the untreated control group. Micro-CT revealed reduced bone erosions in the metatarsophalangeal joints upon treatment with MSCs. Additionally, according to histologic evaluation, reduced synovitis and articular destruction were observed in MSC-treated groups. The levels of TNF-α and IL-1β in the serum and joints decreased with treatment by MSCs.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Our findings suggest that systemic infusion of UCs, BMSCs, and SHED may significantly alleviate the effects of RA. The therapeutic effect of BMSCs was greater than that of SHED, while the UCs were shown to have the best therapeutic effect on CIA mice. In conclusion, compared with BMSCs and SHED, UCs may be a more suitable source of MSCs for the treatment of patients with RA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Qing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi Clinical Research Center for Oral Diseases, Department of Orthodontics, School of Stomatology, The Fourth Military Medical University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Qihong</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Stomatology, the Fifth Medical Centre, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhai</LastName>
+                    <ForeName>Qiming</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi Clinical Research Center for Oral Diseases, Department of Orthodontics, School of Stomatology, The Fourth Military Medical University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Bei</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Xiaoning</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi Clinical Research Center for Oral Diseases, Department of Orthodontics, School of Stomatology, The Fourth Military Medical University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi International Joint Research Center for Oral Diseases, Center for Tissue Engineering, School of Stomatology, The Fourth Military Medical Universit, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Xi'an Institute of Tissue Engineering and Regenerative Medicine, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IL-1β</Keyword>
+            <Keyword MajorTopicYN="N">Mesenchymal stem cells</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">TNF-α</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198641</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7023</ArticleId>
+            <ArticleId IdType="pii">7023</ArticleId>
+            <ArticleId IdType="pmc">PMC6553443</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

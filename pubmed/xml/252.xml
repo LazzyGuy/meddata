@@ -1,0 +1,193 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200154</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A benchmark concentration analysis for manganese in drinking water and IQ deficits in children.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104889</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(19)30549-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2019.05.083</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Manganese is an essential nutrient, but in excess, can be a potent neurotoxicant. We previously reported findings from two cross-sectional studies on children, showing that higher concentrations of manganese in drinking water were associated with deficits in IQ scores. Despite the common occurrence of this neurotoxic metal, its concentration in drinking water is rarely regulated.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We aimed to apply a benchmark concentration analysis to estimate water manganese levels associated with pre-defined levels of cognitive impairment in children, i.e. drop of 1%, 2% and 5% in Performance IQ scores.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data from two studies conducted in Canada were pooled resulting in a sample of 630 children (ages 5.9-13.7 years) with data on tap water manganese concentration and cognition, as well as confounders. We used the Bayesian Benchmark Dose Analysis System to compute weight-averaged median estimates for the benchmark concentration (BMC) of manganese in water and the lower bound of the credible interval (BMCL), based on seven different exposure-response models.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The BMC for manganese in drinking water associated with a decrease of 1% Performance IQ score was 133 μg/L (BMCL, 78 μg/L); for a decrease of 2%, this concentration was 266 μg/L (BMCL, 156 μg/L) and for a decrease of 5% it was 676 μg/L (BMCL, 406 μg/L). In sex-stratified analyses, the manganese concentrations associated with a decrease of 1%, 2% and 5% Performance IQ in boys were 185, 375 and 935 μg/L (BMCLs, 75, 153 and 386 μg/L) and 78, 95, 192 μg/L (BMCLs, 9, 21 and 74 μg/L) for girls.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Studies suggest that a maximum acceptable concentration for manganese in drinking water should be set to protect children, the most vulnerable population, from manganese neurotoxicity. The present risk analysis can guide decision-makers responsible for developing these standards.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kullar</LastName>
+                    <ForeName>Savroop S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health, School of Public Health, Université de Montreal, 2375 Chemin de la Côte Ste-Catherine, Montréal, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shao</LastName>
+                    <ForeName>Kan</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health, School of Public Health, Indiana University, Bloomington, IN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Surette</LastName>
+                    <ForeName>Céline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Université de Moncton, 18 Avenue Antonine-Maillet, Moncton, New Brunswick E1A 3E9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foucher</LastName>
+                    <ForeName>Delphine</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Université de Moncton, 18 Avenue Antonine-Maillet, Moncton, New Brunswick E1A 3E9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mergler</LastName>
+                    <ForeName>Donna</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Interdisciplinary Studies in Biology, Health, Society and Environment (CINBIOSE), Université du Québec à Montréal, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cormier</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Psychology, Université de Moncton, 18 Avenue Antonine-Maillet, Moncton, New Brunswick E1A 3E9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellinger</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Boston Children's Hospital, Harvard Medical School, 300 Longwood Ave, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbeau</LastName>
+                    <ForeName>Benoit</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil, Geological and Mining Engineering, École Polytechnique de Montréal, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sauvé</LastName>
+                    <ForeName>Sébastien</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Université de Montréal, Pavillon Roger-Gaudry, 2900 Edouard-Montpetit, Montréal, Québec H3C 3J7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouchard</LastName>
+                    <ForeName>Maryse F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Occupational Health, School of Public Health, Université de Montreal, 2375 Chemin de la Côte Ste-Catherine, Montréal, Québec, Canada; CHU Sainte-Justine Research Centre, 3175 Chemin de la Côte-Sainte-Catherine, Montréal, Québec, Canada. Electronic address: maryse.bouchard@umontreal.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Benchmark-concentration analysis</Keyword>
+            <Keyword MajorTopicYN="N">Drinking water</Keyword>
+            <Keyword MajorTopicYN="N">IQ</Keyword>
+            <Keyword MajorTopicYN="N">Manganese</Keyword>
+            <Keyword MajorTopicYN="N">Neurodevelopmental toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200154</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(19)30549-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2019.05.083</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

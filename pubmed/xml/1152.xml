@@ -1,0 +1,120 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199156</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-3907</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteome research</Title>
+                <ISOAbbreviation>J. Proteome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of the Zika and Japanese encephalitis virus NS5 interactomes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jproteome.9b00318</ELocationID>
+            <Abstract>
+                <AbstractText>Mosquito-borne flaviviruses, including dengue virus (DENV), Japanese encephalitis virus (JEV) and Zika virus (ZIKV), are major human pathogens. Among the flaviviral proteins, the non-structural protein 5 (NS5) is the largest, most conserved and major enzymatic component of the viral replication complex. Disruption of the common key NS5-host protein-protein interactions critical for viral replication could aid in the development of broad-spectrum anti-flaviviral therapeutics. Hundreds of NS5 interactors have been identified, but these are mostly DENV-NS5 interactors. To this end, we sought to investigate the JEV- and ZIKV-NS5 interactomes using EGFP immunoprecipitation with label-free quantitative mass spectrometry analysis. We report here a total of 137 NS5 interactors with a significant enrichment of spliceosomal and spliceosomal-associated proteins. The transcription complex Paf1C and phosphatase 6 were identified as common NS5-associated complexes. PAF1 was shown to play opposite roles in JEV and ZIKV infections. Additionally, we validated several NS5 targets and proposed their possible roles in infection. These include lipid-shuttling proteins OSBPL9 and OSBPL11, component of RNAP3 transcription factor TFIIIC, minichromosome maintenance, and cochaperone PAQosome. Mining this dataset, our study expands the current interaction landscape of NS5 and uncovers several NS5 targets that are new to flavivirus biology.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kovanich</LastName>
+                    <ForeName>Duangnapa</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saisawang</LastName>
+                    <ForeName>Chonticha</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sittipaisankul</LastName>
+                    <ForeName>Potchaman</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramphan</LastName>
+                    <ForeName>Suwipa</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalpongnukul</LastName>
+                    <ForeName>Nuttiya</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Somparn</LastName>
+                    <ForeName>Poorichaya</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pisitkun</LastName>
+                    <ForeName>Trairak</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Duncan R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Proteome Res</MedlineTA>
+            <NlmUniqueID>101128775</NlmUniqueID>
+            <ISSNLinking>1535-3893</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199156</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jproteome.9b00318</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

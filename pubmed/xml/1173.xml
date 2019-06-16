@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199135</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-510X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inorganic chemistry</Title>
+                <ISOAbbreviation>Inorg Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DFT-Assisted Solid-State NMR Characterization of Defects in Li<sub>2</sub>MnO<sub>3</sub>.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.inorgchem.9b00394</ELocationID>
+            <Abstract>
+                <AbstractText>The complete description of defective structures and their impact on materials behavior is a great challenge due to difficulties associated with their reliable characterization in the nanoscale. In this paper, density functional theory (DFT) calculations are used to elucidate the solid-state nuclear magnetic resonance (NMR) spectra of Li<sub>2</sub>MnO<sub>3</sub> which, combined with X-ray diffraction (XRD), provide a full description of disorder in this compound. While XRD allows accurate quantification of planar defects, the use of solid-state NMR reveals limited vacancy concentrations that were undetected by XRD as NMR is highly sensitive to the atomic local environments. The combination of these methods is here proved highly effective in overcoming the challenges of describing in great detail limited concentrations of disorder in transition metal oxides, providing information about structural variables that are essential to their application.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Serrano-Sevillano</LastName>
+                    <ForeName>Jon</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1411-0270</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CIC energiGUNE , Parque Tecnológico de Álava , C/Albert Einstein 48 , 01510 Miñano , Álava Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Chemistry Department, Pharmacy Faculty , Basque Country University , 01006 Vitoria-Gasteiz , Álava Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlier</LastName>
+                    <ForeName>Dany</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5086-4363</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CNRS, Bordeaux INP, ICMCB UMR5026 , Université Bordeaux , F-33600 Pessac , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saracibar</LastName>
+                    <ForeName>Amaia</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Chemistry Department, Pharmacy Faculty , Basque Country University , 01006 Vitoria-Gasteiz , Álava Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopez Del Amo</LastName>
+                    <ForeName>Juan Miguel</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIC energiGUNE , Parque Tecnológico de Álava , C/Albert Einstein 48 , 01510 Miñano , Álava Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Casas-Cabanas</LastName>
+                    <ForeName>Montse</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9298-2333</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CIC energiGUNE , Parque Tecnológico de Álava , C/Albert Einstein 48 , 01510 Miñano , Álava Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Inorg Chem</MedlineTA>
+            <NlmUniqueID>0366543</NlmUniqueID>
+            <ISSNLinking>0020-1669</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199135</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.inorgchem.9b00394</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

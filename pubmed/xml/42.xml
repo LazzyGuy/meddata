@@ -1,0 +1,202 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200378</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1933-0693</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Surgical treatment of meningiomas located in the rolandic area: the role of navigated transcranial magnetic stimulation for preoperative planning, surgical strategy, and prediction of arachnoidal cleavage and motor outcome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3171/2019.3.JNS183411</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">2019.3.JNS183411</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Surgical treatment of convexity meningiomas is usually considered a low-risk procedure. Nevertheless, the risk of postoperative motor deficits is higher (7.1%-24.7% of all cases) for lesions located in the rolandic region, especially when an arachnoidal cleavage plane with the motor pathway is not identifiable. The authors analyzed the possible role of navigated transcranial magnetic stimulation (nTMS) for planning resection of rolandic meningiomas and predicting the presence or lack of an intraoperative arachnoidal cleavage plane as well as the postoperative motor outcome.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Clinical data were retrospectively collected from surgical cases involving patients affected by convexity, parasagittal, or falx meningiomas involving the rolandic region, who received preoperative nTMS mapping of the motor cortex (M1) and nTMS-based diffusion tensor imaging (DTI) fiber tracking of the corticospinal tract before surgery at 2 different neurosurgical centers. Surgeons' self-reported evaluation of the impact of nTMS-based mapping on surgical strategy was analyzed. Moreover, the nTMS mapping accuracy was evaluated in comparison with intraoperative neurophysiological mapping (IONM). Lastly, we assessed the role of nTMS as well as other pre- and intraoperative parameters for predicting the patients' motor outcome and the presence or absence of an intraoperative arachnoidal cleavage plane.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Forty-seven patients were included in this study. The nTMS-based planning was considered useful in 89.3% of cases, and a change of the surgical strategy was observed in 42.5% of cases. The agreement of nTMS-based planning and IONM-based strategy in 35 patients was 94.2%. A new permanent motor deficit occurred in 8.5% of cases (4 of 47). A higher resting motor threshold (RMT) and the lack of an intraoperative arachnoidal cleavage plane were the only independent predictors of a poor motor outcome (p = 0.04 and p = 0.02, respectively). Moreover, a higher RMT and perilesional edema also predicted the lack of an arachnoidal cleavage plane (p = 0.01 and p = 0.03, respectively). Preoperative motor status, T2 cleft sign, contrast-enhancement pattern, and tumor volume had no predictive value.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">nTMS-based motor mapping is a useful tool for presurgical assessment of rolandic meningiomas, especially when a clear cleavage plane with M1 is not present. Moreover, the RMT can indicate the presence or absence of an intraoperative cleavage plane and predict the motor outcome, thereby helping to identify high-risk patients before surgery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Raffa</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Picht</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Charité Universitätsmedizin Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scibilia</LastName>
+                    <ForeName>Antonino</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rösler</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Charité Universitätsmedizin Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rein</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Charité Universitätsmedizin Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conti</LastName>
+                    <ForeName>Alfredo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Charité Universitätsmedizin Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ricciardo</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardali</LastName>
+                    <ForeName>Salvatore Massimiliano</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vajkoczy</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2Department of Neurosurgery, Charité Universitätsmedizin Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Germanò</LastName>
+                    <ForeName>Antonino</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Division of Neurosurgery, University of Messina, Italy; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CST = corticospinal tract</Keyword>
+            <Keyword MajorTopicYN="N">DTI = diffusion tensor imaging</Keyword>
+            <Keyword MajorTopicYN="N">DTI fiber tracking</Keyword>
+            <Keyword MajorTopicYN="N">DTI-FT = DTI fiber tracking</Keyword>
+            <Keyword MajorTopicYN="N">DWI = diffusion-weighted imaging</Keyword>
+            <Keyword MajorTopicYN="N">FDI = first dorsal interosseus</Keyword>
+            <Keyword MajorTopicYN="N">IONM = intraoperative neurophysiological mapping</Keyword>
+            <Keyword MajorTopicYN="N">MRC = Medical Research Council</Keyword>
+            <Keyword MajorTopicYN="N">MSO = maximum stimulator output</Keyword>
+            <Keyword MajorTopicYN="N">NPV = negative predictive value</Keyword>
+            <Keyword MajorTopicYN="N">PPV = positive predictive value</Keyword>
+            <Keyword MajorTopicYN="N">RMT = resting motor threshold</Keyword>
+            <Keyword MajorTopicYN="N">brain tumors</Keyword>
+            <Keyword MajorTopicYN="N">eloquent areas</Keyword>
+            <Keyword MajorTopicYN="N">meningiomas</Keyword>
+            <Keyword MajorTopicYN="N">nTMS = navigated transcranial magnetic stimulation</Keyword>
+            <Keyword MajorTopicYN="N">navigated transcranial magnetic stimulation</Keyword>
+            <Keyword MajorTopicYN="N">oncology</Keyword>
+            <Keyword MajorTopicYN="N">preoperative planning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200378</ArticleId>
+            <ArticleId IdType="doi">10.3171/2019.3.JNS183411</ArticleId>
+            <ArticleId IdType="pii">2019.3.JNS183411</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

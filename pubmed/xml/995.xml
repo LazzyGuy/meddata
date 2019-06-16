@@ -1,0 +1,215 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199334</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Pragmatic Cluster Randomized Trial of an Electronic Clinical Decision Support System to Improve Chronic Kidney Disease Management in Primary Care: Design, Rationale, and Implementation Experience.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e14022</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/14022</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The diagnosis of chronic kidney disease (CKD) is based on laboratory results easily extracted from electronic health records; therefore, CKD identification and management is an ideal area for targeted electronic decision support efforts. Early CKD management frequently occurs in primary care settings where primary care providers (PCPs) may not implement all the best practices to prevent CKD-related complications. Few previous studies have employed randomized trials to assess a CKD electronic clinical decision support system (eCDSS) that provided recommendations to PCPs tailored to each patient based on laboratory results.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to report the trial design and implementation experience of a CKD eCDSS in primary care.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This was a 3-arm pragmatic cluster-randomized trial at an academic general internal medicine practice. Eligible patients had 2 previous estimated-glomerular-filtration-rates by serum creatinine (eGFR<sub>Cr</sub>) &lt;60 mL/min/1.73m<sup>2</sup> at least 90 days apart. Randomization occurred at the PCP level. For patients of PCPs in either of the 2 intervention arms, the research team ordered triple-marker testing (serum creatinine, serum cystatin-c, and urine albumin-creatinine-ratio) at the beginning of the study period, to be completed when acquiring labs for regular clinical care. The eCDSS launched for PCPs and patients in the intervention arms during a regular PCP visit subsequent to completing the triple-marker testing. The eCDSS delivered individualized guidance on cardiovascular risk-reduction, potassium and proteinuria management, and patient education. Patients in the eCDSS+ arm also received a pharmacist phone call to reinforce CKD-related education. The primary clinical outcome is blood pressure change from baseline at 6 months after the end of the trial, and the main secondary outcome is provider awareness of CKD diagnosis. We also collected process, patient-centered, and implementation outcomes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A multidisciplinary team (primary care internist, nephrologists, pharmacist, and informaticist) designed the eCDSS to integrate into the current clinical workflow. All 81 PCPs contacted agreed to participate and were randomized. Of 995 patients initially eligible by eGFR<sub>Cr</sub>, 413 were excluded per protocol and 58 opted out or withdrew, resulting in 524 patient participants (188 usual care; 165 eCDSS; and 171 eCDSS+). During the 12-month intervention period, 53.0% (178/336) of intervention patient participants completed triple-marker labs. Among these, 138/178 (77.5%) had a PCP appointment after the triple-marker labs resulted; the eCDSS was opened for 73.9% (102/138), with orders or education signed for 81.4% (83/102).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Successful integration of an eCDSS into primary care workflows and high eCDSS utilization rates at eligible visits suggest this tailored electronic approach is feasible and has the potential to improve guideline-concordant CKD care.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT02925962; https://clinicaltrials.gov/ct2/show/NCT02925962 (Archived by WebCite at http://www.webcitation.org/78qpx1mjR).</AbstractText>
+                <AbstractText Label="INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)" NlmCategory="UNASSIGNED">DERR1-10.2196/14022.</AbstractText>
+                <CopyrightInformation>©Elaine C Khoong, Leah Karliner, Lowell Lo, Marilyn Stebbins, Andrew Robinson, Sarita Pathak, Jasmine Santoyo-Olsson, Rebecca Scherzer, Carmen A Peralta. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khoong</LastName>
+                    <ForeName>Elaine C</ForeName>
+                    <Initials>EC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2514-3572</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of General Internal Medicine at Zuckerberg San Francisco General Hospital, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karliner</LastName>
+                    <ForeName>Leah</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2204-5114</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of General Internal Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Multiethnic Health Equity Research Center, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lo</LastName>
+                    <ForeName>Lowell</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3485-5512</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stebbins</LastName>
+                    <ForeName>Marilyn</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3528-2883</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robinson</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1820-4621</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pathak</LastName>
+                    <ForeName>Sarita</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5856-1036</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of General Internal Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Multiethnic Health Equity Research Center, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santoyo-Olsson</LastName>
+                    <ForeName>Jasmine</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5602-1148</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of General Internal Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scherzer</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1579-5390</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Health Research Collaborative, San Francisco Veterans Affairs Medical Center, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peralta</LastName>
+                    <ForeName>Carmen A</ForeName>
+                    <Initials>CA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4265-2392</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Health Research Collaborative, San Francisco Veterans Affairs Medical Center, University of California San Francisco, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cricket Health, San Francisco, CA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT02925962</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">clinical decision support systems</Keyword>
+            <Keyword MajorTopicYN="N">electronic health records</Keyword>
+            <Keyword MajorTopicYN="N">pragmatic clinical trial</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199334</ArticleId>
+            <ArticleId IdType="pii">v8i6e14022</ArticleId>
+            <ArticleId IdType="doi">10.2196/14022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

@@ -1,0 +1,126 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200213</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2210-2612</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of surgery case reports</Title>
+                <ISOAbbreviation>Int J Surg Case Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metastatic liver tumor from a primary gastric cancer with infiltration of the Glisson's pedicle: A case report.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2210-2612(19)30258-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijscr.2019.05.012</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Metastatic liver tumors from primary gastric cancer are rarely resected because of the high rate of metastasis and recurrence of gastric cancer, and there is little information regarding the pathological assessment of these tumors. We present a case of a single metastatic liver tumor from gastric cancer with invasion of the interlobular bile duct for which we achieved margin-free resection with good clinical outcomes.</AbstractText>
+                <AbstractText Label="PRESENTATION OF CASE" NlmCategory="METHODS">An 80-year-old patient presented with a tumor in segment V of the liver, with invasion of Glisson's pedicle confirmed on preoperative magnetic resonance and positron emission tomography imaging. On the basis of the preoperative assessment, we proceeded with partial hepatectomy, with transection of one of the roots of Glisson's pedicle performed under echography guidance. Pathological examination confirmed gastric cancer as the primary source of the metastatic tumor. R0 resection was achieved, with no evidence of cancer recurrence at one year after surgery.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Our experience supports partial hepatectomy with R0 margin tumor resection as an oncologically feasible treatment for metastatic liver tumor arising from primary gastric cancer (in the absence of other metastatic lesions) and shows that a good prognosis can be achieved. Of note, intraoperative echography did not detect tumor invasion of Glisson's pedicle, which was evident only on preoperative imaging.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This case suggests that magnetic resonance and positron emission tomography imaging findings are important for surgical planning of hepatectomy. Further follow-up data and more cases are needed to completely define the clinical significance of tumor invasion of Glisson's pedicle.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Yusuke</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Surgery, Nagano Municipal Hospital, Nagano, 381-8551, Japan. Electronic address: yuusuke_takahashi@hospital.nagano.nagano.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seki</LastName>
+                    <ForeName>Hitoshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Surgery, Nagano Municipal Hospital, Nagano, 381-8551, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int J Surg Case Rep</MedlineTA>
+            <NlmUniqueID>101529872</NlmUniqueID>
+            <ISSNLinking>2210-2612</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hepatectomy</Keyword>
+            <Keyword MajorTopicYN="N">Liver neoplasms</Keyword>
+            <Keyword MajorTopicYN="N">Stomach neoplasm</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200213</ArticleId>
+            <ArticleId IdType="pii">S2210-2612(19)30258-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijscr.2019.05.012</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

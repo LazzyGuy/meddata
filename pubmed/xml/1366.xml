@@ -1,0 +1,106 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31198919</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-3372</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nanoscale</Title>
+                <ISOAbbreviation>Nanoscale</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electromagnetic interactions of dye molecules surrounding a nanosphere.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c9nr01304k</ELocationID>
+            <Abstract>
+                <AbstractText>Enhanced interaction between light and molecules adsorbed on metallic nanoparticles is a cornerstone of plasmonics and surface-enhanced spectroscopies. Recent experimental access to the electronic absorption spectrum of dye molecules on silver colloids at low molecular coverage has revealed subtle changes in the spectral shape that may be attributed to a combination of factors, from a chemical modification of the molecule in contact with a metal surface to electromagnetic dye-dye and dye-metal interactions. Here we develop an original model to rigorously address the electromagnetic effects. The dye molecules are described as coupled anisotropic polarisable dipoles and their interaction with the core metal particle is described using a generalised Mie theory. The theory is readily amenable to numerical implementation and yields far-field optical cross-sections that can be compared to experimental results. We apply this model to specific adsorption geometries of practical interest to highlight the effect of molecular orientation on predicted spectral shifts and enhancement factors, as a function of surface coverage. These are compared to experimental results and reproduce the measured spectral changes as a function of concentration. These results have direct implications for the interpretation of surface selection rules and enhancement factors in surface-enhanced spectroscopies, and of orientation and coverage effects in molecular/plasmonic resonance coupling experiments.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Auguié</LastName>
+                    <ForeName>Baptiste</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2749-5715</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Physical Sciences, Victoria University of Wellington, PO Box 600, Wellington, New Zealand. baptiste.auguie@vuw.ac.nz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darby</LastName>
+                    <ForeName>Brendan L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Physical Sciences, Victoria University of Wellington, PO Box 600, Wellington, New Zealand. baptiste.auguie@vuw.ac.nz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Ru</LastName>
+                    <ForeName>Eric C</ForeName>
+                    <Initials>EC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3052-9947</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemical and Physical Sciences, Victoria University of Wellington, PO Box 600, Wellington, New Zealand. baptiste.auguie@vuw.ac.nz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nanoscale</MedlineTA>
+            <NlmUniqueID>101525249</NlmUniqueID>
+            <ISSNLinking>2040-3364</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31198919</ArticleId>
+            <ArticleId IdType="doi">10.1039/c9nr01304k</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

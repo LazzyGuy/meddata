@@ -1,0 +1,179 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199333</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-9279</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR serious games</Title>
+                <ISOAbbreviation>JMIR Serious Games</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of CliniPup, a Serious Game Aimed at Reducing Perioperative Anxiety and Pain in Children: Mixed Methods Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12429</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/12429</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">An increasing number of children undergo ambulatory surgery each year, and a significant proportion experience substantial preoperative anxiety and postoperative pain. The management of perioperative anxiety and pain remains challenging in children and is inadequate, which negatively impacts the physical, psychosocial, and economic outcomes. Existing nonpharmacological interventions are costly, time consuming, vary in availability, and lack benefits. Therefore, there is a need for an evidence-based, accessible, nonpharmacological intervention as an adjunct to existing pharmacological alternatives to reduce perioperative anxiety and pain in children undergoing ambulatory surgery. Technology-enabled interventions have been proposed as a method to address the unmet need in this setting. In particular, serious games hold a unique potential to change health beliefs and behaviors in children.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this research was to describe the rationale, scientific evidence, design aspects, and features of CliniPup, a serious game aimed at reducing perioperative anxiety and pain in children undergoing ambulatory surgery.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The SERES Framework for serious game development was used to create the serious game, CliniPup. In particular, we used a mixed methods approach that consisted of a structured literature review supplemented with ethnographic research, such as expert interviews and a time-motion exercise. The resulting scientific evidence base was leveraged to ensure that the resulting serious game was relevant, realistic, and theory driven. A participatory design approach was applied, wherein clinical experts qualitatively reviewed several versions of the serious game, and an iterative creative process was used to integrate the applicable feedback.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">CliniPup, a serious game, was developed to incorporate a scientific evidence base from a structured literature review, realistic content collected during ethnographic research such as expert interviews, explicit pedagogical objectives from scientific literature, and game mechanics and user interface design that address key aspects of the evidence.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This report details the systematic development of CliniPup, a serious game aimed at reducing perioperative anxiety and pain in children undergoing ambulatory surgery. Clinical experts validated CliniPup's underlying scientific evidence base and design foundations, suggesting that it was well designed for preliminary evaluation in the target population. An evaluation plan is proposed and briefly described.</AbstractText>
+                <CopyrightInformation>©Sarah Verschueren, June van Aalst, Anne-Marie Bangels, Jaan Toelen, Karel Allegaert, Connor Buffel, Geert Vander Stichele. Originally published in JMIR Serious Games (http://games.jmir.org), 01.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verschueren</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9050-2087</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MindBytes BVBA, Merksplas, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Aalst</LastName>
+                    <ForeName>June</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9388-0144</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nuclear Medicine and Molecular Imaging, Department of Imaging and Pathology, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bangels</LastName>
+                    <ForeName>Anne-Marie</ForeName>
+                    <Initials>AM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7881-6235</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Development and Regeneration, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toelen</LastName>
+                    <ForeName>Jaan</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9339-5408</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Development and Regeneration, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allegaert</LastName>
+                    <ForeName>Karel</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9921-5105</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Development and Regeneration, KU Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Neonatology, Department of Pediatrics, Erasmus MC-Sophia Children's Hospital, Rotterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buffel</LastName>
+                    <ForeName>Connor</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1810-488X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MindLab Interactive AI Inc, Edmonton, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vander Stichele</LastName>
+                    <ForeName>Geert</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9913-1163</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>MindBytes BVBA, Merksplas, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Serious Games</MedlineTA>
+            <NlmUniqueID>101645255</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ambulatory surgery</Keyword>
+            <Keyword MajorTopicYN="N">behavior change</Keyword>
+            <Keyword MajorTopicYN="N">pediatric</Keyword>
+            <Keyword MajorTopicYN="N">perioperative anxiety</Keyword>
+            <Keyword MajorTopicYN="N">perioperative pain</Keyword>
+            <Keyword MajorTopicYN="N">serious games for health</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199333</ArticleId>
+            <ArticleId IdType="pii">v7i2e12429</ArticleId>
+            <ArticleId IdType="doi">10.2196/12429</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

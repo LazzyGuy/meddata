@@ -1,0 +1,146 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31200102</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular neurosciences</Title>
+                <ISOAbbreviation>Mol. Cell. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>mir-234 controls neuropeptide release at the Caenorhabditis elegans neuromuscular junction.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1044-7431(19)30075-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mcn.2019.06.001</ELocationID>
+            <Abstract>
+                <AbstractText>miR-137 is a highly conserved microRNA (miRNA) that is associated with the control of brain function and the etiology of psychiatric disorders including schizophrenia and bipolar disorder. The Caenorhabditis elegans genome encodes a single miR-137 ortholog called mir-234, the function of which is unknown. Here we show that mir-234 is expressed in a subset of sensory, motor and interneurons in C. elegans. Using a mir-234 deletion strain, we systematically examined the development and function of these neurons in addition to global C. elegans behaviors. We were however unable to detect phenotypes associated with loss of mir-234, possibly due to genetic redundancy. To circumvent this issue, we overexpressed mir-234 in mir-234-expressing neurons to uncover possible phenotypes. We found that mir-234-overexpression endows resistance to the acetylcholinesterase inhibitor aldicarb, suggesting modification of neuromuscular junction (NMJ) function. Further analysis revealed that mir-234 controls neuropeptide levels, therefore positing a cause of NMJ dysfunction. Together, our data suggest that mir-234 functions to control the expression of target genes that are important for neuropeptide maturation and/or transport in C. elegans. SIGNIFICANCE STATEMENT: The miR-137 family of miRNAs is linked to the control of brain function in humans. Defective regulation of miR-137 is associated with psychiatric disorders that include schizophrenia and bipolar disorder. Previous studies have revealed that miR-137 is required for the development of dendrites and for controlling the release of fast-acting neurotransmitters. Here, we analyzed the function a miR-137 family member (called mir-234) in the nematode animal model using anatomical, behavioral, electrophysiological and neuropeptide analysis. We reveal for the first time that mir-234/miR-137 is required for the release of slow-acting neuropeptides, which may also be of relevance for controlling human brain function.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Snieckute</LastName>
+                    <ForeName>Goda</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Development and Stem Cells Program, Monash Biomedicine Discovery Institute and Department of Anatomy and Developmental Biology, Monash University, Melbourne, Victoria 3800, Australia; Biotech Research and Innovation Centre, University of Copenhagen, Ole Maaløes Vej 5, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baltaci</LastName>
+                    <ForeName>Oguzhan</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Development and Stem Cells Program, Monash Biomedicine Discovery Institute and Department of Anatomy and Developmental Biology, Monash University, Melbourne, Victoria 3800, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Haowen</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Brain Institute, Clem Jones Centre for Ageing Dementia Research (CJCADR), The University of Queensland, Brisbane, 4072, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Brain Institute, Clem Jones Centre for Ageing Dementia Research (CJCADR), The University of Queensland, Brisbane, 4072, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Zhitao</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Queensland Brain Institute, Clem Jones Centre for Ageing Dementia Research (CJCADR), The University of Queensland, Brisbane, 4072, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pocock</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Development and Stem Cells Program, Monash Biomedicine Discovery Institute and Department of Anatomy and Developmental Biology, Monash University, Melbourne, Victoria 3800, Australia; Biotech Research and Innovation Centre, University of Copenhagen, Ole Maaløes Vej 5, Copenhagen, Denmark. Electronic address: roger.pocock@monash.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Neurosci</MedlineTA>
+            <NlmUniqueID>9100095</NlmUniqueID>
+            <ISSNLinking>1044-7431</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31200102</ArticleId>
+            <ArticleId IdType="pii">S1044-7431(19)30075-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mcn.2019.06.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

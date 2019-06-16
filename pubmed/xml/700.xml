@@ -1,0 +1,124 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31199660</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Langmuir : the ACS journal of surfaces and colloids</Title>
+                <ISOAbbreviation>Langmuir</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Photopolymerization-Induced Polymersome Rupture.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.langmuir.9b01463</ELocationID>
+            <Abstract>
+                <AbstractText>Poly(butadiene)- b-poly(ethylene oxide) (PBut<sub>2.5</sub>- b-PEO<sub>1.3</sub>) giant polymersomes were prepared using an emulsion-centrifugation method. The impact of a fast decrease of the osmotic pressure inside the lumen of giant PBut- b-PEO vesicles was studied by confocal microscopy. This osmotic imbalance was created by performing the photoinduced polymerization of acrylamide inside these giant polymersomes, mimicking cell-like confinement. Experimental conditions (irradiation time, relative concentration of monomer, and photoinitiator) were optimized to induce the fastest and highest osmotic pressure difference in bulk solution. When confined inside polymersomes with a low permeability membrane made of PBut- b-PEO copolymers, this hyper-osmotic shock induced a fast disruption of the membrane and polymersome burst. These findings, complementary to hypotonic shock approaches previously reported, are demonstrating the versatility and relevance of controlling and modulating osmotic pressure imbalance in self-assembled artificial cell systems and protocells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Larnaudie</LastName>
+                    <ForeName>Sophie C</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Bordeaux, CNRS, Bordeaux INP, LCPO, UMR 5629 , F-33600 Pessac , France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>LP2N, Institut d'Optique Graduate School, CNRS UMR 5298, Université de Bordeaux, IOA , 1 rue François Mitterrand , F-33400 Talence , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peyret</LastName>
+                    <ForeName>Ariane</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Bordeaux, CNRS, Bordeaux INP, LCPO, UMR 5629 , F-33600 Pessac , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beauté</LastName>
+                    <ForeName>Louis</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Bordeaux, CNRS, Bordeaux INP, LCPO, UMR 5629 , F-33600 Pessac , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nassoy</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LP2N, Institut d'Optique Graduate School, CNRS UMR 5298, Université de Bordeaux, IOA , 1 rue François Mitterrand , F-33400 Talence , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lecommandoux</LastName>
+                    <ForeName>Sébastien</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0465-8603</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Univ. Bordeaux, CNRS, Bordeaux INP, LCPO, UMR 5629 , F-33600 Pessac , France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Langmuir</MedlineTA>
+            <NlmUniqueID>9882736</NlmUniqueID>
+            <ISSNLinking>0743-7463</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199660</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.langmuir.9b01463</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+

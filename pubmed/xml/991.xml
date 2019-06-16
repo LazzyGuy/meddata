@@ -1,0 +1,169 @@
+
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31199338</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2291-5222</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jun</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR mHealth and uHealth</Title>
+                <ISOAbbreviation>JMIR Mhealth Uhealth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Smartphone, Social Media, and Mental Health App Use in an Acute Transdiagnostic Psychiatric Sample.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13364</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/13364</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite high rates of smartphone ownership in psychiatric populations, there are very little data available characterizing smartphone use in individuals with mental illness. In particular, few studies have examined the interest and use of smartphones to support mental health.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to (1) characterize general smartphone app and social media usage in an acute transdiagnostic psychiatric sample with high smartphone ownership, (2) characterize current engagement and interest in the use of smartphone apps to support mental health, and (3) test demographic and clinical predictors of smartphone use.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The survey was completed by all patients attending an adult partial hospital program, with no exclusion criteria. The primary outcomes were frequency of use of general and mental health smartphone apps (smartphone use survey) and the frequency of social media use and phone-checking behavior (mobile technology engagement scale).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 322 patients (aged mean 33.49, SD 13.87 years; 57% female) reported that their most frequently used app functions were texting, email, and social media. Younger individuals reported more frequent use across most types of apps. Baseline depression and anxiety symptoms were not associated with the frequency of app use. Participants reported health care, calendar, and texting apps as most supportive of their mental health and social media apps as most negatively affecting their mental health. Most patients reported an interest in (73.9% [238/322]) and willingness to use (81.3% [262/322]) a smartphone app to monitor their mental health condition. Less than half (44%) of the patients currently had a mental health app downloaded on their smartphone, with mindfulness and meditation apps being the most common type.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The high interest in and willingness to use mental health apps, paired with the only moderate current reported usage, indicate a potential unmet treatment opportunity in psychiatric populations. There is potential to optimize non-mental health-specific apps to better support the needs of those with mental illness and to design a new wave of mental health apps that match the needs of these populations as well as the way they use smartphones in daily life.</AbstractText>
+                <CopyrightInformation>©Courtney Beard, Alexandra L Silverman, Marie Forgeard, M Taylor Wilmer, John Torous, Thröstur Björgvinsson. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 07.06.2019.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beard</LastName>
+                    <ForeName>Courtney</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8321-8712</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>McLean Hospital/Harvard Medical School, Belmont, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silverman</LastName>
+                    <ForeName>Alexandra L</ForeName>
+                    <Initials>AL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8066-2308</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>McLean Hospital/Harvard Medical School, Belmont, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forgeard</LastName>
+                    <ForeName>Marie</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0049-5034</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>McLean Hospital/Harvard Medical School, Belmont, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>William James College, Newton, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilmer</LastName>
+                    <ForeName>M Taylor</ForeName>
+                    <Initials>MT</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2302-772X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>McLean Hospital/Harvard Medical School, Belmont, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torous</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5362-7937</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Beth Israel Deaconess Medical Center/Harvard Medical School, Boston, MD, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Björgvinsson</LastName>
+                    <ForeName>Thröstur</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9353-3663</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>McLean Hospital/Harvard Medical School, Belmont, MA, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Mhealth Uhealth</MedlineTA>
+            <NlmUniqueID>101624439</NlmUniqueID>
+            <ISSNLinking>2291-5222</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">mobile health</Keyword>
+            <Keyword MajorTopicYN="N">serious mental illness</Keyword>
+            <Keyword MajorTopicYN="N">smartphone</Keyword>
+            <Keyword MajorTopicYN="N">social media</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31199338</ArticleId>
+            <ArticleId IdType="pii">v7i6e13364</ArticleId>
+            <ArticleId IdType="doi">10.2196/13364</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
