@@ -7,9 +7,11 @@ from bs4 import BeautifulSoup
 from multiprocessing import Pool
 import re
 
-js = json.load(open("./2000.json", 'r'))
+js = json.load(open("./1.json", 'r'))
 ids = js['1']
 mega_count = 1
+
+# "2018"[Date - Publication] : "3000"[Date - Publication]) AND Journal Article[ptyp] AND hasabstract[text]
 
 def get_url(id):
     return "https://www.ncbi.nlm.nih.gov/pubmed/"+id+"?report=xml&format=text"
@@ -82,15 +84,28 @@ def convert_data(soup_list, page_no):
     for soup in soup_list:
         try:
             title = soup.find('articletitle').text
+        except:
+            title = ""
+
+        try:
             url = get_uri(soup.find('pmid').text)
+        except:
+            url = ""
+        try:
             _journal = soup.find('journal')
             journal = _journal.find('title').text
-            _pub_date = soup.find('pubdate')
-            pub_date = _pub_date.find('medlinedate').text
+        except:
+            journal = ""
+        try:
+            _pub_date = soup.find('daterevised')
+            pub_date = _pub_date.find('year').text +" "+ _pub_date.find('month').text +" "+ _pub_date.find('day').text
+        except:
+            journal = ""
+        try:
             abs = soup.find('abstract')
             abstract = abs.find('abstracttext').text
         except:
-            continue
+            abstract = ""
 
         articles.append((title, url, journal, pub_date, abstract))
 
@@ -100,7 +115,7 @@ def convert_data(soup_list, page_no):
     new_row = []
 
     new_row.append(page_no)
-    x_count = 1
+    x_count = 0
     temp_auth = []
     for aut in authors:
         if x_count == 10:
@@ -110,7 +125,7 @@ def convert_data(soup_list, page_no):
                 temp_auth.append(x_)
             x_count += 1
 
-    x_count = 1
+    x_count = 0
     temp_ar= []
     for aut in articles:
         if x_count == 10:
@@ -135,6 +150,7 @@ def convert_data(soup_list, page_no):
 
 
     new_row = new_row + temp_auth + temp_ar
+    print(new_row)
 
     print(len(new_row))
     with open('out.csv', 'a') as csvFile:
@@ -151,21 +167,21 @@ BATCH=20
 
 xml_soup_list = []
 page_no = 0
-for url in urls[::20]:
+for url in urls:
+
+    res = requests.get(url)
+    soup = BeautifulSoup(res.text, 'html.parser')
+    xml = soup.find('pre').text
+    soupxml = BeautifulSoup(xml, 'lxml')
+
+    COUNT += 1
+    xml_soup_list.append(soupxml)
     print(url)
 
-    # res = requests.get(url)
-    # soup = BeautifulSoup(res.text, 'html.parser')
-    # xml = soup.find('pre').text
-    # soupxml = BeautifulSoup(xml, 'lxml')
-
-    # COUNT += 1
-    # xml_soup_list.append(soupxml)
-
-    # if COUNT == BATCH:
-        # convert_data(xml_soup_list, page_no)
-        # xml_soup_list = []
-        # COUNT = 0
-        # page_no += 1
+    if COUNT == BATCH:
+        convert_data(xml_soup_list, page_no)
+        xml_soup_list = []
+        COUNT = 0
+        page_no += 1
 
 
