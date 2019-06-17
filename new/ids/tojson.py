@@ -12,13 +12,22 @@ def chunks(l, n):
 with open('./all.json', 'r') as fd:
     js = json.load(fd)
     ids = js['IdList']["Id"]
+    print(len(ids))
 
     count = 1
-    for i in chunks(ids, 101132):
+    _dir = 1
+    for i in chunks(ids, 5393):
         chunk = {}
         chunk[str(count)] = i
-        with open('./data/'+str(count)+'.json', 'w') as f:
-            f.write(json.dumps(chunk))
 
+        with open('./data/'+str(_dir)+"/"+str(count)+'.json', 'w') as f:
+            f.write(json.dumps(chunk))
         count += 1
+
+        if count > 100 and count < 200:
+            _dir = 2
+
+        if count > 200 and count < 300:
+            _dir = 3
+
 
