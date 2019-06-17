@@ -175,13 +175,17 @@ xml_soup_list = []
 page_no = 0
 for url in urls:
 
-    res = requests.get(url)
-    soup = BeautifulSoup(res.text, 'html.parser')
-    xml = soup.find('pre').text
-    soupxml = BeautifulSoup(xml, 'lxml')
+    try:
+        res = requests.get(url)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        xml = soup.find('pre').text
+        soupxml = BeautifulSoup(xml, 'lxml')
 
-    COUNT += 1
-    xml_soup_list.append(soupxml)
+        COUNT += 1
+        xml_soup_list.append(soupxml)
+    except:
+        continue
+
     print(url)
 
     if COUNT == BATCH:
